@@ -134,14 +134,23 @@ shutil.copy(RAW_TEXT_FILE, ANNOTATED_TEXT_FILE);
 with open(ANNOTATED_TEXT_FILE, 'r') as file :
   filedata = file.read();
 
+# generate list of labels
 for descriptor in rigid_descriptors:
-    if descriptor[0].isupper() and descriptor not in annotated:
+    if acceptable_label(descriptor):
         annotated.append(descriptor.strip());
     for label in rigid_descriptors[descriptor]:
-        # NOTE: only considering labels longer than 1 letter, starting with 
-        # capital letters
-        if label[0].isupper() and label not in annotated and len(label) > 1:
+        if acceptable_label(label):
             annotated.append(label.strip());
+
+"""
+Determines whether the given label is acceptable.
+Current conditions:
+- not already added to annotated list
+- first letter is uppercase
+- label has >1 characters 
+"""
+def acceptable_label(label):
+    return label[0].isupper() and (label not in annotated) and (len(label) > 1):
 
 annotated.sort(key = lambda x: len(x), reverse=True);
 
