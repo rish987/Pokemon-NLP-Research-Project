@@ -135,15 +135,18 @@ with open(ANNOTATED_TEXT_FILE, 'r') as file :
   filedata = file.read();
 
 for descriptor in rigid_descriptors:
-    print(descriptor);
     if descriptor[0].isupper() and descriptor not in annotated:
-        filedata = filedata.replace(descriptor, '[' + descriptor + ']');
-        annotated.append(descriptor);
+        annotated.append(descriptor.strip());
     for label in rigid_descriptors[descriptor]:
-        # NOTE: only considering labels starting with capital letters
-        if label[0].isupper() and label not in annotated:
-            filedata = filedata.replace(label, '[' + label + ']');
-            annotated.append(label);
+        # NOTE: only considering labels longer than 1 letter, starting with 
+        # capital letters
+        if label[0].isupper() and label not in annotated and len(label) > 1:
+            annotated.append(label.strip());
+
+annotated.sort(key = lambda x: len(x), reverse=True);
+
+for label in annotated:
+    filedata = filedata.replace(label, '[' + label + ']');
 
 # Write the file out again
 with open(ANNOTATED_TEXT_FILE, 'w') as file:
