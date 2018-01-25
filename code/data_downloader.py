@@ -5,6 +5,7 @@
 from urllib.request import Request, urlopen;
 from html.parser import HTMLParser
 import re
+import enchant
 import shutil
 
 # expected tag and attributes of plot header
@@ -33,6 +34,9 @@ raw_text_file = open(RAW_TEXT_FILE, 'w');
 # dictionary of rigid descriptors and their labels
 rigid_descriptors = {};
 
+# special characters that could be part of a descriptor
+SPECIAL_CHARACTERS = ['.'];
+
 # class for processing HTML files
 class MyHTMLParser(HTMLParser):
     # add instance variables
@@ -57,12 +61,6 @@ class MyHTMLParser(HTMLParser):
                     self.in_hyperlink = True;
                     # set current hyperlink
                     self.current_hyperlink = re.sub(REMOVE_PARENS_REGEX, '', matching_attrs[0][1]);
-                # TODO set current_hyperlink
-            # this is a section under the plot header; want to capture this
-            # data
-            else:
-                # TODO process data
-                pass;
         # not currently parsing the plot, but just encountered a plot header
         elif self.is_plot_header(tag, attrs):
             self.just_seen_plot_tag = True;
@@ -134,29 +132,78 @@ shutil.copy(RAW_TEXT_FILE, ANNOTATED_TEXT_FILE);
 with open(ANNOTATED_TEXT_FILE, 'r') as file :
   filedata = file.read();
 
-# generate list of labels
-for descriptor in rigid_descriptors:
-    if acceptable_label(descriptor):
-        annotated.append(descriptor.strip());
-    for label in rigid_descriptors[descriptor]:
-        if acceptable_label(label):
-            annotated.append(label.strip());
+# English dictionary
+d = enchant.Dict("en_US");
 
 """
-Determines whether the given label is acceptable.
+Determines whether the given label is acceptable, and if so, adds the following
+labels to the list of labels, given they are not already in the list
+- the original label
+- the label pluralized (adding an 's' to the end)
+- the constituent words of the label that are not dictionary words
 Current conditions:
-- not already added to annotated list
-- first letter is uppercase
+- first letter of every word is uppercase or digit
+- is not a possessive - does not end in "'s" 
 - label has >1 characters 
 """
-def acceptable_label(label):
-    return label[0].isupper() and (label not in annotated) and (len(label) > 1):
+def process_label(label):
+    # ignore possesives
+    if label.endswith('\'s'):
+        return;
 
+    # do all of the words processed so far start with uppercase letters?
+    all_valid_words = True;
+
+    # check validity of all words
+    words = label.split();
+    for word in words:
+        if not (word[0].isupper() or word[0].isdigit()):
+            all_valid_words = False;
+
+    # this is a valid descriptor
+    if all_valid_words and (label not in annotated) and (len(label) > 1):
+        annotated.append(label);
+
+        # add the plural form as well
+        plural_label = label + 's';
+        if plural_label not in annotated:
+            annotated.append(plural_label);
+
+        for word in words:
+            # ignore possesives
+            if word.endswith('\'s'):
+                return;
+
+            # this is not a dictionary word
+            if not d.check(word) and word not in annotated:
+                annotated.append(word);
+
+                # add the plural form as well
+                plural_word = word + 's';
+                if plural_word not in annotated:
+                    annotated.append(plural_word);
+
+# generate list of labels
+for descriptor in rigid_descriptors:
+    process_label(descriptor.strip());
+    for label in rigid_descriptors[descriptor]:
+        process_label(label.strip());
+
+# sort from largest to smallest to ensure that substrings are annotated after
+# the larger labels they are a part of (if we did not do this, annotating the
+# substrings first would prevent detection of the larger strings they used to
+# be a part of
 annotated.sort(key = lambda x: len(x), reverse=True);
 
+# annotate all matching labels
 for label in annotated:
-    filedata = filedata.replace(label, '[' + label + ']');
+    # this name contains a period, so do a normal search and replace
+    if label.find('.') != -1:
+        filedata = re.sub( label, '[' + label + ']', filedata);
+    # do a search and replace, ignoring substrings
+    else:
+        filedata = re.sub( r'\b%s\b' % re.escape(label), '[' + label + ']', filedata);
 
-# Write the file out again
+# write the file out again
 with open(ANNOTATED_TEXT_FILE, 'w') as file:
   file.write(filedata)
