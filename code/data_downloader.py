@@ -37,6 +37,9 @@ rigid_descriptors = {};
 # special characters that could be part of a descriptor
 SPECIAL_CHARACTERS = ['.'];
 
+# words to be ignored when checking capitalization
+IGNORED_WORDS = ['a', 'an', 'the', 'and', 'but', 'for', 'of', 'with'];
+
 # class for processing HTML files
 class MyHTMLParser(HTMLParser):
     # add instance variables
@@ -142,7 +145,8 @@ labels to the list of labels, given they are not already in the list
 - the label pluralized (adding an 's' to the end)
 - the constituent words of the label that are not dictionary words
 Current conditions:
-- first letter of every word is uppercase or digit
+- first letter of every word is uppercase or digit, or the word a word that is
+  conventionally uncapitalized in English descriptors
 - is not a possessive - does not end in "'s" 
 - label has >1 characters 
 """
@@ -157,7 +161,7 @@ def process_label(label):
     # check validity of all words
     words = label.split();
     for word in words:
-        if not (word[0].isupper() or word[0].isdigit()):
+        if not ((word in IGNORED_WORDS) or word[0].isupper() or word[0].isdigit()):
             all_valid_words = False;
 
     # this is a valid descriptor
