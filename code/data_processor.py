@@ -2,11 +2,17 @@
 # Author(s): Rishikesh Vaishnav, Jessica Lacovelli, Bonnie Chen
 # Created: 23/01/2018
 
+# TODO remove first from double process_altname for title and altname
+# TODO remove counting number of matches
+
 from urllib.request import Request, urlopen;
 from html.parser import HTMLParser
 import re
 import enchant
 import shutil
+
+# bulbapedia wiki URL prefix
+URL_PREFIX = 'https://bulbapedia.bulbagarden.net/';
 
 # expected tag and attributes of plot header
 PLOT_TAG = 'span'
@@ -28,9 +34,8 @@ ANNOTATED_TEXT_FILE = '../data/data_annotated';
 # files to write data to
 raw_text_file = open(RAW_TEXT_FILE, 'w');
 
-# dictionary of entity wiki page title names to alternate linked versions of
-# these names
-titles_to_altnames = {};
+# list of entities found
+entities = [];
 
 # special characters that could be part of a descriptor
 SPECIAL_CHARACTERS = ['.'];
@@ -44,6 +49,35 @@ WEBPAGE_DEST = '../data/webpages/';
 # format string for episode numbers
 EP_NUMBER_FORMAT = "%03d";
 
+# data structure for storing entity information
+class Entity():
+    # initiates this entity with the given official title and link to wiki page
+    def __init__(self, _title, _link):
+        self.title = _title;
+        self.link = _link;
+        self.altnames = [];
+
+        # add the title as an initial altname 
+        self.altnames.append(_title);
+
+    # adds the specified altname to this Entity's list of altnames if it's not
+    # already added
+    def add_altname(self, altname):
+        if altname not in self.altnames:
+            self.altnames.append(altname);
+
+    # returns the title of this entity
+    def get_title(self):
+        return self.title;
+
+    # returns the full link to this entity's wiki page
+    def get_link(self):
+        return URL_PREFIX + self.link;
+
+    # returns this entity's altnames
+    def get_altnames(self):
+        return self.altnames;
+
 # class for processing HTML files
 class MyHTMLParser(HTMLParser):
     # add instance variables
@@ -52,7 +86,8 @@ class MyHTMLParser(HTMLParser):
         self.parsing_plot = False;
         self.just_seen_plot_tag = False;
         self.in_hyperlink = False;
-        self.current_hyperlink = "";
+        self.current_hyperlink_title = "";
+        self.current_hyperlink_link = "";
 
     def handle_starttag(self, tag, attrs):
         if self.parsing_plot:
@@ -62,12 +97,14 @@ class MyHTMLParser(HTMLParser):
                 self.parsing_plot = False;
 
             elif tag == LINK_TAG:
-                matching_attrs = [x for x in attrs if x[0] == 'title'];
-                if len(matching_attrs) > 0:
+                title_attr = [x for x in attrs if x[0] == 'title'];
+                link_attr = [x for x in attrs if x[0] == 'href'];
+                if (len(title_attr) > 0) and (len(link_attr) > 0):
                     # indicate that currently parsing hyperlink
                     self.in_hyperlink = True;
                     # set current hyperlink
-                    self.current_hyperlink = re.sub(REMOVE_PARENS_REGEX, '', matching_attrs[0][1]);
+                    self.current_hyperlink_title = re.sub(REMOVE_PARENS_REGEX, '', title_attr[0][1]);
+                    self.current_hyperlink_link = link_attr[0][1];
         # not currently parsing the plot, but just encountered a plot header
         elif self.is_plot_header(tag, attrs):
             self.just_seen_plot_tag = True;
@@ -109,13 +146,19 @@ class MyHTMLParser(HTMLParser):
 
             # need to add this data to the dictionary
             if self.in_hyperlink:
-                if self.current_hyperlink not in titles_to_altnames:
-                    titles_to_altnames[self.current_hyperlink] = {};
+                matching_entities = [e for e in entities if e.get_title() == self.current_hyperlink_title];
+                matching_entity = '';
 
-                if data not in titles_to_altnames[self.current_hyperlink]:
-                    titles_to_altnames[self.current_hyperlink][data] = 1;
+                # a matching entity does not already exist, so make a new one
+                if len(matching_entities) == 0:
+                    matching_entity = Entity(self.current_hyperlink_title, self.current_hyperlink_link);
+                    entities.append(matching_entity);
                 else:
-                    titles_to_altnames[self.current_hyperlink][data] += 1;
+                    # there should be only a single match
+                    matching_entity = matching_entities[0];
+
+                # add this data to this entity's list of altnames
+                matching_entity.add_altname(data);
 
 # parser to use to read data
 parser = MyHTMLParser();
@@ -190,9 +233,8 @@ def process_altname(altname):
 
 print('Processing altnames...');
 # generate list of altnames
-for title in titles_to_altnames:
-    process_altname(title.strip());
-    for altname in titles_to_altnames[title]:
+for entity in entities:
+    for altname in entity.get_altnames():
         process_altname(altname.strip());
 
 # sort from largest to smallest to ensure that substrings are annotated after
