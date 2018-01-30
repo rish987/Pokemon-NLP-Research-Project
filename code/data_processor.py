@@ -33,7 +33,7 @@ REMOVE_PARENS_REGEX = r'\([^)]*\)';
 # files to write to
 RAW_TEXT_FILE = '../data/data';
 ANNOTATED_TEXT_FILE = '../data/data_annotated';
-USED_DESCRIPTORS_FILE = '../data/descriptors';
+DESCRIPTORS_FILE = '../data/descriptors';
 
 # files to write data to
 raw_text_file = open(RAW_TEXT_FILE, 'w');
@@ -73,6 +73,7 @@ class Entity():
         self.title = _title;
         self.link = _link;
         self.altnames = [];
+        self.label = '';
 
         # add the title as an initial altname 
         self.altnames.append(_title);
@@ -99,6 +100,14 @@ class Entity():
     # returns this entity's altnames
     def get_altnames(self):
         return self.altnames;
+
+    # determines the label of this entity
+    def determine_label():
+        pass
+
+    # returns the label of this entity
+    def get_label():
+        return self.label;
 
 # class for processing HTML files
 class MyHTMLParser(HTMLParser):
@@ -194,7 +203,7 @@ for i in range(1, NUM_EPS + 1):
         parser.feed(file.read());
 
 # list of annotated strings
-descriptor_candidates = [];
+descriptors = [];
 
 # prepare annotated file for annotation
 shutil.copyfile(RAW_TEXT_FILE, ANNOTATED_TEXT_FILE);
@@ -230,8 +239,8 @@ def process_altname(altname):
             all_valid_words = False;
 
     # this is a valid descriptor
-    if all_valid_words and (altname not in descriptor_candidates) and (len(altname) > 1):
-        descriptor_candidates.append(altname);
+    if all_valid_words and (altname not in descriptors) and (len(altname) > 1):
+        descriptors.append(altname);
 
         for word in words:
             # ignore possesives
@@ -239,8 +248,8 @@ def process_altname(altname):
                 word = word[:-2];
 
             # this is not a dictionary word
-            if not d.check(word) and word not in descriptor_candidates:
-                descriptor_candidates.append(word);
+            if not d.check(word) and word not in descriptors:
+                descriptors.append(word);
 
 print('Finding all potential altnames...');
 
@@ -262,17 +271,15 @@ for entity in entities:
 # the larger altnames they are a part of (if we did not do this, annotating the
 # substrings first would prevent detection of the larger strings they used to
 # be a part of
-descriptor_candidates.sort(key = lambda x: len(x), reverse=True);
+descriptors.sort(key = lambda x: len(x), reverse=True);
 
-# to hold all descriptors used in data
-used_descriptors = [];
+if annotate:
+    # to store data with this name annotated
+    filedata_new = '';
 
-print('Identifying used altnames...');
-# annotate all matching altnames
-for altname in descriptor_candidates:
-    if annotate:
-        # to store data with this name annotated
-        filedata_new = '';
+    print('Annotating...');
+    # annotate all matching altnames
+    for altname in descriptors:
 
         # this name contains a period, so do a normal search and replace
         if altname.find('.') != -1:
@@ -281,31 +288,35 @@ for altname in descriptor_candidates:
         else:
             filedata_new = re.sub( DESCRIPTOR_FORMAT_SEPARATE % re.escape(altname), r'[\1]', filedata);
 
-        # if the data changed, something was annotated, so this descriptor was used
-        if filedata_new != filedata:
-            used_descriptors.append(altname);
 
-        filedata = filedata_new;
-    else:
-        # to hold result of search
-        result = '';
-
-        # this name contains a period, so do a normal search
-        if altname.find('.') != -1:
-            result = re.search( DESCRIPTOR_FORMAT_UNSEPARATE % re.escape(altname), filedata);
-        # do a search, ignoring substrings
-        else:
-            result = re.search( DESCRIPTOR_FORMAT_SEPARATE % re.escape(altname), filedata);
-
-        # if the data changed, something was annotated, so this descriptor was used
-        if result != None:
-            used_descriptors.append(altname);
-
-if annotate:
-    # write the file out again
+    # write the annotated file
     with open(ANNOTATED_TEXT_FILE, 'w') as file:
-      file.write(filedata)
+      file.write(filedata_new)
 
-with open(USED_DESCRIPTORS_FILE, 'w') as file:
-    for d in used_descriptors:
+print('Removing unused descriptors...');
+
+# list of items to remove from descriptors
+remove_list = [];
+
+# identify all unused descriptors
+for descriptor_temp in descriptors:
+    search = None;
+
+    # this name contains a period, so do a normal search
+    if descriptor_temp.find('.') != -1:
+        search = re.search( DESCRIPTOR_FORMAT_UNSEPARATE % re.escape(descriptor_temp), filedata);
+    # do a search, ignoring substrings
+    else:
+        search = re.search( DESCRIPTOR_FORMAT_SEPARATE % re.escape(descriptor_temp), filedata);
+
+    # no instance of this descriptor was found in the actual text
+    if search == None:
+        remove_list.append(descriptor_temp);
+
+# identify all unused descriptors
+for to_remove in remove_list:
+    descriptors.remove(to_remove);
+
+with open(DESCRIPTORS_FILE, 'w') as file:
+    for d in descriptors:
         file.write(d + '\n');
