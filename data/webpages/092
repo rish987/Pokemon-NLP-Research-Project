@@ -1,0 +1,1481 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>EP092 - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"EP092","wgTitle":"EP092","wgCurRevisionId":2727425,"wgRevisionId":2727425,"wgArticleId":6215,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Original series episodes","Episodes written by Junki Takegami","Episodes storyboarded and directed by Toshiaki Suzuki","Episodes storyboarded by Toshiaki Suzuki","Episodes directed by Toshiaki Suzuki","Episodes animated by Izumi Shimura","Episodes focusing on Nurse Joy","Episodes focusing on Tracey"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"EP092","wgRelevantArticleId":6215,"wgRequestId":"7a6452b0d473774f2a0ea7bd","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/0/0e/EP092.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/EP092"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/EP092"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-EP092 rootpage-EP092 skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">EP092</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="background: #FFDDAA; width: 100%; margin: 5px; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; border: 2px solid #FFDDAA;">
+
+<tr>
+<td width="35%" style="background: #FFBB55; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<table style="text-align:right; background: #FFBB55; width:100%; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<tr>
+<td style="text-align:right;"> <a href="/wiki/EP091" title="EP091"><span style="color:#000;">&#8592;</span></a>
+</td>
+<td style="text-align:right;"> <a href="/wiki/EP091" title="EP091"><span style="color:#000;">EP091
+: <i>Bye Bye Psyduck</i></span></a>
+</td></tr></table>
+</td>
+<td style="background: #FFBB55">
+<table style="background: #FFBB55; width:100%;">
+<tr>
+<td style="text-align:center;"> <a href="/wiki/List_of_original_series_episodes" title="List of original series episodes"><span style="color:#000;">Original series</span></a>
+</td></tr></table>
+</td>
+<td width="35%" style="background: #FFBB55; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<table style="background: #FFBB55; width:100%; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<tr>
+<td> <a href="/wiki/EP093" title="EP093"><span style="color:#000;">EP093
+: <i>Navel Maneuvers</i></span></a>
+</td>
+<td> <a href="/wiki/EP093" title="EP093"><span style="color:#000;">&#8594;</span></a>
+</td></tr></table>
+</td></tr></table>
+<table class="roundy" style="float:right; background: #FFDDAA; width: 25%; margin-left: 5px; margin-bottom: 5px">
+
+<tr>
+<td style="text-align:center; color:#000"> <b><big><i>The Joy of Pokémon</i></big></b>
+<table class="roundy" style="margin:auto; background: #FFDDAA">
+<tr>
+<td style="background: #FFF"> <a href="/wiki/File:EP092.png" class="image"><img alt="EP092.png" src="//cdn.bulbagarden.net/upload/thumb/0/0e/EP092.png/195px-EP092.png" width="195" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/0/0e/EP092.png/293px-EP092.png 1.5x, //cdn.bulbagarden.net/upload/0/0e/EP092.png 2x" /></a>
+</td></tr></table>
+</td></tr>
+<tr>
+<td>
+<table class="roundy" style="margin:auto; background: #FFDDAA; width: 200px; text-align:center; font-size:90%">
+<tr>
+<td class="roundy" width="25%" style="background: #FFDDAA"> &#160;
+</td>
+<td>
+</td>
+<td class="roundy" width="25%" style="background: #FFBB55"> EP092
+</td>
+<td>
+</td>
+<td class="roundy" width="25%" style="background: #FFDDAA;"> &#160;
+</td></tr></table>
+<table class="roundy" style="margin:auto; background: #FFF; text-align:center">
+<tr>
+<td> <small><b><span lang="ja">セイリングジョーイ！あらなみをこえて！</span></b><br /><i>Sailing Joy! Cross the Raging Waves!</i></small>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFBB55"> <div style="text-align:center"><b>First broadcast</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> Japan
+</th>
+<td> April 15, 1999
+</td></tr>
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa"> United States
+</th>
+<td style="border-top: 1px solid #aaa"> March 4, 2000
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFBB55"> <div style="text-align:center"><b>English themes</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> <a href="/wiki/List_of_English_opening_themes" title="List of English opening themes"><span style="color:#000;">Opening</span></a>
+</th>
+<td> <a href="/wiki/Pok%C3%A9mon_World_(song)" title="Pokémon World (song)">Pokémon World</a>
+</td></tr>
+<tr style="display:none">
+<th style="text-align:right; border-top: 1px solid #aaa" width="100px"> Ending
+</th>
+<td style="border-top: 1px solid #aaa">
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFBB55"> <div style="text-align:center"><b>Japanese themes</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> <a href="/wiki/List_of_Japanese_opening_themes" title="List of Japanese opening themes"><span style="color:#000;">Opening</span></a>
+</th>
+<td> <span lang="ja"><a href="/wiki/The_Rivals" title="The Rivals">ライバル！</a></span>
+</td></tr>
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa"> <a href="/wiki/List_of_Japanese_ending_themes" title="List of Japanese ending themes"><span style="color:#000;">Ending</span></a>
+</th>
+<td style="border-top: 1px solid #aaa"> <span lang="ja"><a href="/wiki/Type_Wild" class="mw-redirect" title="Type Wild">タイプ・ワイルド</a></span>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFBB55"> <div style="text-align:center"><b>Credits</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> Animation
+</th>
+<td> Team Ota
+</td></tr>
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Screenplay
+</th>
+<td style="border-top: 1px solid #aaa"> 武上純希 <i><small><a href="/wiki/Junki_Takegami" title="Junki Takegami">Junki Takegami</a></small></i>
+</td></tr>
+
+
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Storyboard
+</th>
+<td style="border-top: 1px solid #aaa"> 鈴木敏明 <i><small>Toshiaki Suzuki</small></i>
+</td></tr>
+
+
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Assistant director
+</th>
+<td style="border-top: 1px solid #aaa"> 鈴木敏明 <i><small>Toshiaki Suzuki</small></i>
+</td></tr>
+
+
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Animation director
+</th>
+<td style="border-top: 1px solid #aaa"> 志村泉 <i><small>Izumi Shimura</small></i>
+</td></tr>
+
+
+<tr>
+<th colspan="2" style="text-align:center; border-top: 1px solid #aaa"> <a href="/wiki/Anime_staff_by_episode_(EP091-EP100)#EP092" title="Anime staff by episode (EP091-EP100)">Additional credits</a>
+</th></tr></table>
+</td></tr>
+<tr>
+<td>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<td style="font-size:90%">
+<ul><li><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.filb.de/anime/pm/094">Screenshots on Filb.de</a></span></li></ul>
+</td></tr></table>
+</td></tr></table>
+<p><b>The Joy of Pokémon</b> (Japanese: <b>セイリングジョーイ！あらなみをこえて！</b> <i>Sailing Joy! Cross the Raging Waves!</i>) is the 92nd episode of the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">Pokémon anime</a>. It was first broadcast in Japan on April 15, 1999 and in the United States on March 4, 2000. 
+</p>
+<table style="border: 1px solid #272727; background: #a0a0a0; margin-left: auto; margin-right: auto; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #525252; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;"> <a href="/wiki/File:Ani201ODEX.png" class="image" title="201"><img alt="201" src="//cdn.bulbagarden.net/upload/c/c4/Ani201ODEX.png" width="32" height="32" /></a>
+</th>
+<td style="text-align:center; padding: 0 10px 0 10px;"> <b><a href="/wiki/Bulbapedia:Spoiler_warning" title="Bulbapedia:Spoiler warning"><span style="color: #272727">Spoiler warning:</span></a></b> this article may contain major plot or ending details.
+</td>
+<th style="background: #525252; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;"> <a href="/wiki/File:Ani201ODEX.png" class="image" title="201"><img alt="201" src="//cdn.bulbagarden.net/upload/c/c4/Ani201ODEX.png" width="32" height="32" /></a>
+</th></tr></table>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Blurb"><span class="tocnumber">1</span> <span class="toctext">Blurb</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Plot"><span class="tocnumber">2</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Major_events"><span class="tocnumber">3</span> <span class="toctext">Major events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Debuts"><span class="tocnumber">3.1</span> <span class="toctext">Debuts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Characters"><span class="tocnumber">4</span> <span class="toctext">Characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Humans"><span class="tocnumber">4.1</span> <span class="toctext">Humans</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Pok.C3.A9mon"><span class="tocnumber">4.2</span> <span class="toctext">Pokémon</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Errors"><span class="tocnumber">5.1</span> <span class="toctext">Errors</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Dub_edits"><span class="tocnumber">5.2</span> <span class="toctext">Dub edits</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#In_other_languages"><span class="tocnumber">6</span> <span class="toctext">In other languages</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Blurb">Blurb</span></h2>
+<p><i>While sailing between small islands, the group encounters an extremely busy Nurse Joy. She tells the group that she travels from island to island helping sick and injured Pokémon, and invites our heroes to travel with her. On the expedition, they learn much about Pokémon and Joy's very special friendship with a Magikarp. Unfortunately, Joy runs some into trouble continuing her rounds once Team Rocket storms into the area!</i>
+</p>
+<h2><span class="mw-headline" id="Plot">Plot</span></h2>
+<p><a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>, <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a>, and <a href="/wiki/Tracey_Sketchit" title="Tracey Sketchit">Tracey</a> are riding on <a href="/wiki/Ash%27s_Lapras" title="Ash's Lapras">Lapras</a> through the waters of the <a href="/wiki/Orange_Archipelago" title="Orange Archipelago">Orange Islands</a>. Everyone is keeping busy; Ash is polishing the <a href="/wiki/GS_Ball" title="GS Ball">GS Ball</a>, Tracey is <a href="/wiki/Pok%C3%A9mon_watcher" title="Pokémon watcher">Pokémon watching</a>, and Misty is playing with <a href="/wiki/Misty%27s_Togepi" class="mw-redirect" title="Misty's Togepi">Togepi</a>. All of a sudden, splashes of water in the distance become ever closer to the group. As the waves rush past, we see a kayak being propelled by a very tan <a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a> and her <a href="/wiki/Nurse_Joy%27s_Chansey" title="Nurse Joy's Chansey">Chansey</a>. Tracey recognizes the nurse, and Ash, unsure of what it was, orders Lapras to follow the boat and catch up to whatever had sped past.
+</p><p>They arrive at a small island, where they find a deserted kayak on the beach and two pairs of footprints in the sand. Tracey describes the prints as belonging to a <a href="/wiki/Chansey_(Pok%C3%A9mon)" title="Chansey (Pokémon)">Chansey</a> and a woman with a size-7 sneaker. After following the footprints to a small bay, they realize there are no more tracks to follow. Misty states her uncertainty that what had passed them on a boat was a Nurse Joy. Tracey recalls the moment, saying that the woman seemed more muscular than an average Joy. Just then, a <a href="/wiki/Giant_Pok%C3%A9mon" title="Giant Pokémon">giant</a> <a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="Magikarp (Pokémon)">Magikarp</a> jumped up out of the bay and began flopping around on the rock at the group's feet. Misty, worried that the <a href="/wiki/Water_(type)" title="Water (type)">Water</a> <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> will run out of air, proposes that they help it get back into the water; Ash agrees. Before they can figure out how to help the Pokémon, Nurse Joy and Chansey appears to help Magikarp. Joy gives Magikarp a bottle of <a href="/wiki/Calcium" title="Calcium">Calcium</a> tablets and throws it back into the water. Nurse Joy tells Ash and <a href="/wiki/Ash%27s_friends" title="Ash's friends">his friends</a> that she travels from island to island helping sick and injured Pokémon, because a lot of the Orange islands are too small for <a href="/wiki/Pok%C3%A9mon_Center" title="Pokémon Center">Pokémon Centers</a>. She invites the group to her local clinic for lunch.
+</p><p>Back at her clinic, Nurse Joy demonstrates her abilities by treating Ash's Lapras. Eager to see Nurse Joy in action, Ash and his friends ask if they can help with her work. Ash, Misty, Tracey, and Nurse Joy all set off in kayaks. We see the group in a variety of situations where Nurse Joy's assistance is needed. Many <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a>' Pokémon are helped: a <a href="/wiki/Kingler_(Pok%C3%A9mon)" title="Kingler (Pokémon)">Kingler</a>, an <a href="/wiki/Onix_(Pok%C3%A9mon)" title="Onix (Pokémon)">Onix</a>, and a <a href="/wiki/Mankey_(Pok%C3%A9mon)" title="Mankey (Pokémon)">Mankey</a>, among others. 
+</p><p>A little while later, the group falls behind in their kayaks, and loses sight of Nurse Joy. When they finally catch up to her kayak, it is empty; both Chansey and Joy are missing. Tracey believes that a <a href="/wiki/Gyarados_(Pok%C3%A9mon)" title="Gyarados (Pokémon)">Gyarados</a> could have tipped her boat over. Suddenly, they see a pink figure appear from the water, thinking it might be Chansey; the figure turns over and reveals itself to be <a href="/wiki/Jigglypuff_(anime)" title="Jigglypuff (anime)">Jigglypuff</a>. Before the Pokémon can begin to <a href="/wiki/Sing_(move)" title="Sing (move)">sing</a>, they race away in their kayaks. When they finally stop, they see Nurse Joy and Chansey, with its first-aid kit, pop up out of the water. She states that she went underwater to treat a sick <a href="/wiki/Cloyster_(Pok%C3%A9mon)" title="Cloyster (Pokémon)">Cloyster</a>, and sends Chansey to retrieve their kayak. Ash and Tracey become curious as to how Joy can treat Pokémon underwater, so she offers to show them. The boys in their swimming attire jump into the water and follow the nurse to the ocean floor. There, we see a sick <a href="/wiki/Shellder_(Pok%C3%A9mon)" title="Shellder (Pokémon)">Shellder</a> that Nurse Joy begins to examine. Unable to hold his breathe any longer, Ash begins to struggle. Just then, a <a href="/wiki/Wild_Pok%C3%A9mon" title="Wild Pokémon">wild</a> <a href="/wiki/Dewgong_(Pok%C3%A9mon)" title="Dewgong (Pokémon)">Dewgong</a> grabs onto him with its fins. The Pokémon seems to be playing with Ash. Nurse Joy rescues him from Dewgong and they all head back to shore.
+</p><p>At the clinic, Ash is warming up under a blanket with a hot beverage. The group collectively states that Nurse Joy's job is not easy, and that it would be easier to just run a Pokémon Center like all of the other Joys. She begins to tell a story from her childhood. She says when she was a little girl, she found a tiny injured Magikarp on the beach. She decided to take it home and nurse it back to health. When the Pokémon was healthy once again, she released it back into the ocean. A little while after that, while on a boat with her family, she fell into the water; she was then promptly saved by Magikarp, the same Magikarp that she had helped on its way to full health, who had grown considerably. Joy says that moment was when she decided to dedicate her life to Pokémon, especially those without Trainers to care for them. Misty asks her whether the Magikarp they had seen earlier that day was the same Magikarp she had helped. Nurse Joy says that it was, and that her and the Water Pokémon have been friends ever since that day.
+</p><p>Outside, the group sees the warning signs of an upcoming storm. Nurse Joy explains to them that she has one more stop for the day; Ash apologizes for throwing her off schedule. She says that when dealing with Pokémon, one should always expect the unexpected. Tracey expresses his worry over the surely upcoming hurricane, and states that it is too dangerous for Joy to go out on the water again. She says that there is a group of sick baby <a href="/wiki/Seel_(Pok%C3%A9mon)" title="Seel (Pokémon)">Seel</a> waiting for her help. Despite Tracey's begging for her to wait until the storm passes, Nurse Joy leaves on her kayak with Chansey anyway. Worried for her safety, the group follows the nurse in kayaks without her knowing.
+</p><p>Out in the middle of the ocean, the choppy waves are making it difficult for everyone to control their boats. Ash shouts for Nurse Joy from behind, and she looks back in surprise. Just then, a huge wave sends Ash, Misty, and Tracey flying into the air and out of their kayaks. Nurse Joy yells to them to send out their Water Pokémon to help keep them afloat; Ash sends out <a href="/wiki/Ash%27s_Squirtle" title="Ash's Squirtle">Squirtle</a>, Tracey sends out <a href="/wiki/Tracey%27s_Marill" title="Tracey's Marill">Marill</a>, and Misty her <a href="/wiki/Misty%27s_Staryu" title="Misty's Staryu">Staryu</a> (along with <a href="/wiki/Misty%27s_Psyduck" title="Misty's Psyduck">Psyduck</a>, who is unable to swim). The nurse tells them to follow her to a nearby island. 
+</p><p>On the very small island's beach, the sun is shining once again. With everyone safe from the ocean's wrath, Tracey apologizes to Nurse Joy for intervening in her efforts to help the baby Seel. Joy says that it was alright, and that they were just trying to help. Before continuing on their way to help the group of Seel, they decide to take a short rest. Suddenly, we see <a href="/wiki/Team_Rocket_trio" title="Team Rocket trio">Team Rocket</a> spying on the group from their <a href="/wiki/Team_Rocket%27s_mechas" title="Team Rocket's mechas">Magikarp Submarine</a>. Intent on capturing <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Pikachu</a>, as well as Chansey, <a href="/wiki/Meowth_(Team_Rocket)" title="Meowth (Team Rocket)">Meowth</a> seems very confident that they will succeed this time. He tells <a href="/wiki/James" title="James">James</a> that there is no way they can "lose" with his new secret weapon. Meowth then hits a button, which sends a torpedo-like object flying from the submarine, up and out of the water. The object releases a net that entraps Ash, Misty, Tracey, Nurse Joy, Pikachu, and Chansey on the beach. Appearing from the water in the mechanical Magikarp, Team Rocket recites their <a href="/wiki/Team_Rocket_mottos" title="Team Rocket mottos">motto</a>. Nurse Joy is intent on escaping, so she can help the baby Seel. Just as tears begin to form in her eyes, an ominous figure rams into Team Rocket's submarine from below the water. The giant Magikarp befriended by Nurse Joy jumps up out of the water with menacing glare. With numerous <a href="/wiki/Tackle_(move)" title="Tackle (move)">Tackle</a> attacks, Magikarp tries to rid the ocean of the trio of thieves. As Joy calls out to the Pokémon for help, it begins to <a href="/wiki/Evolution" title="Evolution">evolve</a>. Using its newly formed tail, <a href="/wiki/Gyarados_(Pok%C3%A9mon)" title="Gyarados (Pokémon)">Gyarados</a> whips Team Rocket off into the distance. Gyarados turns around to look at the group stuck in the net, and they begin to worry that its evolution caused a change in its demeanor. The Pokémon lunges towards shore, but, instead of attacking, Gyarados gets close to Nurse Joy so she can pet it. Gyarados removes the net with its mouth and flings it into the ocean. Misty exclaims that the Pokémon evolved into Gyarados, but kept Magikarp's personality. Joy thanks her friend for its help. Nurse Joy is finally able to reach the island that is home to the group of sick baby Seel, and treat them.
+</p><p>Ash, Misty, and Tracey admire the relationship between Nurse Joy and Gyarados. Tracey sketches the two of them together and says that if everyone would treat their Pokémon, and each other, with the care, love and respect they deserve, the world would be picture-perfect. Joy then remembers Ash telling her of his plans to become a <a href="/wiki/Pok%C3%A9mon_Master" title="Pokémon Master">Pokémon Master</a>; she tells him of <a href="/wiki/Navel_Island" title="Navel Island">Navel Island</a>. She says Navel Island is home to an <a href="/wiki/Orange_League" title="Orange League">Orange League</a> <a href="/wiki/Gym" title="Gym">Gym</a>, and that he might be able to win a <a href="/wiki/Badge" title="Badge">Badge</a> there. The group head on their way atop Lapras.
+</p>
+<h2><span class="mw-headline" id="Major_events">Major events</span></h2>
+<dl><dd><i>For a list of all major events in the anime, please see the <a href="/wiki/Timeline_of_events_in_the_anime" title="Timeline of events in the anime">timeline of events</a>.</i></dd></dl>
+<h3><span class="mw-headline" id="Debuts">Debuts</span></h3>
+<h2><span class="mw-headline" id="Characters">Characters</span></h2>
+<h3><span class="mw-headline" id="Humans">Humans</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Dare_da_EP092.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Dare_da_EP092.png/200px-Dare_da_EP092.png" width="200" height="150" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Dare_da_EP092.png/300px-Dare_da_EP092.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Dare_da_EP092.png/400px-Dare_da_EP092.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dare_da_EP092.png" class="internal" title="Enlarge"></a></div><span class="explain" title="Who&#39;s That Pokémon?">Dare da?</span></div></div></div>
+<ul><li> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a></li>
+<li> <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a></li>
+<li> <a href="/wiki/Tracey_Sketchit" title="Tracey Sketchit">Tracey</a></li>
+<li> <a href="/wiki/Jessie" title="Jessie">Jessie</a></li>
+<li> <a href="/wiki/James" title="James">James</a></li>
+<li> <a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a></li></ul>
+<h3><span class="mw-headline" id="Pok.C3.A9mon">Pokémon</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:WTP_EP092.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/9/98/WTP_EP092.png/200px-WTP_EP092.png" width="200" height="151" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/9/98/WTP_EP092.png/300px-WTP_EP092.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/98/WTP_EP092.png/400px-WTP_EP092.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:WTP_EP092.png" class="internal" title="Enlarge"></a></div>Who's That Pokémon?</div></div></div>
+<p><a href="/wiki/Who%27s_That_Pok%C3%A9mon%3F" title="Who's That Pokémon?">Who's That Pokémon?</a>: <a href="/wiki/Geodude_(Pok%C3%A9mon)" title="Geodude (Pokémon)">Geodude</a> <i>(US and international)</i>, <a href="/wiki/Chansey_(Pok%C3%A9mon)" title="Chansey (Pokémon)">Chansey</a> (<a href="/wiki/Nurse_Joy%27s_Chansey" title="Nurse Joy's Chansey">Nurse Joy's</a>) <i>(Japan)</i>
+</p>
+<ul><li> <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> (<a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Ash's</a>)</li>
+<li> <a href="/wiki/Meowth_(Pok%C3%A9mon)" title="Meowth (Pokémon)">Meowth</a> (<a href="/wiki/Meowth_(Team_Rocket)" title="Meowth (Team Rocket)">Team Rocket</a>)</li>
+<li> <a href="/wiki/Togepi_(Pok%C3%A9mon)" title="Togepi (Pokémon)">Togepi</a> (<a href="/wiki/Misty%27s_Togepi" class="mw-redirect" title="Misty's Togepi">Misty's</a>)</li>
+<li> <a href="/wiki/Bulbasaur_(Pok%C3%A9mon)" title="Bulbasaur (Pokémon)">Bulbasaur</a> (<a href="/wiki/Ash%27s_Bulbasaur" title="Ash's Bulbasaur">Ash's</a>)</li>
+<li> <a href="/wiki/Squirtle_(Pok%C3%A9mon)" title="Squirtle (Pokémon)">Squirtle</a> (<a href="/wiki/Ash%27s_Squirtle" title="Ash's Squirtle">Ash's</a>)</li>
+<li> <a href="/wiki/Lapras_(Pok%C3%A9mon)" title="Lapras (Pokémon)">Lapras</a> (<a href="/wiki/Ash%27s_Lapras" title="Ash's Lapras">Ash's</a>)</li>
+<li> <a href="/wiki/Staryu_(Pok%C3%A9mon)" title="Staryu (Pokémon)">Staryu</a> (<a href="/wiki/Misty%27s_Staryu" title="Misty's Staryu">Misty's</a>)</li>
+<li> <a href="/wiki/Psyduck_(Pok%C3%A9mon)" title="Psyduck (Pokémon)">Psyduck</a> (<a href="/wiki/Misty%27s_Psyduck" title="Misty's Psyduck">Misty's</a>)</li>
+<li> <a href="/wiki/Marill_(Pok%C3%A9mon)" title="Marill (Pokémon)">Marill</a> (<a href="/wiki/Tracey%27s_Marill" title="Tracey's Marill">Tracey's</a>)</li>
+<li> <a href="/wiki/Chansey_(Pok%C3%A9mon)" title="Chansey (Pokémon)">Chansey</a> (<a href="/wiki/Nurse_Joy%27s_Chansey" title="Nurse Joy's Chansey">Nurse Joy's</a>)</li>
+<li> <a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="Magikarp (Pokémon)">Magikarp</a> (<a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a>'s; <a href="/wiki/Giant_Pok%C3%A9mon" title="Giant Pokémon">giant</a>; evolves)</li>
+<li> <a href="/wiki/Gyarados_(Pok%C3%A9mon)" title="Gyarados (Pokémon)">Gyarados</a> (<a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a>'s; <a href="/wiki/Giant_Pok%C3%A9mon" title="Giant Pokémon">giant</a>; newly evolved)</li>
+<li> <a href="/wiki/Kingler_(Pok%C3%A9mon)" title="Kingler (Pokémon)">Kingler</a> (Trainer's)</li>
+<li> <a href="/wiki/Spearow_(Pok%C3%A9mon)" title="Spearow (Pokémon)">Spearow</a> (Trainer's)</li>
+<li> <a href="/wiki/Sandshrew_(Pok%C3%A9mon)" title="Sandshrew (Pokémon)">Sandshrew</a> (Trainer's)</li>
+<li> <a href="/wiki/Vileplume_(Pok%C3%A9mon)" title="Vileplume (Pokémon)">Vileplume</a> (Trainer's)</li>
+<li> <a href="/wiki/Poliwag_(Pok%C3%A9mon)" title="Poliwag (Pokémon)">Poliwag</a> (Trainer's)</li>
+<li> <a href="/wiki/Geodude_(Pok%C3%A9mon)" title="Geodude (Pokémon)">Geodude</a> (Trainer's)</li>
+<li> <a href="/wiki/Onix_(Pok%C3%A9mon)" title="Onix (Pokémon)">Onix</a> (Trainer's)</li>
+<li> <a href="/wiki/Mankey_(Pok%C3%A9mon)" title="Mankey (Pokémon)">Mankey</a> (Trainer's)</li>
+<li> <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a> (<a href="/wiki/Jigglypuff_(anime)" title="Jigglypuff (anime)">anime</a>)</li>
+<li> <a href="/wiki/Seel_(Pok%C3%A9mon)" title="Seel (Pokémon)">Seel</a> (multiple)</li>
+<li> <a href="/wiki/Dewgong_(Pok%C3%A9mon)" title="Dewgong (Pokémon)">Dewgong</a></li>
+<li> <a href="/wiki/Shellder_(Pok%C3%A9mon)" title="Shellder (Pokémon)">Shellder</a></li>
+<li> <a href="/wiki/Gyarados_(Pok%C3%A9mon)" title="Gyarados (Pokémon)">Gyarados</a> (fantasy)</li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Nurse_Joy_Orange_Islands_EP250.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/c/c6/Nurse_Joy_Orange_Islands_EP250.png/200px-Nurse_Joy_Orange_Islands_EP250.png" width="200" height="214" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/c/c6/Nurse_Joy_Orange_Islands_EP250.png/300px-Nurse_Joy_Orange_Islands_EP250.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c6/Nurse_Joy_Orange_Islands_EP250.png/400px-Nurse_Joy_Orange_Islands_EP250.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Nurse_Joy_Orange_Islands_EP250.png" class="internal" title="Enlarge"></a></div>Nurse Joy and Chansey in a photograph in <a href="/wiki/EP250" title="EP250">EP250</a></div></div></div>
+<ul><li> <a href="/wiki/Professor_Oak%27s_Pok%C3%A9mon_Lecture" title="Professor Oak's Pokémon Lecture">Professor Oak's Pokémon Lecture</a>: <a href="/wiki/Gastly_(Pok%C3%A9mon)" title="Gastly (Pokémon)">Gastly</a>: Oak discusses whether Gastly is gas or a ghost, says it's a mystery. In the end, Oak tries to catch Gastly in his arms, but goes through its body, and falls face down onto the ground.
+<ul><li> Pokémon senryū summary: Full of mysteries, each mystery reveals even more mysteries; Gastly.</li></ul></li>
+<li> The Nurse Joy from this episode reappears in a photograph in a Pokémon Center run by her sister in <a href="/wiki/EP250" title="EP250">EP250</a>.</li>
+<li> This is the second dubbed episode to not use the Pokémon logo in the title card when the episode title includes the franchise's name. Starting this episode, the episodes with the franchise's name no longer use the Pokémon logo. The first was <i><a href="/wiki/EP033" title="EP033">The Flame Pokémon-athon!</a></i> (The accent on the 'e' is also for some reason displayed before the rest of the title).</li>
+<li> Real fish can be seen in this episode, in the moment before which Joy is sinking.</li>
+<li> Tracey references a real person in this episode, <a href="https://en.wikipedia.org/wiki/Florence_Nightingale" class="extiw" title="wp:Florence Nightingale">Florence Nightingale</a>.</li>
+<li> <a href="/wiki/Together_Forever" title="Together Forever">Together Forever</a> is used as an insert song.</li>
+<li> When Team Rocket recited their <a href="/wiki/Team_Rocket_motto" class="mw-redirect" title="Team Rocket motto">motto</a>, the regular background music of the motto was not playing.</li></ul>
+<h3><span class="mw-headline" id="Errors">Errors</span></h3>
+<ul><li> Togepi disappears in the scene in which Ash, Misty, and Tracey follow Nurse Joy in the storm and get swept over by the waves.</li>
+<li> When James says "To unite all peoples within our nation", his gloves are missing.</li>
+<li> When Gyarados lets everyone out of the net, the kayaks are missing and they are closer to the water than they were before.</li>
+<li> Nurse Joy said she was treating a sick Cloyster, but when she is underwater, she is actually treating a Shellder.</li>
+<li> Despite being giant, the Gyarados that Nurse Joy's Magikarp evolved into did not appear to be any larger than a regular Gyarados.</li></ul>
+<h3><span class="mw-headline" id="Dub_edits">Dub edits</span></h3>
+<ul><li> <a href="/wiki/Pikachu%27s_Jukebox" title="Pikachu's Jukebox">Pikachu's Jukebox</a>: <a href="/wiki/2.B.A._Master" title="2.B.A. Master">2.B.A. Master</a></li>
+<li> In Japan, the term "typhoon" is used to describe a tropical storm. However, in the dub, the American term "hurricane" is used instead.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table class="expandable" style="float:left; background: #FFDDAA; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #FFBB55">
+
+<tr>
+<th style="padding:3px" colspan="2"> Language
+</th>
+<th style="padding:3px"> Title
+</th></tr>
+
+
+
+
+
+
+
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China"><span class="explain" title="Taiwan and mainland China">Mandarin Chinese</span></a>
+</td>
+<td> <span class="explain" title="Sailing Joy, Advancing through the Waves">航海的喬依，破浪前進吧</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:The_Czech_Republic_Flag.png" class="image"><img alt="The Czech Republic Flag.png" src="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/20px-The_Czech_Republic_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/30px-The_Czech_Republic_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/40px-The_Czech_Republic_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Czech_Republic" title="Pokémon in the Czech Republic">Czech</a>
+</td>
+<td> <span class="explain" title="Exceptional Joy">Vyjímečná Joy</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> <span class="explain" title="The salvating angel">Den frelsende engel</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:The_Netherlands_Flag.png" class="image"><img alt="The Netherlands Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/20px-The_Netherlands_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/30px-The_Netherlands_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/40px-The_Netherlands_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Netherlands" title="Pokémon in the Netherlands">Dutch</a>
+</td>
+<td> <span class="explain" title="The Pokémon Guardian Angel">De Pokémon Beschermengel</span>
+</td></tr>
+
+
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_France" title="Pokémon in France">European French</a>
+</td>
+<td> <span class="explain" title="The good heart of the Orange Islands">La bonne âme des Îles Oranges</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> <span class="explain" title="Charming emergency service">Entzückender Notdienst</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Israel_Flag.png" class="image"><img alt="Israel Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/20px-Israel_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/30px-Israel_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/40px-Israel_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Israel" title="Pokémon in Israel">Hebrew</a>
+</td>
+<td> ג'וי של הפוקימונים <span class="explain" title="Joy of Pokémon">Joy shel haPokémonim</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:India_Flag.png" class="image"><img alt="India Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/20px-India_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/30px-India_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/40px-India_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Asia" title="Pokémon in South Asia">Hindi</a>
+</td>
+<td> पोकेमोन की डॉक्टर, नर्स जोय! <span class="explain" title="Nurse Joy, The Doctor of Pokémon"><i>Pokemon ki Doctor, Nurse Joy!</i></span> <span class="explain" title="Hungama dub">*</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Hungary_Flag.png" class="image"><img alt="Hungary Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/20px-Hungary_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/30px-Hungary_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/40px-Hungary_Flag.png 2x" /></a> Hungarian
+</td>
+<td> <span class="explain" title="Nurse Joy&#39;s Bush Hospital">Joy nővér bozótkórháza</span>
+</td></tr>
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> <span class="explain" title="Joy, the super-nurse">Joy, la super-infermiera</span>
+</td></tr>
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> <span class="explain" title="The Joy of Pokémon">Gleden over Pokémon</span>
+</td></tr>
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> <span class="explain" title="Joy&#39;s Pokémon">Pokémony Joy</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> <span class="explain" title="Nurse of Pokémon">Enfermeira de Pokémon</span>
+</td></tr>
+<tr style="background: #FFF">
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> <span class="explain" title="Pokémon&#39;s Joy">La Joy de los Pokémon</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Romania_Flag.png" class="image"><img alt="Romania Flag.png" src="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/20px-Romania_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/30px-Romania_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/40px-Romania_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Romania" title="Pokémon in Romania">Romanian</a>
+</td>
+<td> <span class="explain" title="The Happines of Pokémon">Bucuria Pokémonilor</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> <span class="explain" title="Happiness of Pokémon">Радость покемонов</span>
+</td></tr>
+
+
+
+
+<tr style="background: #FFF">
+<td rowspan="2"> Spanish
+</td>
+<td> <a href="/wiki/File:CELAC_Flag.png" class="image"><img alt="CELAC Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/20px-CELAC_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/30px-CELAC_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/40px-CELAC_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Latin_America" title="Pokémon in Latin America">Latin America</a>
+</td>
+<td> <span class="explain" title="Pokémon&#39;s Joy!">¡La Joy de los Pokémon!</span>
+</td></tr>
+<tr style="background: #FFF">
+<td> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spain" title="Pokémon in Spain">Spain</a>
+</td>
+<td> <span class="explain" title="Pokémon&#39;s Joy">La Joy de los Pokémon</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> <span class="explain" title="Joy&#39;s Gyarados">Joys Gyarados</span>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="background: #FFDDAA">
+</td></tr></table><br clear="left" />
+<p><br clear="all" />
+</p>
+<table style="background: #FFDDAA; width: 100%; margin: 5px; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; border: 2px solid #FFDDAA;">
+
+<tr>
+<td width="35%" style="background: #FFBB55; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<table style="text-align:right; background: #FFBB55; width:100%; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<tr>
+<td style="text-align:right;"> <a href="/wiki/EP091" title="EP091"><span style="color:#000;">&#8592;</span></a>
+</td>
+<td style="text-align:right;"> <a href="/wiki/EP091" title="EP091"><span style="color:#000;">EP091
+: <i>Bye Bye Psyduck</i></span></a>
+</td></tr></table>
+</td>
+<td style="background: #FFBB55">
+<table style="background: #FFBB55; width:100%;">
+<tr>
+<td style="text-align:center;"> <a href="/wiki/List_of_original_series_episodes" title="List of original series episodes"><span style="color:#000;">Original series</span></a>
+</td></tr></table>
+</td>
+<td width="35%" style="background: #FFBB55; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<table style="background: #FFBB55; width:100%; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<tr>
+<td> <a href="/wiki/EP093" title="EP093"><span style="color:#000;">EP093
+: <i>Navel Maneuvers</i></span></a>
+</td>
+<td> <a href="/wiki/EP093" title="EP093"><span style="color:#000;">&#8594;</span></a>
+</td></tr></table>
+</td></tr></table>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Anime_logo.png" class="image"><img alt="Project Anime logo.png" src="//cdn.bulbagarden.net/upload/thumb/c/c3/Project_Anime_logo.png/80px-Project_Anime_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/c/c3/Project_Anime_logo.png/120px-Project_Anime_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c3/Project_Anime_logo.png/160px-Project_Anime_logo.png 2x" /></a>
+</td>
+<td> This episode article is part of <b><a href="/wiki/Bulbapedia:Project_Anime" title="Bulbapedia:Project Anime">Project Anime</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that covers all aspects of the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">Pokémon anime</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180129213758
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.214 seconds
+Preprocessor visited node count: 2418/1000000
+Preprocessor generated node count: 11670/1000000
+Post‐expand include size: 34859/2097152 bytes
+Template argument size: 8299/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  107.264      1 -total
+ 21.05%   22.576      2 Template:EpicodePrevNext
+ 20.70%   22.200      1 Template:Epilang
+ 17.33%   18.591      1 Template:EpisodeInfobox
+  5.41%    5.803     17 Template:Colorschemelight
+  4.88%    5.236     39 Template:P
+  4.74%    5.089      4 Template:R
+  3.60%    3.865      9 Template:Colorschemedark
+  3.35%    3.592      1 Template:Spoilers
+  3.15%    3.380     18 Template:Flag
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:6215-0!*!0!!en!5!* and timestamp 20180129213758 and revision id 2727425
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=EP092&amp;oldid=2727425">https://bulbapedia.bulbagarden.net/w/index.php?title=EP092&amp;oldid=2727425</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Original_series_episodes" title="Category:Original series episodes">Original series episodes</a></li><li><a href="/wiki/Category:Episodes_written_by_Junki_Takegami" title="Category:Episodes written by Junki Takegami">Episodes written by Junki Takegami</a></li><li><a href="/wiki/Category:Episodes_storyboarded_and_directed_by_Toshiaki_Suzuki" title="Category:Episodes storyboarded and directed by Toshiaki Suzuki">Episodes storyboarded and directed by Toshiaki Suzuki</a></li><li><a href="/wiki/Category:Episodes_storyboarded_by_Toshiaki_Suzuki" title="Category:Episodes storyboarded by Toshiaki Suzuki">Episodes storyboarded by Toshiaki Suzuki</a></li><li><a href="/wiki/Category:Episodes_directed_by_Toshiaki_Suzuki" title="Category:Episodes directed by Toshiaki Suzuki">Episodes directed by Toshiaki Suzuki</a></li><li><a href="/wiki/Category:Episodes_animated_by_Izumi_Shimura" title="Category:Episodes animated by Izumi Shimura">Episodes animated by Izumi Shimura</a></li><li><a href="/wiki/Category:Episodes_focusing_on_Nurse_Joy" title="Category:Episodes focusing on Nurse Joy">Episodes focusing on Nurse Joy</a></li><li><a href="/wiki/Category:Episodes_focusing_on_Tracey" title="Category:Episodes focusing on Tracey">Episodes focusing on Tracey</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/EP092" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:EP092&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=EP092&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=EP092&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=EP092" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=EP092" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/EP092" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/EP092" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=EP092&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=EP092&amp;oldid=2727425" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=EP092&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Entz%C3%BCckender_Notdienst" title="Entzückender Notdienst – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/EP092" title="EP092 – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/EP092" title="EP092 – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E7%84%A1%E5%8D%B0%E7%B7%A8%E7%AC%AC92%E8%A9%B1" title="無印編第92話 – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/EP092" title="EP092 – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/EP093" title="EP093 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 11 January 2018, at 06:02.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=EP092&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.214","ppvisitednodes":{"value":2418,"limit":1000000},"ppgeneratednodes":{"value":11670,"limit":1000000},"postexpandincludesize":{"value":34859,"limit":2097152},"templateargumentsize":{"value":8299,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  107.264      1 -total"," 21.05%   22.576      2 Template:EpicodePrevNext"," 20.70%   22.200      1 Template:Epilang"," 17.33%   18.591      1 Template:EpisodeInfobox","  5.41%    5.803     17 Template:Colorschemelight","  4.88%    5.236     39 Template:P","  4.74%    5.089      4 Template:R","  3.60%    3.865      9 Template:Colorschemedark","  3.35%    3.592      1 Template:Spoilers","  3.15%    3.380     18 Template:Flag"]},"cachereport":{"timestamp":"20180129213758","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

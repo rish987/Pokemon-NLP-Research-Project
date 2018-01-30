@@ -1,0 +1,1513 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>EP033 - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"EP033","wgTitle":"EP033","wgCurRevisionId":2728603,"wgRevisionId":2728603,"wgArticleId":6157,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Original series episodes","Episodes written by Atsuhiro Tomioka","Episodes storyboarded and directed by Yūji Asada","Episodes storyboarded by Yūji Asada","Episodes directed by Yūji Asada","Episodes animated by Akihiro Tamagawa","Episodes focusing on Ash"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"EP033","wgRelevantArticleId":6157,"wgRequestId":"7852d2982f5ff6056616ccbf","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/6/6a/EP033.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/EP033"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/EP033"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-EP033 rootpage-EP033 skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">EP033</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="background: #FFAAAA; width: 100%; margin: 5px; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; border: 2px solid #FFAAAA;">
+
+<tr>
+<td width="35%" style="background: #AAFFAA; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<table style="text-align:right; background: #AAFFAA; width:100%; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<tr>
+<td style="text-align:right;"> <a href="/wiki/EP032" title="EP032"><span style="color:#000;">&#8592;</span></a>
+</td>
+<td style="text-align:right;"> <a href="/wiki/EP032" title="EP032"><span style="color:#000;">EP032
+: <i>The Ninja Poké-Showdown</i></span></a>
+</td></tr></table>
+</td>
+<td style="background: #AAFFAA">
+<table style="background: #AAFFAA; width:100%;">
+<tr>
+<td style="text-align:center;"> <a href="/wiki/List_of_original_series_episodes" title="List of original series episodes"><span style="color:#000;">Original series</span></a>
+</td></tr></table>
+</td>
+<td width="35%" style="background: #AAFFAA; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<table style="background: #AAFFAA; width:100%; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<tr>
+<td> <a href="/wiki/EP034" title="EP034"><span style="color:#000;">EP034
+: <i>The Kangaskhan Kid</i></span></a>
+</td>
+<td> <a href="/wiki/EP034" title="EP034"><span style="color:#000;">&#8594;</span></a>
+</td></tr></table>
+</td></tr></table>
+<table class="roundy" style="float:right; background: #FFAAAA; width: 25%; margin-left: 5px; margin-bottom: 5px">
+
+<tr>
+<td style="text-align:center; color:#000"> <b><big><i>The Flame Pokémon-athon!</i></big></b>
+<table class="roundy" style="margin:auto; background: #FFAAAA">
+<tr>
+<td style="background: #FFF"> <a href="/wiki/File:EP033.png" class="image"><img alt="EP033.png" src="//cdn.bulbagarden.net/upload/thumb/6/6a/EP033.png/200px-EP033.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/6/6a/EP033.png/300px-EP033.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6a/EP033.png/400px-EP033.png 2x" /></a>
+</td></tr></table>
+</td></tr>
+<tr>
+<td>
+<table class="roundy" style="margin:auto; background: #FFAAAA; width: 200px; text-align:center; font-size:90%">
+<tr>
+<td class="roundy" width="25%" style="background: #FFAAAA"> &#160;
+</td>
+<td>
+</td>
+<td class="roundy" width="25%" style="background: #AAFFAA"> EP033
+</td>
+<td>
+</td>
+<td class="roundy" width="25%" style="background: #FFAAAA;"> &#160;
+</td></tr></table>
+<table class="roundy" style="margin:auto; background: #FFF; text-align:center">
+<tr>
+<td> <small><b><span lang="ja">ほのおのポケモンだいレース！</span></b><br /><i>The Great Fire Pokémon Race!</i></small>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#AAFFAA"> <div style="text-align:center"><b>First broadcast</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> Japan
+</th>
+<td> November 11, 1997
+</td></tr>
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa"> United States
+</th>
+<td style="border-top: 1px solid #aaa"> October 21, 1998
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#AAFFAA"> <div style="text-align:center"><b>English themes</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> <a href="/wiki/List_of_English_opening_themes" title="List of English opening themes"><span style="color:#000;">Opening</span></a>
+</th>
+<td> <a href="/wiki/Pok%C3%A9mon_Theme" title="Pokémon Theme">Pokémon Theme</a>
+</td></tr>
+<tr style="display:none">
+<th style="text-align:right; border-top: 1px solid #aaa" width="100px"> Ending
+</th>
+<td style="border-top: 1px solid #aaa">
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#AAFFAA"> <div style="text-align:center"><b>Japanese themes</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> <a href="/wiki/List_of_Japanese_opening_themes" title="List of Japanese opening themes"><span style="color:#000;">Opening</span></a>
+</th>
+<td> <span lang="ja"><a href="/wiki/Aim_to_Be_a_Pok%C3%A9mon_Master" title="Aim to Be a Pokémon Master">めざせポケモンマスター</a></span>
+</td></tr>
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa"> <a href="/wiki/List_of_Japanese_ending_themes" title="List of Japanese ending themes"><span style="color:#000;">Ending</span></a>
+</th>
+<td style="border-top: 1px solid #aaa"> <span lang="ja"><a href="/wiki/Meowth%27s_Song" title="Meowth's Song">ニャースのうた</a></span>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#AAFFAA"> <div style="text-align:center"><b>Credits</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> Animation
+</th>
+<td> Team Ota
+</td></tr>
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Screenplay
+</th>
+<td style="border-top: 1px solid #aaa"> 冨岡淳広 <i><small>Atsuhiro Tomioka</small></i>
+</td></tr>
+
+
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Storyboard
+</th>
+<td style="border-top: 1px solid #aaa"> 浅田裕二 <i><small>Yūji Asada</small></i>
+</td></tr>
+
+
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Assistant director
+</th>
+<td style="border-top: 1px solid #aaa"> 浅田裕二 <i><small>Yūji Asada</small></i>
+</td></tr>
+
+
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Animation director
+</th>
+<td style="border-top: 1px solid #aaa"> 玉川明洋 <i><small>Akihiro Tamagawa</small></i>
+</td></tr>
+
+
+<tr>
+<th colspan="2" style="text-align:center; border-top: 1px solid #aaa"> <a href="/wiki/Anime_staff_by_episode_(EP031-EP040)#EP033" title="Anime staff by episode (EP031-EP040)">Additional credits</a>
+</th></tr></table>
+</td></tr>
+<tr>
+<td>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<td style="font-size:90%">
+<ul><li> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.filb.de/anime/pm/033">Screenshots on Filb.de</a></span></li></ul>
+</td></tr></table>
+</td></tr></table>
+<p><b>The Flame Pokémon-athon!</b> (Japanese: <b>ほのおのポケモンだいレース！</b> <i>The Great Fire Pokémon Race!</i>) is the 33rd episode of the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">Pokémon anime</a>. It was first broadcast in Japan on November 11, 1997 and in the United States on October 21, 1998.
+</p>
+<table style="border: 1px solid #272727; background: #a0a0a0; margin-left: auto; margin-right: auto; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #525252; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;"> <a href="/wiki/File:Ani201ODEX.png" class="image" title="201"><img alt="201" src="//cdn.bulbagarden.net/upload/c/c4/Ani201ODEX.png" width="32" height="32" /></a>
+</th>
+<td style="text-align:center; padding: 0 10px 0 10px;"> <b><a href="/wiki/Bulbapedia:Spoiler_warning" title="Bulbapedia:Spoiler warning"><span style="color: #272727">Spoiler warning:</span></a></b> this article may contain major plot or ending details.
+</td>
+<th style="background: #525252; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;"> <a href="/wiki/File:Ani201ODEX.png" class="image" title="201"><img alt="201" src="//cdn.bulbagarden.net/upload/c/c4/Ani201ODEX.png" width="32" height="32" /></a>
+</th></tr></table>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Blurb"><span class="tocnumber">1</span> <span class="toctext">Blurb</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Plot"><span class="tocnumber">2</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Major_events"><span class="tocnumber">3</span> <span class="toctext">Major events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Debuts"><span class="tocnumber">3.1</span> <span class="toctext">Debuts</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Pok.C3.A9mon_debuts"><span class="tocnumber">3.1.1</span> <span class="toctext">Pokémon debuts</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Characters"><span class="tocnumber">4</span> <span class="toctext">Characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Humans"><span class="tocnumber">4.1</span> <span class="toctext">Humans</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Pok.C3.A9mon"><span class="tocnumber">4.2</span> <span class="toctext">Pokémon</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Errors"><span class="tocnumber">5.1</span> <span class="toctext">Errors</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Dub_edits"><span class="tocnumber">5.2</span> <span class="toctext">Dub edits</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#In_other_languages"><span class="tocnumber">6</span> <span class="toctext">In other languages</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Blurb">Blurb</span></h2>
+<p><i>Our heroes come to a prairie where the Laramies, a family of Pokémon Ranchers live. They learn from a daughter of the Laramie family that a race is held at the ranch once a year to measure the growth of everyone's Pokémon. Team Rocket, however, attacks her, the race's top contender. Injured, the daughter of the Laramie family decides to give up on the race, but entrusts her hopes of victory to Ash. Who will be the winner in a race between Ash, Brock, Misty, and Team Rocket?</i>
+</p>
+<h2><span class="mw-headline" id="Plot">Plot</span></h2>
+<p>As <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> and <a href="/wiki/Ash%27s_friends" title="Ash's friends">his friends</a> near the <a href="/wiki/Kanto_Safari_Zone" title="Kanto Safari Zone">Safari Zone</a>, they come across a ranch, where they see a herd of <a href="/wiki/Tauros_(Pok%C3%A9mon)" title="Tauros (Pokémon)">Tauros</a>. Wanting to catch one (believing they are in the Safari Zone), Ash tries to have <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Pikachu</a> face down the stampede, but Pikachu refuses because he is massively outnumbered. When Ash sends out <a href="/wiki/Ash%27s_Charmander" class="mw-redirect" title="Ash's Charmander">Charmander</a>, it is immediately pinned by a <a href="/wiki/Growlithe_(Pok%C3%A9mon)" title="Growlithe (Pokémon)">Growlithe</a>. After a brief trade of <a href="/wiki/Flamethrower_(move)" title="Flamethrower (move)">Flamethrowers</a> by the two <a href="/wiki/Fire_(type)" title="Fire (type)">Fire</a> Pokémon, Ash and friends are introduced to <a href="/wiki/Lara_Laramie" title="Lara Laramie">Lara Laramie</a>, of the Laramie Ranch, a ranch that preserves and raises <a href="/wiki/Wild_Pok%C3%A9mon" title="Wild Pokémon">wild</a> <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a>. <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a> immediately recognizes the name, as it is said that Pokémon bred by the Laramie clan are of superior breeding. After Ash realizes that they are not in the Safari Zone, Lara invites them to a local festival, as a Pokémon race will be held the next day. Lara intends to race with her <a href="/wiki/Ponyta_(Pok%C3%A9mon)" title="Ponyta (Pokémon)">Ponyta</a>, a Pokémon whose mane will burn anyone it does not trust. When Ash tries to touch Ponyta, his hand is burned, and he has <a href="/wiki/Ash%27s_Squirtle" title="Ash's Squirtle">Squirtle</a> put out the flames. Lara's main opposition is <a href="/wiki/Dario" title="Dario">Dario</a>, a <a href="/wiki/Dodrio_(Pok%C3%A9mon)" title="Dodrio (Pokémon)">Dodrio</a> Trainer. Lara explains that the winning team of Pokémon and <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainer</a> will be named as an honorary member of the Laramie clan.
+</p><p>At the festival, while many are cheering Lara on, Dario arrives to tell Lara that her Tauros have suddenly begun attacking each other over a bout of confusion. After they arrive on the scene, Lara tells Growlithe to tame the Tauros, but during all this Ponyta is spooked, causing Lara to be thrown off, injuring her arm. As Ash tries to rein in Ponyta, the audience learns that <a href="/wiki/Team_Rocket_trio" title="Team Rocket trio">Team Rocket</a> is behind spooking the Tauros and incapacitating Lara, at the request of Dario: Dario intends to win the competition by any means necessary, while Team Rocket seeks to make money from the Laramie fortune.
+</p><p>With her injured arm, Lara would not be able to ride Ponyta, but after seeing Ash try to rein in Ponyta, she tries to convince Ash to take her place. At first, neither Ash nor Ponyta feel right about it (Ponyta showing its reluctance by burning Ash again), but Lara insists that both stand to gain from winning (Ash from his Trainer skills, Ponyta from its upbringing). Ash and Ponyta use the entire night to prepare for the race.
+</p><p>At the race, many pairs have entered: along with local farmhands and their Pokémon, Dario and Dodrio, Ash and Ponyta, Brock and <a href="/wiki/Brock%27s_Onix" class="mw-redirect" title="Brock's Onix">Onix</a>, Misty and <a href="/wiki/Misty%27s_Starmie" title="Misty's Starmie">Starmie</a>, as well as the all-Pokémon team of Pikachu and Squirtle (representing Ash's entry), all enter the race. When the race starts, Dario and Dodrio quickly take the lead, while Pikachu and Squirtle quickly fall to the back of the pack , though they do eventually catch up. At the same time, Team Rocket has already begun eliminating the opposition - two well-aimed slingshot shots manage to spook a Tauros, and he runs into a <a href="/wiki/Nidorina_(Pok%C3%A9mon)" title="Nidorina (Pokémon)">Nidorina</a>, and they take their frustrations out on each other. After a sprint comes a steep uphill portion, where Pikachu is forced to push Squirtle up the hill, putting them far behind once again. Then, the racers come upon a downhill section where another violent accident occurs: an <a href="/wiki/Electrode_(Pok%C3%A9mon)" title="Electrode (Pokémon)">Electrode</a> and its Trainer roll down the hill uncontrollably, and a pitfall trap dug up by Team Rocket manages to take out the <a href="/wiki/Electrode_(Pok%C3%A9mon)" title="Electrode (Pokémon)">Electrode</a> and its Trainer as they were rolling downhill with increasing speed. This gives Dario a significant lead, while Electrode's <a href="/wiki/Explosion_(move)" title="Explosion (move)">Explosion</a> attack manages to incapacitate a <a href="/wiki/Sandslash_(Pok%C3%A9mon)" title="Sandslash (Pokémon)">Sandslash</a>, <a href="/wiki/Raticate_(Pok%C3%A9mon)" title="Raticate (Pokémon)">Raticate</a>, but most importantly Ash and Ponyta. Ash and Ponyta, however, are able to continue, thanks to Pikachu's <a href="/wiki/ThunderShock_(move)" class="mw-redirect" title="ThunderShock (move)">ThunderShock</a> and the fact that the two Pokémon were still lagging far behind.
+</p><p>Farther up ahead is a stepping-stone portion, which Dario and Dodrio cross with ease. However, this does not bode well for the two closest chasers: Brock and a farmhand with his <a href="/wiki/Rhyhorn_(Pok%C3%A9mon)" title="Rhyhorn (Pokémon)">Rhyhorn</a> - when Rhyhorn attempts to jump on a stone, it sinks. This forces both out of the race (as Brock, with the largest Pokémon in the race, couldn't cross due to Onix's fear of water). This leaves only four teams still racing: while Ash and Ponyta navigate the stones, Starmie and Squirtle swim across the water easily. At the next portion, teams must make a stop and allow their Pokémon to eat an entire plate of Pokémon food before sprinting to the finish. Dario and Dodrio are the first to arrive, but the other racers catch up due to Dodrio's three heads fighting over who gets to eat first. Desperate to eliminate the other three teams, Dario is forced to use Team Rocket's assistance once more (from which Ash and Misty learn of Dario's alliance with Team Rocket). Ash tells Pikachu and Squirtle (who had both been scarfing down Pokémon food during Team Rocket's motto) to take care of Team Rocket, but <a href="/wiki/Jessie%27s_Arbok" title="Jessie's Arbok">Arbok</a>'s <a href="/wiki/Glare_(move)" title="Glare (move)">Glare</a> paralyzes them, while Starmie is blinded by <a href="/wiki/James%27s_Weezing" title="James's Weezing">Weezing</a>'s <a href="/wiki/Sludge_(move)" title="Sludge (move)">Sludge</a>. This allows Dario enough time to take off towards the finish.
+</p><p>As Misty implores Ash and Ponyta to keep going (leaving Team Rocket to herself and the three Pokémon), Team Rocket causes Ponyta to literally get fired up, shocking Arbok. Weezing tries to attack Ponyta despite James telling it not to use gas, but Ponyta's flames ignite Weezing's <a href="/wiki/Smog_(move)" title="Smog (move)">Smog</a>, and it explodes, sending Team Rocket flying. Now desperate to make up ground, Ash and Ponyta race towards the finish line. When Ash and Ponyta catch up, Dario then orders one of Dodrio's heads to <a href="/wiki/Peck_(move)" title="Peck (move)">Peck</a> Ponyta, slowing it down. Everyone is then startled when Ponyta <a href="/wiki/Evolution" title="Evolution">evolves</a> through sheer will to win into the much-faster <a href="/wiki/Rapidash_(Pok%C3%A9mon)" title="Rapidash (Pokémon)">Rapidash</a>, and soon Ash and Rapidash manages to overtake Dario and claim the victory in a photo finish. Believing that he had been cheated, Dario orders Dodrio to attack Rapidash, but is sent flying by a kick from its powerful hooves.
+</p><p>As the festivities wrap up, Ash and friends bid farewell to the Laramie Ranch, and continue on their way to the Safari Zone. Meanwhile, Team Rocket is seen in a nearby forest, tied to a tree by Dario, who blames them for his loss. The episode ends on the trio being pecked repeatedly by Dodrio after Meowth insults it.
+</p>
+<h2><span class="mw-headline" id="Major_events">Major events</span></h2>
+<ul><li> <a href="/wiki/Jessie%27s_Arbok" title="Jessie's Arbok">Jessie's Arbok</a> is revealed to know <a href="/wiki/Poison_Sting_(move)" title="Poison Sting (move)">Poison Sting</a> and <a href="/wiki/Glare_(move)" title="Glare (move)">Glare</a>.</li></ul>
+<dl><dd><i>For a list of all major events in the anime, please see the <a href="/wiki/Timeline_of_events_in_the_anime" title="Timeline of events in the anime">timeline of events</a>.</i></dd></dl>
+<h3><span class="mw-headline" id="Debuts">Debuts</span></h3>
+<h4><span class="mw-headline" id="Pok.C3.A9mon_debuts">Pokémon debuts</span></h4>
+<ul><li> <a href="/wiki/Sandslash_(Pok%C3%A9mon)" title="Sandslash (Pokémon)">Sandslash</a></li>
+<li> <a href="/wiki/Nidorina_(Pok%C3%A9mon)" title="Nidorina (Pokémon)">Nidorina</a></li>
+<li> <a href="/wiki/Ponyta_(Pok%C3%A9mon)" title="Ponyta (Pokémon)">Ponyta</a></li>
+<li> <a href="/wiki/Rapidash_(Pok%C3%A9mon)" title="Rapidash (Pokémon)">Rapidash</a></li>
+<li> <a href="/wiki/Electrode_(Pok%C3%A9mon)" title="Electrode (Pokémon)">Electrode</a></li>
+<li> <a href="/wiki/Rhyhorn_(Pok%C3%A9mon)" title="Rhyhorn (Pokémon)">Rhyhorn</a></li>
+<li> <a href="/wiki/Tauros_(Pok%C3%A9mon)" title="Tauros (Pokémon)">Tauros</a></li></ul>
+<h2><span class="mw-headline" id="Characters">Characters</span></h2>
+<h3><span class="mw-headline" id="Humans">Humans</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Dare_da_EP033.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/7f/Dare_da_EP033.png/200px-Dare_da_EP033.png" width="200" height="150" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/7/7f/Dare_da_EP033.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dare_da_EP033.png" class="internal" title="Enlarge"></a></div><span class="explain" title="Who&#39;s That Pokémon?">Dare da?</span></div></div></div>
+<ul><li> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a></li>
+<li> <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a></li>
+<li> <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a></li>
+<li> <a href="/wiki/Jessie" title="Jessie">Jessie</a></li>
+<li> <a href="/wiki/James" title="James">James</a></li>
+<li> <a href="/wiki/Lara_Laramie" title="Lara Laramie">Lara Laramie</a></li>
+<li> <a href="/wiki/Dario" title="Dario">Dario</a></li></ul>
+<h3><span class="mw-headline" id="Pok.C3.A9mon">Pokémon</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:WTP_EP033.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/74/WTP_EP033.png/200px-WTP_EP033.png" width="200" height="150" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/7/74/WTP_EP033.png/300px-WTP_EP033.png 1.5x, //cdn.bulbagarden.net/upload/7/74/WTP_EP033.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:WTP_EP033.png" class="internal" title="Enlarge"></a></div>Who's That Pokémon?</div></div></div>
+<p><a href="/wiki/Who%27s_That_Pok%C3%A9mon%3F" title="Who's That Pokémon?">Who's That Pokémon?</a>: <a href="/wiki/Ponyta_(Pok%C3%A9mon)" title="Ponyta (Pokémon)">Ponyta</a>
+</p>
+<ul><li> <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> (<a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Ash's</a>)</li>
+<li> <a href="/wiki/Meowth_(Pok%C3%A9mon)" title="Meowth (Pokémon)">Meowth</a> (<a href="/wiki/Meowth_(Team_Rocket)" title="Meowth (Team Rocket)">Team Rocket</a>)</li>
+<li> <a href="/wiki/Charmander_(Pok%C3%A9mon)" title="Charmander (Pokémon)">Charmander</a> (<a href="/wiki/Ash%27s_Charmander" class="mw-redirect" title="Ash's Charmander">Ash's</a>)</li>
+<li> <a href="/wiki/Squirtle_(Pok%C3%A9mon)" title="Squirtle (Pokémon)">Squirtle</a> (<a href="/wiki/Ash%27s_Squirtle" title="Ash's Squirtle">Ash's</a>)</li>
+<li> <a href="/wiki/Starmie_(Pok%C3%A9mon)" title="Starmie (Pokémon)">Starmie</a> (<a href="/wiki/Misty%27s_Starmie" title="Misty's Starmie">Misty's</a>)</li>
+<li> <a href="/wiki/Onix_(Pok%C3%A9mon)" title="Onix (Pokémon)">Onix</a> (<a href="/wiki/Brock%27s_Onix" class="mw-redirect" title="Brock's Onix">Brock's</a>)</li>
+<li> <a href="/wiki/Arbok_(Pok%C3%A9mon)" title="Arbok (Pokémon)">Arbok</a> (<a href="/wiki/Jessie%27s_Arbok" title="Jessie's Arbok">Jessie's</a>)</li>
+<li> <a href="/wiki/Weezing_(Pok%C3%A9mon)" title="Weezing (Pokémon)">Weezing</a> (<a href="/wiki/James%27s_Weezing" title="James's Weezing">James's</a>)</li>
+<li> <a href="/wiki/Growlithe_(Pok%C3%A9mon)" title="Growlithe (Pokémon)">Growlithe</a> (<a href="/wiki/Lara_Laramie" title="Lara Laramie">Lara Laramie</a>'s)</li>
+<li> <a href="/wiki/Ponyta_(Pok%C3%A9mon)" title="Ponyta (Pokémon)">Ponyta</a> (<a href="/wiki/Lara_Laramie" title="Lara Laramie">Lara Laramie</a>'s; evolves; debut)</li>
+<li> <a href="/wiki/Rapidash_(Pok%C3%A9mon)" title="Rapidash (Pokémon)">Rapidash</a> (<a href="/wiki/Lara_Laramie" title="Lara Laramie">Lara Laramie</a>'s; newly evolved; debut)</li>
+<li> <a href="/wiki/Dodrio_(Pok%C3%A9mon)" title="Dodrio (Pokémon)">Dodrio</a> (<a href="/wiki/Dario" title="Dario">Dario</a>'s)</li>
+<li> <a href="/wiki/Dodrio_(Pok%C3%A9mon)" title="Dodrio (Pokémon)">Dodrio</a> (<a href="/wiki/Lara_Laramie#At_Laramie_Ranch" title="Lara Laramie">Laramie Big P Ranch</a>; multiple)</li>
+<li> <a href="/wiki/Raticate_(Pok%C3%A9mon)" title="Raticate (Pokémon)">Raticate</a> (<a href="/wiki/Lara_Laramie#At_Laramie_Ranch" title="Lara Laramie">Laramie Big P Ranch</a>; multiple)</li>
+<li> <a href="/wiki/Sandslash_(Pok%C3%A9mon)" title="Sandslash (Pokémon)">Sandslash</a> (<a href="/wiki/Lara_Laramie#At_Laramie_Ranch" title="Lara Laramie">Laramie Big P Ranch</a>; multiple; debut)</li>
+<li> <a href="/wiki/Nidorina_(Pok%C3%A9mon)" title="Nidorina (Pokémon)">Nidorina</a> (<a href="/wiki/Lara_Laramie#At_Laramie_Ranch" title="Lara Laramie">Laramie Big P Ranch</a>; multiple; debut)</li>
+<li> <a href="/wiki/Nidorino_(Pok%C3%A9mon)" title="Nidorino (Pokémon)">Nidorino</a> (<a href="/wiki/Lara_Laramie#At_Laramie_Ranch" title="Lara Laramie">Laramie Big P Ranch</a>; multiple)</li>
+<li> <a href="/wiki/Electrode_(Pok%C3%A9mon)" title="Electrode (Pokémon)">Electrode</a> (debut)</li>
+<li> <a href="/wiki/Rhyhorn_(Pok%C3%A9mon)" title="Rhyhorn (Pokémon)">Rhyhorn</a> (<a href="/wiki/Lara_Laramie#At_Laramie_Ranch" title="Lara Laramie">Laramie Big P Ranch</a>; multiple; debut)</li>
+<li> <a href="/wiki/Tauros_(Pok%C3%A9mon)" title="Tauros (Pokémon)">Tauros</a> (<a href="/wiki/Lara_Laramie#At_Laramie_Ranch" title="Lara Laramie">Laramie Big P Ranch</a>; multiple; debut)</li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:EP033_Error.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/9/96/EP033_Error.png/200px-EP033_Error.png" width="200" height="150" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/9/96/EP033_Error.png/300px-EP033_Error.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/96/EP033_Error.png/400px-EP033_Error.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:EP033_Error.png" class="internal" title="Enlarge"></a></div>Squirtle's missing belly lines</div></div></div>
+<ul><li> Despite Ponyta's height being <span class="explain" title="1m">3'03"</span> (probably measured like regular horses are, at the shoulder) in the games, the one featured in this episode <a href="/wiki/Size_discrepancies_in_the_Pok%C3%A9mon_anime" title="Size discrepancies in the Pokémon anime">appears much taller</a>. This was likely done to make it appear large enough to be ridden by a person.</li>
+<li> The Laramie family's name may be a reference to <a href="https://en.wikipedia.org/wiki/Fort_Laramie_National_Historic_Site" class="extiw" title="wp:Fort Laramie National Historic Site">Fort Laramie</a>. The name is unchanged from the Japanese version of the episode.</li>
+<li> It is shown that Ponyta can control their flames and will only burn riders they do not trust.</li>
+<li> The race's rules state that a Pokémon must be used to compete. While not exactly the same, this ruling is similar to the bike race featured in the <a href="/wiki/Pok%C3%A9mon_Adventures" title="Pokémon Adventures">Pokémon Adventures</a> chapter, <i><a href="/wiki/PS012" title="PS012">Wake Up—You're Snorlax!</a></i> in which Pokémon can also be used.</li>
+<li> This episode is featured on the <i>Volume 2: Fire</i> copy of <a href="/wiki/Pok%C3%A9mon_Elements" title="Pokémon Elements">Pokémon Elements</a>.</li>
+<li> When Team Rocket talk to Dario, <a href="https://en.wikipedia.org/wiki/dollar" class="extiw" title="wp:dollar">dollar</a> ($), <a href="https://en.wikipedia.org/wiki/cifr%C3%A3o" class="extiw" title="wp:cifrão">cifrão</a>, and <a href="https://en.wikipedia.org/wiki/Japanese_yen" class="extiw" title="wp:Japanese yen">Japanese yen</a> (¥) signs appear behind James instead of the Pokémon Dollar (<a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>) signs used in the localized games.</li>
+<li> At the end of the episode, Meowth cries out, "James! Stop this crazy thing!" This is a reference to the American cartoon <i><a href="https://en.wikipedia.org/wiki/The_Jetsons" class="extiw" title="wp:The Jetsons">The Jetsons</a></i>, where <a href="https://en.wikipedia.org/wiki/George_Jetson" class="extiw" title="wp:George Jetson">George Jetson</a> screams "Jane! Stop this crazy thing!" during the opening credits.
+<ul><li> This later happens in <i><a href="/wiki/AG073" title="AG073">Grass Hysteria</a></i>.</li></ul></li></ul>
+<h3><span class="mw-headline" id="Errors">Errors</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:EP033_Error_2.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/83/EP033_Error_2.png/200px-EP033_Error_2.png" width="200" height="117" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/8/83/EP033_Error_2.png/300px-EP033_Error_2.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/83/EP033_Error_2.png/400px-EP033_Error_2.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:EP033_Error_2.png" class="internal" title="Enlarge"></a></div>The evolution error</div></div></div>
+<ul><li> At the beginning and the end of the episode, the Narrator states that they are in the Safari Zone. However, they are on the Laramie Ranch, part of the Pokémon Reserve. This is probably because the actual Safari Zone episode, <a href="/wiki/EP035" title="EP035">EP035</a>, was skipped in the dub.</li>
+<li> A Trainer is shown in the starting line riding a <a href="/wiki/Nidorino_(Pok%C3%A9mon)" title="Nidorino (Pokémon)">Nidorino</a>, but after <a href="/wiki/Tauros_(Pok%C3%A9mon)" title="Tauros (Pokémon)">Tauros</a> is hit by Team Rocket with a slingshot, the same Trainer appears riding a <a href="/wiki/Nidorina_(Pok%C3%A9mon)" title="Nidorina (Pokémon)">Nidorina</a> being hit by the Tauros.</li>
+<li> After <a href="/wiki/Electrode_(Pok%C3%A9mon)" title="Electrode (Pokémon)">Electrode</a> explodes in the English dub, <a href="/wiki/Ash%27s_Squirtle" title="Ash's Squirtle">Squirtle</a> says "Zeni Zeni!" as it runs up to <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> with <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Pikachu</a>, a line that went mistakenly undubbed. Also, right before <a href="/wiki/James%27s_Weezing" title="James's Weezing">Weezing</a> uses its <a href="/wiki/Smog_(move)" title="Smog (move)">Smog</a> attack on <a href="/wiki/Ponyta_(Pok%C3%A9mon)" title="Ponyta (Pokémon)">Ponyta</a>, its Japanese voice can be heard.
+<ul><li> Incidentally, as the dub retains the insert song <a href="/wiki/Pok%C3%A9mon_Ondo" title="Pokémon Ondo">Pokémon Ondo</a>, <a href="/wiki/Koffing_(Pok%C3%A9mon)" title="Koffing (Pokémon)">Koffing</a> and <a href="/wiki/Ekans_(Pok%C3%A9mon)" title="Ekans (Pokémon)">Ekans</a>'s Japanese voices can also be heard.</li></ul></li>
+<li> When Misty tells Ash to continue on with the race, the lines on Squirtle's stomach are missing.</li>
+<li> As Ponyta begins to evolve, Ash begins glowing as well and isn't visible until the Pokémon finishes evolving into Rapidash.</li>
+<li> The finish line's banner reads "GOOL", likely a misspelling of "GOAL." </li>
+<li> After Lara calls Ash a great Pokémon Trainer, he has no shoes while the camera zooms out.</li>
+<li> As Ash is eating the chocolate fish, the "z's" on his cheeks disappear one frame to the next.</li>
+<li> When Ponyta stops for Pokémon food, Ash's <a href="/wiki/Ash%27s_hat" title="Ash's hat">hat</a> is uncolored for a few frames.</li></ul>
+<h3><span class="mw-headline" id="Dub_edits">Dub edits</span></h3>
+<ul><li> <a href="/wiki/Pok%C3%A9Rap" class="mw-redirect" title="PokéRap">PokéRap</a>: Day 3</li>
+<li> Dario calls Team Rocket by their names in the English dub while he calls them <i>sensei</i> in the Japanese version.</li>
+<li> The scene in which Lara breaks her arm is longer in the Japanese version. When she falls off of Ponyta and her arm hits the ground, the impact animation lasts for 1 second, or 30 frames. That impact animation in the English dub lasts for 1/10 of a second, or 3 frames.
+<ul><li> On a related note, Lara's arm was only said to be hurt in the Japanese version, not necessarily broken.</li>
+<li> This is actually not a dub edit, but caused by the fact that the version used for the dub came from pre-<a href="/wiki/EP038" title="EP038">EP038</a> source material. However the rest of the episode was from post-<a href="/wiki/EP038" title="EP038">EP038</a> source material.</li></ul></li>
+<li> In the Japanese version, Lara never states that she is related to the Laramie family.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table class="expandable" style="float:left; background: #AFA; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #FAA">
+
+<tr>
+<th style="padding:3px" colspan="2"> Language
+</th>
+<th style="padding:3px"> Title
+</th></tr>
+
+
+
+
+
+
+
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China"><span class="explain" title="Taiwan and mainland China">Mandarin Chinese</span></a>
+</td>
+<td> <span class="explain" title="Fire Pokémon Marathon">火焰神奇寶貝大賽跑 / 火焰的神奇宝贝大赛跑</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:The_Czech_Republic_Flag.png" class="image"><img alt="The Czech Republic Flag.png" src="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/20px-The_Czech_Republic_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/30px-The_Czech_Republic_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/40px-The_Czech_Republic_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Czech_Republic" title="Pokémon in the Czech Republic">Czech</a>
+</td>
+<td> <span class="explain" title="The fire race">Ohnivý závod</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> <span class="explain" title="Pokémon Race In Flame">Pokémon Væddeløb I Flamme</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:The_Netherlands_Flag.png" class="image"><img alt="The Netherlands Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/20px-The_Netherlands_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/30px-The_Netherlands_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/40px-The_Netherlands_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Netherlands" title="Pokémon in the Netherlands">Dutch</a>
+</td>
+<td> <span class="explain" title="The Fire Pokémon Athlete">De Vuurpokémon Atleet</span>
+</td></tr>
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> <span class="explain" title="The Pokémon flame contest">Pokémonien liekkikisat</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td rowspan="2"> French
+</td>
+<td> <a href="/wiki/File:Canada_Flag.png" class="image"><img alt="Canada Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/20px-Canada_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/30px-Canada_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/40px-Canada_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Canada" title="Pokémon in Canada">Canada</a>
+</td>
+<td> <span class="explain" title="The Poké-marathon">Le Poké-marathon</span>
+</td></tr>
+<tr style="background: #FFF">
+<td> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_France" title="Pokémon in France">Europe</a>
+</td>
+<td> <span class="explain" title="The Poké-marathon">Le Poké-marathon</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> <span class="explain" title="The Pokémon-race">Das Pokémon-Rennen</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Israel_Flag.png" class="image"><img alt="Israel Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/20px-Israel_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/30px-Israel_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/40px-Israel_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Israel" title="Pokémon in Israel">Hebrew</a>
+</td>
+<td> מרוץ הפוקימונים <span class="explain" title="The Pokémon race">merotz haPokémonim</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:India_Flag.png" class="image"><img alt="India Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/20px-India_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/30px-India_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/40px-India_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Asia" title="Pokémon in South Asia">Hindi</a>
+</td>
+<td> Rapidash ने जीती पोकेमोन रेस <span class="explain" title="Rapidash wins the Pokémon race"><i>Rapidash ne jeeti Pokémon Race!</i></span> <span class="explain" title="Hungama dub">*</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Hungary_Flag.png" class="image"><img alt="Hungary Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/20px-Hungary_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/30px-Hungary_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/40px-Hungary_Flag.png 2x" /></a> Hungarian
+</td>
+<td> <span class="explain" title="Pokémon Championship">Pokémon bajnokság</span>
+</td></tr>
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> <span class="explain" title="The race">La gara</span><span class="explain" title="Original 2000 dub">*</span> <br /> <span class="explain" title="The Flame Pokémon">Il Pokémon fiamma</span><span class="explain" title="2014 K2 TV dub">*</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 최후의 승자는 누구<br /><span class="explain" title="Who is the Eventual Winner?">Choehuui seungjaneun nugu</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> <span class="explain" title="The flame Pokémon-athon">Flamme-Pokémonathonet</span>
+</td></tr>
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> <span class="explain" title="Pokémon race">Wyścig pokémon</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> <span class="explain" title="The Poké-Race">A Poké-Corrida</span>
+</td></tr>
+<tr style="background: #FFF">
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> <span class="explain" title="The Marathon of the Flame Pokémons">A Maratona dos Pokémons de Chama</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Romania_Flag.png" class="image"><img alt="Romania Flag.png" src="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/20px-Romania_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/30px-Romania_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/40px-Romania_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Romania" title="Pokémon in Romania">Romanian</a>
+</td>
+<td> <span class="explain" title="The Flame of the Pokémon Marathon">Flacăra Maratonului Pokémon</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> <span class="explain" title="Insane race">Безумные гонки</span>
+</td></tr>
+
+
+
+
+<tr style="background: #FFF">
+<td rowspan="2"> Spanish
+</td>
+<td> <a href="/wiki/File:CELAC_Flag.png" class="image"><img alt="CELAC Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/20px-CELAC_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/30px-CELAC_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/40px-CELAC_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Latin_America" title="Pokémon in Latin America">Latin America</a>
+</td>
+<td> <span class="explain" title="The big race!">¡La gran carrera!</span>
+</td></tr>
+<tr style="background: #FFF">
+<td> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spain" title="Pokémon in Spain">Spain</a>
+</td>
+<td> <span class="explain" title="The Pokémon-athon flame">La llama Pokémon-athon</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> <span class="explain" title="Today&#39;s trouble">Dagens trubbel</span>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="background: #AFA">
+</td></tr></table><br clear="left" />
+<p><br clear="all" />
+</p>
+<table style="background: #FFAAAA; width: 100%; margin: 5px; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; border: 2px solid #FFAAAA;">
+
+<tr>
+<td width="35%" style="background: #AAFFAA; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<table style="text-align:right; background: #AAFFAA; width:100%; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<tr>
+<td style="text-align:right;"> <a href="/wiki/EP032" title="EP032"><span style="color:#000;">&#8592;</span></a>
+</td>
+<td style="text-align:right;"> <a href="/wiki/EP032" title="EP032"><span style="color:#000;">EP032
+: <i>The Ninja Poké-Showdown</i></span></a>
+</td></tr></table>
+</td>
+<td style="background: #AAFFAA">
+<table style="background: #AAFFAA; width:100%;">
+<tr>
+<td style="text-align:center;"> <a href="/wiki/List_of_original_series_episodes" title="List of original series episodes"><span style="color:#000;">Original series</span></a>
+</td></tr></table>
+</td>
+<td width="35%" style="background: #AAFFAA; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<table style="background: #AAFFAA; width:100%; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<tr>
+<td> <a href="/wiki/EP034" title="EP034"><span style="color:#000;">EP034
+: <i>The Kangaskhan Kid</i></span></a>
+</td>
+<td> <a href="/wiki/EP034" title="EP034"><span style="color:#000;">&#8594;</span></a>
+</td></tr></table>
+</td></tr></table>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Anime_logo.png" class="image"><img alt="Project Anime logo.png" src="//cdn.bulbagarden.net/upload/thumb/c/c3/Project_Anime_logo.png/80px-Project_Anime_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/c/c3/Project_Anime_logo.png/120px-Project_Anime_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c3/Project_Anime_logo.png/160px-Project_Anime_logo.png 2x" /></a>
+</td>
+<td> This episode article is part of <b><a href="/wiki/Bulbapedia:Project_Anime" title="Bulbapedia:Project Anime">Project Anime</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that covers all aspects of the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">Pokémon anime</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180130092112
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.422 seconds
+Preprocessor visited node count: 2665/1000000
+Preprocessor generated node count: 12479/1000000
+Post‐expand include size: 38210/2097152 bytes
+Template argument size: 10082/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  198.328      1 -total
+ 21.36%   42.360      2 Template:EpicodePrevNext
+ 17.41%   34.536      1 Template:Epilang
+ 13.37%   26.521      1 Template:EpisodeInfobox
+  6.56%   13.016     46 Template:P
+  5.15%   10.205      4 Template:R
+  3.97%    7.875     17 Template:Colorschemelight
+  3.29%    6.529      7 Template:DL
+  3.08%    6.102      1 Template:Spoilers
+  3.00%    5.944     29 Template:Tt
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:6157-0!*!0!!en!5!* and timestamp 20180130092112 and revision id 2728603
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=EP033&amp;oldid=2728603">https://bulbapedia.bulbagarden.net/w/index.php?title=EP033&amp;oldid=2728603</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Original_series_episodes" title="Category:Original series episodes">Original series episodes</a></li><li><a href="/wiki/Category:Episodes_written_by_Atsuhiro_Tomioka" title="Category:Episodes written by Atsuhiro Tomioka">Episodes written by Atsuhiro Tomioka</a></li><li><a href="/wiki/Category:Episodes_storyboarded_and_directed_by_Y%C5%ABji_Asada" title="Category:Episodes storyboarded and directed by Yūji Asada">Episodes storyboarded and directed by Yūji Asada</a></li><li><a href="/wiki/Category:Episodes_storyboarded_by_Y%C5%ABji_Asada" title="Category:Episodes storyboarded by Yūji Asada">Episodes storyboarded by Yūji Asada</a></li><li><a href="/wiki/Category:Episodes_directed_by_Y%C5%ABji_Asada" title="Category:Episodes directed by Yūji Asada">Episodes directed by Yūji Asada</a></li><li><a href="/wiki/Category:Episodes_animated_by_Akihiro_Tamagawa" title="Category:Episodes animated by Akihiro Tamagawa">Episodes animated by Akihiro Tamagawa</a></li><li><a href="/wiki/Category:Episodes_focusing_on_Ash" title="Category:Episodes focusing on Ash">Episodes focusing on Ash</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/EP033" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:EP033" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=EP033&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=EP033&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=EP033" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=EP033" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/EP033" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/EP033" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=EP033&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=EP033&amp;oldid=2728603" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=EP033&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Das_Pok%C3%A9mon-Rennen" title="Das Pokémon-Rennen – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/EP033" title="EP033 – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/EP033" title="EP033 – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E7%84%A1%E5%8D%B0%E7%B7%A8%E7%AC%AC33%E8%A9%B1" title="無印編第33話 – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/EP033" title="EP033 – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/EP033" title="EP033 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 12 January 2018, at 23:51.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=EP033&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.422","ppvisitednodes":{"value":2665,"limit":1000000},"ppgeneratednodes":{"value":12479,"limit":1000000},"postexpandincludesize":{"value":38210,"limit":2097152},"templateargumentsize":{"value":10082,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  198.328      1 -total"," 21.36%   42.360      2 Template:EpicodePrevNext"," 17.41%   34.536      1 Template:Epilang"," 13.37%   26.521      1 Template:EpisodeInfobox","  6.56%   13.016     46 Template:P","  5.15%   10.205      4 Template:R","  3.97%    7.875     17 Template:Colorschemelight","  3.29%    6.529      7 Template:DL","  3.08%    6.102      1 Template:Spoilers","  3.00%    5.944     29 Template:Tt"]},"cachereport":{"timestamp":"20180130092112","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

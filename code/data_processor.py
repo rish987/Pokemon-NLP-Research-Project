@@ -1,4 +1,4 @@
-# File: data_downloader.py 
+# File: data_processor.py 
 # Author(s): Rishikesh Vaishnav, Jessica Lacovelli, Bonnie Chen
 # Created: 23/01/2018
 
@@ -18,9 +18,6 @@ LINK_TAG = 'a'
 # total number of episodes in the first generation
 NUM_EPS = 116;
 
-# bulbapedia wiki URL prefix
-URL_PREFIX = 'https://bulbapedia.bulbagarden.net/wiki/EP';
-
 # regular expression to remove parentheses from a string
 REMOVE_PARENS_REGEX = r'\([^)]*\)';
 
@@ -31,14 +28,21 @@ ANNOTATED_TEXT_FILE = '../data/data_annotated';
 # files to write data to
 raw_text_file = open(RAW_TEXT_FILE, 'w');
 
-# dictionary of rigid descriptors and their labels
-rigid_descriptors = {};
+# dictionary of entity wiki page title names to alternate linked versions of
+# these names
+titles_to_altnames = {};
 
 # special characters that could be part of a descriptor
 SPECIAL_CHARACTERS = ['.'];
 
 # words to be ignored when checking capitalization
 IGNORED_WORDS = ['a', 'an', 'the', 'and', 'but', 'for', 'of', 'with'];
+
+# data folder webpages
+WEBPAGE_DEST = '../data/webpages/';
+
+# format string for episode numbers
+EP_NUMBER_FORMAT = "%03d";
 
 # class for processing HTML files
 class MyHTMLParser(HTMLParser):
@@ -105,33 +109,30 @@ class MyHTMLParser(HTMLParser):
 
             # need to add this data to the dictionary
             if self.in_hyperlink:
-                if self.current_hyperlink not in rigid_descriptors:
-                    rigid_descriptors[self.current_hyperlink] = {};
+                if self.current_hyperlink not in titles_to_altnames:
+                    titles_to_altnames[self.current_hyperlink] = {};
 
-                if data not in rigid_descriptors[self.current_hyperlink]:
-                    rigid_descriptors[self.current_hyperlink][data] = 1;
+                if data not in titles_to_altnames[self.current_hyperlink]:
+                    titles_to_altnames[self.current_hyperlink][data] = 1;
                 else:
-                    rigid_descriptors[self.current_hyperlink][data] += 1;
+                    titles_to_altnames[self.current_hyperlink][data] += 1;
 
 # parser to use to read data
 parser = MyHTMLParser();
 
 # go through all of the episodes
 for i in range(1, NUM_EPS + 1):
-    print("Downloading episode:", i);
-    # construct request for this episode's wiki
-    req = Request(URL_PREFIX + ("%03d" % i), headers={'User-Agent': 'Mozilla/5.0'});
+    print("Processing episode:", i);
 
-    # read and parse wiki page
-    with urlopen(req) as response:
-        html = response.read();
-        parser.feed(html.decode('UTF-8'));
+    # open the downloaded webpage file
+    with open(WEBPAGE_DEST + (EP_NUMBER_FORMAT % i), 'r') as file:
+        parser.feed(file.read());
 
 # list of annotated strings
 annotated = [];
 
 # prepare annotated file for annotation
-shutil.copy(RAW_TEXT_FILE, ANNOTATED_TEXT_FILE);
+shutil.copyfile(RAW_TEXT_FILE, ANNOTATED_TEXT_FILE);
 with open(ANNOTATED_TEXT_FILE, 'r') as file :
   filedata = file.read();
 
@@ -139,39 +140,39 @@ with open(ANNOTATED_TEXT_FILE, 'r') as file :
 d = enchant.Dict("en_US");
 
 """
-Determines whether the given label is acceptable, and if so, adds the following
-labels to the list of labels, given they are not already in the list
-- the original label
-- the label pluralized (adding an 's' to the end)
-- the constituent words of the label that are not dictionary words
+Determines whether the given altname is acceptable, and if so, adds the following
+altnames to the list of altnames, given they are not already in the list
+- the original altname
+- the altname pluralized (adding an 's' to the end)
+- the constituent words of the altname that are not dictionary words
 Current conditions:
 - first letter of every word is uppercase or digit, or the word a word that is
   conventionally uncapitalized in English descriptors
 - is not a possessive - does not end in "'s" 
-- label has >1 characters 
+- altname has >1 characters 
 """
-def process_label(label):
+def process_altname(altname):
     # ignore possesives
-    if label.endswith('\'s'):
+    if altname.endswith('\'s'):
         return;
 
     # do all of the words processed so far start with uppercase letters?
     all_valid_words = True;
 
     # check validity of all words
-    words = label.split();
+    words = altname.split();
     for word in words:
         if not ((word in IGNORED_WORDS) or word[0].isupper() or word[0].isdigit()):
             all_valid_words = False;
 
     # this is a valid descriptor
-    if all_valid_words and (label not in annotated) and (len(label) > 1):
-        annotated.append(label);
+    if all_valid_words and (altname not in annotated) and (len(altname) > 1):
+        annotated.append(altname);
 
         # add the plural form as well
-        plural_label = label + 's';
-        if plural_label not in annotated:
-            annotated.append(plural_label);
+        plural_altname = altname + 's';
+        if plural_altname not in annotated:
+            annotated.append(plural_altname);
 
         for word in words:
             # ignore possesives
@@ -187,26 +188,40 @@ def process_label(label):
                 if plural_word not in annotated:
                     annotated.append(plural_word);
 
-# generate list of labels
-for descriptor in rigid_descriptors:
-    process_label(descriptor.strip());
-    for label in rigid_descriptors[descriptor]:
-        process_label(label.strip());
+print('Processing altnames...');
+# generate list of altnames
+for title in titles_to_altnames:
+    process_altname(title.strip());
+    for altname in titles_to_altnames[title]:
+        process_altname(altname.strip());
 
 # sort from largest to smallest to ensure that substrings are annotated after
-# the larger labels they are a part of (if we did not do this, annotating the
+# the larger altnames they are a part of (if we did not do this, annotating the
 # substrings first would prevent detection of the larger strings they used to
 # be a part of
 annotated.sort(key = lambda x: len(x), reverse=True);
 
-# annotate all matching labels
-for label in annotated:
+# to hold all descriptors used in data
+used_descriptors = [];
+
+print('Annotating altnames...');
+# annotate all matching altnames
+for altname in annotated:
+    # to store data with this name annotated
+    filedata_new = '';
+
     # this name contains a period, so do a normal search and replace
-    if label.find('.') != -1:
-        filedata = re.sub( label, '[' + label + ']', filedata);
+    if altname.find('.') != -1:
+        filedata_new = re.sub( altname, '[' + altname + ']', filedata);
     # do a search and replace, ignoring substrings
     else:
-        filedata = re.sub( r'\b%s\b' % re.escape(label), '[' + label + ']', filedata);
+        filedata_new = re.sub( r'\b%s\b' % re.escape(altname), '[' + altname + ']', filedata);
+
+    # if the data changed, something was annotated, so this descriptor was used
+    if filedata_new != filedata:
+        used_descriptors.append(altname);
+
+    filedata = filedata_new;
 
 # write the file out again
 with open(ANNOTATED_TEXT_FILE, 'w') as file:
