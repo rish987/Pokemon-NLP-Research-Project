@@ -2,14 +2,12 @@
 # Author(s): Rishikesh Vaishnav, Jessica Lacovelli, Bonnie Chen
 # Created: 23/01/2018
 
-# TODO remove first from double process_altname for title and altname
-# TODO remove counting number of matches
-
 from urllib.request import Request, urlopen;
-from html.parser import HTMLParser
-import re
-import enchant
-import shutil
+from html.parser import HTMLParser;
+import re;
+import enchant;
+import shutil;
+import sys;
 
 # bulbapedia wiki URL prefix
 URL_PREFIX = 'https://bulbapedia.bulbagarden.net/';
@@ -47,7 +45,12 @@ IGNORED_WORDS = ['a', 'an', 'the', 'and', 'but', 'for', 'of', 'with'];
 WEBPAGE_DEST = '../data/webpages/';
 
 # format string for episode numbers
-EP_NUMBER_FORMAT = "%03d";
+EP_NUMBER_FORMAT = '%03d';
+
+# check if we should annotate data
+annotate = False;
+if (len(sys.argv) > 1) and (sys.argv[1] == '1'):
+    annotate = True;
 
 # data structure for storing entity information
 class Entity():
@@ -172,7 +175,7 @@ for i in range(1, NUM_EPS + 1):
         parser.feed(file.read());
 
 # list of annotated strings
-annotated = [];
+descriptor_candidates = [];
 
 # prepare annotated file for annotation
 shutil.copyfile(RAW_TEXT_FILE, ANNOTATED_TEXT_FILE);
@@ -209,13 +212,13 @@ def process_altname(altname):
             all_valid_words = False;
 
     # this is a valid descriptor
-    if all_valid_words and (altname not in annotated) and (len(altname) > 1):
-        annotated.append(altname);
+    if all_valid_words and (altname not in descriptor_candidates) and (len(altname) > 1):
+        descriptor_candidates.append(altname);
 
         # add the plural form as well
         plural_altname = altname + 's';
-        if plural_altname not in annotated:
-            annotated.append(plural_altname);
+        if plural_altname not in descriptor_candidates:
+            descriptor_candidates.append(plural_altname);
 
         for word in words:
             # ignore possesives
@@ -223,15 +226,15 @@ def process_altname(altname):
                 return;
 
             # this is not a dictionary word
-            if not d.check(word) and word not in annotated:
-                annotated.append(word);
+            if not d.check(word) and word not in descriptor_candidates:
+                descriptor_candidates.append(word);
 
                 # add the plural form as well
                 plural_word = word + 's';
-                if plural_word not in annotated:
-                    annotated.append(plural_word);
+                if plural_word not in descriptor_candidates:
+                    descriptor_candidates.append(plural_word);
 
-print('Processing altnames...');
+print('Finding all potential altnames...');
 # generate list of altnames
 for entity in entities:
     for altname in entity.get_altnames():
@@ -241,30 +244,46 @@ for entity in entities:
 # the larger altnames they are a part of (if we did not do this, annotating the
 # substrings first would prevent detection of the larger strings they used to
 # be a part of
-annotated.sort(key = lambda x: len(x), reverse=True);
+descriptor_candidates.sort(key = lambda x: len(x), reverse=True);
 
 # to hold all descriptors used in data
 used_descriptors = [];
 
-print('Annotating altnames...');
+print('Identifying used altnames...');
 # annotate all matching altnames
-for altname in annotated:
-    # to store data with this name annotated
-    filedata_new = '';
+for altname in descriptor_candidates:
+    if annotate:
+        # to store data with this name annotated
+        filedata_new = '';
 
-    # this name contains a period, so do a normal search and replace
-    if altname.find('.') != -1:
-        filedata_new = re.sub( altname, '[' + altname + ']', filedata);
-    # do a search and replace, ignoring substrings
+        # this name contains a period, so do a normal search and replace
+        if altname.find('.') != -1:
+            filedata_new = re.sub( altname, '[' + altname + ']', filedata);
+        # do a search and replace, ignoring substrings
+        else:
+            filedata_new = re.sub( r'\b%s\b' % re.escape(altname), '[' + altname + ']', filedata);
+
+        # if the data changed, something was annotated, so this descriptor was used
+        if filedata_new != filedata:
+            used_descriptors.append(altname);
+
+        filedata = filedata_new;
     else:
-        filedata_new = re.sub( r'\b%s\b' % re.escape(altname), '[' + altname + ']', filedata);
+        # to hold result of search
+        result = '';
 
-    # if the data changed, something was annotated, so this descriptor was used
-    if filedata_new != filedata:
-        used_descriptors.append(altname);
+        # this name contains a period, so do a normal search and replace
+        if altname.find('.') != -1:
+            result = re.search( altname, '[' + altname + ']', filedata);
+        # do a search and replace, ignoring substrings
+        else:
+            result = re.search( r'\b%s\b' % re.escape(altname), '[' + altname + ']', filedata);
 
-    filedata = filedata_new;
+        # if the data changed, something was annotated, so this descriptor was used
+        if result != None:
+            used_descriptors.append(altname);
 
-# write the file out again
-with open(ANNOTATED_TEXT_FILE, 'w') as file:
-  file.write(filedata)
+if annotate:
+    # write the file out again
+    with open(ANNOTATED_TEXT_FILE, 'w') as file:
+      file.write(filedata)
