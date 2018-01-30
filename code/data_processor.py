@@ -1,6 +1,11 @@
 # File: data_processor.py 
 # Author(s): Rishikesh Vaishnav, Jessica Lacovelli, Bonnie Chen
 # Created: 23/01/2018
+# Description: Processes HTML data from to extract relevant information.
+# Usage:
+# $ python data_processor.py [annotate]
+# - [annotate]: '1' if want to annotate, omitted or anything else if do not
+# want to annotate
 
 from urllib.request import Request, urlopen;
 from html.parser import HTMLParser;
@@ -28,6 +33,7 @@ REMOVE_PARENS_REGEX = r'\([^)]*\)';
 # files to write to
 RAW_TEXT_FILE = '../data/data';
 ANNOTATED_TEXT_FILE = '../data/data_annotated';
+USED_DESCRIPTORS_FILE = '../data/descriptors';
 
 # files to write data to
 raw_text_file = open(RAW_TEXT_FILE, 'w');
@@ -46,6 +52,14 @@ WEBPAGE_DEST = '../data/webpages/';
 
 # format string for episode numbers
 EP_NUMBER_FORMAT = '%03d';
+
+# string to match descriptor, in its plural forms as well (ending in 'es' or
+# 's'), both separate and unseparate from other words
+DESCRIPTOR_FORMAT_SEPARATE = r'(\b%s(?:e?s)?\b)';
+DESCRIPTOR_FORMAT_UNSEPARATE = r'(%s(?:e?s)?)';
+
+# suffixes for pluralized descriptors
+PLURAL_SUFFIXES = ['s', 'es'];
 
 # check if we should annotate data
 annotate = False;
@@ -69,6 +83,11 @@ class Entity():
         if altname not in self.altnames:
             self.altnames.append(altname);
 
+    # removes the specified altname to this Entity's list of altnames
+    def remove_altname(self, altname):
+        if altname in self.altnames:
+            self.altnames.remove(altname);
+
     # returns the title of this entity
     def get_title(self):
         return self.title;
@@ -89,8 +108,8 @@ class MyHTMLParser(HTMLParser):
         self.parsing_plot = False;
         self.just_seen_plot_tag = False;
         self.in_hyperlink = False;
-        self.current_hyperlink_title = "";
-        self.current_hyperlink_link = "";
+        self.current_hyperlink_title = '';
+        self.current_hyperlink_link = '';
 
     def handle_starttag(self, tag, attrs):
         if self.parsing_plot:
@@ -168,7 +187,7 @@ parser = MyHTMLParser();
 
 # go through all of the episodes
 for i in range(1, NUM_EPS + 1):
-    print("Processing episode:", i);
+    print('Processing episode:', i);
 
     # open the downloaded webpage file
     with open(WEBPAGE_DEST + (EP_NUMBER_FORMAT % i), 'r') as file:
@@ -183,24 +202,23 @@ with open(ANNOTATED_TEXT_FILE, 'r') as file :
   filedata = file.read();
 
 # English dictionary
-d = enchant.Dict("en_US");
+d = enchant.Dict('en_US');
 
 """
-Determines whether the given altname is acceptable, and if so, adds the following
-altnames to the list of altnames, given they are not already in the list
+Determines whether the given altname is acceptable, and if so, adds the
+following altnames to the list of altnames, given they are not already in the
+list
 - the original altname
-- the altname pluralized (adding an 's' to the end)
 - the constituent words of the altname that are not dictionary words
 Current conditions:
-- first letter of every word is uppercase or digit, or the word a word that is
-  conventionally uncapitalized in English descriptors
-- is not a possessive - does not end in "'s" 
+- first letter of every word is uppercase or digit, unless the word is a word
+  that is conventionally uncapitalized in English descriptors
 - altname has >1 characters 
 """
 def process_altname(altname):
     # ignore possesives
     if altname.endswith('\'s'):
-        return;
+        altname = altname[:-2];
 
     # do all of the words processed so far start with uppercase letters?
     all_valid_words = True;
@@ -215,26 +233,26 @@ def process_altname(altname):
     if all_valid_words and (altname not in descriptor_candidates) and (len(altname) > 1):
         descriptor_candidates.append(altname);
 
-        # add the plural form as well
-        plural_altname = altname + 's';
-        if plural_altname not in descriptor_candidates:
-            descriptor_candidates.append(plural_altname);
-
         for word in words:
             # ignore possesives
             if word.endswith('\'s'):
-                return;
+                word = word[:-2];
 
             # this is not a dictionary word
             if not d.check(word) and word not in descriptor_candidates:
                 descriptor_candidates.append(word);
 
-                # add the plural form as well
-                plural_word = word + 's';
-                if plural_word not in descriptor_candidates:
-                    descriptor_candidates.append(plural_word);
-
 print('Finding all potential altnames...');
+
+# clear out all plurals
+for entity in entities:
+    altnames = entity.get_altnames();
+    for altname in altnames:
+        for suffix in PLURAL_SUFFIXES:
+            plurals = [n for n in altnames if n == altname + suffix];
+            for plural in plurals:
+                entity.remove_altname(plural);
+        
 # generate list of altnames
 for entity in entities:
     for altname in entity.get_altnames():
@@ -258,10 +276,10 @@ for altname in descriptor_candidates:
 
         # this name contains a period, so do a normal search and replace
         if altname.find('.') != -1:
-            filedata_new = re.sub( altname, '[' + altname + ']', filedata);
+            filedata_new = re.sub( DESCRIPTOR_FORMAT_UNSEPARATE % re.escape(altname), r'[\1]', filedata);
         # do a search and replace, ignoring substrings
         else:
-            filedata_new = re.sub( r'\b%s\b' % re.escape(altname), '[' + altname + ']', filedata);
+            filedata_new = re.sub( DESCRIPTOR_FORMAT_SEPARATE % re.escape(altname), r'[\1]', filedata);
 
         # if the data changed, something was annotated, so this descriptor was used
         if filedata_new != filedata:
@@ -272,12 +290,12 @@ for altname in descriptor_candidates:
         # to hold result of search
         result = '';
 
-        # this name contains a period, so do a normal search and replace
+        # this name contains a period, so do a normal search
         if altname.find('.') != -1:
-            result = re.search( altname, '[' + altname + ']', filedata);
-        # do a search and replace, ignoring substrings
+            result = re.search( DESCRIPTOR_FORMAT_UNSEPARATE % re.escape(altname), filedata);
+        # do a search, ignoring substrings
         else:
-            result = re.search( r'\b%s\b' % re.escape(altname), '[' + altname + ']', filedata);
+            result = re.search( DESCRIPTOR_FORMAT_SEPARATE % re.escape(altname), filedata);
 
         # if the data changed, something was annotated, so this descriptor was used
         if result != None:
@@ -287,3 +305,7 @@ if annotate:
     # write the file out again
     with open(ANNOTATED_TEXT_FILE, 'w') as file:
       file.write(filedata)
+
+with open(USED_DESCRIPTORS_FILE, 'w') as file:
+    for d in used_descriptors:
+        file.write(d + '\n');
