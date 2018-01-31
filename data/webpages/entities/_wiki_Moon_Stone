@@ -1,0 +1,1772 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Moon Stone - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Moon_Stone","wgTitle":"Moon Stone","wgCurRevisionId":2731160,"wgRevisionId":2731160,"wgArticleId":7171,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Evolution stones","Pokémon Mystery Dungeon items","Pokémon Conquest items"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Moon_Stone","wgRelevantArticleId":7171,"wgRequestId":"05a8509d443d06cfcea43c5e","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Moon_Stone"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Moon_Stone"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Moon_Stone rootpage-Moon_Stone skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Moon Stone</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="roundy" style="float:right; border: 3px solid #B85078; background: #D880A8; width: 30%; max-width: 30%; margin-left: 5px; margin-bottom: 5px">
+
+<tr>
+<td>
+<table class="roundy" width="100%">
+
+<tr style="text-align:center">
+<td width="30px">
+</td>
+<td> <big><big><b>Moon Stone</b></big></big><br /><span lang="ja"><b>つきのいし</b></span><br /><i>Moon Stone</i>
+</td>
+<td style="width:30px">
+<table style="border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px;; background: #D880A8; border: 1px solid #B85078; float:right;">
+<tr>
+<td style="border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px;"> <a href="/wiki/File:Bag_Moon_Stone_Sprite.png" class="image" title="Moon Stone"><img alt="Moon Stone" src="//cdn.bulbagarden.net/upload/a/ae/Bag_Moon_Stone_Sprite.png" width="24" height="24" /></a>
+</td></tr></table>
+</td></tr></table>
+</td></tr>
+<tr>
+<td>
+<table class="roundy" width="100%" style="border: 3px solid #B85078; background: #FFF; text-align:center; margin:auto">
+
+<tr>
+<td> <a href="/wiki/File:Dream_Moon_Stone_Sprite.png" class="image" title="Moon Stone"><img alt="Moon Stone" src="//cdn.bulbagarden.net/upload/3/32/Dream_Moon_Stone_Sprite.png" width="90" height="81" /></a>
+</td></tr>
+<tr>
+<td> <small>Pokémon Global Link artwork</small>
+</td></tr></table>
+</td></tr>
+<tr>
+<td>
+<table style="background: #B85078" width="100%" class="roundytop">
+<tr>
+<td class="roundy" style="text-align:center; background: #D880A8"> Introduced in Generation I
+</td></tr></table>
+<table style="background: #B85078" width="100%">
+<tr>
+<th colspan="2" class="roundytop" style="background: #D880A8"> Pocket
+</th></tr>
+<tr>
+<th style="background: #D880A8" width="50%"> Generation I
+</th>
+<td style="background: #fff; white-space:nowrap" width="50%"> <a href="/wiki/File:Bag_Items_pocket_icon.png" class="image"><img alt="Bag Items pocket icon.png" src="//cdn.bulbagarden.net/upload/b/b7/Bag_Items_pocket_icon.png" width="24" height="24" /></a> Items
+</td></tr>
+<tr>
+<th style="background: #D880A8" width="50%"> Generation II
+</th>
+<td style="background: #fff; white-space:nowrap" width="50%"> <a href="/wiki/File:Bag_Items_pocket_icon.png" class="image"><img alt="Bag Items pocket icon.png" src="//cdn.bulbagarden.net/upload/b/b7/Bag_Items_pocket_icon.png" width="24" height="24" /></a> Items
+</td></tr>
+<tr>
+<th style="background: #D880A8" width="50%"> Generation III
+</th>
+<td style="background: #fff; white-space:nowrap" width="50%"> <a href="/wiki/File:Bag_Items_pocket_icon.png" class="image"><img alt="Bag Items pocket icon.png" src="//cdn.bulbagarden.net/upload/b/b7/Bag_Items_pocket_icon.png" width="24" height="24" /></a> Items
+</td></tr>
+<tr>
+<th style="background: #D880A8" width="50%"> Generation IV
+</th>
+<td style="background: #fff; white-space:nowrap" width="50%"> <a href="/wiki/File:Bag_Items_pocket_icon.png" class="image"><img alt="Bag Items pocket icon.png" src="//cdn.bulbagarden.net/upload/b/b7/Bag_Items_pocket_icon.png" width="24" height="24" /></a> Items
+</td></tr>
+<tr>
+<th style="background: #D880A8" width="50%"> Generation V
+</th>
+<td style="background: #fff; white-space:nowrap" width="50%"> <a href="/wiki/File:Bag_Items_pocket_icon.png" class="image"><img alt="Bag Items pocket icon.png" src="//cdn.bulbagarden.net/upload/b/b7/Bag_Items_pocket_icon.png" width="24" height="24" /></a> Items
+</td></tr>
+<tr>
+<th style="background: #D880A8" width="50%"> Generation VI
+</th>
+<td style="background: #fff; white-space:nowrap" width="50%"> <a href="/wiki/File:Bag_Items_pocket_icon.png" class="image"><img alt="Bag Items pocket icon.png" src="//cdn.bulbagarden.net/upload/b/b7/Bag_Items_pocket_icon.png" width="24" height="24" /></a> Items
+</td></tr>
+<tr>
+<th style="background: #D880A8" width="50%" class="roundybl"> Generation VII
+</th>
+<td style="background: #fff; white-space:nowrap" width="50%" class="roundybr"> <a href="/wiki/File:Bag_Items_pocket_icon.png" class="image"><img alt="Bag Items pocket icon.png" src="//cdn.bulbagarden.net/upload/b/b7/Bag_Items_pocket_icon.png" width="24" height="24" /></a> Items
+</td></tr></table>
+<table style="background: #B85078" width="100%" class="roundybottom">
+<tr>
+<th colspan="2" class="roundytop" style="background: #D880A8"> <a href="/wiki/Fling_(move)" title="Fling (move)"><span style="color:#000;">Fling</span></a>
+</th></tr>
+<tr>
+<th style="background: #D880A8" width="50%" class="roundybl"> Power
+</th>
+<td style="text-align:center; background: #fff" width="50%" class="roundybr"> 30
+</td></tr></table>
+</td></tr></table>
+<p>The <b>Moon Stone</b> (Japanese: <b>つきのいし</b> <i>Moon Stone</i>) is a type of <a href="/wiki/Evolutionary_stone" title="Evolutionary stone">Evolutionary stone</a> introduced in <a href="/wiki/Generation_I" title="Generation I">Generation I</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_the_core_series_games"><span class="tocnumber">1</span> <span class="toctext">In the core series games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Price"><span class="tocnumber">1.1</span> <span class="toctext">Price</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Effect"><span class="tocnumber">1.2</span> <span class="toctext">Effect</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Description"><span class="tocnumber">1.3</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Acquisition"><span class="tocnumber">1.4</span> <span class="toctext">Acquisition</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Appearance"><span class="tocnumber">1.5</span> <span class="toctext">Appearance</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Artwork"><span class="tocnumber">1.6</span> <span class="toctext">Artwork</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#In_spin-off_games"><span class="tocnumber">2</span> <span class="toctext">In spin-off games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Pok.C3.A9mon_Mystery_Dungeon_series"><span class="tocnumber">2.1</span> <span class="toctext">Pokémon Mystery Dungeon series</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Price_2"><span class="tocnumber">2.1.1</span> <span class="toctext">Price</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Effect_2"><span class="tocnumber">2.1.2</span> <span class="toctext">Effect</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Description_2"><span class="tocnumber">2.1.3</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Acquisition_2"><span class="tocnumber">2.1.4</span> <span class="toctext">Acquisition</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Appearance_2"><span class="tocnumber">2.1.5</span> <span class="toctext">Appearance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Pok.C3.A9mon_Conquest"><span class="tocnumber">2.2</span> <span class="toctext">Pokémon Conquest</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Description_3"><span class="tocnumber">2.2.1</span> <span class="toctext">Description</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#In_the_anime"><span class="tocnumber">3</span> <span class="toctext">In the anime</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#In_the_manga"><span class="tocnumber">4</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#In_The_Electric_Tale_of_Pikachu_manga"><span class="tocnumber">4.1</span> <span class="toctext">In The Electric Tale of Pikachu manga</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">4.2</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#In_the_TCG"><span class="tocnumber">5</span> <span class="toctext">In the TCG</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#In_other_languages"><span class="tocnumber">7</span> <span class="toctext">In other languages</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_the_core_series_games">In the core series games</span></h2>
+<h3><span class="mw-headline" id="Price">Price</span></h3>
+<table style="background:#D880A8; border:5px solid #C86890" class="roundy">
+
+<tr>
+<td>
+<table border="1" style="background:#FFF; border:1px solid #D880A8; border-collapse:collapse">
+
+<tr>
+<th style="padding-left: 3px; padding-right: 3px"> Games
+</th>
+<th style="padding-left: 3px; padding-right: 3px"> Cost
+</th>
+<th style="padding-left: 3px; padding-right: 3px"> Sell&#160;price
+</th></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Red_and_Green_Versions" title="Pokémon Red and Green Versions"><span style="color:#FF1111;">R</span><span style="color:#11BB11;">G</span></a><a href="/wiki/Pok%C3%A9mon_Blue_Version_(Japanese)" title="Pokémon Blue Version (Japanese)"><span style="color:#1111FF;">B</span></a><a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#FFD733;">Y</span></a></b>/<b><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#FF1111;">R</span><span style="color:#1111FF;">B</span></a><a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#FFD733;">Y</span></a></b><br /><b><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#DAA520;">G</span><span style="color:#C0C0C0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#4FD9FF;">C</span></a></b> </td>
+<td> N/A </td>
+<td> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>0
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions"><span style="color:#A00000;">R</span><span style="color:#0000A0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#FF7327;">FR</span><span style="color:#00DD00;">LG</span></a></b> </td>
+<td> N/A </td>
+<td> N/A
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions"><span style="color:#AAAAFF;">D</span><span style="color:#FFAAAA;">P</span></a><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#B69E00;">HG</span><span style="color:#7D7D92;">SS</span></a></b> </td>
+<td> N/A </td>
+<td> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1,050
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions"><span style="color:#444444;">B</span></a></b> </td>
+<td> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>10,000 </td>
+<td> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1,050
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions"><span style="color:#929292;">W</span></a></b><b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#424B50;">B2</span><span style="color:#E3CED0;">W2</span></a></b><br /><b><a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y"><span style="color:#025DA6;">X</span><span style="color:#981128;">Y</span></a><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#194166;">AS</span></a></b> </td>
+<td> N/A </td>
+<td> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1,050
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon"><span style="color:#F1912B">S</span><span style="color:#5599CA">M</span></a><a href="/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon" title="Pokémon Ultra Sun and Ultra Moon"><span style="color:#E95B2B">US</span><span style="color:#226DB5">UM</span></a></b> </td>
+<td> N/A </td>
+<td> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1,500
+</td></tr></table>
+</td></tr></table>
+<p>In the <a href="/wiki/Generation_V" title="Generation V">Generation V</a> games, the Moon Stone can be sold to an <a href="/wiki/Item_maniac" title="Item maniac">item maniac</a> inside the <a href="/wiki/Icirrus_City" title="Icirrus City">Icirrus City</a> <a href="/wiki/Pok%C3%A9mon_Center" title="Pokémon Center">Pokémon Center</a> for <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>3000.
+</p>
+<h3><span class="mw-headline" id="Effect">Effect</span></h3>
+<p>Can be used to evolve one of several Pokémon. This consumes the Moon Stone.
+</p>
+<ul><li>Causes <a href="/wiki/Nidorina_(Pok%C3%A9mon)" title="Nidorina (Pokémon)">Nidorina</a> to evolve into <a href="/wiki/Nidoqueen_(Pok%C3%A9mon)" title="Nidoqueen (Pokémon)">Nidoqueen</a></li>
+<li>Causes <a href="/wiki/Nidorino_(Pok%C3%A9mon)" title="Nidorino (Pokémon)">Nidorino</a> to evolve into <a href="/wiki/Nidoking_(Pok%C3%A9mon)" title="Nidoking (Pokémon)">Nidoking</a></li>
+<li>Causes <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> to evolve into <a href="/wiki/Clefable_(Pok%C3%A9mon)" title="Clefable (Pokémon)">Clefable</a></li>
+<li>Causes <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a> to evolve into <a href="/wiki/Wigglytuff_(Pok%C3%A9mon)" title="Wigglytuff (Pokémon)">Wigglytuff</a></li>
+<li>Causes <a href="/wiki/Skitty_(Pok%C3%A9mon)" title="Skitty (Pokémon)">Skitty</a> to evolve into <a href="/wiki/Delcatty_(Pok%C3%A9mon)" title="Delcatty (Pokémon)">Delcatty</a></li>
+<li>Causes <a href="/wiki/Munna_(Pok%C3%A9mon)" title="Munna (Pokémon)">Munna</a> to evolve into <a href="/wiki/Musharna_(Pok%C3%A9mon)" title="Musharna (Pokémon)">Musharna</a></li></ul>
+<h3><span class="mw-headline" id="Description">Description</span></h3>
+<table width="60%" style="background: #D880A8; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;; border: 5px solid #C86890;">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFFFFF; border:1px solid #D880A8; border-collapse:collapse;">
+
+<tr>
+<th> Games
+</th>
+<th> Description
+</th></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Stadium_(English)" title="Pokémon Stadium (English)"><span style="color:#000;">Stad</span></a></b>
+</td>
+<td> A <span class="sc">Stone</span> used for making certain kinds of Pokémon evolve.
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#DAA520;">G</span><span style="color:#C0C0C0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#4FD9FF;">C</span></a></b>
+</td>
+<td> Evolves certain kinds of <span class="sc">Pokémon</span>.
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions"><span style="color:#A00000;">R</span><span style="color:#0000A0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a></b>
+</td>
+<td> Makes certain species of <span class="sc">Pokémon</span> evolve.
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#FF7327;">FR</span><span style="color:#00DD00;">LG</span></a></b>
+</td>
+<td> A peculiar stone that makes certain species of <span class="sc">Pokémon</span> evolve. It is as black as the night sky.
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Colosseum" title="Pokémon Colosseum"><span style="color:#B6CAE4;">Colo.</span></a></b><b><a href="/wiki/Pok%C3%A9mon_XD:_Gale_of_Darkness" title="Pokémon XD: Gale of Darkness"><span style="color:#604E82;">XD</span></a></b>
+</td>
+<td> Makes certain species of <span class="sc">Pokémon</span> evolve.
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions"><span style="color:#AAAAFF;">D</span><span style="color:#FFAAAA;">P</span></a><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#B69E00;">HG</span><span style="color:#7D7D92;">SS</span></a></b><br /><b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions"><span style="color:#444444;">B</span><span style="color:#929292;">W</span></a><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#424B50;">B2</span><span style="color:#E3CED0;">W2</span></a></b>
+</td>
+<td> A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y"><span style="color:#025DA6;">X</span><span style="color:#981128;">Y</span></a><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#194166;">AS</span></a></b><br /><b><a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon"><span style="color:#F1912B">S</span><span style="color:#5599CA">M</span></a><a href="/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon" title="Pokémon Ultra Sun and Ultra Moon"><span style="color:#E95B2B">US</span><span style="color:#226DB5">UM</span></a></b>
+</td>
+<td> A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky.
+</td></tr></table>
+</td></tr></table>
+<h3><span class="mw-headline" id="Acquisition">Acquisition</span></h3>
+<table style="background:#D880A8; border:5px solid #C86890; width:100%" class="roundy">
+
+<tr>
+<td>
+<table border="1" style="background:#FFF; border:1px solid #D880A8; border-collapse:collapse">
+
+<tr>
+<th> Games
+</th>
+<th width="50%"> Finite&#160;methods
+</th>
+<th width="50%"> Repeatable&#160;methods
+</th></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Red_and_Green_Versions" title="Pokémon Red and Green Versions"><span style="color:#FF1111;">R</span><span style="color:#11BB11;">G</span></a><a href="/wiki/Pok%C3%A9mon_Blue_Version_(Japanese)" title="Pokémon Blue Version (Japanese)"><span style="color:#1111FF;">B</span></a><a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#FFD733;">Y</span></a></b><br /><b><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#FF1111;">R</span><span style="color:#1111FF;">B</span></a><a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#FFD733;">Y</span></a></b>
+</td>
+<td> <a href="/wiki/Kanto_Route_2" title="Kanto Route 2">Route 2</a>, <a href="/wiki/Mt._Moon" title="Mt. Moon">Mt. Moon</a> (×2), <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">Rocket Hideout</a>, <a href="/wiki/Pok%C3%A9mon_Mansion_(Kanto)" title="Pokémon Mansion (Kanto)">Pokémon Mansion</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#DAA520;">G</span><span style="color:#C0C0C0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#4FD9FF;">C</span></a></b>
+</td>
+<td> <a href="/wiki/Tohjo_Falls" title="Tohjo Falls">Tohjo Falls</a>, <a href="/wiki/Ruins_of_Alph" title="Ruins of Alph">Ruins of Alph</a><b><sup><a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#4FD9FF;">C</span></a></sup></b>, purchased by <a href="/wiki/Mom_(Johto)" title="Mom (Johto)">Mom</a>
+</td>
+<td> <a href="/wiki/Mt._Moon_Square" title="Mt. Moon Square">Mt. Moon Square</a><a href="/wiki/Days_of_the_week#Monday" title="Days of the week"><sup><b><span style="color:#DDDD33;">Mo</span></b></sup></a>, held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Clefairy" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> (8% chance)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions"><span style="color:#A00000;">R</span><span style="color:#0000A0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a></b>
+</td>
+<td> <a href="/wiki/Meteor_Falls" title="Meteor Falls">Meteor Falls</a>
+</td>
+<td> Held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Lunatone" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Lunatone_(Pok%C3%A9mon)" title="Lunatone (Pokémon)">Lunatone</a> (5% chance)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#FF7327;">FR</span><span style="color:#00DD00;">LG</span></a></b>
+</td>
+<td> <a href="/wiki/Mt._Moon" title="Mt. Moon">Mt. Moon</a> (×2), <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">Rocket Hideout</a>, <a href="/wiki/Pok%C3%A9mon_Mansion_(Kanto)" title="Pokémon Mansion (Kanto)">Pokémon Mansion</a>, <a href="/wiki/Two_Island_(town)" title="Two Island (town)">Two Island</a>
+</td>
+<td> Held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Clefairy" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> (5% chance)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions"><span style="color:#AAAAFF;">D</span><span style="color:#FFAAAA;">P</span></a><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a></b>
+</td>
+<td> <a href="/wiki/Eterna_City" title="Eterna City">Eterna City</a><b><sup><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a></sup></b>, <a href="/wiki/Mt._Coronet" title="Mt. Coronet">Mt. Coronet</a><b><sup><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a></sup></b>
+</td>
+<td> <a href="/wiki/The_Underground" title="The Underground">The Underground</a>; held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Lunatone" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Lunatone_(Pok%C3%A9mon)" title="Lunatone (Pokémon)">Lunatone</a> (5% chance), <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Clefairy" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> (5% chance), and <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Cleffa" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Cleffa_(Pok%C3%A9mon)" title="Cleffa (Pokémon)">Cleffa</a> (5% chance)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#B69E00;">HG</span><span style="color:#7D7D92;">SS</span></a></b>
+</td>
+<td> <a href="/wiki/Tohjo_Falls" title="Tohjo Falls">Tohjo Falls</a>, <a href="/wiki/Ruins_of_Alph" title="Ruins of Alph">Ruins of Alph</a>, purchased by the <a href="/wiki/Player_character" title="Player character">player</a>'s <a href="/wiki/Mom_(Johto)" title="Mom (Johto)">Mom</a>
+</td>
+<td> <a href="/wiki/Mt._Moon_Square" title="Mt. Moon Square">Mt. Moon Square</a><a href="/wiki/Days_of_the_week#Monday" title="Days of the week"><sup><b><span style="color:#DDDD33;">Mo</span></b></sup></a>, <a href="/wiki/Bug-Catching_Contest" title="Bug-Catching Contest">Bug-Catching Contest</a> first prize (post-<a href="/wiki/National_Pok%C3%A9dex" title="National Pokédex">National Pokédex</a>), <a href="/wiki/Pok%C3%A9athlon_Dome" title="Pokéathlon Dome">Pokéathlon Dome</a> (3000 Pts.)<a href="/wiki/Days_of_the_week#Monday" title="Days of the week"><sup><b><span style="color:#DDDD33;">Mo</span></b></sup></a><a href="/wiki/Days_of_the_week#Wednesday" title="Days of the week"><sup><b><span style="color:#3333DD;">We</span></b></sup></a>, held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Clefairy" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> (5% chance) and <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Lunatone" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Lunatone_(Pok%C3%A9mon)" title="Lunatone (Pokémon)">Lunatone</a> (5% chance)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9walker" title="Pokéwalker"><span style="color:#FF1111;">PW</span></a></b>
+</td>
+<td>
+</td>
+<td> <a href="/wiki/Volcano_Path_(Pok%C3%A9walker_Route)" title="Volcano Path (Pokéwalker Route)">Volcano Path</a>, <a href="/wiki/Night_Sky%27s_Edge_(Pok%C3%A9walker_Route)" title="Night Sky's Edge (Pokéwalker Route)">Night Sky's Edge</a>, <a href="/wiki/Amity_Meadow_(Pok%C3%A9walker_Route)" title="Amity Meadow (Pokéwalker Route)">Amity Meadow</a>
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions"><span style="color:#444444;">B</span><span style="color:#929292;">W</span></a></b>
+</td>
+<td> <a href="/wiki/Pinwheel_Forest" title="Pinwheel Forest">Pinwheel Forest</a>, <a href="/wiki/Twist_Mountain" title="Twist Mountain">Twist Mountain</a>
+</td>
+<td> <a href="/wiki/Phenomenon#Dust_cloud" title="Phenomenon">Dust clouds</a>; <a href="/wiki/Pickup_(Ability)" title="Pickup (Ability)">Pickup</a>; <a href="/wiki/Black_City" title="Black City">Black City</a><b><sup><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions"><span style="color:#444444;">B</span></a></sup></b>/<a href="/wiki/White_Forest" title="White Forest">White Forest</a><b><sup><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions"><span style="color:#929292;">W</span></a></sup></b> (Rosa); held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Clefairy" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> (5% chance), <a href="/wiki/Clefable_(Pok%C3%A9mon)" title="Clefable (Pokémon)">Clefable</a> (5% chance) and <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Lunatone" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Lunatone_(Pok%C3%A9mon)" title="Lunatone (Pokémon)">Lunatone</a> (5% chance)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#424B50;">B2</span><span style="color:#E3CED0;">W2</span></a></b>
+</td>
+<td> <a href="/wiki/Unova_Route_6" title="Unova Route 6">Route 6</a>, <a href="/wiki/Giant_Chasm" title="Giant Chasm">Giant Chasm</a>
+</td>
+<td> <a href="/wiki/Pickup_(Ability)" title="Pickup (Ability)">Pickup</a>; <a href="/wiki/Join_Avenue" title="Join Avenue">Join Avenue</a> (<a href="/wiki/Join_Avenue#Antique_Shop" title="Join Avenue">Antique Shop</a>); held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Clefairy" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> (5% chance), <a href="/wiki/Clefable_(Pok%C3%A9mon)" title="Clefable (Pokémon)">Clefable</a> (5% chance), and <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Lunatone" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Lunatone_(Pok%C3%A9mon)" title="Lunatone (Pokémon)">Lunatone</a> (5% chance);<br /><a href="/wiki/Phenomenon#Dust_cloud" title="Phenomenon">Dust clouds</a> (<a href="/wiki/Chargestone_Cave" title="Chargestone Cave">Chargestone Cave</a>, <a href="/wiki/Mistralton_Cave" title="Mistralton Cave">Mistralton Cave</a>, <a href="/wiki/Clay_Tunnel" title="Clay Tunnel">Clay Tunnel</a>, <a href="/wiki/Twist_Mountain" title="Twist Mountain">Twist Mountain</a>, <a href="/wiki/Underground_Ruins" title="Underground Ruins">Underground Ruins</a>, <a href="/wiki/Victory_Road_(Black_2_and_White_2)" title="Victory Road (Black 2 and White 2)">Victory Road</a>, <a href="/wiki/Wellspring_Cave" title="Wellspring Cave">Wellspring Cave</a>, <a href="/wiki/Seaside_Cave" title="Seaside Cave">Seaside Cave</a>, <a href="/wiki/Giant_Chasm" title="Giant Chasm">Giant Chasm</a>);<br /><a href="/wiki/Hidden_Grotto" title="Hidden Grotto">Hidden Grottoes</a> (<a href="/wiki/Route" title="Route">Routes</a> <a href="/wiki/Unova_Route_6" title="Unova Route 6">6</a>, <a href="/wiki/Unova_Route_13" title="Unova Route 13">13</a>; <a href="/wiki/Abundant_Shrine" title="Abundant Shrine">Abundant Shrine</a>);<br /><a href="/wiki/Pok%C3%A9mon_Dream_Radar" title="Pokémon Dream Radar">Pokémon Dream Radar</a> (regular areas after catching <a href="/wiki/Tornadus_(Pok%C3%A9mon)" title="Tornadus (Pokémon)">Tornadus</a>)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Dream_World" title="Pokémon Dream World"><span style="color:#EF52B2;">DW</span></a></b>
+</td>
+<td>
+</td>
+<td> <a href="/wiki/Rugged_Mountain_(Dream_World_area)" title="Rugged Mountain (Dream World area)">Rugged Mountain</a>
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y"><span style="color:#025DA6;">X</span><span style="color:#981128;">Y</span></a></b>
+</td>
+<td> <a href="/wiki/Reflection_Cave" title="Reflection Cave">Reflection Cave</a>, <a href="/wiki/Terminus_Cave" title="Terminus Cave">Terminus Cave</a>
+</td>
+<td> <a href="/wiki/Pickup_(Ability)" title="Pickup (Ability)">Pickup</a>, <a href="/wiki/Super_Training#Secret_Super_Training" title="Super Training">Secret Super Training</a> (Drag Down Hydreigon!), <a href="/wiki/Kalos_Route_18" title="Kalos Route 18">Route 18</a> (from Psychic <a href="/wiki/Inver" title="Inver">Inver</a>), held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Lunatone" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Lunatone_(Pok%C3%A9mon)" title="Lunatone (Pokémon)">Lunatone</a> (5% chance)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#194166;">AS</span></a></b>
+</td>
+<td> <a href="/wiki/Meteor_Falls" title="Meteor Falls">Meteor Falls</a>
+</td>
+<td> <a href="/wiki/Pickup_(Ability)" title="Pickup (Ability)">Pickup</a>, <a href="/wiki/Mauville_City" title="Mauville City">Mauville City</a> (<a href="/wiki/Mauville_City#Inverse_Battle_Stop" title="Mauville City">Inverse Battle Stop</a>), <a href="/wiki/Super_Training#Secret_Super_Training" title="Super Training">Secret Super Training</a> (Drag Down Hydreigon!), <a href="/wiki/Jagged_Pass" title="Jagged Pass">Jagged Pass</a> (rematch with <a href="/wiki/Expert_(Trainer_class)" title="Expert (Trainer class)">Expert</a> Shelby), <a href="/wiki/Secret_Base" title="Secret Base">Secret Base</a> ("Pick up stones" with <a href="/wiki/Secret_Base#Secret_Pal" title="Secret Base">Secret Pal</a>), held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Clefairy" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> (5% chance) and <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Lunatone" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Lunatone_(Pok%C3%A9mon)" title="Lunatone (Pokémon)">Lunatone</a> (5% chance)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9Mileage_Club" title="PokéMileage Club"><span style="color:#379AD8;">PMC</span></a></b>
+</td>
+<td>
+</td>
+<td> <a href="/wiki/Pok%C3%A9Mileage_Club#Balloon_Popping" title="PokéMileage Club">Balloon Popping</a> (Lv. 3)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon"><span style="color:#F1912B">S</span><span style="color:#5599CA">M</span></a></b>
+</td>
+<td> <a href="/wiki/Alola_Route_13" title="Alola Route 13">Route 13</a>, <a href="/wiki/Haina_Desert" title="Haina Desert">Haina Desert</a><b><sup><a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon"><span style="color:#5599CA">M</span></a></sup></b>
+</td>
+<td> <a href="/wiki/Pok%C3%A9_Pelago" title="Poké Pelago">Poké Pelago</a> (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting); held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Cleffa" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Cleffa_(Pok%C3%A9mon)" title="Cleffa (Pokémon)">Cleffa</a> (5% chance), <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Clefairy" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> (5% chance), and <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Jigglypuff" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a> (5% chance), <a href="/wiki/Pickup_(Ability)" title="Pickup (Ability)">Pickup</a>
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon" title="Pokémon Ultra Sun and Ultra Moon"><span style="color:#E95B2B">US</span><span style="color:#226DB5">UM</span></a></b>
+</td>
+<td> <a href="/wiki/Alola_Route_13" title="Alola Route 13">Route 13</a>, <a href="/wiki/Haina_Desert" title="Haina Desert">Haina Desert</a><b><sup><a href="/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon" title="Pokémon Ultra Sun and Ultra Moon"><span style="color:#226DB5">UM</span></a></sup></b>
+</td>
+<td> <a href="/wiki/Pok%C3%A9_Pelago" title="Poké Pelago">Poké Pelago</a> (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting); held by <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Cleffa" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Cleffa_(Pok%C3%A9mon)" title="Cleffa (Pokémon)">Cleffa</a> (5% chance), <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Clefairy" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> (5% chance), and <a href="/wiki/List_of_Pok%C3%A9mon_by_wild_held_item#Jigglypuff" title="List of Pokémon by wild held item">wild</a> <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a> (5% chance), <a href="/wiki/Pickup_(Ability)" title="Pickup (Ability)">Pickup</a>
+</td></tr></table>
+</td></tr></table>
+<h3><span class="mw-headline" id="Appearance">Appearance</span></h3>
+<p>This is the appearance of the Moon Stone in the <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a> <a href="/wiki/The_Underground" title="The Underground">Underground</a>.
+</p>
+<table class="roundy" style="margin:auto; text-align:center; background: #353535; border: 5px solid #525252">
+
+<tr>
+<td width="160px" style="background: #C86890; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> <a href="/wiki/File:Mine_Moon_Stone_1.png" class="image"><img alt="Mine Moon Stone 1.png" src="//cdn.bulbagarden.net/upload/2/2e/Mine_Moon_Stone_1.png" width="64" height="32" /></a><a href="/wiki/File:Mine_Moon_Stone_2.png" class="image"><img alt="Mine Moon Stone 2.png" src="//cdn.bulbagarden.net/upload/5/54/Mine_Moon_Stone_2.png" width="32" height="64" /></a>
+</td></tr>
+<tr>
+<td style="background: #D880A8; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Moon Stone
+</td></tr></table><br clear="all" />
+<h3><span class="mw-headline" id="Artwork">Artwork</span></h3>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:23.5px auto;"><a href="/wiki/File:RG_Moon_Stone.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/d/d6/RG_Moon_Stone.png/120px-RG_Moon_Stone.png" width="120" height="103" srcset="//cdn.bulbagarden.net/upload/thumb/d/d6/RG_Moon_Stone.png/180px-RG_Moon_Stone.png 1.5x, //cdn.bulbagarden.net/upload/d/d6/RG_Moon_Stone.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Moon Stone artwork from <a href="/wiki/Generation_I" title="Generation I">Generation I</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="In_spin-off_games">In spin-off games</span></h2>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Mystery_Dungeon_series">Pokémon Mystery Dungeon series</span></h3>
+<p>The Moon Stone appears in <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Red_Rescue_Team_and_Blue_Rescue_Team" title="Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team">Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team</a> and <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon" class="mw-disambig" title="Pokémon Mystery Dungeon">Pokémon Mystery Dungeon</a>: <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness" title="Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness">Explorers of Time, Explorers of Darkness</a>, and <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Sky" title="Pokémon Mystery Dungeon: Explorers of Sky">Explorers of Sky</a>.
+</p>
+<h4><span class="mw-headline" id="Price_2">Price</span></h4>
+<table style="background:#D880A8; border:5px solid #C86890" class="roundy">
+
+<tr>
+<td>
+<table border="1" style="background:#FFF; border:1px solid #D880A8; border-collapse:collapse">
+
+<tr>
+<th style="padding-left: 3px; padding-right: 3px"> Games
+</th>
+<th style="padding-left: 3px; padding-right: 3px"> Cost
+</th>
+<th style="padding-left: 3px; padding-right: 3px"> Sell&#160;price
+</th></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Red_Rescue_Team_and_Blue_Rescue_Team" title="Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team"><span style="color:#000;">MD</span><span style="color:#C50C50;">R</span><span style="color:#095BAF;">B</span></a></b> </td>
+<td> 3000<a href="/wiki/Pok%C3%A9" title="Poké"><img alt="Poké currency.png" src="//cdn.bulbagarden.net/upload/3/30/Pok%C3%A9_currency.png" width="14" height="11" /></a> </td>
+<td> 1<a href="/wiki/Pok%C3%A9" title="Poké"><img alt="Poké currency.png" src="//cdn.bulbagarden.net/upload/3/30/Pok%C3%A9_currency.png" width="14" height="11" /></a>
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness" title="Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness"><span style="color:#000;">MD</span><span style="color:#2190c7;">T</span><span style="color:#c3141b;">D</span></a><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Sky" title="Pokémon Mystery Dungeon: Explorers of Sky"><span style="color:#7bb54f;">S</span></a></b> </td>
+<td> 1000<a href="/wiki/Pok%C3%A9" title="Poké"><img alt="Poké currency.png" src="//cdn.bulbagarden.net/upload/3/30/Pok%C3%A9_currency.png" width="14" height="11" /></a> </td>
+<td> 1<a href="/wiki/Pok%C3%A9" title="Poké"><img alt="Poké currency.png" src="//cdn.bulbagarden.net/upload/3/30/Pok%C3%A9_currency.png" width="14" height="11" /></a>
+</td></tr></table>
+</td></tr></table>
+<h4><span class="mw-headline" id="Effect_2">Effect</span></h4>
+<p>If the player offers a Moon Stone at <a href="/wiki/Luminous_Cave" title="Luminous Cave">Luminous Cave</a> or <a href="/wiki/Luminous_Spring" title="Luminous Spring">Luminous Spring</a>, <a href="/wiki/Nidorina_(Pok%C3%A9mon)" title="Nidorina (Pokémon)">Nidorina</a>, <a href="/wiki/Nidorino_(Pok%C3%A9mon)" title="Nidorino (Pokémon)">Nidorino</a>, <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a>, <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a>, and <a href="/wiki/Skitty_(Pok%C3%A9mon)" title="Skitty (Pokémon)">Skitty</a> can be <a href="/wiki/Evolution" title="Evolution">evolved</a> into <a href="/wiki/Nidoqueen_(Pok%C3%A9mon)" title="Nidoqueen (Pokémon)">Nidoqueen</a>, <a href="/wiki/Nidoking_(Pok%C3%A9mon)" title="Nidoking (Pokémon)">Nidoking</a>, <a href="/wiki/Clefable_(Pok%C3%A9mon)" title="Clefable (Pokémon)">Clefable</a>, <a href="/wiki/Wigglytuff_(Pok%C3%A9mon)" title="Wigglytuff (Pokémon)">Wigglytuff</a>, and <a href="/wiki/Delcatty_(Pok%C3%A9mon)" title="Delcatty (Pokémon)">Delcatty</a>, respectively. This consumes the Moon Stone.
+</p><p>If thrown, it will deal 1 damage (2 if <a href="/wiki/Sticky" class="mw-redirect" title="Sticky">sticky</a>). Using this item in a dungeon will consume it, with no effect.
+</p>
+<h4><span class="mw-headline" id="Description_2">Description</span></h4>
+<table width="60%" style="background: #D880A8; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;; border: 5px solid #C86890;">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFFFFF; border:1px solid #D880A8; border-collapse:collapse;">
+
+<tr>
+<th> Games
+</th>
+<th> Description
+</th></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Red_Rescue_Team_and_Blue_Rescue_Team" title="Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team"><span style="color:#000;">MD</span><span style="color:#C50C50;">R</span><span style="color:#095BAF;">B</span></a></b>
+</td>
+<td> It enables certain kinds of Pokémon to evolve. Give it to the Pokémon when it's ready to evolve.
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness" title="Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness"><span style="color:#000;">MD</span><span style="color:#2190c7;">T</span><span style="color:#c3141b;">D</span></a><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Sky" title="Pokémon Mystery Dungeon: Explorers of Sky"><span style="color:#7bb54f;">S</span></a></b>
+</td>
+<td> An odd stone that gleams like the moon in the evening sky. It allows certain kinds of Pokémon to evolve.
+</td></tr></table>
+</td></tr></table>
+<h4><span class="mw-headline" id="Acquisition_2">Acquisition</span></h4>
+<table style="background:#D880A8; border:5px solid #C86890; width:100%" class="roundy">
+
+<tr>
+<td>
+<table border="1" style="background:#FFF; border:1px solid #D880A8; border-collapse:collapse">
+
+<tr>
+<th> Games
+</th>
+<th width="50%"> Finite&#160;methods
+</th>
+<th width="50%"> Repeatable&#160;methods
+</th></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Red_Rescue_Team_and_Blue_Rescue_Team" title="Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team"><span style="color:#000;">MD</span><span style="color:#C50C50;">R</span><span style="color:#095BAF;">B</span></a></b>
+</td>
+<td>
+</td>
+<td> <a href="/wiki/Solar_Cave" title="Solar Cave">Solar Cave</a> (1-20F), <a href="/wiki/Wish_Cave" title="Wish Cave">Wish Cave</a> (Kecleon Shop: 13, 26, 33, 41, 49, 59, 65, 71, 78, 83, 88, 93F)
+</td></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness" title="Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness"><span style="color:#000;">MD</span><span style="color:#2190c7;">T</span><span style="color:#c3141b;">D</span></a><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Sky" title="Pokémon Mystery Dungeon: Explorers of Sky"><span style="color:#7bb54f;">S</span></a></b>
+</td>
+<td>
+</td>
+<td> <a href="/wiki/Treasure_box" title="Treasure box">Treasure boxes</a>, Job requests (★3-★9)<br /><a href="/wiki/Mystifying_Forest" title="Mystifying Forest">Mystifying Forest</a> (Kecleon Shop: 5F, 7F, 9F, 11F, 13F), <a href="/wiki/Lake_Afar" title="Lake Afar">Lake Afar</a> (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F), <a href="/wiki/Midnight_Forest" title="Midnight Forest">Midnight Forest</a> (Kecleon Shop: B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F)
+</td></tr></table>
+</td></tr></table>
+<h4><span class="mw-headline" id="Appearance_2">Appearance</span></h4>
+<table style="margin:auto; text-align:center; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; border:2px solid #B85078; background:#C86890; font-size:80%">
+
+<tr>
+<td style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; border:2px solid #B85078; background:#D880A8; width:50%"> <a href="/wiki/File:MDBag_Moon_Stone_III_Sprite.png" class="image"><img alt="MDBag Moon Stone III Sprite.png" src="//cdn.bulbagarden.net/upload/4/47/MDBag_Moon_Stone_III_Sprite.png" width="16" height="16" /></a>
+</td>
+<td style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; border:2px solid #B85078; background:#D880A8; width:50%"> <a href="/wiki/File:MDBag_Moon_Stone_Sprite.png" class="image"><img alt="MDBag Moon Stone Sprite.png" src="//cdn.bulbagarden.net/upload/4/48/MDBag_Moon_Stone_Sprite.png" width="16" height="16" /></a>
+</td></tr>
+<tr>
+<td> Sprite from<br /><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Red_Rescue_Team_and_Blue_Rescue_Team" title="Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team"><span style="color:#000;">Red Rescue Team and<br />Blue Rescue Team</span></a>
+</td>
+<td> Sprite from<br /><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness" title="Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness"><span style="color:#000;">Explorers of Time,<br />Darkness</span></a>, and <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Sky" title="Pokémon Mystery Dungeon: Explorers of Sky"><span style="color:#000;">Sky</span></a>
+</td></tr></table>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Conquest">Pokémon Conquest</span></h3>
+<p>In <a href="/wiki/Pok%C3%A9mon_Conquest" title="Pokémon Conquest">Pokémon Conquest</a>, <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a> and <a href="/wiki/Munna_(Pok%C3%A9mon)" title="Munna (Pokémon)">Munna</a> evolve into <a href="/wiki/Wigglytuff_(Pok%C3%A9mon)" title="Wigglytuff (Pokémon)">Wigglytuff</a> and <a href="/wiki/Musharna_(Pok%C3%A9mon)" title="Musharna (Pokémon)">Musharna</a>, respectively, if their <a href="/wiki/Link" title="Link">link</a> is improved while their <a href="/wiki/Warrior" title="Warrior">Warrior</a> is equipped with a Moon Stone.
+</p><p>A Moon Stone can be purchased from the <a href="/wiki/Pok%C3%A9mon_Conquest#Traveling_merchant" title="Pokémon Conquest">traveling merchant</a> for 5000 gold, and sold for 2500-3250 gold.
+</p>
+<h4><span class="mw-headline" id="Description_3">Description</span></h4>
+<table width="60%" style="background: #D880A8; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;; border: 5px solid #C86890;">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFFFFF; border:1px solid #D880A8; border-collapse:collapse;">
+
+<tr>
+<th> Games
+</th>
+<th> Description
+</th></tr>
+<tr>
+<td> <b><a href="/wiki/Pok%C3%A9mon_Conquest" title="Pokémon Conquest"><span style="color:#807544;">Conq.</span></a></b>
+</td>
+<td> Enables certain Pokémon to evolve.
+</td></tr></table>
+</td></tr></table>
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Moon_Stone_BW135.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/5/50/Moon_Stone_BW135.png/250px-Moon_Stone_BW135.png" width="250" height="141" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/5/50/Moon_Stone_BW135.png/375px-Moon_Stone_BW135.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/50/Moon_Stone_BW135.png/500px-Moon_Stone_BW135.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Moon_Stone_BW135.png" class="internal" title="Enlarge"></a></div>A Moon Stone in the anime</div></div></div>
+<p>In <i><a href="/wiki/EP006" title="EP006">Clefairy and the Moon Stone</a></i>, a giant Moon Stone appeared deep within <a href="/wiki/Mt._Moon" title="Mt. Moon">Mt. Moon</a>, being worshipped by a group of <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> who lived there. It was soon stolen by <a href="/wiki/Team_Rocket_trio" title="Team Rocket trio">Team Rocket</a>, and ultimately ended up being blown up; the shards from the shattered giant Moon Stone rained down on the Clefairy and caused some of them to evolve into <a href="/wiki/Clefable_(Pok%C3%A9mon)" title="Clefable (Pokémon)">Clefable</a>. In this episode, the characters speculated that the Moon Stone was how various Pokémon—Clefairy in particular—arrived in the Pokémon world. Another giant Moon Stone was later seen in the same location in <i><a href="/wiki/AG134" title="AG134">A Real Cleffa-Hanger</a></i>.
+</p><p>A Moon Stone appeared in a flashback in <i><a href="/wiki/AG060" title="AG060">Delcatty Got Your Tongue?</a></i>, evolving <a href="/wiki/Dr._Abby" title="Dr. Abby">Dr. Abby</a>'s Skitty into a Delcatty.
+</p><p><i><a href="/wiki/BW135" title="BW135">Mystery on a Deserted Island!</a></i> featured the Moon Stone along with all of the other Evolution stones available as of <a href="/wiki/Generation_V" title="Generation V">Generation V</a>.
+</p><p>A full set of Evolution stones was seen on display in a stone shop in <a href="/wiki/Geosenge_Town" title="Geosenge Town">Geosenge Town</a> in <i><a href="/wiki/XY031" title="XY031">The Cave of Trials!</a></i>.
+</p><p>A Moon Stone appeared in a fantasy in <a href="/wiki/SM044" title="SM044">SM044</a>, where it was revealed that <a href="/wiki/Lusamine" title="Lusamine">Lusamine</a> had used one to evolve her Clefairy into a Clefable.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:29px auto;"><a href="/wiki/File:Large_Moon_Stone.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/2/28/Large_Moon_Stone.png/120px-Large_Moon_Stone.png" width="120" height="92" srcset="//cdn.bulbagarden.net/upload/thumb/2/28/Large_Moon_Stone.png/180px-Large_Moon_Stone.png 1.5x, //cdn.bulbagarden.net/upload/thumb/2/28/Large_Moon_Stone.png/240px-Large_Moon_Stone.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>A giant Moon Stone
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:29px auto;"><a href="/wiki/File:Moon_Stone_EP006.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/6/65/Moon_Stone_EP006.png/120px-Moon_Stone_EP006.png" width="120" height="92" srcset="//cdn.bulbagarden.net/upload/thumb/6/65/Moon_Stone_EP006.png/180px-Moon_Stone_EP006.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/65/Moon_Stone_EP006.png/240px-Moon_Stone_EP006.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Seymour" title="Seymour">Seymour</a> inspecting a Moon Stone in <i><a href="/wiki/EP006" title="EP006">Clefairy and the Moon Stone</a></i>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<h3><span class="mw-headline" id="In_The_Electric_Tale_of_Pikachu_manga">In The Electric Tale of Pikachu manga</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Evolutionary_stones_EToP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/8c/Evolutionary_stones_EToP.png/250px-Evolutionary_stones_EToP.png" width="250" height="120" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/8/8c/Evolutionary_stones_EToP.png/375px-Evolutionary_stones_EToP.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/8c/Evolutionary_stones_EToP.png/500px-Evolutionary_stones_EToP.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Evolutionary_stones_EToP.png" class="internal" title="Enlarge"></a></div>Evolution stones in The Electric Tale of Pikachu</div></div></div>
+<p>In <i><a href="/wiki/ET03" title="ET03">Clefairy Tale</a></i>, <a href="/wiki/Ash_Ketchum_(EToP)" title="Ash Ketchum (EToP)">Ash</a>, <a href="/wiki/Professor_Oak_(anime)" title="Professor Oak (anime)">Professor Oak</a>, and <a href="/wiki/Bill" title="Bill">Bill</a> witnessed a <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> evolution ceremony involving a large Moon Stone.
+</p><p>The focus of the chapter <i><a href="/wiki/ET06" title="ET06">To Evolve or Not to Evolve, That Is the Question!</a></i> was Evolution stones, including the Moon Stone.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:171px;"><a href="/wiki/File:Moon_Stone_Adventures.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/2/2c/Moon_Stone_Adventures.png" width="169" height="218" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Moon_Stone_Adventures.png" class="internal" title="Enlarge"></a></div>A Moon Stone in Pokémon Adventures</div></div></div>
+<p>A Moon Stone was first mentioned by <a href="/wiki/Professor_Oak_(Adventures)" title="Professor Oak (Adventures)">Professor Oak</a> in <i><a href="/wiki/PS006" title="PS006">Gyarados Splashes In!</a></i> as a rock with a crescent moon-shaped indentation that boosts a Pokémon's power immensely. In <a href="/wiki/PS007" title="PS007">the next round</a>, <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a> searched for one in <a href="/wiki/Mt._Moon" title="Mt. Moon">Mt. Moon</a>. However, it was <a href="/wiki/Red_(Adventures)" title="Red (Adventures)">Red</a> who eventually found it. In <i><a href="/wiki/PS033" title="PS033">The Winged Legends</a></i>, Red used his Moon Stone to evolve <a href="/wiki/Green_(Adventures)" title="Green (Adventures)">Green</a>'s <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> into a <a href="/wiki/Clefable_(Pok%C3%A9mon)" title="Clefable (Pokémon)">Clefable</a> in order to fight <a href="/wiki/Thu-Fi-Zer" class="mw-redirect" title="Thu-Fi-Zer">Thu-Fi-Zer</a> during the <a href="/wiki/Silph_Co." title="Silph Co.">Silph Co.</a> showdown with Team Rocket.
+</p><p>In <i><a href="/wiki/PS194" title="PS194">Guile from Mawile</a></i>, <a href="/wiki/Ruby_(Adventures)" title="Ruby (Adventures)">Ruby</a>'s <a href="/wiki/Kiki" title="Kiki">Skitty</a> evolved into a <a href="/wiki/Delcatty_(Pok%C3%A9mon)" title="Delcatty (Pokémon)">Delcatty</a> due to being exposed to one of <a href="/wiki/Steven_Stone" title="Steven Stone">Steven</a>'s Moon Stones.
+</p><p>In <i><a href="/wiki/PS288" title="PS288">Give It Your Best, Blastoise</a></i>, during the battle against the <a href="/wiki/Deoxys_(Adventures)" title="Deoxys (Adventures)">Deoxys</a> Duplicates, <a href="/wiki/Green_(Adventures)" title="Green (Adventures)">Green</a> evolved her <a href="/wiki/Jiggly" title="Jiggly">Jiggly</a> and Nido into <a href="/wiki/Wigglytuff_(Pok%C3%A9mon)" title="Wigglytuff (Pokémon)">Wigglytuff</a> and <a href="/wiki/Nidoqueen_(Pok%C3%A9mon)" title="Nidoqueen (Pokémon)">Nidoqueen</a>, respectively, using two Moon Stones.
+</p><p>In <i><a href="/wiki/PS522" title="PS522">Homecoming</a></i>, it was revealed that <a href="/wiki/Black_(Adventures)" title="Black (Adventures)">Black</a>'s <a href="/wiki/Musha" title="Musha">Musha</a> evolved into a <a href="/wiki/Musharna_(Pok%C3%A9mon)" title="Musharna (Pokémon)">Musharna</a> using a Moon Stone received from <a href="/wiki/Caitlin" title="Caitlin">Caitlin</a>.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Moon_Stone_FRLG_Adventures.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/3/3d/Moon_Stone_FRLG_Adventures.png/117px-Moon_Stone_FRLG_Adventures.png" width="117" height="120" srcset="//cdn.bulbagarden.net/upload/3/3d/Moon_Stone_FRLG_Adventures.png 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>Two Moon Stones in the <a href="/wiki/FireRed_%26_LeafGreen_chapter_(Adventures)" title="FireRed &amp; LeafGreen chapter (Adventures)"><i>FireRed &amp; LeafGreen</i> chapter</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="In_the_TCG">In the TCG</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:MoonStoneVendingS1.jpg" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/f/f3/MoonStoneVendingS1.jpg/200px-MoonStoneVendingS1.jpg" width="200" height="283" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/f/f3/MoonStoneVendingS1.jpg/300px-MoonStoneVendingS1.jpg 1.5x, //cdn.bulbagarden.net/upload/f/f3/MoonStoneVendingS1.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:MoonStoneVendingS1.jpg" class="internal" title="Enlarge"></a></div>Moon Stone</div></div></div>
+<dl><dd><i>Main article: <a href="/wiki/Moon_Stone_(Vending_S1)" title="Moon Stone (Vending S1)">Moon Stone (Vending S1)</a></i></dd></dl>
+<p>The <b>Moon Stone</b> was released as a <a href="/wiki/Trainer_card_(TCG)" title="Trainer card (TCG)">Trainer card</a> in the <a href="/wiki/Pok%C3%A9mon_Trading_Card_Game" title="Pokémon Trading Card Game">Pokémon Trading Card Game</a> during the Japanese Original Era with <a href="/wiki/Extended_Sheet_1_(TCG)" class="mw-redirect" title="Extended Sheet 1 (TCG)">Extended Sheet 1</a>. The card was only ever released in Japanese and has never been reprinted. It allows the player to add 1 <a href="/wiki/Colorless_(TCG)" title="Colorless (TCG)">Colorless</a> <a href="/wiki/Evolution_card_(TCG)" class="mw-redirect" title="Evolution card (TCG)">Evolution card</a> from their deck to their hand.
+</p><p>Unrelated to the other TCG card, a Moon Stone appears as a <a href="/wiki/Held_item" title="Held item">held item</a> on the <a href="/wiki/Secret_Wonders_(TCG)" title="Secret Wonders (TCG)">Secret Wonders</a> <a href="/wiki/Clefairy_(Secret_Wonders_83)" title="Clefairy (Secret Wonders 83)">Clefairy</a> card. It allows Clefairy to evolve on the turn it is played.
+<br clear="all" />
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> From <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> onward, the <a href="/wiki/Pok%C3%A9_Ball#Moon_Ball" title="Poké Ball">Moon Ball</a> is more likely to catch Pokémon that evolve via Moon Stone. While this was intended to be the case in <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, the Poké Ball always has 1× effectiveness due to a bug.</li>
+<li> Through <a href="/wiki/List_of_glitches_in_Generation_I#Evolutionary_stone_bypassing" title="List of glitches in Generation I">a glitch</a> in the Generation I games, Pokémon that would normally require an <a href="/wiki/Evolution_stone" class="mw-redirect" title="Evolution stone">Evolution stone</a> to evolve can be evolved without it, provided that the Pokémon levels up in the battle and the player has sent out a specific Pokémon in the same battle. In the case of the Moon Stone, this Pokémon is <a href="/wiki/Exeggutor_(Pok%C3%A9mon)" title="Exeggutor (Pokémon)">Exeggutor</a>.</li>
+<li> The <a href="https://en.wikipedia.org/wiki/Moonstone_(gemstone)" class="extiw" title="wp:Moonstone (gemstone)">Moon Stone</a> shares its name with an actual <a href="https://en.wikipedia.org/wiki/gemstone" class="extiw" title="wp:gemstone">gemstone</a>.</li>
+<li> In the <a href="/wiki/Chuang_Yi" title="Chuang Yi">Chuang Yi</a> translation of <a href="/wiki/Pok%C3%A9mon_Pocket_Monsters" title="Pokémon Pocket Monsters">Pokémon Pocket Monsters</a> the Moon Stone is called <i>Moon Rock</i>.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #D880A8; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #B85078; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #D880A8; border-collapse:collapse">
+
+<tr style="background: #D880A8">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 月之石 <i><span class="explain" title="Moon Stone">Yuht-jī Sehk</span></i>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 月之石 <i><span class="explain" title="Moon Stone">Yuè-zhī Shí</span></i> <span class="explain" title="Games, Later Anime">*</span><br />月亮石 <i><span class="explain" title="Moon Stone">Yuèliàng Shí</span></i> <span class="explain" title="Early Anime">*</span>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:The_Czech_Republic_Flag.png" class="image"><img alt="The Czech Republic Flag.png" src="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/20px-The_Czech_Republic_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/30px-The_Czech_Republic_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/40px-The_Czech_Republic_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Czech_Republic" title="Pokémon in the Czech Republic">Czech</a>
+</td>
+<td> Měsíční kámen
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> Månesten
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Kuukivi
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Pierre Lune
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Mondstein
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Hungary_Flag.png" class="image"><img alt="Hungary Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/20px-Hungary_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/30px-Hungary_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/40px-Hungary_Flag.png 2x" /></a> Hungarian
+</td>
+<td> Holdkő
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Pietralunare
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 달의돌 <i>Dar-ui Dol</i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Månestein
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Kamień Księżycowy
+</td></tr>
+
+<tr>
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> Pedra da Lua
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> Pedra da Lua <span class="explain" title="EP006">*</span><br />Pedra Lua
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Romania_Flag.png" class="image"><img alt="Romania Flag.png" src="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/20px-Romania_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/30px-Romania_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/40px-Romania_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Romania" title="Pokémon in Romania">Romanian</a>
+</td>
+<td> Piatra Lunii
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Лунный камень <i>Lunnyy kamen'</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Piedra Lunar
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Månsten<br />Moon Stone<span class="explain" title="Pokémon TV description">*</span>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Turkey_Flag.png" class="image"><img alt="Turkey Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/20px-Turkey_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/30px-Turkey_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/40px-Turkey_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Turkey" title="Pokémon in Turkey">Turkish</a>
+</td>
+<td> Ay Taşı
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> Đá mặt trăng
+</td></tr>
+<tr>
+<td colspan="3" style="background: #D880A8">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://veekun.com/dex/items/misc/Moon%20Stone">On Eevee's Itemdex</a></li></ul>
+<p><br clear="all" />
+</p>
+<table align="center" class="toccolours" cellspacing="2" style="border: 3px solid #88a; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; padding-bottom: 5px;">
+
+<tr>
+<th style="background: #ccf; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; padding-bottom: 5px;"> <a href="/wiki/Evolution_stone" class="mw-redirect" title="Evolution stone">Evolution stones</a>
+</th></tr>
+
+<tr>
+<td style="font-size:90%;" align="center"> <a href="/wiki/Fire_Stone" title="Fire Stone">Fire Stone</a> • <a href="/wiki/Water_Stone" title="Water Stone">Water Stone</a> • <a href="/wiki/Thunder_Stone" title="Thunder Stone">Thunder Stone</a> • <a href="/wiki/Leaf_Stone" title="Leaf Stone">Leaf Stone</a> • <a class="mw-selflink selflink">Moon Stone</a><br /><a href="/wiki/Sun_Stone" title="Sun Stone">Sun Stone</a> • <a href="/wiki/Shiny_Stone" title="Shiny Stone">Shiny Stone</a> • <a href="/wiki/Dusk_Stone" title="Dusk Stone">Dusk Stone</a> • <a href="/wiki/Dawn_Stone" title="Dawn Stone">Dawn Stone</a> • <a href="/wiki/Ice_Stone" title="Ice Stone">Ice Stone</a>
+</td></tr></table><br />
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_ItemDex_logo.png" class="image"><img alt="Project ItemDex logo.png" src="//cdn.bulbagarden.net/upload/6/60/Project_ItemDex_logo.png" width="80" height="80" /></a>
+</td>
+<td> This item article is part of <b><a href="/wiki/Bulbapedia:Project_ItemDex" title="Bulbapedia:Project ItemDex">Project ItemDex</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on all <a href="/wiki/Item" title="Item">items</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180130170141
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.316 seconds
+Real time usage: 0.441 seconds
+Preprocessor visited node count: 4376/1000000
+Preprocessor generated node count: 15426/1000000
+Post‐expand include size: 51757/2097152 bytes
+Template argument size: 13120/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  262.235      1 -total
+ 25.05%   65.690      8 Template:ItemPrice
+ 18.63%   48.863     90 Template:Color
+  9.71%   25.474      1 Template:Langtable
+  7.73%   20.266     10 Template:Movedescentry
+  5.36%   14.061      5 Template:Gameabbrev3
+  5.33%   13.982     24 Template:Color2
+  5.10%   13.373      4 Template:Gameabbrev4
+  4.77%   12.497      4 Template:Gameabbrev1
+  4.72%   12.372      6 Template:Gameabbrevmd
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:7171-0!*!0!!en!5!* and timestamp 20180130170141 and revision id 2731160
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Moon_Stone&amp;oldid=2731160">https://bulbapedia.bulbagarden.net/w/index.php?title=Moon_Stone&amp;oldid=2731160</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Evolution_stones" title="Category:Evolution stones">Evolution stones</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_Mystery_Dungeon_items" title="Category:Pokémon Mystery Dungeon items">Pokémon Mystery Dungeon items</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_Conquest_items" title="Category:Pokémon Conquest items">Pokémon Conquest items</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Moon_Stone" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Moon_Stone" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Moon_Stone&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Moon_Stone&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Moon+Stone" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Moon+Stone" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Moon_Stone" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Moon_Stone" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Moon_Stone&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Moon_Stone&amp;oldid=2731160" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Moon_Stone&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Mondstein" title="Mondstein – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Pierre_Lune" title="Pierre Lune – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%81%A4%E3%81%8D%E3%81%AE%E3%81%84%E3%81%97" title="つきのいし – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Kamie%C5%84_Ksi%C4%99%C5%BCycowy" title="Kamień Księżycowy – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E6%9C%88%E4%B9%8B%E7%9F%B3%EF%BC%88%E9%81%93%E5%85%B7%EF%BC%89" title="月之石（道具） – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 17 January 2018, at 06:29.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Moon_Stone&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.441","ppvisitednodes":{"value":4376,"limit":1000000},"ppgeneratednodes":{"value":15426,"limit":1000000},"postexpandincludesize":{"value":51757,"limit":2097152},"templateargumentsize":{"value":13120,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  262.235      1 -total"," 25.05%   65.690      8 Template:ItemPrice"," 18.63%   48.863     90 Template:Color","  9.71%   25.474      1 Template:Langtable","  7.73%   20.266     10 Template:Movedescentry","  5.36%   14.061      5 Template:Gameabbrev3","  5.33%   13.982     24 Template:Color2","  5.10%   13.373      4 Template:Gameabbrev4","  4.77%   12.497      4 Template:Gameabbrev1","  4.72%   12.372      6 Template:Gameabbrevmd"]},"cachereport":{"timestamp":"20180130170141","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

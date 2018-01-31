@@ -1,0 +1,1720 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Legendary Pokémon - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Legendary_Pokémon","wgTitle":"Legendary Pokémon","wgCurRevisionId":2737376,"wgRevisionId":2737376,"wgArticleId":1513,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Featured articles","Lists of Pokémon","Pokémon world","Terminology","Legendary Pokémon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Legendary_Pokémon","wgRelevantArticleId":1513,"wgRequestId":"33a38c8fb156883e5020e981","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/thumb/f/f9/Entei_Book.png/1200px-Entei_Book.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Legendary_Pok%C3%A9mon"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Legendary_Pok%C3%A9mon"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Legendary_Pokémon rootpage-Legendary_Pokémon skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Legendary Pokémon</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><dl><dd><i>If you were looking for the Pokémon identified in the <a href="/wiki/Pok%C3%A9dex" title="Pokédex">Pokédex</a> with the "Legendary" <a href="/wiki/Pok%C3%A9mon_category" title="Pokémon category">category</a>, see <a href="/wiki/Arcanine_(Pok%C3%A9mon)" title="Arcanine (Pokémon)">Arcanine (Pokémon)</a>.</i></dd>
+<dd><i>If you were looking for the "LegendaryPKMN" website, see <a href="/wiki/LegendaryPKMN" title="LegendaryPKMN">LegendaryPKMN</a>.</i></dd>
+<dd><i>If you were looking for the "Pokémon LEGEND" type of Trading Card, see <a href="/wiki/Pok%C3%A9mon_LEGEND_(TCG)" title="Pokémon LEGEND (TCG)">Pokémon LEGEND (TCG)</a>.</i></dd>
+<dd><i>Legend redirects here. For the Badge given by <a href="/wiki/Iris" title="Iris">Iris</a> or <a href="/wiki/Drayden" title="Drayden">Drayden</a>, see <a href="/wiki/Badge#Legend_Badge" title="Badge">Badge → Legend Badge</a>.</i></dd></dl>
+<hr />
+<div style="position: absolute; top: 0.1em; right: 0.1em; width: 24px; height: 32px; text-align: center;" id="featured-article-icon"><a href="/wiki/File:GlassOrnamentSprite.png" class="image" title="Legendary Pokémon is a featured article"><img alt="Legendary Pokémon is a featured article" src="//cdn.bulbagarden.net/upload/0/0b/GlassOrnamentSprite.png" width="16" height="32" /></a></div>
+<table style="margin:auto; background: #FAFFF4; border: 2px solid #C4E673; width: 81%; border-radius: 40px; -moz-border-radius: 40px; -webkit-border-radius: 40px; -khtml-border-radius: 40px; -icab-border-radius: 40px; -o-border-radius: 40px;">
+
+<tr>
+<td style="text-align:center; background:#E0F2B6; padding: 10px; width: 30px;border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;"> <a href="/wiki/File:Smart_Ribbon_Master_Sinnoh.png" class="image"><img alt="Smart Ribbon Master Sinnoh.png" src="//cdn.bulbagarden.net/upload/5/50/Smart_Ribbon_Master_Sinnoh.png" width="30" height="30" /></a>
+</td>
+<td> This article is a <b><a href="/wiki/Bulbapedia:What_is_a_featured_article%3F" title="Bulbapedia:What is a featured article?">featured article</a></b>. This means that it has been <a href="/wiki/Talk:Legendary_Pok%C3%A9mon/Featured_article_candidate" title="Talk:Legendary Pokémon/Featured article candidate">identified</a> as one of the best articles produced on Bulbapedia.
+</td></tr></table><div class="thumb tright"><div class="thumbinner" style="width:372px;"><a href="/wiki/File:Entei_Book.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/f/f9/Entei_Book.png/370px-Entei_Book.png" width="370" height="208" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/f/f9/Entei_Book.png/555px-Entei_Book.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/f9/Entei_Book.png/740px-Entei_Book.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Entei_Book.png" class="internal" title="Enlarge"></a></div>An artist's interpretation of <a href="/wiki/Entei_(Pok%C3%A9mon)" title="Entei (Pokémon)">Entei</a>, a Legendary Pokémon, in the anime</div></div></div>
+<p><b>Legendary Pokémon</b> (Japanese: <b><span class="explain" title="でんせつ">伝説</span>のポケモン</b> <i>Legendary Pokémon</i>) are a group of incredibly rare and often very powerful <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a>, generally featured prominently in the legends and myths of the Pokémon world.
+</p><p><a href="/wiki/Mythical_Pok%C3%A9mon" title="Mythical Pokémon">Mythical Pokémon</a> are a related but separate group of Pokémon, which are usually <a href="/wiki/Event_Pok%C3%A9mon" title="Event Pokémon">event</a>-exclusive. Prior to <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, Mythical Pokémon were considered to be Legendary Pokémon in non-Japanese media.
+</p><p>No explicit criteria defines what makes a Pokémon a Legendary Pokémon. Instead, the only way to identify a Pokémon as belonging to this group is through statements from official media, such as the <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">games</a> or <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characteristics_of_Legendary_Pok.C3.A9mon"><span class="tocnumber">1</span> <span class="toctext">Characteristics of Legendary Pokémon</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Statistical_average"><span class="tocnumber">1.1</span> <span class="toctext"><span>Statistical average</span></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#In_the_anime"><span class="tocnumber">1.2</span> <span class="toctext">In the anime</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#List_of_Legendary_Pok.C3.A9mon"><span class="tocnumber">2</span> <span class="toctext">List of Legendary Pokémon</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Generation_I"><span class="tocnumber">2.1</span> <span class="toctext">Generation I</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Legendary_birds"><span class="tocnumber">2.1.1</span> <span class="toctext">Legendary birds</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Mewtwo"><span class="tocnumber">2.1.2</span> <span class="toctext">Mewtwo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Generation_II"><span class="tocnumber">2.2</span> <span class="toctext">Generation II</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Legendary_beasts"><span class="tocnumber">2.2.1</span> <span class="toctext">Legendary beasts</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Tower_duo"><span class="tocnumber">2.2.2</span> <span class="toctext">Tower duo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Generation_III"><span class="tocnumber">2.3</span> <span class="toctext">Generation III</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Legendary_titans"><span class="tocnumber">2.3.1</span> <span class="toctext">Legendary titans</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Eon_duo"><span class="tocnumber">2.3.2</span> <span class="toctext">Eon duo</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Weather_trio"><span class="tocnumber">2.3.3</span> <span class="toctext">Weather trio</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Generation_IV"><span class="tocnumber">2.4</span> <span class="toctext">Generation IV</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Lake_guardians"><span class="tocnumber">2.4.1</span> <span class="toctext">Lake guardians</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Creation_trio"><span class="tocnumber">2.4.2</span> <span class="toctext">Creation trio</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Cresselia"><span class="tocnumber">2.4.3</span> <span class="toctext">Cresselia</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Heatran"><span class="tocnumber">2.4.4</span> <span class="toctext">Heatran</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Regigigas"><span class="tocnumber">2.4.5</span> <span class="toctext">Regigigas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><a href="#Generation_V"><span class="tocnumber">2.5</span> <span class="toctext">Generation V</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#Swords_of_Justice"><span class="tocnumber">2.5.1</span> <span class="toctext">Swords of Justice</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Forces_of_Nature"><span class="tocnumber">2.5.2</span> <span class="toctext">Forces of Nature</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Tao_trio"><span class="tocnumber">2.5.3</span> <span class="toctext">Tao trio</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-25"><a href="#Generation_VI"><span class="tocnumber">2.6</span> <span class="toctext">Generation VI</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="#Aura_trio"><span class="tocnumber">2.6.1</span> <span class="toctext">Aura trio</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#Generation_VII"><span class="tocnumber">2.7</span> <span class="toctext">Generation VII</span></a>
+<ul>
+<li class="toclevel-3 tocsection-28"><a href="#Type:_Null_and_Silvally"><span class="tocnumber">2.7.1</span> <span class="toctext">Type: Null and Silvally</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#Guardian_deities"><span class="tocnumber">2.7.2</span> <span class="toctext">Guardian deities</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="#Cosmog_line"><span class="tocnumber">2.7.3</span> <span class="toctext">Cosmog line</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="#Necrozma"><span class="tocnumber">2.7.4</span> <span class="toctext">Necrozma</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#In_other_languages"><span class="tocnumber">4</span> <span class="toctext">In other languages</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Characteristics_of_Legendary_Pok.C3.A9mon">Characteristics of Legendary Pokémon</span></h2>
+<p>Aside from the high <a href="/wiki/Statistic" title="Statistic">statistics</a> shared by most Legendary Pokémon, many can only be obtained once per save file (excluding <a href="/wiki/Event_Pok%C3%A9mon" title="Event Pokémon">Pokémon events</a>); in order to obtain multiple, a player would need to trade for one.
+</p><p>The <a href="/wiki/Gender" title="Gender">gender</a> of most Legendary Pokémon is unknown (though there are seven notable exceptions: <a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios (Pokémon)">Latios</a>, <a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias (Pokémon)">Latias</a>, <a href="/wiki/Heatran_(Pok%C3%A9mon)" title="Heatran (Pokémon)">Heatran</a>, <a href="/wiki/Cresselia_(Pok%C3%A9mon)" title="Cresselia (Pokémon)">Cresselia</a>, <a href="/wiki/Tornadus_(Pok%C3%A9mon)" title="Tornadus (Pokémon)">Tornadus</a>, <a href="/wiki/Thundurus_(Pok%C3%A9mon)" title="Thundurus (Pokémon)">Thundurus</a>, and <a href="/wiki/Landorus_(Pok%C3%A9mon)" title="Landorus (Pokémon)">Landorus</a>). In the <a href="/wiki/Core_series" title="Core series">core series</a> games, no Legendary Pokémon can <a href="/wiki/Pok%C3%A9mon_breeding" title="Pokémon breeding">breed</a> or hatch from an <a href="/wiki/Pok%C3%A9mon_Egg" title="Pokémon Egg">Egg</a>. With the exception of <a href="/wiki/Type:_Null_(Pok%C3%A9mon)" title="Type: Null (Pokémon)">Type: Null</a> and <a href="/wiki/Cosmog_(Pok%C3%A9mon)" title="Cosmog (Pokémon)">Cosmog</a> and their respective evolutionary families, Legendary Pokémon cannot <a href="/wiki/Evolution" title="Evolution">evolve</a>, although many are able to <a href="/wiki/List_of_Pok%C3%A9mon_with_form_differences" title="List of Pokémon with form differences">change form</a> and are part of a <a href="/wiki/Legendary_duo" title="Legendary duo">duo</a> or <a href="/wiki/Legendary_trio" title="Legendary trio">trio</a>.
+</p><p>Much like <a href="/wiki/Starter_Pok%C3%A9mon" title="Starter Pokémon">starter Pokémon</a> appear at the beginning of each <a href="/wiki/Regional_Pok%C3%A9dex" title="Regional Pokédex">regional Pokédex</a> and their generation's portion of the <a href="/wiki/National_Pok%C3%A9dex" title="National Pokédex">National Pokédex</a>, Mythical Pokémon typically appear at the very end, and Legendary Pokémon immediately before them.
+</p>
+<h3><span class="mw-headline" id="Statistical_average"><span class="explain" title="Considering alternate forms as separate Pokémon">Statistical average</span></span></h3>
+<table style="float:left; background: #68A090; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #44685E;">
+
+<tr>
+<th style="background: #9DC1B7; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Stat
+</th></tr>
+<tr style="background: #FF5959;">
+<td>
+<table style="background: #FF0000; border: 1px solid #A60000;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #FF5959; width: 65px;"> HP:
+</th>
+<th style="background: #FF5959; width: 40px;"> 97.10
+</th>
+<td style="width: 97.10px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #F5AC78;">
+<td>
+<table style="background: #F08030; border: 1px solid #9C531F;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #F5AC78; width: 65px;"> Attack:
+</th>
+<th style="background: #F5AC78; width: 40px;"> 112.73
+</th>
+<td style="width: 112.73px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #FAE078;">
+<td>
+<table style="background: #F8D030; border: 1px solid #A1871F;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #FAE078; width: 65px;"> Defense:
+</th>
+<th style="background: #FAE078; width: 40px;"> 100.85
+</th>
+<td style="width: 100.85px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #9DB7F5;">
+<td>
+<table style="background: #6890F0; border: 1px solid #445E9C;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #9DB7F5; width: 65px;"> Sp.Atk:
+</th>
+<th style="background: #9DB7F5; width: 40px;"> 115.76
+</th>
+<td style="width: 115.76px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #A7DB8D;">
+<td>
+<table style="background: #78C850; border: 1px solid #4E8234;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #A7DB8D; width: 65px;"> Sp.Def:
+</th>
+<th style="background: #A7DB8D; width: 40px;"> 105.46
+</th>
+<td style="width: 105.46px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #FA92B2;">
+<td>
+<table style="background: #F85888; border: 1px solid #A13959;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #FA92B2; width: 65px;"> Speed:
+</th>
+<th style="background: #FA92B2; width: 40px;"> 94.69
+</th>
+<td style="width: 94.69px;">
+</td></tr></table>
+</td></tr>
+<tr style="display:none;">
+<td>
+<table width="100%" style="background: #68A090; border: 1px solid #44685E;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #9DC1B7; width: 65px;"> Total:
+</th>
+<th style="background: #9DC1B7; width: 40px;"> 0
+</th>
+<td width="255px" style="background: #9DC1B7; border-left: solid 1px #44685E;">
+</td></tr></table>
+</td></tr>
+<tr>
+<th style="background: #9DC1B7; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;">
+</th></tr></table>
+<p><br clear="all" />
+</p>
+<h3><span class="mw-headline" id="In_the_anime">In the anime</span></h3>
+<p>Legendary Pokémon typically make their anime debut in a <a href="/wiki/Pok%C3%A9mon_movie" title="Pokémon movie">movie</a>, rather than first appearing in a normal episode. Many are worshipped as <a href="https://en.wikipedia.org/wiki/deity" class="extiw" title="wp:deity">gods</a> by particular groups of people. In the anime they are often only seen by special <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a>, usually <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash Ketchum</a> and people who have a special connection to them. Ill-intentioned people often seek to possess them, due to their power and rarity.
+</p><p>Trainers using Legendary and Mythical Pokémon that they have in <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Balls</a>, or even as a non-owned Pokémon, is not unheard of. <a href="/wiki/Factory_Head_Noland" title="Factory Head Noland">Noland</a> befriended and fought official <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battles</a> with an <a href="/wiki/Noland%27s_Articuno" title="Noland's Articuno">Articuno</a>. Likewise, <a href="/wiki/Pyramid_King_Brandon" title="Pyramid King Brandon">Brandon</a> in the anime owned the three <a href="/wiki/Brandon%27s_legendary_titans" title="Brandon's legendary titans">legendary titans</a> in Poké Balls and trained them. <a href="/wiki/Tobias_(Sinnoh)" title="Tobias (Sinnoh)">Tobias</a> owned the Mythical Pokémon <a href="/wiki/Darkrai_(Pok%C3%A9mon)" title="Darkrai (Pokémon)">Darkrai</a> and the Legendary Pokémon <a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios (Pokémon)">Latios</a>. In the <a href="/wiki/Lily_of_the_Valley_Conference" title="Lily of the Valley Conference">Lily of the Valley Conference</a>, another Trainer owned a <a href="/wiki/Heatran_(Pok%C3%A9mon)" title="Heatran (Pokémon)">Heatran</a>. Finally, a <a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a> who visited the Pewter Gym under assignment of the <a href="/wiki/Pok%C3%A9mon_Inspection_Agency" title="Pokémon Inspection Agency">PIA</a> kept a <a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias (Pokémon)">Latias</a> in a Poké Ball.
+</p><p>In the anime, there are some cases in which Legendary Pokémon are implied to breed in the wild, as seen with <a href="/wiki/Lugia_(Pok%C3%A9mon)" title="Lugia (Pokémon)">Lugia</a>, <a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios (Pokémon)">Latios</a>, and <a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias (Pokémon)">Latias</a>.
+</p>
+<h2><span class="mw-headline" id="List_of_Legendary_Pok.C3.A9mon">List of Legendary Pokémon</span></h2>
+<p>Of the 807 Pokémon species, 49 are Legendary Pokémon (6.07%). Each released <a href="/wiki/Generation" title="Generation">generation</a> has introduced at least three Legendary Pokémon.
+</p>
+<h3><span class="mw-headline" id="Generation_I">Generation I</span></h3>
+<p>Four Legendary Pokémon were introduced in <a href="/wiki/Generation_I" title="Generation I">Generation I</a>, with one trio and one standalone Legendary Pokémon.
+</p>
+<h4><span class="mw-headline" id="Legendary_birds">Legendary birds</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Legendary_birds" title="Legendary birds">Legendary birds</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:272px;"><a href="/wiki/File:Legendary_birds.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/2/20/Legendary_birds.png/270px-Legendary_birds.png" width="270" height="190" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/2/20/Legendary_birds.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Legendary_birds.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Zapdos_(Pok%C3%A9mon)" title="Zapdos (Pokémon)">Zapdos</a>, <a href="/wiki/Articuno_(Pok%C3%A9mon)" title="Articuno (Pokémon)">Articuno</a>, and <a href="/wiki/Moltres_(Pok%C3%A9mon)" title="Moltres (Pokémon)">Moltres</a>; art from a <a href="/wiki/Articuno,_Moltres,_and_Zapdos_(Warner_Bros._promo)" title="Articuno, Moltres, and Zapdos (Warner Bros. promo)">TCG card</a> by <a href="/wiki/Mitsuhiro_Arita" title="Mitsuhiro Arita">Mitsuhiro Arita</a></div></div></div>
+<p>The three Legendary birds, also known as the Winged Mirages, are the resident <a href="/wiki/Legendary_trio" title="Legendary trio">Legendary trio</a> of the <a href="/wiki/Kanto" title="Kanto">Kanto</a> region. Each of them is based on a mythical bird, and each is associated with a <a href="/wiki/Seasons" title="Seasons">season</a> (though none of the three is associated with autumn).
+</p><p>In the games, all three are available in the Kanto region in all of its appearances except for <a href="/wiki/Generation_II" title="Generation II">Generation II</a>. <a href="/wiki/Articuno_(Pok%C3%A9mon)" title="Articuno (Pokémon)">Articuno</a> takes up residence in the <a href="/wiki/Seafoam_Islands" title="Seafoam Islands">Seafoam Islands</a> in the south, <a href="/wiki/Zapdos_(Pok%C3%A9mon)" title="Zapdos (Pokémon)">Zapdos</a> in the <a href="/wiki/Kanto_Power_Plant" title="Kanto Power Plant">Power Plant</a> (next to it in Generation IV) in the east, and <a href="/wiki/Moltres_(Pok%C3%A9mon)" title="Moltres (Pokémon)">Moltres</a> in a variety of places, <a href="/wiki/Victory_Road_(Kanto)" title="Victory Road (Kanto)">Victory Road</a>, <a href="/wiki/Mt._Ember" title="Mt. Ember">Mt. Ember</a>, or <a href="/wiki/Mt._Silver" title="Mt. Silver">Mt. Silver</a>, depending on the generation. In <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Pokémon Platinum</a>, they are also found <a href="/wiki/Roaming_Pok%C3%A9mon" title="Roaming Pokémon">roaming</a> <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a>.  One also appears in Generation VI <a href="/wiki/Roaming_Pok%C3%A9mon" title="Roaming Pokémon">roaming</a> <a href="/wiki/Kalos" title="Kalos">Kalos</a> before heading to the <a href="/wiki/Sea_Spirit%27s_Den" title="Sea Spirit's Den">Sea Spirit's Den</a>, where it can be battled and caught.
+</p><p>In the anime, the Legendary birds appear together in <i><a href="/wiki/M02" title="M02">The Power of One</a></i>, in which they rule over the islands surrounding <a href="/wiki/Shamouti_Island" title="Shamouti Island">Shamouti Island</a>. If they are disturbed and begin to fight, only <a href="/wiki/Lugia_(M02)" title="Lugia (M02)">Lugia</a> can stop them, though it will fail without additional help from the Chosen One. Separately, Articuno appears in <i><a href="/wiki/EP189" title="EP189">Freeze Frame</a></i>, <i><a href="/wiki/AG135" title="AG135">Numero Uno Articuno</a></i>, and <i><a href="/wiki/AG136" title="AG136">The Symbol Life</a></i>, while Zapdos appears in <i><a href="/wiki/EP242" title="EP242">As Clear As Crystal</a></i>, <i><a href="/wiki/M09" title="M09">Pokémon Ranger and the Temple of the Sea</a></i>, <i><a href="/wiki/DP094" title="DP094">Doc Brock!</a></i>, and <i><a href="/wiki/XY110" title="XY110">An Electrifying Rage!</a></i>, and Moltres appears in <i><a href="/wiki/EP074" title="EP074">All Fired Up!</a></i>, <i><a href="/wiki/SS018" title="SS018">The Search for the Legend</a></i>, and <i><a href="/wiki/XY086" title="XY086">A Legendary Photo Op!</a></i>.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Mewtwo">Mewtwo</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:150Mewtwo.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/78/150Mewtwo.png/250px-150Mewtwo.png" width="250" height="250" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/7/78/150Mewtwo.png/375px-150Mewtwo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/78/150Mewtwo.png/500px-150Mewtwo.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:150Mewtwo.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Mewtwo_(Pok%C3%A9mon)" title="Mewtwo (Pokémon)">Mewtwo</a></div></div></div>
+<p>Mewtwo is a catlike Pokémon which is an enhanced clone of the <a href="/wiki/Mythical_Pok%C3%A9mon" title="Mythical Pokémon">Mythical Pokémon</a> <a href="/wiki/Mew_(Pok%C3%A9mon)" title="Mew (Pokémon)">Mew</a>. Mewtwo has two <a href="/wiki/Mega_Evolution" title="Mega Evolution">Mega Evolutions</a>, which increase its <a href="/wiki/Base_stat" class="mw-redirect" title="Base stat">base stat</a> total to 780.
+</p><p>In the games, Mewtwo was too powerful for its creators and escaped from the <a href="/wiki/Pok%C3%A9mon_Mansion_(Kanto)" title="Pokémon Mansion (Kanto)">Pokémon Mansion</a>, wrecking it in the process. Mewtwo then made its home in <a href="/wiki/Cerulean_Cave" title="Cerulean Cave">Cerulean Cave</a>, where all kinds of powerful Pokémon live.
+</p><p>In the anime, <a href="/wiki/Mewtwo_(original_series)" title="Mewtwo (original series)">Mewtwo</a> was featured prominently, appearing in several episodes of the <a href="/wiki/Original_series" title="Original series">original series</a>, <a href="/wiki/M01" title="M01">the first movie</a>, and <a href="/wiki/Mewtwo_Returns" title="Mewtwo Returns">the first special episode</a>. In the anime, Mewtwo was created by a group of scientists funded by <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a> boss <a href="/wiki/Giovanni_(anime)" title="Giovanni (anime)">Giovanni</a> to create an enhanced clone of <a href="/wiki/Mew_(Pok%C3%A9mon)" title="Mew (Pokémon)">Mew</a> for his own use. Although Mewtwo is initially a very angry Pokémon, viewing all humans as evil due to the acts of the scientists and Giovanni, after <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash Ketchum</a> sacrifices himself to stop the fighting between Mew and Mewtwo, Mewtwo's heart softens, and it learns that some humans do care about their, and all, Pokémon. Meeting up with Ash again, Mewtwo is further shown that, despite being a genetically-enhanced clone of Mew, he and the other clones are no different to normal Pokémon, and because it erased Ash and his friends' memory at the end of their first meeting, realizes that Ash himself truly does care for others, even if he doesn't know them.
+</p><p>In the anime, another <a href="/wiki/Mewtwo_(Best_Wishes_series)" title="Mewtwo (Best Wishes series)">Mewtwo</a> appeared in <i><a href="/wiki/M16" title="M16">Pokémon the Movie: Genesect and the Legend Awakened</a></i>, who also appeared as Mega Mewtwo Y.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_II">Generation II</span></h3>
+<p>More Legendary Pokémon were introduced in <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, adding five more Legendary Pokémon for a running total of 9. The Legendary Pokémon introduced in this generation down can be separated into a trio and a duo.
+</p>
+<h4><span class="mw-headline" id="Legendary_beasts">Legendary beasts</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Legendary_beasts" title="Legendary beasts">Legendary beasts</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Entei_Raikou_Suicune.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/8a/Entei_Raikou_Suicune.png/250px-Entei_Raikou_Suicune.png" width="250" height="201" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/8/8a/Entei_Raikou_Suicune.png/375px-Entei_Raikou_Suicune.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/8a/Entei_Raikou_Suicune.png/500px-Entei_Raikou_Suicune.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Entei_Raikou_Suicune.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Eusine" title="Eusine">Eusine</a> and <a href="/wiki/Lyra_(game)" title="Lyra (game)">Lyra</a> discover <a href="/wiki/Raikou_(Pok%C3%A9mon)" title="Raikou (Pokémon)">Raikou</a>, <a href="/wiki/Entei_(Pok%C3%A9mon)" title="Entei (Pokémon)">Entei</a>, and <a href="/wiki/Suicune_(Pok%C3%A9mon)" title="Suicune (Pokémon)">Suicune</a> in the basement of the <a href="/wiki/Burned_Tower" title="Burned Tower">Burned Tower</a></div></div></div>
+<p>Like the Legendary birds of the previous generation, a second trio of similar types was introduced in the neighboring <a href="/wiki/Johto" title="Johto">Johto</a> region. These Legendary beasts, so named because their features are based on many different creatures, both real and mythical, as well as mythological deities, were trapped in the <a href="/wiki/Burned_Tower" title="Burned Tower">Brass Tower</a> when it was struck by lightning and burned to the ground, resulting in their death. The trio was revived by the power of <a href="/wiki/Ho-Oh_(Pok%C3%A9mon)" title="Ho-Oh (Pokémon)">Ho-Oh</a> and now <a href="/wiki/Roaming_Pok%C3%A9mon" title="Roaming Pokémon">roam across the land</a> because of their great power. It is unknown whether the three were already a Suicune, Raikou, and Entei when they died, or whether they were simply three non-Legendary Pokémon, and Ho-Oh reincarnated them as the first Legendary beasts. In the case of the latter, it is possible that these three would be the original three beasts, who created multiple descendants. For example, a new Entei is said to be born whenever a new volcano is formed.
+</p><p>In the games, more than one of each exists, with only the trio that roams Johto after being discovered in Brass Tower's basement during <a href="/wiki/Generation_II" title="Generation II">Generation II</a> and <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> being that of the legend. Each was captured and changed into a <a href="/wiki/Shadow_Pok%C3%A9mon" title="Shadow Pokémon">Shadow Pokémon</a> by <a href="/wiki/Cipher" title="Cipher">Cipher</a> in <a href="/wiki/Pok%C3%A9mon_Colosseum" title="Pokémon Colosseum">Pokémon Colosseum</a>, while one of the three, depending on the player's <a href="/wiki/Starter_Pok%C3%A9mon" title="Starter Pokémon">starter Pokémon</a> choice, roams Kanto in <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Pokémon FireRed and LeafGreen</a>, <a href="/wiki/Entei_(Pok%C3%A9mon)" title="Entei (Pokémon)">Entei</a> for <a href="/wiki/Bulbasaur_(Pok%C3%A9mon)" title="Bulbasaur (Pokémon)">Bulbasaur</a>, <a href="/wiki/Raikou_(Pok%C3%A9mon)" title="Raikou (Pokémon)">Raikou</a> for <a href="/wiki/Squirtle_(Pok%C3%A9mon)" title="Squirtle (Pokémon)">Squirtle</a>, and <a href="/wiki/Suicune_(Pok%C3%A9mon)" title="Suicune (Pokémon)">Suicune</a> for <a href="/wiki/Charmander_(Pok%C3%A9mon)" title="Charmander (Pokémon)">Charmander</a>.
+</p><p>In the anime, the Legendary beasts did not appear together until <a href="/wiki/M13" title="M13">the thirteenth movie</a>, despite being introduced in Generation II. It appears that an initial plan for the three Johto-era <a href="/wiki/Pok%C3%A9mon_movie" title="Pokémon movie">movies</a> was to have each feature one of the Legendary beasts in a central role, with <a href="/wiki/Entei_(M03)" title="Entei (M03)">Entei</a> taking a central role in <i><a href="/wiki/M03" title="M03">Spell of the Unown: Entei</a></i> and <a href="/wiki/Suicune_(M04)" title="Suicune (M04)">Suicune</a> taking the stage in <i><a href="/wiki/M04" title="M04">Celebi: The Voice of the Forest</a></i>. This did not pan out, however, possibly due to the canning of Johto's <a href="/wiki/Celebi_(Pok%C3%A9mon)" title="Celebi (Pokémon)">Celebi</a> plotline, and Raikou was relegated to a role in <i><a href="/wiki/The_Legend_of_Thunder!" title="The Legend of Thunder!">The Legend of Thunder!</a></i>, featuring anime characters based on <a href="/wiki/Ethan_(game)" title="Ethan (game)">Ethan</a> and <a href="/wiki/Kris_(game)" title="Kris (game)">Kris</a>, rather than <a href="/wiki/M05" title="M05">the fifth movie</a>, which focused on Legendary Pokémon from the then-upcoming <a href="/wiki/Generation_III" title="Generation III">Generation III</a> instead.
+</p><p>Each of the beasts made an episodic appearance, as well, with Entei appearing in <i><a href="/wiki/EP259" title="EP259">Entei at Your Own Risk</a></i>, Raikou briefly appearing in <i><a href="/wiki/EP180" title="EP180">Houndoom's Special Delivery</a></i>, and Suicune having the most prominence (as in the games) through its appearance in <i><a href="/wiki/EP117" title="EP117">Don't Touch That 'dile</a></i>, <i><a href="/wiki/EP227" title="EP227">For Ho-Oh the Bells Toll!</a></i>, and <i><a href="/wiki/DP028" title="DP028">Drifloon On the Wind!</a></i>.
+</p>
+<h4><span class="mw-headline" id="Tower_duo">Tower duo</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Tower_duo" title="Tower duo">Tower duo</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Lugia_and_ho-oh.jpg" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/70/Lugia_and_ho-oh.jpg/200px-Lugia_and_ho-oh.jpg" width="200" height="295" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/7/70/Lugia_and_ho-oh.jpg/300px-Lugia_and_ho-oh.jpg 1.5x, //cdn.bulbagarden.net/upload/7/70/Lugia_and_ho-oh.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lugia_and_ho-oh.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Lugia_(Pok%C3%A9mon)" title="Lugia (Pokémon)">Lugia</a> and <a href="/wiki/Ho-Oh_(Pok%C3%A9mon)" title="Ho-Oh (Pokémon)">Ho-Oh</a></div></div></div>
+<p>The first <a href="/wiki/Game_mascot" title="Game mascot">game mascots</a> that were also Legendary Pokémon, <a href="/wiki/Lugia_(Pok%C3%A9mon)" title="Lugia (Pokémon)">Lugia</a> and <a href="/wiki/Ho-Oh_(Pok%C3%A9mon)" title="Ho-Oh (Pokémon)">Ho-Oh</a> are a pair of Legendary birds which formerly resided in <a href="/wiki/Ecruteak_City" title="Ecruteak City">Ecruteak City</a> atop tall towers, leading to their designation. However, when the <a href="/wiki/Burned_Tower" title="Burned Tower">Brass Tower</a>, the home of Lugia, was struck by lightning and burned to the ground, they both flew away, Lugia resolving to make its new home in the <a href="/wiki/Whirl_Islands" title="Whirl Islands">Whirl Islands</a> and Ho-Oh to search the world for a pure-hearted Trainer. The two are thought to be as closely related as they are polar opposites, being based on the eastern legends of the <a href="https://en.wikipedia.org/wiki/F%C3%A8nghu%C3%A1ng" class="extiw" title="wp:Fènghuáng">Fènghuáng</a> and <a href="https://en.wikipedia.org/wiki/Ry%C5%ABjin" class="extiw" title="wp:Ryūjin">Ryūjin</a>.
+</p><p>In the games, Lugia does not play a central role in the Generation II storyline, instead being mentioned only as having lived in Ecruteak City before the Brass Tower burned. It is found in the Whirl Islands in the Generation II games and their <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">remakes</a> if the player holds a <a href="/wiki/List_of_Key_Items_in_Generation_IV#Silver_Wing" title="List of Key Items in Generation IV">Silver Wing</a>. It reaches prominence in the storyline of <a href="/wiki/Pok%C3%A9mon_XD:_Gale_of_Darkness" title="Pokémon XD: Gale of Darkness">Pokémon XD: Gale of Darkness</a>, in which <a href="/wiki/Shadow_Lugia" title="Shadow Lugia">one</a> is corrupted by <a href="/wiki/Cipher" title="Cipher">Cipher</a> to become the ultimate <a href="/wiki/Shadow_Pok%C3%A9mon" title="Shadow Pokémon">Shadow Pokémon</a>, unable to be purified. It is also available on <a href="/wiki/Navel_Rock" title="Navel Rock">Navel Rock</a> in Generation III, as an event-exclusive Legendary Pokémon.
+</p><p>In the anime, Lugia is featured in a central role in <i><a href="/wiki/M02" title="M02">The Power of One</a></i>, in which it is revealed that <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> is the Chosen One who must help it to quell the fighting of the <a href="/wiki/Legendary_birds" title="Legendary birds">Legendary birds</a>. Another pair of them appeared when Ash and his friends traveled to the Whirl Islands in Johto. Likewise, in <i><a href="/wiki/M05" title="M05">Pokémon Heroes: Latios &amp; Latias</a></i>, <a href="/wiki/Latios_(M05)" title="Latios (M05)">Latios</a> was stated to have a father. This implies that some Legendary Pokémon can breed in the wild.
+</p><p>Ho-Oh has a much greater focus during Generation II, being named as the creator of the Legendary beasts. It can be found, if the player has a <a href="/wiki/List_of_Key_Items_in_Generation_IV#Rainbow_Wing" title="List of Key Items in Generation IV">Rainbow Wing</a>, atop the <a href="/wiki/Bell_Tower" title="Bell Tower">Bell Tower</a> in the Generation II games and their remakes. It makes an appearance in <a href="/wiki/Pok%C3%A9mon_Colosseum" title="Pokémon Colosseum">Pokémon Colosseum</a>, as well, as a reward for purifying all Shadow Pokémon and clearing <a href="/wiki/Mt._Battle" title="Mt. Battle">Mt. Battle</a>'s 100-battle challenge, and on <a href="/wiki/Navel_Rock" title="Navel Rock">Navel Rock</a> like Lugia.
+</p><p>In the anime, <a href="/wiki/Ho-Oh_(anime)" title="Ho-Oh (anime)">Ho-Oh</a> is notably the first Legendary Pokémon that appeared (outside of the <a href="/wiki/Aim_to_Be_a_Pok%C3%A9mon_Master" title="Aim to Be a Pokémon Master">opening animation</a>, at least), flying over a rainbow as <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash Ketchum</a> started his journey, at the end of <i><a href="/wiki/EP001" title="EP001">Pokémon - I Choose You!</a></i>. Ash has subsequently seen it several times over the course of his journey, but has never come face-to-face with it. Ho-Oh featured in <i><a href="/wiki/M20" title="M20">I Choose You!</a></i> in a prominent role.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_III">Generation III</span></h3>
+<p>Many more Legendary Pokémon were added to the roster in <a href="/wiki/Generation_III" title="Generation III">Generation III</a>, with the eight new Legendary Pokémon bringing the total to 17. At this point in the series, Legendary Pokémon began to have a greater role in the storyline of the core series games, with the <a href="/wiki/Villainous_teams" title="Villainous teams">villainous teams</a> plotting to reawaken the ancient Legendary Pokémon for their own use.
+</p><p>Many of the stories regarding the legendaries were slightly changed, or given a new perspective in the <a href="/wiki/Remakes" class="mw-redirect" title="Remakes">remakes</a> of the first Generation III core series games, <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Pokémon Omega Ruby and Alpha Sapphire</a>. Five of them also received new forms.
+</p>
+<h4><span class="mw-headline" id="Legendary_titans">Legendary titans</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Legendary_titans" title="Legendary titans">Legendary titans</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Legendary_titans.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/4e/Legendary_titans.png/250px-Legendary_titans.png" width="250" height="182" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/4/4e/Legendary_titans.png/375px-Legendary_titans.png 1.5x, //cdn.bulbagarden.net/upload/4/4e/Legendary_titans.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Legendary_titans.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Regice_(Pok%C3%A9mon)" title="Regice (Pokémon)">Regice</a>, <a href="/wiki/Registeel_(Pok%C3%A9mon)" title="Registeel (Pokémon)">Registeel</a>, and <a href="/wiki/Regirock_(Pok%C3%A9mon)" title="Regirock (Pokémon)">Regirock</a></div></div></div>
+<p>This third trio of Legendary Pokémon, based on the <a href="https://en.wikipedia.org/wiki/golem" class="extiw" title="wp:golem">golems</a> of Hebrew legend, is featured minimally in <a href="/wiki/Hoenn" title="Hoenn">Hoenn</a> legend. This Legendary trio, as well as its <a href="/wiki/Trio_master" title="Trio master">master</a>, <a href="/wiki/Regigigas_(Pok%C3%A9mon)" title="Regigigas (Pokémon)">Regigigas</a>, is commonly considered to have the most complicated method of in-game availability, with puzzles made of <a href="/wiki/Braille" title="Braille">braille</a> in the Hoenn region being the keys to unlocking their mystery.
+</p><p>As complex as the method in which they are obtained is the legend of the titans, which is told in <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Pokémon Ruby, Sapphire</a>, and <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Emerald</a> and finally completed in <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond, Pearl</a>, and <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a>. Long ago, an ancient Pokémon, <a href="/wiki/Regigigas_(Pok%C3%A9mon)" title="Regigigas (Pokémon)">Regigigas</a>, was said to have moved the continents into their present positions by pulling them with ropes. After it was finished, it created in its image three Pokémon: <a href="/wiki/Regirock_(Pok%C3%A9mon)" title="Regirock (Pokémon)">Regirock</a>, from clay, <a href="/wiki/Regice_(Pok%C3%A9mon)" title="Regice (Pokémon)">Regice</a>, from ice, and <a href="/wiki/Registeel_(Pok%C3%A9mon)" title="Registeel (Pokémon)">Registeel</a>, from magma. Ancient people, seeing that the Pokémon was so powerful, sealed it away in the <a href="/wiki/Snowpoint_Temple" title="Snowpoint Temple">Snowpoint Temple</a>, while those it had created were separated from it and taken to the Hoenn region, sealed in three chambers, and left in the hopes that one day, someone would unlock the chambers and be able to tame the three so as to tame Regigigas. They are available in the <a href="/wiki/Desert_Ruins" title="Desert Ruins">Desert Ruins</a>, <a href="/wiki/Island_Cave" title="Island Cave">Island Cave</a>, and <a href="/wiki/Ancient_Tomb" title="Ancient Tomb">Ancient Tomb</a> in Hoenn; as well as the <a href="/wiki/Rock_Peak_Ruins" title="Rock Peak Ruins">Rock Peak Ruins</a>, <a href="/wiki/Iceberg_Ruins" title="Iceberg Ruins">Iceberg Ruins</a>, <a href="/wiki/Iron_Ruins" title="Iron Ruins">Iron Ruins</a> in <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a> with an event <a href="/wiki/Regigigas_(Pok%C3%A9mon)" title="Regigigas (Pokémon)">Regigigas</a>; and the <a href="/wiki/Underground_Ruins" title="Underground Ruins">Underground Ruins</a> in <a href="/wiki/Unova" title="Unova">Unova</a>.
+</p><p>In the anime, the <a href="/wiki/Legendary_titans_(M08)" title="Legendary titans (M08)">three Legendary titans</a> starred together guarding the <a href="/wiki/Tree_of_Beginning" title="Tree of Beginning">Tree of Beginning</a> in <i><a href="/wiki/M08" title="M08">Lucario and the Mystery of Mew</a></i>, as well as members of <a href="/wiki/Pyramid_King_Brandon" title="Pyramid King Brandon">Brandon</a>'s team in the Battle Frontier saga.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Eon_duo">Eon duo</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Eon_duo" title="Eon duo">Eon duo</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Latias_Latios.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/9/93/Latias_Latios.png/250px-Latias_Latios.png" width="250" height="175" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/9/93/Latias_Latios.png/375px-Latias_Latios.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/93/Latias_Latios.png/500px-Latias_Latios.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Latias_Latios.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias (Pokémon)">Latias</a> and <a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios (Pokémon)">Latios</a></div></div></div>
+<p>While <a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias (Pokémon)">Latias</a> and <a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios (Pokémon)">Latios</a> do not have a distinct legend behind them, they are incredibly rare, with only one of the two available in normal gameplay and the other available through an event.
+</p><p>Latios and Latias take on counterpart availability in <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Pokémon Ruby, Sapphire</a>, and <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Emerald</a> as well as <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>, with Latios being a <a href="/wiki/Roaming_Pok%C3%A9mon" title="Roaming Pokémon">roaming Pokémon</a> in Ruby and SoulSilver, and Latias doing the same in Sapphire and HeartGold. In Emerald, after the player has defeated the Elite Four, their mother will ask if the Pokémon mentioned on TV was red or blue, and depending on that, one of the two will be roaming Hoenn. The other member of the duo will be found on <a href="/wiki/Southern_Island" title="Southern Island">Southern Island</a>, accessible by <a href="/wiki/Eon_Ticket" title="Eon Ticket">Eon Ticket</a>, in Ruby, Sapphire, and Emerald, and in <a href="/wiki/Pewter_City" title="Pewter City">Pewter City</a>, through the <a href="/wiki/Enigma_Stone" title="Enigma Stone">Enigma Stone</a> event, in HeartGold and SoulSilver.
+</p><p>In Generation VI, Latias and Latios gained the ability to <a href="/wiki/Mega_Evolution" title="Mega Evolution">Mega Evolve</a>. In <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Pokémon Omega Ruby and Alpha Sapphire</a>, the Eon duo plays a much larger role in the main game's plot. They sense the grave danger Hoenn is about to face from the actions of Team Magma<b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span></a></sup></b>/Aqua<b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#26649C;">AS</span></a></sup></b>, and while the <a href="/wiki/Player_character" title="Player character">player</a> is talking to <a href="/wiki/Steven_Stone" title="Steven Stone">Steven</a> on the east side of <a href="/wiki/Hoenn_Route_118" title="Hoenn Route 118">Route 118</a>, <a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias (Pokémon)">Latias</a><b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span></a></sup></b>/<a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios (Pokémon)">Latios</a><b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#26649C;">AS</span></a></sup></b> appears before the two, asking for their help. The player and Steven ride the Eon Pokémon to protect its counterpart from <a href="/wiki/Magma_Admin_Courtney" title="Magma Admin Courtney">Courtney</a><b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span></a></sup></b>/<a href="/wiki/Aqua_Admin_Matt" title="Aqua Admin Matt">Matt</a><b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#26649C;">AS</span></a></sup></b> and their subordinate. After the fight  <a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios (Pokémon)">Latios</a><b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span></a></sup></b>/<a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias (Pokémon)">Latias</a><b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#26649C;">AS</span></a></sup></b> joins the player's party, holding its respective <a href="/wiki/Mega_Stone" title="Mega Stone">Mega Stone</a>. Noticing the Mega Stone, Steven also gives the player a <a href="/wiki/Key_Stone" title="Key Stone">Mega Bracelet</a>. After defeating Groudon<b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span></a></sup></b>/Kyogre<b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#26649C;">AS</span></a></sup></b>, the player receives an item called the <a href="/wiki/List_of_Key_Items_in_Generation_VI#Eon_Flute" title="List of Key Items in Generation VI">Eon Flute</a> from Steven, highlighting the special bond between the two. The items enables the player to summon the Eon Pokémon and use it to <a href="/wiki/Soaring_in_the_sky" title="Soaring in the sky">soar</a> through the skies of Hoenn.
+</p><p>In the anime, Latios and Latias were the stars of <i><a href="/wiki/M05" title="M05">Pokémon Heroes: Latios &amp; Latias</a></i>, in which the two guarded the city of <a href="/wiki/Alto_Mare" title="Alto Mare">Alto Mare</a>. With a strong connection to the <a href="/wiki/Soul_Dew" title="Soul Dew">Soul Dew</a>, the two were responsible for protecting it from <a href="/wiki/Annie_(M05)" title="Annie (M05)">Annie</a> and <a href="/wiki/Oakley" title="Oakley">Oakley</a>, who wished to steal it. In the main series, <a href="/wiki/Tobias_(Sinnoh)" title="Tobias (Sinnoh)">Tobias</a> used a Latios against Ash, as his second Pokémon in the first semi-final battle of the <a href="/wiki/Lily_of_the_Valley_Conference" title="Lily of the Valley Conference">Lily of the Valley Conference</a>. A <a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a> had a Latias when testing the Pewter Gym in <a href="/wiki/SS025" title="SS025">SS025</a>. Both Latios and Latias appeared in <i><a href="/wiki/M18" title="M18">Hoopa and the Clash of Ages</a></i>; in this film, both of them were capable of Mega Evolution.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Weather_trio">Weather trio</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Weather_trio" title="Weather trio">Weather trio</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Weather_trio.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/3/39/Weather_trio.png/250px-Weather_trio.png" width="250" height="196" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/3/39/Weather_trio.png/375px-Weather_trio.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/39/Weather_trio.png/500px-Weather_trio.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Weather_trio.png" class="internal" title="Enlarge"></a></div>A depiction of the cataclysmic battle between <a href="/wiki/Groudon_(Pok%C3%A9mon)" title="Groudon (Pokémon)">Groudon</a>, <a href="/wiki/Kyogre_(Pok%C3%A9mon)" title="Kyogre (Pokémon)">Kyogre</a>, and <a href="/wiki/Rayquaza_(Pok%C3%A9mon)" title="Rayquaza (Pokémon)">Rayquaza</a></div></div></div>
+<p>This trio of super-ancient Pokémon, known as the weather trio due to their <a href="/wiki/Weather" title="Weather">weather</a>-related <a href="/wiki/Ability" title="Ability">Abilities</a>, serve as the <a href="/wiki/Game_mascot" title="Game mascot">game mascots</a> of <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Ruby, Sapphire</a>, and <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Emerald Versions</a>, and are the first Legendary trio to all be game mascots. The trio represents the three major components of the Earth: the hydrosphere, the lithosphere, and the atmosphere. Said to have expanded the land and sea, <a href="/wiki/Groudon_(Pok%C3%A9mon)" title="Groudon (Pokémon)">Groudon</a> and <a href="/wiki/Kyogre_(Pok%C3%A9mon)" title="Kyogre (Pokémon)">Kyogre</a> are among the most powerful Legendary Pokémon, while <a href="/wiki/Rayquaza_(Pok%C3%A9mon)" title="Rayquaza (Pokémon)">Rayquaza</a> prevents the two from quarreling.
+</p><p>During the course of <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Pokémon Ruby and Sapphire</a>, <a href="/wiki/Team_Magma" title="Team Magma">Team Magma</a> or <a href="/wiki/Team_Aqua" title="Team Aqua">Team Aqua</a>, depending on the version, seeks out Groudon or Kyogre respectively, with the intention of awakening them to make more homes for Pokémon of the land or sea. Eventually, the plan goes wrong, and the player is forced to defeat or capture the Legendary Pokémon to stop a global disaster. In <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Pokémon Emerald</a>, instead, both teams are on the loose, intending to awaken their respective Legendary Pokémon, and only by interference from the player and <a href="/wiki/Rayquaza_(Pok%C3%A9mon)" title="Rayquaza (Pokémon)">Rayquaza</a> does the fight end up resolved.
+</p><p>The three members of the trio received new forms in <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Pokémon Omega Ruby and Alpha Sapphire</a>. Rayquaza is now able to Mega Evolve, and Groudon and Kyogre can undergo <a href="/wiki/Primal_Reversion" title="Primal Reversion">Primal Reversion</a> while holding their respective Orb. Primal Reversion is considered the opposite of Mega Evolution. The latter is the outcome of the connection between  Pokémon and human, and the former is derived solely from the Pokémon itself.  While Groudon<b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span></a></sup></b>/Kyogre<b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#26649C;">AS</span></a></sup></b> are again sought by Team Magma<b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span></a></sup></b>/Aqua<b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#26649C;">AS</span></a></sup></b>, Rayquaza is the target of a mysterious girl named <a href="/wiki/Zinnia" title="Zinnia">Zinnia</a> during the post game plot called Delta Episode.
+</p><p>In the game, their history is revealed: Thousands of years ago, during the primal age, the world was overflowing with natural energy. Primal Groudon and Primal Kyogre fought over that energy in endless furious clashes. In the face of Primal Groudon and Kyogre's great power, people could do nothing. But Rayquaza intervened, and its power overwhelmed that of the two Primal Pokémon, and peace returned to the world. A thousand years later, a meteoroid hit the earth, causing cracks in the ground that unleashed natural energy, causing Groudon and Kyogre to re-battle each other. Humans had a collective memory of how Rayquaza saved their race long ago, and that wish combined with the power of the Meteorite allowed Rayqauza to Mega Evolve for the first time and calm the two from quarreling.
+</p><p>In the anime, Groudon and Kyogre appeared in the two-part episode consisting of <i><a href="/wiki/AG097" title="AG097">Gaining Groudon</a></i> and <i><a href="/wiki/AG098" title="AG098">The Scuffle of Legends</a></i>. In these episodes, Team Magma and Team Aqua finally succeed in awakening the two, as in the games, though their conflict is resolved very quickly. Rayquaza appeared in <i><a href="/wiki/M07" title="M07">Destiny Deoxys</a></i>, where it fought against the pair of <a href="/wiki/Deoxys_(M07)" title="Deoxys (M07)">Deoxys</a>. The weather trio all made a starring appearance in their Primal/Mega Forms in <i><a href="/wiki/M18" title="M18">Hoopa and the Clash of Ages</a></i>, engaging in a violent clash with many other legendaries.
+</p>
+<h3><span class="mw-headline" id="Generation_IV">Generation IV</span></h3>
+<p>Nine more Legendary Pokémon were introduced in <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>, bringing the total to 26 Legendary Pokémon. Many of the Legendary Pokémon of this generation have little connection to the plot of the games, instead being minor, post-<a href="/wiki/Hall_of_Fame" title="Hall of Fame">Hall of Fame</a> sidequests for the player to go on. Three of the newly introduced Legendary Pokémon (four prior to the <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Pokémon Platinum</a> expansion of the Pokédex) are not in the Sinnoh <a href="/wiki/Regional_Pok%C3%A9dex" title="Regional Pokédex">regional Pokédex</a>, appearing only in the <a href="/wiki/National_Pok%C3%A9dex" title="National Pokédex">National Pokédex</a>.
+</p>
+<h4><span class="mw-headline" id="Lake_guardians">Lake guardians</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Lake_guardians" title="Lake guardians">Lake guardians</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:207px;"><a href="/wiki/File:Lake_guardians_anime.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/6/63/Lake_guardians_anime.png/205px-Lake_guardians_anime.png" width="205" height="115" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/6/63/Lake_guardians_anime.png/308px-Lake_guardians_anime.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/63/Lake_guardians_anime.png/410px-Lake_guardians_anime.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lake_guardians_anime.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Azelf_(Pok%C3%A9mon)" title="Azelf (Pokémon)">Azelf</a>, <a href="/wiki/Mesprit_(Pok%C3%A9mon)" title="Mesprit (Pokémon)">Mesprit</a>, and <a href="/wiki/Uxie_(Pok%C3%A9mon)" title="Uxie (Pokémon)">Uxie</a> in the anime</div></div></div>
+<p>The lake guardians, <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a>'s native Legendary trio, represent the spirit of all consciousness, with <a href="/wiki/Uxie_(Pok%C3%A9mon)" title="Uxie (Pokémon)">Uxie</a> embodying knowledge, <a href="/wiki/Mesprit_(Pok%C3%A9mon)" title="Mesprit (Pokémon)">Mesprit</a> embodying emotion, and <a href="/wiki/Azelf_(Pok%C3%A9mon)" title="Azelf (Pokémon)">Azelf</a> embodying willpower. According to legend, having been created by <a href="/wiki/Arceus_(Pok%C3%A9mon)" title="Arceus (Pokémon)">the Original One</a>, the trio have the power to tame the powerful dragons it also created.
+</p><p>In the games, Uxie, Mesprit, and Azelf are found in the caverns of <a href="/wiki/Lake_Acuity" title="Lake Acuity">Lake Acuity</a>, <a href="/wiki/Lake_Verity" title="Lake Verity">Lake Verity</a>, and <a href="/wiki/Lake_Valor" title="Lake Valor">Lake Valor</a>, though Mesprit will roam Sinnoh after the player has encountered it, rather than battle immediately as the other two will. The trio are captured by <a href="/wiki/Team_Galactic" title="Team Galactic">Team Galactic</a>'s <a href="/wiki/Commander_(Trainer_class)" title="Commander (Trainer class)">Commanders</a>, <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a>, <a href="/wiki/Mars" title="Mars">Mars</a>, and <a href="/wiki/Saturn" title="Saturn">Saturn</a>, and subjected to the experiments of <a href="/wiki/Charon" title="Charon">Charon</a> to draw out the <a href="/wiki/Red_Chain" title="Red Chain">Red Chain</a> from the gems in their bodies. <a href="/wiki/Cyrus" title="Cyrus">Cyrus</a> summons <a href="/wiki/Dialga_(Pok%C3%A9mon)" title="Dialga (Pokémon)">Dialga</a> and <a href="/wiki/Palkia_(Pok%C3%A9mon)" title="Palkia (Pokémon)">Palkia</a>, and alone, the lake guardians' power is not enough to stop them. <a href="/wiki/Giratina_(Pok%C3%A9mon)" title="Giratina (Pokémon)">Giratina</a> interferes and draws Cyrus into the Distortion World, where the lake guardians assist the player in navigation through Giratina's lair.
+</p><p>In the anime, the lake guardians appeared, first in spirit form, in <i><a href="/wiki/DP001" title="DP001">Following a Maiden's Voyage!</a></i>, <i><a href="/wiki/DP078" title="DP078">Pruning a Passel of Pals</a></i>, and <i><a href="/wiki/DP133" title="DP133">Uncrushing Defeat!</a></i>, to <a href="/wiki/Dawn_(anime)" title="Dawn (anime)">Dawn</a>, <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>, and <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a>. They were captured by <a href="/wiki/J" title="J">J</a>, who had been hired by <a href="/wiki/Team_Galactic" title="Team Galactic">Team Galactic</a>, in <i><a href="/wiki/DP151" title="DP151">The Needs of the Three!</a></i>, and were freed by Ash, Dawn, and Brock to stop the power of Dialga and Palkia in <i><a href="/wiki/DP152" title="DP152">The Battle Finale of Legend!</a></i>.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Creation_trio">Creation trio</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Creation_trio" title="Creation trio">Creation trio</a></i></dd></dl>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Dialga-Palkia-Giratina.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/44/Dialga-Palkia-Giratina.png/200px-Dialga-Palkia-Giratina.png" width="200" height="139" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/4/44/Dialga-Palkia-Giratina.png/300px-Dialga-Palkia-Giratina.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/44/Dialga-Palkia-Giratina.png/400px-Dialga-Palkia-Giratina.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dialga-Palkia-Giratina.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Dialga_(Pok%C3%A9mon)" title="Dialga (Pokémon)">Dialga</a>, <a href="/wiki/Palkia_(Pok%C3%A9mon)" title="Palkia (Pokémon)">Palkia</a>, and <a href="/wiki/Giratina_(Pok%C3%A9mon)" title="Giratina (Pokémon)">Giratina</a> artwork from <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Pokémon Platinum</a></div></div></div>
+<p>The Legendary creators of the Pokémon universe, the creation trio consists of <a href="/wiki/Dialga_(Pok%C3%A9mon)" title="Dialga (Pokémon)">Dialga</a> of time, <a href="/wiki/Palkia_(Pok%C3%A9mon)" title="Palkia (Pokémon)">Palkia</a> of space, and <a href="/wiki/Giratina_(Pok%C3%A9mon)" title="Giratina (Pokémon)">Giratina</a> of antimatter. Like the weather trio before them, they each serve as the mascots of <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a>'s trio of games, <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond, Pearl</a>, and <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a>.
+</p><p>In the games, Dialga and Palkia are sought by <a href="/wiki/Cyrus" title="Cyrus">Cyrus</a> to destroy and then remake the universe without spirit, a feature he hates about humanity. In Diamond and Pearl, Dialga or Palkia can be caught at <a href="/wiki/Spear_Pillar" title="Spear Pillar">Spear Pillar</a>, while Giratina may be obtained after the Pokémon League has been conquered. In Platinum, however, Giratina interferes with Cyrus's planned destruction of the universe, and may be captured in its home, the <a href="/wiki/Distortion_World" title="Distortion World">Distortion World</a>, while Dialga and Palkia cannot be found until the Elite Four have been defeated.
+</p><p>In the anime, <a href="/wiki/Dialga_(movie)" title="Dialga (movie)">Dialga</a> and <a href="/wiki/Palkia_(movie)" title="Palkia (movie)">Palkia</a> appeared together, fighting in <i><a href="/wiki/M10" title="M10">The Rise of Darkrai</a></i>, while Dialga and <a href="/wiki/Giratina_(movie)" title="Giratina (movie)">Giratina</a> appeared in <i><a href="/wiki/M11" title="M11">Giratina and the Sky Warrior</a></i>. The three appeared together in <i><a href="/wiki/M12" title="M12">Arceus and the Jewel of Life</a></i> and <i><a href="/wiki/M18" title="M18">Hoopa and the Clash of Ages</a></i>. Dialga and Palkia were also summoned at the Spear Pillar and chained by Cyrus in <i><a href="/wiki/DP152" title="DP152">The Battle Finale of Legend!</a></i>, but were freed when he escaped into another universe and the Red Chain was shattered by Ash, Dawn, Brock, and their Pokémon.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond, Pearl</a>, and <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a> only, Dialga and Palkia were referenced as "mythical Pokémon" (Japanese: 神話のポケモン <i>mythical Pokémon</i>); however, this pre-dates the term <a href="/wiki/Mythical_Pok%C3%A9mon" title="Mythical Pokémon">Mythical Pokémon</a> (Japanese: 幻のポケモン <i>Illusory Pokémon</i>) and has a different Japanese name.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Cresselia">Cresselia</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:177px;"><a href="/wiki/File:488Cresselia.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/4a/488Cresselia.png/175px-488Cresselia.png" width="175" height="175" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/4/4a/488Cresselia.png/263px-488Cresselia.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/4a/488Cresselia.png/350px-488Cresselia.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:488Cresselia.png" class="internal" title="Enlarge"></a></div>Artwork of <a href="/wiki/Cresselia_(Pok%C3%A9mon)" title="Cresselia (Pokémon)">Cresselia</a> from Diamond and Pearl</div></div></div>
+<p><a href="/wiki/Cresselia_(Pok%C3%A9mon)" title="Cresselia (Pokémon)">Cresselia</a> is a <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic-type</a> Pokémon who represents the <a href="https://en.wikipedia.org/wiki/crescent_moon" class="extiw" title="wp:crescent moon">crescent moon</a>, a sign of hope and good dreams.
+</p><p>In the games, Cresselia can be found on <a href="/wiki/Fullmoon_Island" title="Fullmoon Island">Fullmoon Island</a> as part of a post-League quest to rid <a href="/wiki/Sailor_(Trainer_class)" title="Sailor (Trainer class)">Sailor</a> <a href="/wiki/Eldritch" title="Eldritch">Eldritch</a>'s son of a nightmare. She will flee immediately, roaming Sinnoh and leaving behind a <a href="/wiki/Lunar_Wing" title="Lunar Wing">Lunar Wing</a>, which will heal the boy. In <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2">Pokémon Black 2 and White 2</a>, Cresselia can be found on <a href="/wiki/Marvelous_Bridge" title="Marvelous Bridge">Marvelous Bridge</a> after obtaining the Lunar Wing in the <a href="/wiki/Strange_House" title="Strange House">Strange House</a>.
+</p><p>Cresselia made her debut appearance in the anime in <i><a href="/wiki/DP104" title="DP104">Sleepless in Pre-Battle!</a></i>, in which she fought briefly against a <a href="/wiki/Darkrai_(Pok%C3%A9mon)" title="Darkrai (Pokémon)">Darkrai</a>.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Heatran">Heatran</span></h4>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Ranger_3_Heatran_mission_art.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/e/e6/Ranger_3_Heatran_mission_art.png/250px-Ranger_3_Heatran_mission_art.png" width="250" height="209" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/e/e6/Ranger_3_Heatran_mission_art.png/375px-Ranger_3_Heatran_mission_art.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e6/Ranger_3_Heatran_mission_art.png/500px-Ranger_3_Heatran_mission_art.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ranger_3_Heatran_mission_art.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Heatran_(Pok%C3%A9mon)" title="Heatran (Pokémon)">Heatran</a> causing an eruption</div></div></div>
+<p><a href="/wiki/Heatran_(Pok%C3%A9mon)" title="Heatran (Pokémon)">Heatran</a> is the embodiment of the planet's boiling <a href="https://en.wikipedia.org/wiki/core" class="extiw" title="wp:core">core</a>, appearing in <a href="/wiki/Stark_Mountain" title="Stark Mountain">Stark Mountain</a> in <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a>, <a href="/wiki/Reversal_Mountain" title="Reversal Mountain">Reversal Mountain</a> in <a href="/wiki/Unova" title="Unova">Unova</a>, and <a href="/wiki/Scorched_Slab" title="Scorched Slab">Scorched Slab</a><b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#26649C;">AS</span></a></sup></b> in <a href="/wiki/Hoenn" title="Hoenn">Hoenn</a>, where it was said to have been born at the same time as Dialga, Palkia, and Giratina created Sinnoh at the <a href="/wiki/Spear_Pillar" title="Spear Pillar">Spear Pillar</a> and created the <a href="/wiki/Battle_Zone" title="Battle Zone">Battle Zone</a>. Heatran is the only Legendary Pokémon with a variable gender.
+</p><p>Heatran first appeared in the anime in <i><a href="/wiki/M12" title="M12">Arceus and the Jewel of Life</a></i>, under the control of <a href="/wiki/Marcus" title="Marcus">Marcus</a>, and later appeared in <i><a href="/wiki/DP169" title="DP169">Pokémon Ranger: Heatran Rescue!</a></i> as part of a Pokémon Ranger rescue mission.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Regigigas">Regigigas</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Regigigas_anime.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/86/Regigigas_anime.png/250px-Regigigas_anime.png" width="250" height="141" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/8/86/Regigigas_anime.png/375px-Regigigas_anime.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/86/Regigigas_anime.png/500px-Regigigas_anime.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Regigigas_anime.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Regigigas_(Pok%C3%A9mon)" title="Regigigas (Pokémon)">Regigigas</a> in the anime</div></div></div>
+<p><a href="/wiki/Regigigas_(Pok%C3%A9mon)" title="Regigigas (Pokémon)">Regigigas</a> is the master of the <a href="/wiki/Legendary_titans" title="Legendary titans">Legendary titans</a>, having created them in ancient times and was said to have moved the continents in place, pulling them by rope.
+</p><p>In the games, Regigigas is found at the <a href="/wiki/Snowpoint_Temple" title="Snowpoint Temple">Snowpoint Temple</a><b><sup><a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions"><span style="color:#AAAAFF;">D</span><span style="color:#FFAAAA;">P</span></a><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a></sup></b>, <a href="/wiki/Twist_Mountain" title="Twist Mountain">Twist Mountain</a><b><sup><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#424B50;">B2</span><span style="color:#948687;">W2</span></a></sup></b>, and <a href="/wiki/Island_Cave" title="Island Cave">Island Cave</a><b><sup><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#26649C;">AS</span></a></sup></b>, though it will not awaken unless all three of the Legendary titans are in the player's party.
+</p><p>Regigigas appeared in the anime in <i><a href="/wiki/M11" title="M11">Giratina and the Sky Warrior</a></i>, in which it attempted to stop a glacier from destroying <a href="/wiki/Ten%27i_Village" title="Ten'i Village">Ten'i Village</a>. Another appeared in <i><a href="/wiki/DP129" title="DP129">Pillars of Friendship!</a></i>, in which it was hunted by <a href="/wiki/J" title="J">J</a> and defended by <a href="/wiki/Pyramid_King_Brandon" title="Pyramid King Brandon">Brandon</a>.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_V">Generation V</span></h3>
+<p>Nine additional Legendary Pokémon were introduced in <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, totaling 35 Legendary Pokémon. <a href="/wiki/Reshiram_(Pok%C3%A9mon)" title="Reshiram (Pokémon)">Reshiram</a> and <a href="/wiki/Zekrom_(Pok%C3%A9mon)" title="Zekrom (Pokémon)">Zekrom</a> played a large role in the storyline of <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions">Pokémon Black and White</a>, with the respective mascot Pokémon being a necessary and unavoidable capture to progress to the end of the game.
+</p>
+<h4><span class="mw-headline" id="Swords_of_Justice">Swords of Justice</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Swords_of_Justice_M15.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/46/Swords_of_Justice_M15.png/250px-Swords_of_Justice_M15.png" width="250" height="142" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/4/46/Swords_of_Justice_M15.png/375px-Swords_of_Justice_M15.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/46/Swords_of_Justice_M15.png/500px-Swords_of_Justice_M15.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Swords_of_Justice_M15.png" class="internal" title="Enlarge"></a></div>The Swords of Justice</div></div></div>
+<dl><dd><i>Main article: <a href="/wiki/Swords_of_Justice" title="Swords of Justice">Swords of Justice</a></i></dd></dl>
+<p><a href="/wiki/Cobalion_(Pok%C3%A9mon)" title="Cobalion (Pokémon)">Cobalion</a>, <a href="/wiki/Terrakion_(Pok%C3%A9mon)" title="Terrakion (Pokémon)">Terrakion</a>, and <a href="/wiki/Virizion_(Pok%C3%A9mon)" title="Virizion (Pokémon)">Virizion</a> are a trio of Legendary Pokémon based on the titular characters of the 1844 French novel <i><a href="https://en.wikipedia.org/wiki/The_Three_Musketeers" class="extiw" title="wp:The Three Musketeers">The Three Musketeers</a></i>, and partially on hooved mammals such as deer, antelopes, oxen, goats, and horses. According to legend, they protect Pokémon from having their habitats destroyed by humans and have been known to have attacked human castles during the Middle Ages. Like the Three Musketeers, they are considered a trio but have a fourth, younger member in the form of <a href="/wiki/Keldeo_(Pok%C3%A9mon)" title="Keldeo (Pokémon)">Keldeo</a>, a Mythical Pokémon, whom the other three rescued and raised after its home was destroyed by fire. All four of them can use their horns like swords, and learn their former <a href="/wiki/Signature_move" title="Signature move">signature move</a>, <a href="/wiki/Sacred_Sword_(move)" title="Sacred Sword (move)">Sacred Sword</a>, at level 42 (43 for <a href="/wiki/Keldeo_(Pok%C3%A9mon)" title="Keldeo (Pokémon)">Keldeo</a>, most likely to refer to it becoming part of the group later).
+</p><p>They made their anime debut together, in the fifteenth Pokémon film <i><a href="/wiki/M15" title="M15">Kyurem VS. The Sword of Justice</a></i>, where Keldeo was responsible for the freezing of the other three during a battle against <a href="/wiki/Kyurem_(M15)" title="Kyurem (M15)">Kyurem</a>, and sought help from <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> and <a href="/wiki/Ash%27s_friends" title="Ash's friends">his friends</a>. In the movie, Cobalion acts as the leader of the <a href="/wiki/Swords_of_Justice_(M15)" title="Swords of Justice (M15)">Swords of Justice</a>, protecting Pokémon and humans alike through the world.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Forces_of_Nature">Forces of Nature</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Forces_of_Nature_myth.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/a/ab/Forces_of_Nature_myth.png/200px-Forces_of_Nature_myth.png" width="200" height="113" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/a/ab/Forces_of_Nature_myth.png/300px-Forces_of_Nature_myth.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/ab/Forces_of_Nature_myth.png/400px-Forces_of_Nature_myth.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Forces_of_Nature_myth.png" class="internal" title="Enlarge"></a></div>The <a href="/wiki/Forces_of_Nature" title="Forces of Nature">Forces of Nature</a> in the anime</div></div></div>
+<dl><dd><i>Main article: <a href="/wiki/Forces_of_Nature" title="Forces of Nature">Forces of Nature</a></i></dd></dl>
+<p><a href="/wiki/Tornadus_(Pok%C3%A9mon)" title="Tornadus (Pokémon)">Tornadus</a>, <a href="/wiki/Thundurus_(Pok%C3%A9mon)" title="Thundurus (Pokémon)">Thundurus</a>, and <a href="/wiki/Landorus_(Pok%C3%A9mon)" title="Landorus (Pokémon)">Landorus</a> are a trio of Pokémon based on <a href="https://en.wikipedia.org/wiki/kami" class="extiw" title="wp:kami">kami</a>: <a href="https://en.wikipedia.org/wiki/F%C5%ABjin" class="extiw" title="wp:Fūjin">Fūjin</a>, god of wind, <a href="https://en.wikipedia.org/wiki/Raijin" class="extiw" title="wp:Raijin">Raijin</a>, god of thunder and lightning, and <a href="https://en.wikipedia.org/wiki/Inari_%C5%8Ckami" class="extiw" title="wp:Inari Ōkami">Inari</a>, a fertility deity. Together the three represent the heavens and the nourishing effect the sky has upon the earth. According to a folktale retold by children at the <a href="/wiki/Abundant_Shrine" title="Abundant Shrine">Abundant Shrine</a>, Landorus punished Tornadus and Thundurus for destroying the land with gales and thunderstorms, and a shrine was built in honor of him. In <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2">Pokémon Black 2 and White 2</a> they receive a new Forme, the Therian Forme, with their old Forme known as the Incarnate Forme; the Formes can be switched between with the <a href="/wiki/Reveal_Glass" title="Reveal Glass">Reveal Glass</a>.
+</p><p>In the anime, the Forces of Nature were sought by <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a> in Unova from <i><a href="/wiki/BW056" title="BW056">The Lonely Deino!</a></i> until they were able to awaken them on <a href="/wiki/Milos_Island" title="Milos Island">Milos Island</a> in <i><a href="/wiki/BW059" title="BW059">Stopping the Rage of Legends! Part 1</a></i> and <i><a href="/wiki/BW060" title="BW060">Part 2</a></i>. Tornadus and Thundurus fought on the island, while Ash and his friends awakened Landorus to put a stop to the fight (they all appeared in Incarnate Forme during these episodes). They debuted in Therian Forme in <i><a href="/wiki/BW097" title="BW097">Unova's Survival Crisis!</a></i>, when Team Rocket once again attempted to capture them as the final goal of <a href="/w/index.php?title=Operation_Tempest&amp;action=edit&amp;redlink=1" class="new" title="Operation Tempest (page does not exist)">Operation Tempest</a>. Together, they are said to have the power to control nature, which can be harnessed by one who possesses both <a href="/wiki/Meloetta_(anime)" title="Meloetta (anime)">Meloetta</a> and the Reveal Glass.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Tao_trio">Tao trio</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Tao_trio" title="Tao trio">Tao trio</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Tao_trio.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/0/05/Tao_trio.png/200px-Tao_trio.png" width="200" height="144" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/0/05/Tao_trio.png/300px-Tao_trio.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/05/Tao_trio.png/400px-Tao_trio.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Tao_trio.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Reshiram_(Pok%C3%A9mon)" title="Reshiram (Pokémon)">Reshiram</a> and <a href="/wiki/Zekrom_(Pok%C3%A9mon)" title="Zekrom (Pokémon)">Zekrom</a> confronting <a href="/wiki/Kyurem_(Pok%C3%A9mon)" title="Kyurem (Pokémon)">Kyurem</a></div></div></div>
+<p><a href="/wiki/Zekrom_(Pok%C3%A9mon)" title="Zekrom (Pokémon)">Zekrom</a> and <a href="/wiki/Reshiram_(Pok%C3%A9mon)" title="Reshiram (Pokémon)">Reshiram</a> represent balance through the aspects of <a href="https://en.wikipedia.org/wiki/Tao" class="extiw" title="wp:Tao">Yin and Yang</a>, respectively. Originally, they were a single dragon that helped found the Unova region's nation, but fighting between the <a href="/wiki/Heroes_of_Truth_and_Ideals" title="Heroes of Truth and Ideals">two brothers</a> who founded the nation split them into two halves. Despite this, the two Pokémon do not willingly fight each other.
+</p><p>In the games, <a href="/wiki/Team_Plasma" title="Team Plasma">Team Plasma</a> hunt either Reshiram or Zekrom in <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions">Pokémon Black and White</a> in order to use them to liberate all Pokémon from their owners. <a href="/wiki/N" title="N">N</a> captures one of them and defeats <a href="/wiki/Alder" title="Alder">Alder</a>. The other dragon emerges from the <a href="/wiki/Dragon_Stones" title="Dragon Stones">Dragon Stone</a> the player possesses, and the player must capture it and use it to defeat N. After his defeat, N rides off on his dragon to a far-off region. In <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2">Pokémon Black 2 and White 2</a>, which take place two years later, <a href="/wiki/Ghetsis" title="Ghetsis">Ghetsis</a> revives Team Plasma and captures Kyurem in order to freeze and take control of the Unova region. N confronts him with Zekrom<b><sup><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#424B50;">B2</span></a></sup></b>/Reshiram<b><sup><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#948687;">W2</span></a></sup></b>, but Ghetsis seizes the opportunity to fuse the Tao dragon with Kyurem using the <a href="/wiki/DNA_Splicers" title="DNA Splicers">DNA Splicers</a> to create Black Kyurem<b><sup><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#424B50;">B2</span></a></sup></b>/White Kyurem<b><sup><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#948687;">W2</span></a></sup></b>. The player defeats Kyurem and Ghetsis, restoring balance to the region.
+</p><p>Reshiram and Zekrom are the stars of <a href="/wiki/M14" title="M14"><i>Pokémon The Movie: White—Victini and Zekrom</i> and <i>Pokémon The Movie: Black—Victini and Reshiram</i></a> along with Victini. Zekrom debuted in <i><a href="/wiki/BW001" title="BW001">In The Shadow of Zekrom!</a></i> causing <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Ash's Pikachu</a>'s electric crisis, and appeared in numerous flashbacks and fantasies afterwards. Reshiram also debuted in a cameo at the beginning of <i><a href="/wiki/BW001" title="BW001">In The Shadow of Zekrom!</a></i> and had a large role in the "Episode N" arc, as <a href="/wiki/Team_Plasma" title="Team Plasma">Team Plasma</a>'s target, appearing in <i><a href="/wiki/BW122" title="BW122">What Lies Beyond Truth and Ideals!</a></i>. Reshiram and Zekrom make a cameo appearance in <i><a href="/wiki/M18" title="M18">Hoopa and the Clash of Ages</a></i>.
+</p><p><a href="/wiki/Kyurem_(Pok%C3%A9mon)" title="Kyurem (Pokémon)">Kyurem</a> is related to Reshiram and Zekrom and represents <a href="https://en.wikipedia.org/wiki/Wuji_(philosophy)" class="extiw" title="wp:Wuji (philosophy)">wuji</a>, which is the absence of yin and yang. Using the <a href="/wiki/List_of_Key_Items_in_Generation_V#DNA_Splicers" title="List of Key Items in Generation V">DNA Splicers</a>, Kyurem can be fused with Reshiram or Zekrom into White Kyurem or Black Kyurem, respectively; with the same item, the fusion can be undone.
+</p><p>Kyurem is the star of <i><a href="/wiki/M15" title="M15">Kyurem VS. The Sword of Justice</a></i> along with Keldeo, where it seems as a ferocious Pokémon, and can change forms without the DNA Splicers. It is also capable of this when it appears in <i><a href="/wiki/M18" title="M18">Hoopa and the Clash of Ages</a></i>.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_VI">Generation VI</span></h3>
+<p>Three additional Legendary Pokémon were introduced in <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>, totaling 38 Legendary Pokémon. This is the first generation to introduce fewer Legendary Pokémon than the generation before it.
+</p>
+<h4><span class="mw-headline" id="Aura_trio">Aura trio</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Aura_trio" title="Aura trio">Aura trio</a></i></dd></dl>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Xerneas_artwork.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/3/38/Xerneas_artwork.png/200px-Xerneas_artwork.png" width="200" height="143" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/3/38/Xerneas_artwork.png/300px-Xerneas_artwork.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/38/Xerneas_artwork.png/400px-Xerneas_artwork.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Xerneas_artwork.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Xerneas_(Pok%C3%A9mon)" title="Xerneas (Pokémon)">Xerneas</a></div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Yveltal_artwork.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/d/dc/Yveltal_artwork.png/200px-Yveltal_artwork.png" width="200" height="143" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/d/dc/Yveltal_artwork.png/300px-Yveltal_artwork.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/dc/Yveltal_artwork.png/400px-Yveltal_artwork.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Yveltal_artwork.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Yveltal_(Pok%C3%A9mon)" title="Yveltal (Pokémon)">Yveltal</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:718Zygarde.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/3/3a/718Zygarde.png/200px-718Zygarde.png" width="200" height="200" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/3/3a/718Zygarde.png/300px-718Zygarde.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/3a/718Zygarde.png/400px-718Zygarde.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:718Zygarde.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Zygarde_(Pok%C3%A9mon)" title="Zygarde (Pokémon)">Zygarde 50% Forme</a></div></div></div>
+<p>The Legendary <a href="/wiki/Game_mascot" title="Game mascot">game mascots</a> of <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">Pokémon X and Y</a> are <a href="/wiki/Xerneas_(Pok%C3%A9mon)" title="Xerneas (Pokémon)">Xerneas</a> and <a href="/wiki/Yveltal_(Pok%C3%A9mon)" title="Yveltal (Pokémon)">Yveltal</a>, and they form the <a href="/wiki/Aura_trio" title="Aura trio">aura trio</a> along with <a href="/wiki/Zygarde_(Pok%C3%A9mon)" title="Zygarde (Pokémon)">Zygarde</a>. Xerneas and Yveltal represent life and destruction, respectively, while Zygarde is said to monitor the balance of the ecosystem and reveal its power when the ecosystem is disrupted. Xerneas has the power to share eternal life, while Yveltal absorbs the life force of everything around it. Xerneas sleeps in the form of a tree, while Yveltal sleeps in the form of a cocoon. Xerneas and Yveltal have the Abilities <a href="/wiki/Fairy_Aura_(Ability)" title="Fairy Aura (Ability)">Fairy Aura</a> and <a href="/wiki/Dark_Aura_(Ability)" title="Dark Aura (Ability)">Dark Aura</a>, respectively, while Zygarde's <a href="/wiki/Aura_Break_(Ability)" title="Aura Break (Ability)">Aura Break</a> reverses the effects of these Abilities.
+</p><p>Xerneas has <a href="/wiki/List_of_Pok%C3%A9mon_with_form_differences#Xerneas" title="List of Pokémon with form differences">two Formes</a>, appearing in Active Mode in battle and Neutral Mode otherwise. Yveltal has no form differences. Zygarde appeared only as Zygarde 50% Forme in Pokémon X and Y, but had <a href="/wiki/List_of_Pok%C3%A9mon_with_form_differences#Zygarde" title="List of Pokémon with form differences">two other Formes</a> and two further components introduced in the anime and in <a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon">Pokémon Sun and Moon</a>. Zygarde's other Formes are Zygarde 10% Forme, a dog-like Forme that includes 10% of Zygarde's full power, and Zygarde Complete Forme, whose power is said to exceed that of Xerneas and Yveltal. Its further components are Zygarde Cells, tiny cell-like creatures that make up Zygarde's body, and Zygarde Cores, cell-like creatures said to be its mind.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">Pokémon X and Y</a>, <a href="/wiki/Lysandre" title="Lysandre">Lysandre</a> captures Xerneas or Yveltal to use their power in the <a href="/wiki/Ultimate_weapon" title="Ultimate weapon">ultimate weapon</a> to create a "beautiful world" in his image. Either Xerneas or Yveltal are captured by the player at the <a href="/wiki/Team_Flare_Secret_HQ" title="Team Flare Secret HQ">Team Flare Secret HQ</a> upon awakening from their dormant forms. Zygarde 50% Forme can be found in <a href="/wiki/Terminus_Cave" title="Terminus Cave">Terminus Cave</a> after the player enters the Hall of Fame.
+</p><p>In the anime, Xerneas and Yveltal starred in the movie <i><a href="/wiki/M17" title="M17">Diancie and the Cocoon of Destruction</a></i>, along with Diancie, where Xerneas and Yveltal are shown to be residents of the <a href="/wiki/Allearth_Forest" title="Allearth Forest">Allearth Forest</a>. Xerneas made a minor appearance in <i><a href="/wiki/XY041" title="XY041">Foggy Pokémon Orienteering!</a></i>, being responsible for causing Ash and his friends to get lost in fog during the orienteering activity.
+</p><p>In the anime, Zygarde debuted in in <i><a href="/wiki/SS035" title="SS035">Mega Evolution Special IV</a></i> in its 50% Forme alongside a Zygarde Core. A Zygarde Core has traveled alongside Ash and his friends, nicknamed <a href="/wiki/Squishy" title="Squishy">Squishy</a> by Bonnie, since the beginning of the <a href="/wiki/List_of_XY_series_episodes#XY.26Z" title="List of XY series episodes"><i>XYZ</i> arc</a>, and another Zygarde Core referred to as <a href="/wiki/Z2" title="Z2">Z2</a> was captured by <a href="/wiki/Team_Flare" title="Team Flare">Team Flare</a>. Both of these Cores have appeared in all three Formes of Zygarde.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_VII">Generation VII</span></h3>
+<p><a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a> has eleven known Legendary Pokémon. Six of these Pokémon are part of <a href="/wiki/Pok%C3%A9mon_Evolution" class="mw-redirect" title="Pokémon Evolution">evolutionary chains</a>.
+</p>
+<h4><span class="mw-headline" id="Type:_Null_and_Silvally">Type: Null and Silvally</span></h4>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:772Type_Null.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/f/fd/772Type_Null.png/200px-772Type_Null.png" width="200" height="200" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/f/fd/772Type_Null.png/300px-772Type_Null.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fd/772Type_Null.png/400px-772Type_Null.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:772Type_Null.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Type:_Null_(Pok%C3%A9mon)" title="Type: Null (Pokémon)">Type: Null</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:773Silvally.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/b/be/773Silvally.png/200px-773Silvally.png" width="200" height="200" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/b/be/773Silvally.png/300px-773Silvally.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/be/773Silvally.png/400px-773Silvally.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:773Silvally.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Silvally_(Pok%C3%A9mon)" title="Silvally (Pokémon)">Silvally</a></div></div></div>
+<p><a href="/wiki/Type:_Null_(Pok%C3%A9mon)" title="Type: Null (Pokémon)">Type: Null</a> and its evolution <a href="/wiki/Silvally_(Pok%C3%A9mon)" title="Silvally (Pokémon)">Silvally</a> are man-made Pokémon created by the <a href="/wiki/Aether_Foundation" title="Aether Foundation">Aether Foundation</a> for <a href="/wiki/Faba" title="Faba">Faba</a>'s "Beast Killer" project, which aimed to create a Pokémon with similarity to <a href="/wiki/Arceus_(Pok%C3%A9mon)" title="Arceus (Pokémon)">Arceus</a> through data collected from <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a>'s <a href="/wiki/Canalave_Library" title="Canalave Library">Canalave Library</a>.
+</p><p>Although the project was deemed a failure and the resulting three models of Type: Null were put into cryogenic stasis, <a href="/wiki/Gladion" title="Gladion">Gladion</a> managed to evolve the stolen Type: Null that became his partner. He named the evolution Silvally.
+</p><p><br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Guardian_deities">Guardian deities</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Guardian_deities" title="Guardian deities">Guardian deities</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Guardian_deities_anime.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/2/25/Guardian_deities_anime.png/200px-Guardian_deities_anime.png" width="200" height="113" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/2/25/Guardian_deities_anime.png/300px-Guardian_deities_anime.png 1.5x, //cdn.bulbagarden.net/upload/thumb/2/25/Guardian_deities_anime.png/400px-Guardian_deities_anime.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Guardian_deities_anime.png" class="internal" title="Enlarge"></a></div>The Guardian Deities in the anime</div></div></div>
+<p>The guardian deities are <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> who protect the islands where they live. Each of the four main islands in Alola has a guardian deity: <a href="/wiki/Tapu_Koko_(Pok%C3%A9mon)" title="Tapu Koko (Pokémon)">Tapu Koko</a> on <a href="/wiki/Melemele_Island" title="Melemele Island">Melemele Island</a>, <a href="/wiki/Tapu_Lele_(Pok%C3%A9mon)" title="Tapu Lele (Pokémon)">Tapu Lele</a> on <a href="/wiki/Akala_Island" title="Akala Island">Akala Island</a>, <a href="/wiki/Tapu_Bulu_(Pok%C3%A9mon)" title="Tapu Bulu (Pokémon)">Tapu Bulu</a> on <a href="/wiki/Ula%27ula_Island" title="Ula'ula Island">Ula'ula Island</a>, and <a href="/wiki/Tapu_Fini_(Pok%C3%A9mon)" title="Tapu Fini (Pokémon)">Tapu Fini</a> on <a href="/wiki/Poni_Island" title="Poni Island">Poni Island</a>. The <a href="/wiki/Island_Kahuna" title="Island Kahuna">Island Kahunas</a> are each chosen by their island's guardian deity.
+<br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Cosmog_line">Cosmog line</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Cosmic_duo" title="Cosmic duo">Cosmic duo</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:789Cosmog.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/1/17/789Cosmog.png/200px-789Cosmog.png" width="200" height="200" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/1/17/789Cosmog.png/300px-789Cosmog.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/17/789Cosmog.png/400px-789Cosmog.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:789Cosmog.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Cosmog_(Pok%C3%A9mon)" title="Cosmog (Pokémon)">Cosmog</a></div></div></div>
+<p><a href="/wiki/Cosmog_(Pok%C3%A9mon)" title="Cosmog (Pokémon)">Cosmog</a> is a <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic-type</a> Legendary Pokémon introduced in <a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon">Pokémon Sun and Moon</a>. Cosmog has a major role in the plot as a Pokémon being studied by the <a href="/wiki/Aether_Foundation" title="Aether Foundation">Aether Foundation</a>. <a href="/wiki/Lillie" title="Lillie">Lillie</a>, the daughter of Aether Foundation's president, <a href="/wiki/Lusamine" title="Lusamine">Lusamine</a>, spirits Cosmog away and nicknames it <a href="/wiki/Nebby" title="Nebby">Nebby</a>, hiding it in her bag as she tries to learn more about it by visiting the <a href="/wiki/Guardian_deities" title="Guardian deities">guardian deities</a>. Over the course of the game, Nebby evolves into <a href="/wiki/Cosmoem_(Pok%C3%A9mon)" title="Cosmoem (Pokémon)">Cosmoem</a>, another Legendary Pokémon, and eventually the <a href="/wiki/Version_mascot" class="mw-redirect" title="Version mascot">version mascot</a> of the game: the <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic</a>/<a href="/wiki/Steel_(type)" title="Steel (type)">Steel</a>-type <a href="/wiki/Solgaleo_(Pok%C3%A9mon)" title="Solgaleo (Pokémon)">Solgaleo</a> in Pokémon Sun and the <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic</a>/<a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost</a>-type <a href="/wiki/Lunala_(Pok%C3%A9mon)" title="Lunala (Pokémon)">Lunala</a> in Pokémon Moon. Another Cosmog can be obtained by the player in the post-game.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:790Cosmoem.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/1/1b/790Cosmoem.png/120px-790Cosmoem.png" width="120" height="120" srcset="//cdn.bulbagarden.net/upload/thumb/1/1b/790Cosmoem.png/180px-790Cosmoem.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1b/790Cosmoem.png/240px-790Cosmoem.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Cosmoem_(Pok%C3%A9mon)" title="Cosmoem (Pokémon)">Cosmoem</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:791Solgaleo.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/5/57/791Solgaleo.png/120px-791Solgaleo.png" width="120" height="120" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/791Solgaleo.png/180px-791Solgaleo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/791Solgaleo.png/240px-791Solgaleo.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Solgaleo_(Pok%C3%A9mon)" title="Solgaleo (Pokémon)">Solgaleo</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:792Lunala.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/9/9d/792Lunala.png/120px-792Lunala.png" width="120" height="120" srcset="//cdn.bulbagarden.net/upload/thumb/9/9d/792Lunala.png/180px-792Lunala.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/9d/792Lunala.png/240px-792Lunala.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Lunala_(Pok%C3%A9mon)" title="Lunala (Pokémon)">Lunala</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<p><br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Necrozma">Necrozma</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:800Necrozma.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/44/800Necrozma.png/200px-800Necrozma.png" width="200" height="200" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/4/44/800Necrozma.png/300px-800Necrozma.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/44/800Necrozma.png/400px-800Necrozma.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:800Necrozma.png" class="internal" title="Enlarge"></a></div>Necrozma</div></div></div>
+<p><a href="/wiki/Necrozma_(Pok%C3%A9mon)" title="Necrozma (Pokémon)">Necrozma</a> is a mysterious <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic-type</a> Legendary Pokémon that resembles the <a href="/wiki/Ultra_Beast" title="Ultra Beast">Ultra Beasts</a>. It is believed to have come from an alternate dimension long ago.
+</p><p>Necrozma has three additional forms introduced in <a href="/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon" title="Pokémon Ultra Sun and Ultra Moon">Pokémon Ultra Sun and Ultra Moon</a>. It transforms into the first two, called Dusk Mane Necrozma and Dawn Wings Necrozma, when it has absorbed Solgaleo and Lunala, respectively. Either of these two forms can further transform into the third, Ultra Necrozma, after absorbing an excess amount of light.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:800Necrozma-Dusk_Mane.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/80/800Necrozma-Dusk_Mane.png/120px-800Necrozma-Dusk_Mane.png" width="120" height="120" srcset="//cdn.bulbagarden.net/upload/thumb/8/80/800Necrozma-Dusk_Mane.png/180px-800Necrozma-Dusk_Mane.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/80/800Necrozma-Dusk_Mane.png/240px-800Necrozma-Dusk_Mane.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Dusk Mane Necrozma
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:800Necrozma-Dawn_Wings.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/7a/800Necrozma-Dawn_Wings.png/120px-800Necrozma-Dawn_Wings.png" width="120" height="120" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/800Necrozma-Dawn_Wings.png/180px-800Necrozma-Dawn_Wings.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/800Necrozma-Dawn_Wings.png/240px-800Necrozma-Dawn_Wings.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Dawn Wings Necrozma
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:800Necrozma-Ultra.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/8b/800Necrozma-Ultra.png/120px-800Necrozma-Ultra.png" width="120" height="120" srcset="//cdn.bulbagarden.net/upload/thumb/8/8b/800Necrozma-Ultra.png/180px-800Necrozma-Ultra.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/8b/800Necrozma-Ultra.png/240px-800Necrozma-Ultra.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Ultra Necrozma
+</p>
+			</div>
+		</div></li>
+</ul>
+<p><br clear="all" />
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> Though <a href="/wiki/Unown_(Pok%C3%A9mon)" title="Unown (Pokémon)">Unown</a> is not considered to be a Legendary Pokémon, in <i><a href="/wiki/M03" title="M03">Spell of the Unown: Entei</a></i>, it is shown in <a href="/wiki/Molly_Hale" title="Molly Hale">Molly Hale</a>'s book about Legendary Pokémon, its power (in large numbers, at least) appears to match that of Legendary Pokémon, and within the canon of the movie it is specifically referred to as a Legendary Pokémon.</li>
+<li> <a href="/wiki/Heatran_(Pok%C3%A9mon)" title="Heatran (Pokémon)">Heatran</a> is the only Legendary Pokémon that can be either gender.</li>
+<li> According to interviews with <a href="/wiki/Junichi_Masuda" title="Junichi Masuda">Junichi Masuda</a> in 2009, Legendary Pokémon are the most difficult to design names for because Game Freak strives to make sure that the names of Legendary Pokémon are universal across the different translations, so extra work must be put into their names to make sure that they work universally in all languages and don't conflict with anything else. This is consistent with the relatively small number of Legendary Pokémon that have had their names changed significantly outside of Japan (currently 16: the <a href="/wiki/Legendary_birds" title="Legendary birds">Legendary birds</a>, the <a href="/wiki/Lake_guardians" title="Lake guardians">lake guardians</a>, the <a href="/wiki/Forces_of_Nature" title="Forces of Nature">Forces of Nature</a>, <a href="/wiki/Silvally_(Pok%C3%A9mon)" title="Silvally (Pokémon)">Silvally</a>, the <a href="/wiki/Guardian_deities" title="Guardian deities">guardian deities</a>, and in <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a> only, the <a href="/wiki/Mew_duo" title="Mew duo">Mew duo</a>).</li>
+<li> Each member of the <a href="/wiki/Legendary_beasts" title="Legendary beasts">Legendary beasts</a> and the <a href="/wiki/Tao_trio" title="Tao trio">Tao trio</a> has its own remix of each trio's designated battle theme:
+<ul><li> In <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">HeartGold and SoulSilver</a>, Suicune's theme uses bells, Entei's theme uses an electric guitar, and Raikou's theme is synthesized.</li>
+<li> Reshiram's theme employs a burning fire effect, Zekrom's theme employs a crackling thunder effect, and normal Kyurem's theme features an extra slapped bass part playing in the background.</li></ul></li>
+<li> The Legendary birds are the Legendary Pokémon that have been available in the wild in the greatest number of core series games, each being able to be caught in thirteen core series games (<a href="/wiki/Pok%C3%A9mon_Red_and_Green_Versions" title="Pokémon Red and Green Versions">Pokémon Red, Green</a>, <a href="/wiki/Pok%C3%A9mon_Blue_Version_(Japanese)" title="Pokémon Blue Version (Japanese)">Blue</a>, <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version">Yellow</a>, <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">FireRed, LeafGreen</a>, <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a>, <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">HeartGold, SoulSilver</a>, <a href="/wiki/Pok%C3%A9mon_X_and_Y_Versions" class="mw-redirect" title="Pokémon X and Y Versions">X, Y</a>, <a href="/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon" title="Pokémon Ultra Sun and Ultra Moon">Ultra Sun and Ultra Moon</a>).</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #E5653C; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #A62F19; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #E5653C; border-collapse:collapse">
+
+<tr style="background: #E5653C">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Japan_Flag.png" class="image"><img alt="Japan Flag.png" src="//cdn.bulbagarden.net/upload/thumb/3/37/Japan_Flag.png/20px-Japan_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/3/37/Japan_Flag.png/30px-Japan_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/37/Japan_Flag.png/40px-Japan_Flag.png 2x" /></a> Japanese
+</td>
+<td> 伝説のポケモン <i>Legendary Pokémon</i>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 傳說的寶可夢 <i><span class="explain" title="Legendary Pokémon">Chyùhnsyut-dīk Pokémon</span></i> <span class="explain" title="Games">*</span><br />傳說中的寵物小精靈 <i><span class="explain" title="Legendary Pocket Monster">Chyùhnsyut-jūng dīk Chúngmaht-Síujīnglìhng</span></i> <span class="explain" title="M12 and M16 - M17, DPPt Pokédex, M12 Manga, Let&#39;s Find Pokémon!">*</span><br />傳說中的小精靈 <i><span class="explain" title="Legendary Pokémon">Chyùhnsyut-jūng dīk Síujīnglìhng</span></i> <span class="explain" title="Original series, BW010, BW097, BW110, XY086, XY107, XY110, M18 and Official website (XY086)">*</span><br />傳說小精靈 <i><span class="explain" title="Legendary Pokémon">Chyùhnsyut Síujīnglìhng</span></i> <span class="explain" title="XY054, XY132, XY133, XY134, XY140, XY141, M18 &amp; Legend of Thunder">*</span><br />傳說的小精靈 <i><span class="explain" title="Legendary Pokémon">Chyùhnsyut dīk Síujīnglìhng</span></i> <span class="explain" title="Legend of Thunder and Official website (BW110, BW120 &amp; BW122)">*</span><br />傳說寵物精靈 <i><span class="explain" title="Legendary Pocket Monster">Chyùhnsyut Chúngmaht-Jīnglìhng</span></i> <span class="explain" title="M12 Manga">*</span>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 傳說的寶可夢 / 传说的宝可梦 <i><span class="explain" title="Legendary Pokémon">Chuánshuō-de Pokémon</span></i> <span class="explain" title="Games, SM series">*</span><br />传说中的精灵宝可梦 <i><span class="explain" title="Legendary Pokémon">Chuánshuō-zhōng de Jīnglíng Pokémon</span></i>  <span class="explain" title="Movie (Mainland China (2011-2016))">*</span><br />傳說中的神奇寶貝 <i><span class="explain" title="Legendary Pokémon">Chuánshuō-zhōng de Shénqíbǎobèi</span></i> <span class="explain" title="XYZ season and M16, M18, M19">*</span><br />傳說的神奇寶貝 <i><span class="explain" title="Legendary Pokémon">Chuánshuō-de Shénqíbǎobèi</span></i> <span class="explain" title="M11, M13, M14, Best Wishes series, DPPt Pokédex">*</span><br />傳說神奇寶貝 <i><span class="explain" title="Legendary Pokémon">Chuánshuō Shénqíbǎobèi</span></i> <span class="explain" title="Late DP series, Adventures 52">*</span><br />傳說中神奇寶貝 <i><span class="explain" title="Legendary Pokémon">Chuánshuō-zhōng Shénqíbǎobèi</span></i> <span class="explain" title="Early DP series">*</span><br />令人遐想的小精灵 <i><span class="explain" title="Pokémon that makes people fantasize">Lìngrén Xiáxiǎng-de Xiǎojīnglíng</span></i> <span class="explain" title="Let&#39;s Find Pokémon! (Mainland China)">*</span>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:The_Czech_Republic_Flag.png" class="image"><img alt="The Czech Republic Flag.png" src="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/20px-The_Czech_Republic_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/30px-The_Czech_Republic_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/40px-The_Czech_Republic_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Czech_Republic" title="Pokémon in the Czech Republic">Czech</a>
+</td>
+<td> Legendární Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> Legendarisk Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:The_Netherlands_Flag.png" class="image"><img alt="The Netherlands Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/20px-The_Netherlands_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/30px-The_Netherlands_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/40px-The_Netherlands_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Netherlands" title="Pokémon in the Netherlands">Dutch</a>
+</td>
+<td> Legendarische Pokémon
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Legendaarinen Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Pokémon légendaire
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Legendäre Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Greece_Flag.png" class="image"><img alt="Greece Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fd/Greece_Flag.png/20px-Greece_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fd/Greece_Flag.png/30px-Greece_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fd/Greece_Flag.png/40px-Greece_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Greece" title="Pokémon in Greece">Greek</a>
+</td>
+<td> Θρυλικό Pokémon <i>Thrilikó Pokémon</i>
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Hungary_Flag.png" class="image"><img alt="Hungary Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/20px-Hungary_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/30px-Hungary_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/40px-Hungary_Flag.png 2x" /></a> Hungarian
+</td>
+<td> Legendás Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Iceland_Flag.png" class="image"><img alt="Iceland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/18/Iceland_Flag.png/20px-Iceland_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/1/18/Iceland_Flag.png/30px-Iceland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/18/Iceland_Flag.png/40px-Iceland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Iceland" title="Pokémon in Iceland">Icelandic</a>
+</td>
+<td> Þjóðsagnakenndum Pokémon
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Pokémon leggendari
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 전설의 포켓몬 <i>Jeonseol-ui Pokémon</i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Legendarisk Pokémon
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Legendarny Pokémon
+</td></tr>
+
+<tr>
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> Pokémon Lendário<br />Lendário Pokémon<span class="explain" title="BW121 blurb">*</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> Pokémon Lendário
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Легендарный Покемон <i>Legendarnyy Pokémon</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Pokémon Legendario
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Legendarisk Pokémon<br />Legendpokémon<span class="explain" title="M03 subtitles">*</span>
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Thailand_Flag.png" class="image"><img alt="Thailand Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/20px-Thailand_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/30px-Thailand_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/40px-Thailand_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Thailand" title="Pokémon in Thailand">Thai</a>
+</td>
+<td> โปเกมอนในตำนาน <i>Pokémon nı tảnān</i>
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Turkey_Flag.png" class="image"><img alt="Turkey Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/20px-Turkey_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/30px-Turkey_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/40px-Turkey_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Turkey" title="Pokémon in Turkey">Turkish</a>
+</td>
+<td> Efsanevi Pokémon
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> Pokémon huyền thoại
+</td></tr>
+<tr>
+<td colspan="3" style="background: #E5653C">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<table width="100%&#124;">
+<tr>
+<td style="vertical-align:top" width="50%">
+<ul><li> <a href="/wiki/Mythical_Pok%C3%A9mon" title="Mythical Pokémon">Mythical Pokémon</a></li>
+<li> <a href="/wiki/Event_Pok%C3%A9mon" title="Event Pokémon">Event Pokémon</a></li>
+<li> <a href="/wiki/Special_Pok%C3%A9mon" title="Special Pokémon">Special Pokémon</a></li>
+<li> <a href="/wiki/Pseudo-legendary_Pok%C3%A9mon" title="Pseudo-legendary Pokémon">Pseudo-legendary Pokémon</a></li>
+<li> <a href="/wiki/Ultra_Beast" title="Ultra Beast">Ultra Beast</a></li></ul>
+</td>
+<td style="vertical-align:top" width="50%">
+<ul><li> <a href="/wiki/Myths_and_legends_involving_Legendary_Pok%C3%A9mon" title="Myths and legends involving Legendary Pokémon">Myths and legends involving Legendary Pokémon</a></li>
+<li> <a href="/wiki/Sinnoh_myths" title="Sinnoh myths">Sinnoh myths</a></li>
+<li> <a href="/wiki/History_of_the_Pok%C3%A9mon_world" title="History of the Pokémon world">History of the Pokémon world</a></li>
+<li> <a href="/wiki/Category:Episodes_in_which_a_Legendary_Pok%C3%A9mon_appears" title="Category:Episodes in which a Legendary Pokémon appears">Episodes in which a Legendary Pokémon appears</a></li>
+<li> <a href="/wiki/Category:Trainers_with_Legendary_or_Mythical_Pok%C3%A9mon" title="Category:Trainers with Legendary or Mythical Pokémon">Trainers with Legendary or Mythical Pokémon</a></li></ul>
+</td></tr></table>
+<table border="0" cellspacing="0" cellpadding="0" style="margin:auto; background: #dcdce7; border: 1px solid #dcdce7; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
+
+<tr>
+<td style="background: #bebed1; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;; padding: 2px">
+<table class="toccolours" cellspacing="0" cellpadding="5" style="margin:auto; text-align: center; line-height: 19px; border: 3px solid #88a; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;; padding: 0px">
+
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+<th colspan="2" style="padding: 0 20px 1px"> <div style="background: #ccf; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px;; padding: 2px 15px"><a class="mw-selflink selflink">Legendary</a> and <a href="/wiki/Mythical_Pok%C3%A9mon" title="Mythical Pokémon">Mythical Pokémon</a></div>
+</th></tr>
+<tr style="font-size: 90%">
+<th class="roundytl" style="background: #ddf; padding: 2px 15px"> <a href="/wiki/Generation_I" title="Generation I">Generation I</a>:
+</th>
+<td class="roundytr" style="background: #e6e6ff; padding: 2px 10px"> <a href="/wiki/Articuno_(Pok%C3%A9mon)" title="Articuno (Pokémon)">Articuno</a> • <a href="/wiki/Zapdos_(Pok%C3%A9mon)" title="Zapdos (Pokémon)">Zapdos</a> • <a href="/wiki/Moltres_(Pok%C3%A9mon)" title="Moltres (Pokémon)">Moltres</a> • <a href="/wiki/Mewtwo_(Pok%C3%A9mon)" title="Mewtwo (Pokémon)">Mewtwo</a> • <a href="/wiki/Mew_(Pok%C3%A9mon)" title="Mew (Pokémon)">Mew</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%">
+<th style="background: #ddf; padding: 2px 15px"> <a href="/wiki/Generation_II" title="Generation II">Generation II</a>:
+</th>
+<td style="background: #e6e6ff; padding: 2px 10px"> <a href="/wiki/Raikou_(Pok%C3%A9mon)" title="Raikou (Pokémon)">Raikou</a> • <a href="/wiki/Entei_(Pok%C3%A9mon)" title="Entei (Pokémon)">Entei</a> • <a href="/wiki/Suicune_(Pok%C3%A9mon)" title="Suicune (Pokémon)">Suicune</a> • <a href="/wiki/Lugia_(Pok%C3%A9mon)" title="Lugia (Pokémon)">Lugia</a> • <a href="/wiki/Ho-Oh_(Pok%C3%A9mon)" title="Ho-Oh (Pokémon)">Ho-Oh</a> • <a href="/wiki/Celebi_(Pok%C3%A9mon)" title="Celebi (Pokémon)">Celebi</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%">
+<th style="background: #ddf; padding: 2px 15px"> <a href="/wiki/Generation_III" title="Generation III">Generation III</a>:
+</th>
+<td style="background: #e6e6ff; padding: 2px 10px"> <a href="/wiki/Regirock_(Pok%C3%A9mon)" title="Regirock (Pokémon)">Regirock</a> • <a href="/wiki/Regice_(Pok%C3%A9mon)" title="Regice (Pokémon)">Regice</a> • <a href="/wiki/Registeel_(Pok%C3%A9mon)" title="Registeel (Pokémon)">Registeel</a> • <a href="/wiki/Latias_(Pok%C3%A9mon)" title="Latias (Pokémon)">Latias</a> • <a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios (Pokémon)">Latios</a><br /><a href="/wiki/Kyogre_(Pok%C3%A9mon)" title="Kyogre (Pokémon)">Kyogre</a> • <a href="/wiki/Groudon_(Pok%C3%A9mon)" title="Groudon (Pokémon)">Groudon</a> • <a href="/wiki/Rayquaza_(Pok%C3%A9mon)" title="Rayquaza (Pokémon)">Rayquaza</a> • <a href="/wiki/Jirachi_(Pok%C3%A9mon)" title="Jirachi (Pokémon)">Jirachi</a> • <a href="/wiki/Deoxys_(Pok%C3%A9mon)" title="Deoxys (Pokémon)">Deoxys</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%">
+<th style="background: #ddf; padding: 2px 15px"> <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>:
+</th>
+<td style="background: #e6e6ff; padding: 2px 10px"> <a href="/wiki/Uxie_(Pok%C3%A9mon)" title="Uxie (Pokémon)">Uxie</a> • <a href="/wiki/Mesprit_(Pok%C3%A9mon)" title="Mesprit (Pokémon)">Mesprit</a> • <a href="/wiki/Azelf_(Pok%C3%A9mon)" title="Azelf (Pokémon)">Azelf</a> • <a href="/wiki/Dialga_(Pok%C3%A9mon)" title="Dialga (Pokémon)">Dialga</a> • <a href="/wiki/Palkia_(Pok%C3%A9mon)" title="Palkia (Pokémon)">Palkia</a> • <a href="/wiki/Heatran_(Pok%C3%A9mon)" title="Heatran (Pokémon)">Heatran</a> • <a href="/wiki/Regigigas_(Pok%C3%A9mon)" title="Regigigas (Pokémon)">Regigigas</a><br /><a href="/wiki/Giratina_(Pok%C3%A9mon)" title="Giratina (Pokémon)">Giratina</a> • <a href="/wiki/Cresselia_(Pok%C3%A9mon)" title="Cresselia (Pokémon)">Cresselia</a> • <a href="/wiki/Phione_(Pok%C3%A9mon)" title="Phione (Pokémon)">Phione</a><span class="explain" title="disputed">*</span> • <a href="/wiki/Manaphy_(Pok%C3%A9mon)" title="Manaphy (Pokémon)">Manaphy</a> • <a href="/wiki/Darkrai_(Pok%C3%A9mon)" title="Darkrai (Pokémon)">Darkrai</a> • <a href="/wiki/Shaymin_(Pok%C3%A9mon)" title="Shaymin (Pokémon)">Shaymin</a> • <a href="/wiki/Arceus_(Pok%C3%A9mon)" title="Arceus (Pokémon)">Arceus</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%">
+<th style="background: #ddf;; padding: 2px 15px"> <a href="/wiki/Generation_V" title="Generation V">Generation V</a>:
+</th>
+<td style="background: #e6e6ff; padding: 2px 10px"> <a href="/wiki/Victini_(Pok%C3%A9mon)" title="Victini (Pokémon)">Victini</a> • <a href="/wiki/Cobalion_(Pok%C3%A9mon)" title="Cobalion (Pokémon)">Cobalion</a> • <a href="/wiki/Terrakion_(Pok%C3%A9mon)" title="Terrakion (Pokémon)">Terrakion</a> • <a href="/wiki/Virizion_(Pok%C3%A9mon)" title="Virizion (Pokémon)">Virizion</a> • <a href="/wiki/Tornadus_(Pok%C3%A9mon)" title="Tornadus (Pokémon)">Tornadus</a> • <a href="/wiki/Thundurus_(Pok%C3%A9mon)" title="Thundurus (Pokémon)">Thundurus</a><br /><a href="/wiki/Reshiram_(Pok%C3%A9mon)" title="Reshiram (Pokémon)">Reshiram</a> • <a href="/wiki/Zekrom_(Pok%C3%A9mon)" title="Zekrom (Pokémon)">Zekrom</a> • <a href="/wiki/Landorus_(Pok%C3%A9mon)" title="Landorus (Pokémon)">Landorus</a> • <a href="/wiki/Kyurem_(Pok%C3%A9mon)" title="Kyurem (Pokémon)">Kyurem</a> • <a href="/wiki/Keldeo_(Pok%C3%A9mon)" title="Keldeo (Pokémon)">Keldeo</a> • <a href="/wiki/Meloetta_(Pok%C3%A9mon)" title="Meloetta (Pokémon)">Meloetta</a> • <a href="/wiki/Genesect_(Pok%C3%A9mon)" title="Genesect (Pokémon)">Genesect</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%">
+<th style="background: #ddf;; padding: 2px 15px"> <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>:
+</th>
+<td style="background: #e6e6ff; padding: 2px 10px"> <a href="/wiki/Xerneas_(Pok%C3%A9mon)" title="Xerneas (Pokémon)">Xerneas</a> • <a href="/wiki/Yveltal_(Pok%C3%A9mon)" title="Yveltal (Pokémon)">Yveltal</a> • <a href="/wiki/Zygarde_(Pok%C3%A9mon)" title="Zygarde (Pokémon)">Zygarde</a> • <a href="/wiki/Diancie_(Pok%C3%A9mon)" title="Diancie (Pokémon)">Diancie</a> • <a href="/wiki/Hoopa_(Pok%C3%A9mon)" title="Hoopa (Pokémon)">Hoopa</a> • <a href="/wiki/Volcanion_(Pok%C3%A9mon)" title="Volcanion (Pokémon)">Volcanion</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%">
+<th class="roundybl" style="background: #ddf; padding: 2px 15px"> <a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a>:
+</th>
+<td class="roundybr" style="background: #e6e6ff; padding: 2px 10px"> <a href="/wiki/Type:_Null_(Pok%C3%A9mon)" title="Type: Null (Pokémon)">Type: Null</a> • <a href="/wiki/Silvally_(Pok%C3%A9mon)" title="Silvally (Pokémon)">Silvally</a> • <a href="/wiki/Tapu_Koko_(Pok%C3%A9mon)" title="Tapu Koko (Pokémon)">Tapu Koko</a> • <a href="/wiki/Tapu_Lele_(Pok%C3%A9mon)" title="Tapu Lele (Pokémon)">Tapu Lele</a> • <a href="/wiki/Tapu_Bulu_(Pok%C3%A9mon)" title="Tapu Bulu (Pokémon)">Tapu Bulu</a> • <a href="/wiki/Tapu_Fini_(Pok%C3%A9mon)" title="Tapu Fini (Pokémon)">Tapu Fini</a> • <a href="/wiki/Cosmog_(Pok%C3%A9mon)" title="Cosmog (Pokémon)">Cosmog</a><br /><a href="/wiki/Cosmoem_(Pok%C3%A9mon)" title="Cosmoem (Pokémon)">Cosmoem</a> • <a href="/wiki/Solgaleo_(Pok%C3%A9mon)" title="Solgaleo (Pokémon)">Solgaleo</a> • <a href="/wiki/Lunala_(Pok%C3%A9mon)" title="Lunala (Pokémon)">Lunala</a> • <a href="/wiki/Necrozma_(Pok%C3%A9mon)" title="Necrozma (Pokémon)">Necrozma</a> • <a href="/wiki/Magearna_(Pok%C3%A9mon)" title="Magearna (Pokémon)">Magearna</a> • <a href="/wiki/Marshadow_(Pok%C3%A9mon)" title="Marshadow (Pokémon)">Marshadow</a> • <a href="/wiki/Zeraora_(Pok%C3%A9mon)" title="Zeraora (Pokémon)">Zeraora</a>
+</td></tr></table>
+</td></tr></table>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180131032721
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.348 seconds
+Real time usage: 0.533 seconds
+Preprocessor visited node count: 4235/1000000
+Preprocessor generated node count: 14314/1000000
+Post‐expand include size: 46449/2097152 bytes
+Template argument size: 14805/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 7/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  333.232      1 -total
+ 13.60%   45.332      1 Template:BaseStatNoCat
+ 11.57%   38.569    199 Template:P
+  9.37%   31.220      1 Template:Langtable
+  7.20%   24.005      1 Template:Legendary_Pokémon
+  2.37%    7.890      1 Template:Featured
+  2.36%    7.857     12 Template:OBP
+  2.19%    7.298     16 Template:Sup/6
+  2.11%    7.034     33 Template:Tt
+  1.92%    6.405      2 Template:2t
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:1513-0!*!0!!en!5!* and timestamp 20180131032720 and revision id 2737376
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Legendary_Pokémon&amp;oldid=2737376">https://bulbapedia.bulbagarden.net/w/index.php?title=Legendary_Pokémon&amp;oldid=2737376</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</a></li><li><a href="/wiki/Category:Lists_of_Pok%C3%A9mon" title="Category:Lists of Pokémon">Lists of Pokémon</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_world" title="Category:Pokémon world">Pokémon world</a></li><li><a href="/wiki/Category:Terminology" title="Category:Terminology">Terminology</a></li><li><a href="/wiki/Category:Legendary_Pok%C3%A9mon" title="Category:Legendary Pokémon">Legendary Pokémon</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Legendary_Pok%C3%A9mon" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Legendary_Pok%C3%A9mon" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Legendary_Pok%C3%A9mon&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Legendary_Pok%C3%A9mon&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Legendary+Pok%C3%A9mon" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Legendary+Pok%C3%A9mon" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Legendary_Pok%C3%A9mon" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Legendary_Pok%C3%A9mon" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Legendary_Pok%C3%A9mon&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Legendary_Pok%C3%A9mon&amp;oldid=2737376" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Legendary_Pok%C3%A9mon&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Legend%C3%A4re_Pok%C3%A9mon" title="Legendäre Pokémon – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Pok%C3%A9mon_l%C3%A9gendaire" title="Pokémon légendaire – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Pok%C3%A9mon_leggendari" title="Pokémon leggendari – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E4%BC%9D%E8%AA%AC%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3" title="伝説のポケモン – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Pok%C3%A9mony_legendarne" title="Pokémony legendarne – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E5%82%B3%E8%AA%AA%E7%9A%84%E5%AF%B6%E5%8F%AF%E5%A4%A2" title="傳說的寶可夢 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 30 January 2018, at 02:46.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Legendary_Pok%C3%A9mon&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.348","walltime":"0.533","ppvisitednodes":{"value":4235,"limit":1000000},"ppgeneratednodes":{"value":14314,"limit":1000000},"postexpandincludesize":{"value":46449,"limit":2097152},"templateargumentsize":{"value":14805,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":7,"limit":100},"timingprofile":["100.00%  333.232      1 -total"," 13.60%   45.332      1 Template:BaseStatNoCat"," 11.57%   38.569    199 Template:P","  9.37%   31.220      1 Template:Langtable","  7.20%   24.005      1 Template:Legendary_Pokémon","  2.37%    7.890      1 Template:Featured","  2.36%    7.857     12 Template:OBP","  2.19%    7.298     16 Template:Sup/6","  2.11%    7.034     33 Template:Tt","  1.92%    6.405      2 Template:2t"]},"cachereport":{"timestamp":"20180131032721","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":50});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

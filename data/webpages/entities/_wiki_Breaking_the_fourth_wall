@@ -1,0 +1,1764 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Breaking the fourth wall - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Breaking_the_fourth_wall","wgTitle":"Breaking the fourth wall","wgCurRevisionId":2736825,"wgRevisionId":2736825,"wgArticleId":39586,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing more information","Anime running gags","Pokémon meta"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Breaking_the_fourth_wall","wgRelevantArticleId":39586,"wgRequestId":"48b728a3ac7ade6ecc222008","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Breaking_the_fourth_wall"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Breaking_the_fourth_wall"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Breaking_the_fourth_wall rootpage-Breaking_the_fourth_wall skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Breaking the fourth wall</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table align="center" style="background: #FAFFF4; border: 2px solid #E0C068; width: auto%; margin-left: auto; margin-right: auto; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="background:#EBD69D; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;;" width="60px" align="center"> <a href="/wiki/File:050Diglett.png" class="image"><img alt="050Diglett.png" src="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/50px-050Diglett.png" width="50" height="50" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/75px-050Diglett.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/100px-050Diglett.png 2x" /></a>
+</td>
+<td> <b>This article is incomplete.</b><br />Please feel free to edit this article to add missing information and complete it.
+</td></tr></table>
+<hr />
+<p>"<b>Breaking the <a href="https://en.wikipedia.org/wiki/fourth_wall" class="extiw" title="wp:fourth wall">fourth wall</a></b>" refers to a point at which a character acknowledges that he or she is fictional. In the <a href="/wiki/Pok%C3%A9mon" title="Pokémon">Pokémon franchise</a> several characters appear to break the "fourth wall" in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a>, <a href="/wiki/Pok%C3%A9mon_manga" title="Pokémon manga">manga</a>, and in the <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">games</a>.
+</p><p>There are several ways of breaking the fourth wall; example include when characters refer to a particular episode or season, when characters stop others from performing an occult or criminal act by referring to the fact that it is a "children's show", when characters respond to a real world person who is not physically present (such as the <a href="/wiki/Narrator" title="Narrator">narrator</a>), or when characters talk to the viewer or player directly rather than to their in-game avatar.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_the_anime"><span class="tocnumber">1</span> <span class="toctext">In the anime</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Original_series"><span class="tocnumber">1.1</span> <span class="toctext">Original series</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Advanced_Generation_series"><span class="tocnumber">1.2</span> <span class="toctext"><i>Advanced Generation</i> series</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Diamond_.26_Pearl_series"><span class="tocnumber">1.3</span> <span class="toctext"><i>Diamond &amp; Pearl</i> series</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Best_Wishes_series"><span class="tocnumber">1.4</span> <span class="toctext"><i>Best Wishes</i> series</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#XY_series"><span class="tocnumber">1.5</span> <span class="toctext"><i>XY</i> series</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Sun_.26_Moon_series"><span class="tocnumber">1.6</span> <span class="toctext"><i>Sun &amp; Moon</i> series</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Specials"><span class="tocnumber">1.7</span> <span class="toctext">Specials</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Movies"><span class="tocnumber">1.8</span> <span class="toctext">Movies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#In_the_games"><span class="tocnumber">2</span> <span class="toctext">In the games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Core_series"><span class="tocnumber">2.1</span> <span class="toctext">Core series</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Pok.C3.A9mon_Mystery_Dungeon_series"><span class="tocnumber">2.2</span> <span class="toctext">Pokémon Mystery Dungeon series</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Pok.C3.A9mon_Ranger_series"><span class="tocnumber">2.3</span> <span class="toctext">Pokémon Ranger series</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Pok.C3.A9mon_Rumble_series"><span class="tocnumber">2.4</span> <span class="toctext">Pokémon Rumble series</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#In_the_manga"><span class="tocnumber">3</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#In_The_Electric_Tale_of_Pikachu_manga"><span class="tocnumber">3.1</span> <span class="toctext">In The Electric Tale of Pikachu manga</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#In_the_Magical_Pok.C3.A9mon_Journey_manga"><span class="tocnumber">3.2</span> <span class="toctext">In the Magical Pokémon Journey manga</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#In_the_Pocket_Monsters_XY_manga"><span class="tocnumber">3.3</span> <span class="toctext">In the Pocket Monsters XY manga</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<p>In the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a>, the fourth wall has been broken numerous times. Most of these examples are from the English dub. The most common characters to do this are <a href="/wiki/Team_Rocket_trio" title="Team Rocket trio">Team Rocket</a>.
+</p>
+<h3><span class="mw-headline" id="Original_series"><a href="/wiki/Original_series" title="Original series">Original series</a></span></h3>
+<table style="background: #FF6464; margin-left: 10px; margin-bottom: 10px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #FF6464">
+
+<tr>
+<th style="background: #64D364; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Episode
+</th>
+<th style="background: #64D364; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Details
+</th></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP009" title="EP009">School of Hard Knocks</a></i>
+</td>
+<td> While breaking up an argument between <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> and <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a>, <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a> comments that they're running late and have to start the show.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP013" title="EP013">Mystery at the Lighthouse</a></i>
+</td>
+<td>The <a href="/wiki/Narrator" title="Narrator">narrator</a> asks Ash to name his Pokémon, which Ash does.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP014" title="EP014">Electric Shock Showdown</a></i>
+</td>
+<td> <a href="/wiki/James" title="James">James</a> says <i>"Drat! We wasted this episode cheering the good guys!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP026" title="EP026">Pokémon Scent-sation</a></i>
+</td>
+<td> <a href="/wiki/Meowth_(Team_Rocket)" title="Meowth (Team Rocket)">Meowth</a> complains that <a href="/wiki/Gloom_(Pok%C3%A9mon)" title="Gloom (Pokémon)">Gloom</a>'s horrible stench must have melted his nose from his face. He then remembers, and points out to the audience, that the show's cartoonists never gave him one.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="3" style="text-align:center"><i><a href="/wiki/EP027" title="EP027">Hypno's Naptime</a></i>
+</td>
+<td> <a href="/wiki/Jessie" title="Jessie">Jessie</a> remarks that their early arrival in the episode is based on the half-hour time constraint involving the show.
+</td></tr>
+<tr style="background: #fff">
+<td> James asks why they didn't just fly away with the Pokémon from the start after their Mirror scheme fails. Jessie responds they have to fill a half hour.
+</td></tr>
+<tr style="background: #fff">
+<td> Misty orders the narrator not to congratulate her for "capturing" her <a href="/wiki/Misty%27s_Psyduck" title="Misty's Psyduck">Psyduck</a>.
+</td></tr>
+
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP029" title="EP029">The Punchy Pokémon</a></i>
+</td>
+<td> James tells Jessie <i>"I hate to interrupt your internal dream sequence, but..."</i>, meaning that he was aware of her fantasy scene.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP030" title="EP030">Sparks Fly for Magnemite</a></i>
+</td>
+<td> When <a href="/wiki/Team_Rocket_trio" title="Team Rocket trio">Team Rocket</a> appears with a new <a href="/wiki/Team_Rocket%27s_mechas" title="Team Rocket's mechas">mecha</a> without Ash and <a href="/wiki/Ash%27s_friends" title="Ash's friends">his friends</a> noticing, Jessie and James introduce their new plan to the audience (Jessie even says, <i>"Tell them, James!"</i>), and Meowth asks who they are talking to.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP031" title="EP031">Dig Those Diglett!</a></i>
+</td>
+<td> Team Rocket mentions that their evolved Pokémon are being shown <i>"for the first time on TV"</i>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP039" title="EP039">Pikachu's Goodbye</a></i>
+</td>
+<td> After Team Rocket finishes their motto, James says, <i>"We'd like to thank all of our fans for their loyalty and support. This victory is for them"</i>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP042" title="EP042">Showdown at Dark City</a></i>
+</td>
+<td> At the end, when the kids were saying good-bye, Ash thought they were asking for his signature, when they were really wanting <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Pikachu</a>'s. Ash answers with <i>"Well, Pikachu IS the star."</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP045" title="EP045">The Song of Jigglypuff</a></i>
+</td>
+<td> The last lines of <a href="/wiki/Team_Rocket_Forever" title="Team Rocket Forever">Team Rocket's theme song</a> are, <i>"We want to capture Pikachu we hope to do it soon / and when we do we'll be the new stars of this cartoon!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="2" style="text-align:center"><i><a href="/wiki/EP049" title="EP049">So Near, Yet So Farfetch'd</a></i>
+</td>
+<td> When <a href="/wiki/Keith_(EP049)" title="Keith (EP049)">Keith</a> tricked Team Rocket by giving them some <a href="/wiki/Voltorb_(Pok%C3%A9mon)" title="Voltorb (Pokémon)">Voltorb</a>, Meowth said, <i>"He tricked us twice in one episode.</i>"
+</td></tr>
+<tr style="background: #fff">
+<td> During the ending, when the narrator credits Psyduck with saving the rest of Misty's Pokémon from Keith, Psyduck, in its own language, happily replies to him.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP071" title="EP071">To Master the Onixpected!</a></i>
+</td>
+<td> When Jessie and James start to say the <a href="/wiki/Team_Rocket_mottos" title="Team Rocket mottos">motto</a>, Meowth uses a remote to fast-forward it.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP086" title="EP086">Pikachu Re-Volts</a></i>
+</td>
+<td> When James gets <a href="/wiki/Butch" title="Butch">Butch</a>'s name wrong, Butch goes out of his screen split to correct it, meaning he knows it's there.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="2" style="text-align:center"><i><a href="/wiki/EP087" title="EP087">The Crystal Onix</a></i>
+</td>
+<td> After Team Rocket has ran into <a href="/wiki/Crystal_Onix" title="Crystal Onix">Crystal Onix</a>'s cave, the screen focuses on Jessie and James catching breath. After a second, Meowth calls, <i>"Hey! Down here! I'm down here!,"</i> followed by the camera panning down to him, indicating that Meowth was aware of the screen focusing on Jessie and James instead of him.
+</td></tr>
+<tr style="background: #fff">
+<td> When James says that the way how they got out of their own traps is a secret, Jessie supports him by saying, <i>"The writers can't figure it out, either."</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP089" title="EP089">Shell Shock!</a></i>
+</td>
+<td> After pointing out the fact that Ash and company are yet again enjoying pleasant, beautiful, tropical weather on the seas, the narrator says, <i>"Announcers never get to have any fun!,"</i> thus acknowledging his existence as a narrator.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP100" title="EP100">Wherefore Art Thou, Pokémon?</a></i>
+</td>
+<td> At the end of the episode, Team Rocket responds to the narrator's comment of <i>"All's well that ends well."</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP104" title="EP104">Bound For Trouble</a></i>
+</td>
+<td> When Misty tells Ash and Pikachu to come back from the fruit basket, their run at the basket is simply rewound.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP112" title="EP112">Enter The Dragonite</a></i>
+</td>
+<td> Team Rocket acknowledges the existence of a split screen. Jessie also pushes the split screen away.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP113" title="EP113">Viva Las Lapras</a></i>
+</td>
+<td> When Team Rocket states that they were attacked by the pirates, Meowth says <i>"It's flashback time."</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP128" title="EP128">The Whistle Stop</a></i>
+</td>
+<td> When the bridge is about to collapse, Meowth says, <i>"We usually don't wash out this early in the episode!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP151" title="EP151">The Totodile Duel</a></i>
+</td>
+<td> When Ash and Misty are about the throw their <a href="/wiki/Pok%C3%A9_Ball#Lure_Ball" title="Poké Ball">Lure Balls</a> to catch <a href="/wiki/Ash%27s_Totodile" title="Ash's Totodile">Totodile</a>, they both push the split screen that's between them when telling each other to back off.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP154" title="EP154">Fowl Play!</a></i>
+</td>
+<td> While inside Team Rocket's <a href="/wiki/Team_Rocket%27s_mechas" title="Team Rocket's mechas">mecha Noctowl</a>, Meowth exclaims, <i>"We're going to capture that <a href="/wiki/Shiny_Pok%C3%A9mon" title="Shiny Pokémon">colorful</a> <a href="/wiki/Noctowl_(Pok%C3%A9mon)" title="Noctowl (Pokémon)">Noctowl</a> right after we get back from the next commercial!" </i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP190" title="EP190">The Stolen Stones</a></i>
+</td>
+<td> While Jessie is escaping via unicycle, she hums along with a few bars of the chase music.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP194" title="EP194">Ring Masters</a></i>
+</td>
+<td> After the narrator introduces <a href="/wiki/Rikishii_Town" title="Rikishii Town">Rikishii Town</a> as <i>"an intriguing little village"</i>, Misty asks the others where they are. Brock quotes the narrator: <i>"It's an intriguing little village, Misty!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP217" title="EP217">The Perfect Match</a></i>
+</td>
+<td> James says, <i>"For you folks at home, here's a play-by-play."</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP220" title="EP220">The Mystery is History</a></i>
+</td>
+<td> Jessie and <a href="/wiki/Cassidy" title="Cassidy">Cassidy</a> are aware that there is a split in the screen between the two of them, as they shove it back and forth.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP223" title="EP223">Throwing in the Noctowl</a></i>
+</td>
+<td> Meowth tells Jessie and James to hurry up with the motto, saying, <i>"Just give 'em the short version!"</i> "Them" refers to the audience.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP226" title="EP226">Espeon Not Included</a></i>
+</td>
+<td> After realizing they haven't stolen the complete set of <a href="/wiki/Eeveelution" title="Eeveelution">Eeveelutions</a> (having missed <a href="/wiki/Sakura%27s_Espeon" title="Sakura's Espeon">Sakura's Espeon</a>) Jessie lashes out at Meowth, who quite literally hits the fourth wall and slides down the screen.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP227" title="EP227">For Ho-oh the Bells Toll</a></i>
+</td>
+<td> Jessie, James, and Meowth are off-screen and appear in speech bubbles right next to Misty, who cowers because of them.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP233" title="EP233">A Tyrogue Full of Trouble</a></i>
+</td>
+<td> When Team Rocket blasts off, they all say, <i>"Cue the blast off lights!"</i>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP242" title="EP242">As Clear as Crystal</a></i>
+</td>
+<td>Jessie tells James to explain their <a href="/wiki/Team_Rocket%27s_mechas" title="Team Rocket's mechas">mecha</a> to the, <i>"viewing audience."</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/EP243" title="EP243">Same Old Song and Dance</a></i>
+</td>
+<td> When Team Rocket interrupts the show and sing their song, they say that they will, <i>"...be the new stars of this cartoon."</i>
+</td></tr>
+<tr>
+<td style="text-align:center; background:#fff; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;"><i><a href="/wiki/EP251" title="EP251">Beauty is Skin Deep</a></i>
+</td>
+<td style="background:#fff; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> Jessie says to <a href="/wiki/Clair%27s_Dratini" class="mw-redirect" title="Clair's Dratini">Dratini</a>: <i>"If you don't cool it, the show's over for all of us!"</i>
+</td></tr></table>
+<h3><span class="mw-headline" id="Advanced_Generation_series"><a href="/wiki/Advanced_Generation_series" title="Advanced Generation series"><i>Advanced Generation</i> series</a></span></h3>
+<table style="background: #C15959; margin-left: 10px; margin-bottom: 10px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #C15959">
+
+<tr>
+<th style="background: #5959C1; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Episode
+</th>
+<th style="background: #5959C1; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Details
+</th></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG004" title="AG004">You Never Can Taillow</a></i>
+</td>
+<td> Ash and friends fight Team Rocket for control of the larger portion of a split screen, meaning they are aware of its existence.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG036" title="AG036">The Spheal of Approval</a></i>
+</td>
+<td> In the <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">European Portuguese</a> dub, James says, <i>"<span class="explain" title="Do you think that by the end of so many episodes we still don&#39;t know what electricity is!?">Você acha que até o fim de tantos episódios que ainda não sabem o que é eletricidade?!</span>"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG048" title="AG048">Zig Zag Zangoose!</a></i>
+</td>
+<td> Jessie shattered out a image of Cassidy
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/SS015" title="SS015">Putting the Air Back in Aerodactyl!</a></i>
+</td>
+<td> When <a href="/wiki/Crystal_(SS015)" title="Crystal (SS015)">Crystal</a> states <a href="/wiki/Butch" title="Butch">Butch</a>'s name wrong, Butch pushes the split screens featuring <a href="/wiki/Professor_Oak_(anime)" title="Professor Oak (anime)">Professor Oak</a> and Crystal apart to state his name correctly, meaning that he is aware of the existence of the split screens.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG101" title="AG101">Vanity Affair</a></i>
+</td>
+<td> Jessie states that even if she were to write the script it would not be any better.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG117" title="AG117">Berry, Berry Interesting</a></i>
+</td>
+<td> Max says, <i>"Lucky for Brock this is his fantasy, or he'd be wearing that milk!"</i>, meaning that he is aware of Brock's fantasy scene.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG141" title="AG141">Hail to the Chef!</a></i>
+</td>
+<td> Max says that Brock's fantasy is now being closed to make way for reality while intruding into Brock's fantasy and yanking Brock's fantasy chair out from underneath him, meaning that he is aware of Brock's fantasy scene.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG147" title="AG147">Sweet Baby James</a></i>
+</td>
+<td> Meowth turns to the audience and says, <i>"...and you guys might want to cover your eyes!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG150" title="AG150">May's Egg-Cellent Adventure</a></i>
+</td>
+<td> Meowth says that James is giving him a pain, but he cannot say where because there are kids watching the show.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG164" title="AG164">Ka Boom with a View!</a></i>
+</td>
+<td> Jessie and James ask, <i>"We're in reruns already?"</i> when Meowth accidentally trips one of their own traps.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG172" title="AG172">Pokémon Ranger - Deoxys' Crisis! (Part 2)</a></i>
+</td>
+<td> Upon seeing Solana in action, James comments that maybe Solana should have her own show.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG174" title="AG174">New Plot, Odd Lot!</a></i>
+</td>
+<td> At the end, Jessie takes over as the narrator and says, <i>"Stay tuned!"</i>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG177" title="AG177">Grating Spaces</a></i>
+</td>
+<td> After becoming frustrated in her attempt to explain a plan to James and Meowth, Jessie turns to the audience and says, <i>"I'm sure you're all one step ahead of these clowns, so you know that's exactly what we're going to do!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG183" title="AG183">Aipom and Circumstance!</a></i>
+</td>
+<td>Meowth says, <i>"Save it for another cartoon show!"</i> and <i>"May I remind you it's not like we're watching reruns?"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/AG189" title="AG189">Gathering The Gang of Four!</a></i>
+</td>
+<td> Team Rocket says they have waited nine seasons to capture Pikachu. This episode takes place in the ninth season of the anime, <a href="/wiki/S09" title="S09">Pokémon: Battle Frontier</a>. Meowth also says they'll return in the tenth season.
+</td></tr>
+<tr>
+<td style="text-align:center; background:#fff; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;"><i><a href="/wiki/AG192" title="AG192">Home Is Where the Start Is!</a></i>
+</td>
+<td style="background:#fff; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> James, upon blasting off, asks if Team Rocket will ever learn. Meowth responds that they'll find out next season.
+</td></tr></table>
+<h3><span class="mw-headline" id="Diamond_.26_Pearl_series"><a href="/wiki/Diamond_%26_Pearl_series" title="Diamond &amp; Pearl series"><i>Diamond &amp; Pearl</i> series</a></span></h3>
+<table style="background: #C8C8FF; margin-left: 10px; margin-bottom: 10px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #C8C8FF">
+
+<tr>
+<th style="background: #FFC8C8; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Episode
+</th>
+<th style="background: #FFC8C8; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Details
+</th></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP003" title="DP003">When Pokémon Worlds Collide!</a></i>
+</td>
+<td> When Team Rocket blasts off, James says, <i>"Aren't we supposed to leave our audience wanting more?"</i> Meowth responds, <i>"You go tell that to the writers!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP006" title="DP006">Different Strokes for Different Blokes</a></i>
+</td>
+<td> Meowth, Jessie and James say, respectively, <i>"You can't do that!"</i>, <i>"The kids are still getting used to our new motto!"</i>, and, <i>"Next thing you know they'll think we've been replaced by Butch and Cassidy!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP008" title="DP008">Gymbaliar!</a></i>
+</td>
+<td> Meowth rushes Jessie and James, saying that they <i>"only have three minutes left!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP031" title="DP031">The Grass-Type is Always Greener!</a></i>
+</td>
+<td> When Brock suggests that the group rests, the narrator takes over and says that Brock's idea is great.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="2" style="text-align:center"><i><a href="/wiki/DP032" title="DP032">An Angry Combeenation</a></i>
+</td>
+<td> Meowth speaks directly to the "kids" in the viewing audience.
+</td></tr>
+<tr style="background: #fff">
+<td> James says <i>"It's not like we're in a cartoon, silly!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP033" title="DP033">All Dressed Up With Somewhere To Go</a></i>
+</td>
+<td> After Meowth gets confused by <a href="/wiki/Teeter_Dance_(move)" title="Teeter Dance (move)">Teeter Dance</a>, he says <i>"First the <a href="/wiki/PK12" title="PK12">movie short</a>, then <a href="/wiki/AG165" title="AG165">TV</a>, and now this!"</i>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP039" title="DP039">Steamboat Willies</a></i>
+</td>
+<td> Team Rocket references the "kids" (viewing audience).
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP040" title="DP040">Top-Down Training!</a></i>
+</td>
+<td> Meowth speaks directly to the "kids" (viewing audience).
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP044" title="DP044">Mass Hip-Po-Sis</a></i>
+</td>
+<td> After Jessie realizes she's in a blast-off, she demands a script change and James comments she should go with it or the makers might call in Cassidy.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="2" style="text-align:center"><i><a href="/wiki/DP046" title="DP046">A Maze-ing Race!</a></i>
+</td>
+<td> When Team Rocket gets blasted off by an <a href="/wiki/Onix_(Pok%C3%A9mon)" title="Onix (Pokémon)">Onix</a>, Jessie says, <i>"But this is only act one!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td> During their <a href="/wiki/Team_Rocket_mottos" title="Team Rocket mottos">motto</a>, Jessie states that they <i>"blasted off early"</i>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP054" title="DP054">Once There Were Greenfields</a></i>
+</td>
+<td> Jessie says to start up the season in style with the old get-up-and-go strategy. This is the second episode of <i><a href="/wiki/S11" title="S11">Pokémon Diamond &amp; Pearl: Battle Dimension</a></i>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP085" title="DP085">Fighting Fear with Fear!</a></i>
+</td>
+<td> When Meowth begins to explain his <a href="/wiki/Boss_fantasy" title="Boss fantasy">boss fantasy</a>, Jessie says, <i>"I'm sensing a scene change."</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP092" title="DP092">A Lean Mean Team Rocket Machine</a></i>
+</td>
+<td> When Team Rocket shows off their mecha, they say, <i>"Introduce it to the kids"</i>. "The kids" refers to the viewers that are watching the show.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP094" title="DP094">Doc Brock!</a></i>
+</td>
+<td> Ash interrupts the narrator's closing speech saying he forgot about <a href="/wiki/Ash%27s_Gliscor" title="Ash's Gliscor">Gliscor</a>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"><i><a href="/wiki/DP104" title="DP104">Sleepless In Pre-Battle!</a></i>
+</td>
+<td> As Team Rocket blasts off in the daytime, Jessie says that if they can't let them sleep, at least they could let them get more air time, with <i>they</i> possibly being those who work on the show.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/DP108" title="DP108">Dealing With Defensive Types!</a></i>
+</td>
+<td> As Team Rocket sneaks into the <a href="/wiki/Canalave_Gym" title="Canalave Gym">Canalave Gym</a>, Meowth addresses the audience, saying, <i>"Look kids, since you know what comes next, let's cut to the chase, so sing along."</i>
+<p>Also, when Wobbuffet enters the screen, Meowth tells him to be quiet as <i>"You'll hurt their ears"</i>.
+</p>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/DP117" title="DP117">Noodles! Roamin' Off!</a></i>
+</td>
+<td> Team Rocket says at the end of the episode after <a href="/wiki/Metagross_(Pok%C3%A9mon)" title="Metagross (Pokémon)">Metagross</a> blasts them off with <a href="/wiki/Gyro_Ball_(move)" title="Gyro Ball (move)">Gyro Ball</a>, <i>"Hey kids, so dream with us!"</i> Like <i><a href="/wiki/DP092" title="DP092">A Lean Mean Team Rocket Machine</a></i> and <i><a href="/wiki/DP108" title="DP108">Dealing With Defensive Types!</a></i>, "kids" refers to the viewers that are watching the show.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/DP129" title="DP129">Pillars of Friendship!</a></i>
+</td>
+<td> When Team Rocket blasts off for the second time in the episode, James comments that it is, <i>"...awfully early for a blast off!"</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/DP135" title="DP135">Beating the Bustle and Hustle!</a></i>
+</td>
+<td> When <a href="/wiki/Azure" title="Azure">Azure</a> insults Team Rocket, James makes a split in the screen and shoves it at Azure's face.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/DP158" title="DP158">Regaining the Home Advantage!</a></i>
+</td>
+<td> In the <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazilian</a> dub, Meowth says, "<i>Best friends together and ready to start a new season!</i>" This is the first episode of <i><a href="/wiki/S13" title="S13">Pokémon DP: Sinnoh League Victors</a></i>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/DP166" title="DP166">The Fleeing Tower of Sunyshore!</a></i>
+</td>
+<td> While Team Rocket does the motto, James and Meowth hum along to the background music as Jessie says <i>Putting the do-gooders in their place!</i>
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/DP173" title="DP173">Dealing With a Fierce Double Ditto Drama!</a></i>
+</td>
+<td> When Meowth begins to explain his Boss fantasy, James says, <i>"I smell a fantasy scene."</i>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #fff; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;"> <i><a href="/wiki/DP191" title="DP191">Memories are Made of Bliss!</a></i>
+</td>
+<td style="background: #fff; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> In the <a href="/wiki/Pok%C3%A9mon_in_Latin_America" title="Pokémon in Latin America">Latin American</a> dub, Team Rocket says during their last line, <i>"<span class="explain" title="We&#39;re blasting off... In the season finale!">Salimos volando... ¡Al final de temporada!</span>"</i>
+</td></tr></table>
+<h3><span class="mw-headline" id="Best_Wishes_series"><a href="/wiki/Best_Wishes_series" title="Best Wishes series"><i>Best Wishes</i> series</a></span></h3>
+<table style="background: #858585; margin-left: 10px; margin-bottom: 10px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #858585">
+
+<tr>
+<th style="background: #EBEBEB; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Episode
+</th>
+<th style="background: #EBEBEB; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Details
+</th></tr>
+<tr>
+<td style="text-align:center; background: #fff"> <i><a href="/wiki/BW002" title="BW002">Enter Iris and Axew!</a></i>
+</td>
+<td style="background: #fff;"> In the <a href="/wiki/Pok%C3%A9mon_in_Latin_America" title="Pokémon in Latin America">Latin American</a> dub, after she gets into the hot air balloon, Jessie says <i>"<span class="explain" title="Nice to see you in this new season.">Qué gusto verte en esta nueva temporada.</span>"</i>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #fff"> <i><a href="/wiki/BW009" title="BW009">The Bloom Is On Axew!</a></i>
+</td>
+<td style="background: #fff;"> Ash and Pikachu lean away from the split screen divider when Iris is yelling at them.
+</td></tr>
+<tr>
+<td rowspan="2" style="text-align:center; background: #fff"> <i><a href="/wiki/BW013" title="BW013">Minccino - Neat and Tidy!</a></i>
+</td>
+<td style="background: #fff;"> <a href="/wiki/Bianca_(anime)" title="Bianca (anime)">Bianca</a> waves to the screen after introducing herself.
+</td></tr>
+<tr>
+<td style="background: #fff;"> In the <a href="/wiki/Pok%C3%A9mon_in_Latin_America" title="Pokémon in Latin America">Latin American</a> dub, when Bianca struggles to find her <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a>, Ash says <i>"<span class="explain" title="Hurry up, we&#39;re running out of the episode &#91;time]!">¡Deprisa, se nos acaba el capítulo!</span>"</i>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #fff"> <i><a href="/wiki/BW073" title="BW073">Commanding the Clubsplosion Crown!</a></i>
+</td>
+<td style="background: #fff;"> At the end of the episode, when the narrator pronounces <a href="/wiki/Stephan" title="Stephan">Stephan</a>'s name incorrectly, Stephan cuts in, yelling that he's saying it wrong.
+</td></tr>
+<tr>
+<td style="text-align:center; background: #fff"><i><a href="/wiki/BW098" title="BW098">Beauties Battling for Pride and Prestige!</a></i>
+</td>
+<td style="background: #fff"> In a scene in which <a href="/wiki/Moira" title="Moira">Moira</a> and <a href="/wiki/Iris_(anime)" title="Iris (anime)">Iris</a> are arguing, Moira pushes the split screen divider out to chime in.
+</td></tr>
+<tr>
+<td style="text-align:center; background: #fff"><i><a href="/wiki/BW099" title="BW099">A Surface to Air Tag Battle Team!</a></i>
+</td>
+<td style="background: #fff"> Twice during the episode, <a href="/wiki/Cilan_(anime)" title="Cilan (anime)">Cilan</a> pushes the split screens featuring <a href="/wiki/Soren_and_Rocko" title="Soren and Rocko">Soren and Rocko</a> apart from each other.
+</td></tr>
+<tr>
+<td style="text-align:center; background: #fff"><i><a href="/wiki/BW122" title="BW122">What Lies Beyond Truth and Ideals!</a></i>
+</td>
+<td style="background: #fff;"> In the Japanese version, while battling Team Plasma, Jessie says: "But we're the true main characters!"
+</td></tr>
+<tr>
+<td style="text-align:center; background: #fff"><i><a href="/wiki/BW131" title="BW131">The Path That Leads To Goodbye!</a></i>
+</td>
+<td style="background: #fff;"> Meowth and Cilan become narrators, recounting over what happened in the island when they arrived. They sometimes face the viewers both directly and indirectly. At one point, Jessie even asks Meowth who he is talking to.
+</td></tr>
+<tr>
+<td style="text-align:center; background: #fff;border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;"><i><a href="/wiki/BW133" title="BW133">Capacia Island UFO!</a></i>
+</td>
+<td style="background: #fff; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> When Ash asked what the Beheeyem were doing, Meowth replies, <i>"If I knew the answer to that, this show would be over."</i>
+</td></tr></table>
+<h3><span class="mw-headline" id="XY_series"><a href="/wiki/XY_series" title="XY series"><i>XY</i> series</a></span></h3>
+<table style="background: #5A96C5; margin-left: 10px; margin-bottom: 10px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #5A96C5">
+
+<tr>
+<th style="background: #F16A81; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Episode
+</th>
+<th style="background: #F16A81; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Details
+</th></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/XY001" title="XY001">Kalos, Where Dreams and Adventures Begin!</a></i>
+</td>
+<td> When <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> tells <a href="/wiki/Team_Rocket_trio" title="Team Rocket trio">Team Rocket</a> that he and Pikachu will always stand up to them, Jessie tells him that all he will end up with is reruns, implying that the show will end due to them succeeding in capturing Pikachu.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/XY018" title="XY018">Awakening the Sleeping Giant!</a></i>
+</td>
+<td> As the narrator prepares to conclude the episode, <a href="/wiki/Serena_(anime)" title="Serena (anime)">Serena</a> pipes up, realizing that they hadn't rescued <a href="/wiki/Clemont_(anime)" title="Clemont (anime)">Clemont</a> yet, prompting the others to gasp at her prompt, including the narrator. Upon Clemont's return, the narrator finishes his conclusion, beginning with <i>"As I was saying..."</i>
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/XY055" title="XY055">A Slippery Encounter!</a></i>
+</td>
+<td> When Team Rocket is performing comedy for each other, Meowth mentions that he is <i>"out of material"</i> because <i>"the writers left me high and dry."</i>
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/XY075" title="XY075">Rivals: Today and Tomorrow!</a></i>
+</td>
+<td> When Jessie fantasizes about marrying Steven Stone, James and Meowth tear out Steven and the background respectively.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/XY081" title="XY081">Rotom's Wish!</a></i>
+</td>
+<td> The episode concludes with <a href="/wiki/Weston" title="Weston">Weston</a>'s <a href="/wiki/Rotom_(Pok%C3%A9mon)" title="Rotom (Pokémon)">Rotom</a> smirking and winking at the audience.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/XY085" title="XY085">Mending a Broken Spirit!</a></i>
+</td>
+<td> When James tells Jessie and Meowth how he knows how <a href="/wiki/Serena%27s_Braixen" title="Serena's Braixen">Serena's Braixen</a> must feel like after having its wand stick broken, he looks at the screen and asks the audience if they know the same feeling too. Jessie and Meowth also turn to look at the screen in confusion of who James is talking to.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/XY088" title="XY088">A Trip Down Memory Train!</a></i>
+</td>
+<td> As Team Rocket blasts off at the beginning of the episode, Jessie yells that she wants more screen time.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/XY105" title="XY105">Party Dancecapades!</a></i>
+</td>
+<td> After Ash, Serena, <a href="/wiki/Miette" title="Miette">Miette</a>, and James are chosen to participate in the <a href="/wiki/Multi_Battle" title="Multi Battle">Tag Battle</a>, <a href="/wiki/Monsieur_Pierre" title="Monsieur Pierre">Monsieur Pierre</a> says <i>"The battle begins next!"</i> right before it goes to the <a href="/wiki/Who%27s_That_Pok%C3%A9mon%3F" title="Who's That Pokémon?">Who's That Pokémon?</a>.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/XY114" title="XY114">A Keeper for Keeps?</a></i>
+</td>
+<td> In one scene, <a href="/wiki/Bonnie_(anime)" title="Bonnie (anime)">Bonnie</a> directly talks to the audience.
+</td></tr></table>
+<h3><span class="mw-headline" id="Sun_.26_Moon_series"><a href="/wiki/Sun_%26_Moon_series" title="Sun &amp; Moon series"><i>Sun &amp; Moon</i> series</a></span></h3>
+<table style="background: #F6B775; margin-left: 10px; margin-bottom: 10px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #F6B775">
+
+<tr>
+<th style="background: #90BDDC; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Episode
+</th>
+<th style="background: #90BDDC; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Details
+</th></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/SM003" title="SM003">Loading the Dex!</a></i>
+</td>
+<td> When asked by <a href="/wiki/James" title="James">James</a> to translate what <a href="/wiki/Jessie%27s_Mimikyu" title="Jessie's Mimikyu">Mimikyu</a> said, <a href="/wiki/Meowth_(Team_Rocket)" title="Meowth (Team Rocket)">Meowth</a> comments that it is a family show.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/SM005" title="SM005">Yo, Ho, Ho! Go, Popplio!</a></i>
+</td>
+<td> After <a href="/wiki/Rotom_Pok%C3%A9dex_(anime)" title="Rotom Pokédex (anime)">Rotom</a> criticizes <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> and <a href="/wiki/Mallow_(anime)" title="Mallow (anime)">Mallow</a>'s <a href="/wiki/Fishing" title="Fishing">fishing</a> skills, they push in split screens to squish Rotom.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/SM013" title="SM013">Racing to a Big Event!</a></i>
+</td>
+<td> Jessie pushes apart <a href="/wiki/James" title="James">James</a> and Meowth's split screens to make room for her own.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/SM016" title="SM016">They Might Not Be Giants!</a></i>
+</td>
+<td> <a href="/wiki/Lana%27s_Popplio" title="Lana's Popplio">Lana's Popplio</a> opens up the bubble that it is talking in and then hangs on it with its flippers.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="2" style="text-align:center"> <i><a href="/wiki/SM017" title="SM017">Crystal-Clear Sleuthing!</a></i>
+</td>
+<td> A fantasy sequence ends with Ash getting flung at the screen, which breaks on impact, ending the fantasy.
+</td></tr>
+<tr style="background: #fff">
+<td style="background: #fff;"> Rotom tears through the screen when an outraged <a href="/wiki/Kiawe_(anime)" title="Kiawe (anime)">Kiawe</a> is about to use his <a href="/wiki/Kiawe%27s_Turtonator" title="Kiawe's Turtonator">Turtonator</a>'s <a href="/wiki/Inferno_Overdrive_(move)" title="Inferno Overdrive (move)">Inferno Overdrive</a> on Ash when he found out the latter had lost his <a href="/wiki/Electrium_Z" title="Electrium Z">Electrium Z</a>.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/SM026" title="SM026">So Long, Sophocles!</a></i>
+</td>
+<td> When <a href="/wiki/Sophocles_(anime)" title="Sophocles (anime)">Sophocles</a> thinks about getting some <a href="/wiki/Malasada" title="Malasada">malasadas</a>, <a href="/wiki/Sophocles%27s_Togedemaru" title="Sophocles's Togedemaru">Togedemaru</a> looks at Sophocles's thought balloon and reaches out for the malasadas inside it.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="2" style="text-align:center"> <i><a href="/wiki/SM028" title="SM028">Pulling Out the Pokémon Base Pepper!</a></i>
+</td>
+<td> <a href="/wiki/Oluolu" title="Oluolu">Oluolu</a> splits two sides of the screen apart when Jessie is getting angry with Ash, <a href="/wiki/Ash%27s_friends" title="Ash's friends">his classmates</a>, and some of their Pokémon.
+</td></tr>
+<tr style="background: #fff">
+<td style="background: #fff;"> When Meowth is about to throw his Meowth ball, James speaks directly to the audience to explain it.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/SM029" title="SM029">Lulled to La-La Land!</a></i>
+</td>
+<td> Mallow cuts off Rotom's detective monologue with a director's clapboard while shouting "Cut!" The clapboard has the number 29 on it, referencing the episode's number.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/SM032" title="SM032">Treasure Hunt, Akala Style!</a></i>
+</td>
+<td> Sophocles pushes away a split screen featuring <a href="/wiki/Lana_(anime)" title="Lana (anime)">Lana</a> to get the whole screen for himself.
+</td></tr>
+<tr style="background: #fff">
+<td style="text-align:center"> <i><a href="/wiki/SM042" title="SM042">Alola, Kanto!</a></i>
+</td>
+<td> Jessie pushes away the thought balloon of <a href="/wiki/Matori" title="Matori">Matori</a> when mentioning her.
+</td></tr>
+<tr style="background: #fff">
+<td rowspan="2" style="text-align:center"> <a href="/wiki/SM055" title="SM055">SM055</a>
+</td>
+<td> Rowlet falls out of Professor Kukui's house and hits the screen, which breaks on impact.
+</td></tr></table>
+<h3><span class="mw-headline" id="Specials">Specials</span></h3>
+<table style="background: #DCD677; margin-left: 10px; margin-bottom: 10px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #DCD677">
+
+<tr>
+<th style="background: #ACD36C; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Special
+</th>
+<th style="background: #ACD36C; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Details
+</th></tr>
+<tr style="background: #fff">
+<td rowspan="1" style="text-align:center"> <i><a href="/wiki/Mewtwo_Returns" title="Mewtwo Returns">Mewtwo Returns</a></i>
+</td>
+<td> When <a href="/wiki/Mewtwo_(original_series)" title="Mewtwo (original series)">Mewtwo</a> talks to its <a href="/wiki/Cloning" title="Cloning">clones</a> about the events of <a href="/wiki/M01" title="M01">the first movie</a>, <a href="/wiki/James" title="James">James</a> states that the situation feels "like a sequel to a movie I missed", referring to the fact that Mewtwo wiped everyone's memories at the end of the said movie.
+</td></tr></table>
+<h3><span class="mw-headline" id="Movies">Movies</span></h3>
+<table style="background: #2E83D2; margin-left: 10px; margin-bottom: 10px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #81807A">
+
+<tr>
+<th style="background: #6AA9E4; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Movie
+</th>
+<th style="background: #6AA9E4; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Details
+</th></tr>
+<tr style="background: #fff">
+<td rowspan="2" style="text-align:center"> <i><a href="/wiki/M02" title="M02">The Power of One</a></i>
+</td>
+<td> When Team Rocket is saying the motto for the first time, they proclaim that they're now on the big screen (since they've forgotten the events of <a href="/wiki/M01" title="M01">the first movie</a>). Ash then makes the quip of saying he'll <i>"catch <a href="/wiki/Team_Rocket_mottos" title="Team Rocket mottos">this</a> on video"</i>.
+</td></tr>
+<tr style="background: #fff">
+<td> <a href="/wiki/Slowking_(M02)" title="Slowking (M02)">Slowking</a> tells Team Rocket that lots of people saw them risk their lives to save the world. All four of them then look at the audience, and the Rocket trio realizes that it's true.
+</td></tr>
+<tr>
+<td rowspan="2" style="text-align:center; background: #fff;"> <i><a href="/wiki/M03" title="M03">Spell of the Unown: Entei</a></i>
+</td>
+<td style="background: #fff;"> Meowth asks Jessie whether or not she thinks they will get a bigger part in <a href="/wiki/M04" title="M04">the next movie</a>.
+</td></tr>
+<tr style="background: #fff">
+<td> <a href="/wiki/Team_Rocket_trio" title="Team Rocket trio">Team Rocket</a> mentions that they would be "out of show business" if anything happened to Ash while helping to save him near the end of the movie.
+</td></tr>
+<tr>
+<td rowspan="2" style="text-align:center; background: #fff; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;"> <i><a href="/wiki/M09" title="M09">Pokémon Ranger and the Temple of the Sea</a></i>
+</td>
+<td style="background: #fff"> When Jessie mentions diamonds and pearls, Meowth says they would be a "<a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">good name for a game</a>", a nod to the Generation IV games.
+</td></tr>
+<tr>
+<td style="background: #fff; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> When James mentions diamonds and pearls again, Meowth says they should at least get through this season first. <a href="/wiki/S10" title="S10">The next season</a> starts the Sinnoh arc.
+</td></tr></table>
+<h2><span class="mw-headline" id="In_the_games">In the games</span></h2>
+<h3><span class="mw-headline" id="Core_series"><a href="/wiki/Core_series" title="Core series">Core series</a></span></h3>
+<ul><li> <a href="/wiki/Trainer_Tips" title="Trainer Tips">Trainer Tips</a> signs and message boards provide advice to the player in using the game's control scheme. Similar instructions are also given by NPCs, such as the player's <a href="/wiki/Mother" title="Mother">mother</a>, the regional <a href="/wiki/Pok%C3%A9mon_Professor" title="Pokémon Professor">Pokémon Professor</a>, and NPCs telling the player that they are <a href="/wiki/Save" title="Save">saving</a>.</li>
+<li> In the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games and <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Pokémon FireRed and LeafGreen</a>, there is a sign on <a href="/wiki/Kanto_Route_17" title="Kanto Route 17">Route 17</a> that says "Don't throw the game, throw <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Balls</a> instead!".</li>
+<li> The <a href="/wiki/Game_Freak" title="Game Freak">Game Freak</a> office can be found in <a href="/wiki/Celadon_City" title="Celadon City">Celadon City</a>, <a href="/wiki/Castelia_City" title="Castelia City">Castelia City</a> and <a href="/wiki/Heahea_City" title="Heahea City">Heahea City</a>. The characters there will announce their role in the game when the <a href="/wiki/Player_character" title="Player character">player</a> speaks to them:
+<ul><li> "I'm the game designer!"</li>
+<li> "I wrote the story!"</li>
+<li> "I'm the graphic artist! I drew you!" or "I'm the graphic designer! I'm a skilled dot artist!"</li>
+<li> "Me? I'm the programmer!".</li>
+<li> In addition, examining the computers gives this message: "It's the game program! <a href="/wiki/Cheating" title="Cheating">Messing with it</a> could <a href="/wiki/Glitch" title="Glitch">bug out</a> the game!"
+<ul><li> The game designer will personally award the player the <a href="/wiki/Diploma" title="Diploma">diploma</a> after completion of the <a href="/wiki/Regional_Pok%C3%A9dex" title="Regional Pokédex">regional</a> or <a href="/wiki/National_Pok%C3%A9dex" title="National Pokédex">National Pokédex</a>.</li></ul></li>
+<li> In other games, Game Freak employees are seen on vacation. A group stays in the <a href="/wiki/Cove_Lily_Motel" title="Cove Lily Motel">Cove Lily Motel</a> in <a href="/wiki/Lilycove_City" title="Lilycove City">Lilycove City</a> and a single member stays at the <a href="/wiki/Hotel_Grand_Lake" title="Hotel Grand Lake">Hotel Grand Lake</a> in <a href="/wiki/Valor_Lakefront" title="Valor Lakefront">Valor Lakefront</a>, another one founds in <a href="/wiki/Coumarine_City#Hotel_Coumarine" title="Coumarine City">Hotel Coumarine</a>.</li></ul></li>
+<li> In the <a href="/wiki/Pok%C3%A9mon_Communication_Center" title="Pokémon Communication Center">Pokémon Communication Center</a>, a staff member receives an email stating Game Freak's desire of linking at worldwide level without link cable barriers.</li></ul>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Mystery_Dungeon_series"><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon_series" title="Pokémon Mystery Dungeon series">Pokémon Mystery Dungeon series</a></span></h3>
+<ul><li> In <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness" title="Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness">Pokémon Mystery Dungeon: Explorers of Time, Darkness</a>, and <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Sky" title="Pokémon Mystery Dungeon: Explorers of Sky">Sky</a> both <a href="/wiki/Sunflora_(Explorers_of_Time,_Darkness,_and_Sky)" title="Sunflora (Explorers of Time, Darkness, and Sky)">Sunflora</a> and <a href="/wiki/Bidoof_(Explorers_of_Time,_Darkness,_and_Sky)" title="Bidoof (Explorers of Time, Darkness, and Sky)">Bidoof</a> break the fourth wall at 4th entry of their diaries, mentioning the Y and A buttons, respectively.</li>
+<li> During the post game of Pokémon Mystery Dungeon: Gates to Infinity, <a href="/wiki/Hydreigon_(Gates_to_Infinity)" title="Hydreigon (Gates to Infinity)">Hydreigon</a> senses something and leans towards the screen, indicating he's sensing the player's presence. This is confirmed later at the <a href="/wiki/Worldcore" title="Worldcore">Hill of Universal Order</a>, where Hydreigon and player's partner turn to look at the screen, realizing that the player has been watching them the whole time.</li></ul>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Ranger_series">Pokémon Ranger series</span></h3>
+<ul><li> At the beginning of the first <a href="/wiki/Pok%C3%A9mon_Ranger_(game)" title="Pokémon Ranger (game)">Pokémon Ranger</a> game, when explaining the control style of the game, an NPC says that he uses the stylus instead of the D-pad because he is from the "touch generation". This is a reference to <a href="/wiki/Nintendo" title="Nintendo">Nintendo</a>'s <a href="https://en.wikipedia.org/wiki/Touch!_Generations" class="extiw" title="wp:Touch! Generations">Touch! Generations</a> line of games for casual gamers, which were brand new at the time of Pokémon Ranger's release.</li>
+<li> During the ending of the first official mission in the first Pokémon Ranger game, <a href="/wiki/Professor_Hastings" title="Professor Hastings">Professor Hastings</a> knows the game options exist by saying, "By options, I don't mean fooling with some text settings, I mean consider what we might do!"</li>
+<li> In the mission that introduces <a href="/wiki/Sven" title="Sven">Sven</a> in <a href="/wiki/Pok%C3%A9mon_Ranger:_Shadows_of_Almia" title="Pokémon Ranger: Shadows of Almia">Pokémon Ranger: Shadows of Almia</a> there are many <a href="/wiki/Team_Dim_Sun" title="Team Dim Sun">Team Dim Sun</a> goons taking Dark Shards from <a href="/wiki/Chroma_Ruins" title="Chroma Ruins">Chroma Ruins</a>. Sven explains that to make them leave the place, a <a href="/wiki/Skuntank_(Pok%C3%A9mon)" title="Skuntank (Pokémon)">Pokémon that produces a horrible stench</a> is needed. Then, he turns to the screen and says "you know what I mean?"</li>
+<li> Also, after capturing the hypnotized Pokémon of a couple of Dim Sun Admins in <a href="/wiki/Almia_Castle" title="Almia Castle">Almia Castle</a>, said Admins make a comment about how they were not given names, not even "Admin A" or "Admin B".</li>
+<li> At the end of the <a href="/wiki/Heatran_(Pok%C3%A9mon)" title="Heatran (Pokémon)">Heatran</a> Mission in <a href="/wiki/Pok%C3%A9mon_Ranger:_Guardian_Signs" title="Pokémon Ranger: Guardian Signs">Pokémon Ranger: Guardian Signs</a>, the <a href="/wiki/Capture_Styler" title="Capture Styler">Capture Styler</a> breaks the fourth wall, telling the player themselves to wait a moment during <a href="/wiki/Nema" title="Nema">Nema</a>'s explanation of how Heatran learned <a href="/wiki/Eruption_(move)" title="Eruption (move)">Eruption</a>.</li></ul>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Rumble_series"><a href="/wiki/Pok%C3%A9mon_Rumble_series" title="Pokémon Rumble series">Pokémon Rumble series</a></span></h3>
+<ul><li> In <a href="/wiki/Pok%C3%A9mon_Rumble_World" title="Pokémon Rumble World">Pokémon Rumble World</a>, if the <a href="/wiki/Toy_Pok%C3%A9mon" title="Toy Pokémon">Toy Pokémon</a> in use does not have a second move, pressing B will cause it to look up at the screen for a couple of seconds.
+<ul><li> In the castle courtyard, pressing A will cause it to look out at the screen as before, while pressing B will cause it to jump up and down.</li></ul></li></ul>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<h3><span class="mw-headline" id="In_The_Electric_Tale_of_Pikachu_manga">In <a href="/wiki/The_Electric_Tale_of_Pikachu" title="The Electric Tale of Pikachu">The Electric Tale of Pikachu</a> manga</span></h3>
+<ul><li> In <i><a href="/wiki/ET08" title="ET08">You Gotta Have Friends</a></i>, there is a footnote explaining that "Ash has been busy since the last comic."</li>
+<li> In the beginning of <i><a href="/wiki/ET16" title="ET16">You Bet Your Wife</a></i>, <a href="/wiki/Ash_Ketchum_(EToP)" title="Ash Ketchum (EToP)">Ash</a> is shown with a pen, as if he drew the title page himself. <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a> comments to him "Since when are you <a href="/wiki/Toshihiro_Ono" title="Toshihiro Ono">Toshihiro Ono</a>?".</li>
+<li> In <i><a href="/wiki/ET19" title="ET19">Side Story: Ash vs. Gary</a></i>, as <a href="/wiki/Gary_Oak" title="Gary Oak">Gary</a> is saying goodbye to the giant <a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="Slowpoke (Pokémon)">Slowpoke</a>, he adds "The End" into his farewell speech. Ash retorts, "This comic isn't over till I say it is!".</li></ul>
+<h3><span class="mw-headline" id="In_the_Magical_Pok.C3.A9mon_Journey_manga">In the <a href="/wiki/Magical_Pok%C3%A9mon_Journey" title="Magical Pokémon Journey">Magical Pokémon Journey</a> manga</span></h3>
+<ul><li> In <i><a href="/wiki/PPP08" title="PPP08">The Legendary Articuno</a></i>, a text box thanks the reader for their "unflagging support in reading this comic."</li>
+<li> In <i><a href="/wiki/PPP09" title="PPP09">Eevee... Pokémon Genius!</a></i>, when <a href="/wiki/Coconut" title="Coconut">Coconut</a> appears for the first time with <a href="/wiki/Almond" title="Almond">Almond</a>, <a href="/wiki/Hazel" title="Hazel">Hazel</a> exclaims "Who thinks she can share a panel with <i>my</i> Almond?!".</li>
+<li> In <i><a href="/wiki/PPP11" title="PPP11">Charmander's Peanut</a></i>, the story so far is explained by "the marketing department" and encourages the reader to buy many copies of <a href="/wiki/Magical_Pok%C3%A9mon_Journey_volume_1" title="Magical Pokémon Journey volume 1">Volume 1</a> to find out what previously happened in the story.</li>
+<li> In the "Bonus Bonus 2" chapter of <a href="/wiki/Magical_Pok%C3%A9mon_Journey_volume_2" title="Magical Pokémon Journey volume 2">Magical Pokémon Journey volume 2</a>, <a href="/wiki/Hazel" title="Hazel">Hazel</a> refers to <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>, <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a>, and <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a> as "the people from <a href="/wiki/Magical_Pok%C3%A9mon_Journey_volume_1" title="Magical Pokémon Journey volume 1">Volume 1</a>."
+<ul><li> In the same bonus chapter, <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Ash's Pikachu</a> shows <a href="/wiki/Pikachu_(MPJ)" class="mw-redirect" title="Pikachu (MPJ)">Pikachu</a> a video of him bouncing a <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a> on his head from <a href="/wiki/One_Hundred_Fifty-One" title="One Hundred Fifty-One">One Hundred Fifty-One</a> (the lyrics to <a href="/wiki/Pok%C3%A9mon_World_(song)" title="Pokémon World (song)">Pokémon World</a> are used in the English translation).</li>
+<li> Also in the same bonus chapter, <a href="/wiki/Hazel" title="Hazel">Hazel</a> and <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a> state that they change their outfits when they aren't appearing in the manga.</li></ul></li>
+<li> In <i><a href="/wiki/PPP15" title="PPP15">A Quest of Life or Death</a></i>, <a href="/wiki/Almond" title="Almond">Almond</a> mentions, "it's been a few issues since I got really creamed" after being attacked by a wild <a href="/wiki/Fearow_(Pok%C3%A9mon)" title="Fearow (Pokémon)">Fearow</a>.</li>
+<li> In <i><a href="/wiki/PPP50" title="PPP50">Vulpix and Cyndaquil</a></i>, <a href="/wiki/Coconut" title="Coconut">Coconut</a> laments, "Nothing has worked for me since I appeared in this comic."</li>
+<li> In <i><a href="/wiki/PPP59" title="PPP59">The Exorcist Nurse!!</a></i>, <a href="/wiki/Peanut%27s_Charmander" title="Peanut's Charmander">Charmander</a> tells <a href="/wiki/Peanut" title="Peanut">Peanut</a> that it's been "three years since you've had a starring role."</li>
+<li> In <i><a href="/wiki/PPP69" title="PPP69">True Identities</a></i>, <a href="/wiki/Master_Ditto" title="Master Ditto">Master Ditto</a> says to <a href="/wiki/Walnut" title="Walnut">Walnut</a>, "This comic will never end if you continue to be like this!"</li></ul>
+<h3><span class="mw-headline" id="In_the_Pocket_Monsters_XY_manga">In the <a href="/wiki/Pocket_Monsters_XY_(Kosaku_Anakubo)" title="Pocket Monsters XY (Kosaku Anakubo)">Pocket Monsters XY</a> manga</span></h3>
+<ul><li> In <a href="/wiki/PMXY09" title="PMXY09">PMXY09</a>, <a href="/wiki/Red%27s_Clefairy" title="Red's Clefairy">Clefairy</a> shows <a href="/wiki/Red_(Pocket_Monsters)" title="Red (Pocket Monsters)">Red</a> and <a href="/wiki/Pikachu_(Pocket_Monsters)" class="mw-redirect" title="Pikachu (Pocket Monsters)">Pikachu</a> a copy of <a href="/wiki/CoroCoro" title="CoroCoro">CoroCoro</a> magazine, which is where the manga is serialized in real life.</li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20180131062410
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.159 seconds
+Preprocessor visited node count: 1345/1000000
+Preprocessor generated node count: 3878/1000000
+Post‐expand include size: 11774/2097152 bytes
+Template argument size: 2867/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  106.417      1 -total
+  5.98%    6.362      1 Template:Incomplete
+  3.74%    3.984     17 Template:An
+  3.58%    3.806      5 Template:Series
+  3.31%    3.525      8 Template:Roundytl
+  3.16%    3.365     10 Template:Roundy
+  3.14%    3.344      8 Template:Roundytr
+  2.99%    3.180     10 Template:P
+  2.69%    2.861      8 Template:OBP
+  2.55%    2.715      5 Template:Roundybl
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:39586-0!*!0!!en!5!* and timestamp 20180131062410 and revision id 2736825
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Breaking_the_fourth_wall&amp;oldid=2736825">https://bulbapedia.bulbagarden.net/w/index.php?title=Breaking_the_fourth_wall&amp;oldid=2736825</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Articles_needing_more_information" title="Category:Articles needing more information">Articles needing more information</a></li><li><a href="/wiki/Category:Anime_running_gags" title="Category:Anime running gags">Anime running gags</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_meta" title="Category:Pokémon meta">Pokémon meta</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Breaking_the_fourth_wall" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Breaking_the_fourth_wall" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Breaking_the_fourth_wall&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Breaking_the_fourth_wall&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Breaking+the+fourth+wall" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Breaking+the+fourth+wall" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Breaking_the_fourth_wall" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Breaking_the_fourth_wall" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Breaking_the_fourth_wall&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Breaking_the_fourth_wall&amp;oldid=2736825" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Breaking_the_fourth_wall&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Durchbrechung_der_vierten_Wand" title="Durchbrechung der vierten Wand – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 28 January 2018, at 03:10.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Breaking_the_fourth_wall&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.159","ppvisitednodes":{"value":1345,"limit":1000000},"ppgeneratednodes":{"value":3878,"limit":1000000},"postexpandincludesize":{"value":11774,"limit":2097152},"templateargumentsize":{"value":2867,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  106.417      1 -total","  5.98%    6.362      1 Template:Incomplete","  3.74%    3.984     17 Template:An","  3.58%    3.806      5 Template:Series","  3.31%    3.525      8 Template:Roundytl","  3.16%    3.365     10 Template:Roundy","  3.14%    3.344      8 Template:Roundytr","  2.99%    3.180     10 Template:P","  2.69%    2.861      8 Template:OBP","  2.55%    2.715      5 Template:Roundybl"]},"cachereport":{"timestamp":"20180131062410","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

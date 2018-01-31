@@ -1,0 +1,2390 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Celadon City - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Celadon_City","wgTitle":"Celadon City","wgCurRevisionId":2736037,"wgRevisionId":2736037,"wgArticleId":2093,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Kanto locations","Red, Blue and Yellow locations","Gold, Silver and Crystal locations","FireRed and LeafGreen locations","HeartGold and SoulSilver locations","Pokémon Pinball locations","Cities"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Celadon_City","wgRelevantArticleId":2093,"wgRequestId":"57736caac98b060447d2da58","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/b/bb/Celadon_City_HGSS.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Celadon_City"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Celadon_City"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Celadon_City rootpage-Celadon_City skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Celadon City</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><dl><dd><i>If you were looking for the chapter in <a href="/wiki/Pok%C3%A9mon_Zensho" title="Pokémon Zensho">Pokémon Zensho</a>, see <a href="/wiki/PZ05" title="PZ05">PZ05</a>.</i></dd></dl>
+<hr />
+<table class="roundy" style="float:right; background: #c0e7c2; width: 30%; max-width: 30%; margin-left: 5px; margin-bottom: 5px; border: 3px solid #ACE1AF;">
+
+<tr style="text-align:center;">
+<td class="roundy" style="border: 2px solid #ACE1AF; background: #D5EFD6;">
+<table class="roundy" width="100%" style="background: #D5EFD6;">
+
+<tr>
+<th rowspan="1" style="color:#000000; line-height: 22pt;"> <big><big><big>Celadon City</big></big></big>
+</th>
+<td rowspan="2" style="text-align:center; color:#000000;"> <small><b><span lang="ja">タマムシシティ</span></b></small><br /><small><i>Tamamushi City</i></small>
+</td></tr>
+<tr>
+<td style="text-align:center; line-height: 8pt;"> <small><i>"City of the Rainbow's Colors"</i></small>
+</td></tr></table>
+</td></tr>
+<tr style="background: #c0e7c2;">
+<td colspan="2">
+<table class="roundy" style="margin:auto; text-align:center; background: #FFFFFF;">
+
+<tr>
+<td> <a href="/wiki/File:Celadon_City_HGSS.png" class="image"><img alt="Celadon City HGSS.png" src="//cdn.bulbagarden.net/upload/thumb/b/bb/Celadon_City_HGSS.png/300px-Celadon_City_HGSS.png" width="300" height="216" srcset="//cdn.bulbagarden.net/upload/thumb/b/bb/Celadon_City_HGSS.png/450px-Celadon_City_HGSS.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/bb/Celadon_City_HGSS.png/600px-Celadon_City_HGSS.png 2x" /></a>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; background: #c0e7c2;">
+<td colspan="2">
+<table class="roundy" style="margin:auto; text-align:center; background: #FFFFFF;">
+
+<tr>
+<td> <a href="/wiki/File:None.png" class="image"><img alt="None.png" src="//cdn.bulbagarden.net/upload/e/e3/None.png" width="300" height="300" /></a><br /><small>Celadon City in {{{variable2}}}.</small>
+</td></tr></table>
+</td></tr>
+<tr style="">
+<td class="roundy" style="border: 2px solid #ACE1AF; background: #D5EFD6; color:#000;"> <div style="text-align:center;"><b>Map description</b></div>
+<table class="roundy" style="margin:auto; background:#D5EFD6; border-collapse: collapse;">
+<tr>
+<td class="roundy" style="background:#FFFFFF;">
+<table class="roundy" width="100%" style="background:#FFFFFF;">
+<tr>
+<td> A rich, rainbow colored city where people and Pokémon gather.
+</td></tr></table>
+</td></tr></table>
+</td></tr>
+<tr style="text-align:center;">
+<td class="roundy" style="border: 2px solid #4E8234; background: #A7DB8D;"> <a href="/wiki/Celadon_Gym" title="Celadon Gym"><span style="color:#000000;"><b>Celadon City Gym</b></span></a> - <a href="/wiki/Kanto" title="Kanto"><span style="color:#000;">Kanto</span></a> Gym #4
+<table class="roundy" width="100%" style="background:#A7DB8D; border-collapse: collapse;">
+
+<tr>
+<td class="roundyleft" style="vertical-align: bottom; background:#FFFFFF; border-right: 1px solid #A7DB8D;"> <a href="/wiki/Erika" title="Erika"><img alt="Erika" src="//cdn.bulbagarden.net/upload/5/5a/VSErika.png" width="96" height="64" /></a><br /><small><b><a href="/wiki/Erika" title="Erika"><span style="color:#000;">Erika</span></a></b></small>
+</td>
+<td style="background:#FFFFFF;"> <a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color:#000;">Grass-type</span></a><br />specialist Gym
+</td>
+<td class="roundyright" style="vertical-align:bottom; background:#FFFFFF; border-left: 1px solid #A7DB8D;"> <a href="/wiki/Badge#Rainbow_Badge" title="Rainbow Badge"><img alt="Rainbow Badge" src="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/70px-Rainbow_Badge.png" width="70" height="70" srcset="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/105px-Rainbow_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/140px-Rainbow_Badge.png 2x" /></a><br /><small><b><a href="/wiki/Badge#Rainbow_Badge" title="Badge"><span style="color:#000;">Rainbow Badge</span></a></b></small>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; text-align:center;">
+<td class="roundy" style="border: 2px solid #4E8234; background: #A7DB8D;"> <b><a href="/wiki/Celadon_Gym" title="Celadon Gym"><span style="color:#000000;">Celadon City Gym</span></a></b> - <a href="/wiki/Kanto" title="Kanto"><span style="color:#000;">Kanto</span></a> Gym #4
+<table class="roundy" width="100%" style="background:#A7DB8D; border-collapse: collapse;">
+
+<tr>
+<td class="roundyleft" style="vertical-align: bottom; background:#FFFFFF; border-right: 1px solid #A7DB8D;"> [[File:{{{leadersprite2}}}|{{{leader2}}}|link={{{leader2}}}]]<br /><small><b>[[{{{leader2}}}|<span style="color:#000;">{{{leader2}}}</span>]]</b></small>
+</td>
+<td style="background:#FFFFFF;"> <a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color:#000;">Grass-type</span></a><br />specialist Gym
+</td>
+<td class="roundyright" style="vertical-align:bottom; background:#FFFFFF; border-left: 1px solid #A7DB8D;"> <a href="/wiki/Badge#Rainbow_Badge" title="Rainbow Badge"><img alt="Rainbow Badge" src="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/70px-Rainbow_Badge.png" width="70" height="70" srcset="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/105px-Rainbow_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/140px-Rainbow_Badge.png 2x" /></a><br /><small><b><a href="/wiki/Badge#Rainbow_Badge" title="Badge"><span style="color:#000;">Rainbow Badge</span></a></b></small>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; text-align:center;">
+<td class="roundy" style="border: 2px solid #4E8234; background: #A7DB8D;"> <b><a href="/wiki/Celadon_Gym" title="Celadon Gym"><span style="color:#000000;">Celadon City Gym</span></a></b> - <a href="/wiki/Kanto" title="Kanto"><span style="color:#000;">Kanto</span></a> Gym #4
+<table class="roundy" width="100%" style="background:#A7DB8D; border-collapse: collapse;">
+
+<tr>
+<td class="roundyleft" style="vertical-align:bottom; background:#FFFFFF; border-right: 1px solid #A7DB8D;"> [[File:{{{leadersprite3}}}|{{{leader3}}}|link={{{leader3}}}]]<br /><small><b>[[{{{leader3}}}|<span style="color:#000;">{{{leader3}}}</span>]]</b></small>
+</td>
+<td style="background:#FFFFFF;"> <a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color:#000;">Grass-type</span></a><br />specialist Gym
+</td>
+<td class="roundyright" style="vertical-align:bottom; background:#FFFFFF; border-left: 1px solid #A7DB8D;"> <a href="/wiki/Badge#Rainbow_Badge" title="Rainbow Badge"><img alt="Rainbow Badge" src="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/70px-Rainbow_Badge.png" width="70" height="70" srcset="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/105px-Rainbow_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/140px-Rainbow_Badge.png 2x" /></a><br /><small><b><a href="/wiki/Badge#Rainbow_Badge" title="Badge"><span style="color:#000;">Rainbow Badge</span></a></b></small>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; text-align:center;">
+<td class="roundy" style="border: 2px solid #ACE1AF; background: #D5EFD6;"> [[|<span style="color:#000000;"><b> League</b></span>]]
+<table class="roundy" width="100%" style="background:#D5EFD6; border-collapse: collapse;">
+
+<tr>
+<td class="roundytl" style="background:#9DC1B7; border-right: 1px solid #D5EFD6;"> [[File:{{{elite1sprite}}}|64px|{{{elite1}}}|link={{{elite1}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite1}}}|<span style="color:#000;">{{{elite1}}}</span>]]</b></small>
+</td>
+<td style="background:#9DC1B7; border-right: 1px solid #D5EFD6;"> [[File:{{{elite2sprite}}}|64px|{{{elite2}}}|link={{{elite2}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite2}}}|<span style="color:#000;">{{{elite2}}}</span>]]</b></small>
+</td>
+<td style="background:#9DC1B7; border-left: 1px solid #D5EFD6;"> [[File:{{{elite3sprite}}}|64px|{{{elite3}}}|link={{{elite3}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite3}}}|<span style="color:#000;">{{{elite3}}}</span>]]</b></small>
+</td>
+<td class="roundytr" style="background:#9DC1B7; border-left: 1px solid #D5EFD6;"> [[File:{{{elite4sprite}}}|64px|{{{elite4}}}|link={{{elite4}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite4}}}|<span style="color:#000;">{{{elite4}}}</span>]]</b></small>
+</td></tr>
+<tr>
+<td class="roundybottom" colspan="4" style="background:#9DC1B7; border-top: 1px solid #D5EFD6;"> [[File:{{{championsprite}}}|{{{champion}}}|link={{{champion}}}]]<br /><b><a href="/wiki/Pok%C3%A9mon_Champion" title="Pokémon Champion"><span style="color:#000;">Champion</span></a></b> <b>[[{{{champion}}}|<span style="color:#000;">{{{champion}}}</span>]]</b>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; text-align:center;">
+<td class="roundy" style="border: 2px solid #ACE1AF; background: #D5EFD6;"> [[|<span style="color:#000000;"><b> League</b></span>]]
+<table class="roundy" width="100%" style="background:#D5EFD6; border-collapse: collapse;">
+
+<tr>
+<td class="roundytl" style="background:#9DC1B7; border-right: 1px solid #D5EFD6;"> [[File:{{{elite1sprite2}}}|64px|{{{elite12}}}|link={{{elite12}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite12}}}|<span style="color:#000;">{{{elite12}}}</span>]]</b></small>
+</td>
+<td style="background:#9DC1B7; border-right: 1px solid #D5EFD6;"> [[File:{{{elite2sprite2}}}|64px|{{{elite22}}}|link={{{elite22}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite22}}}|<span style="color:#000;">{{{elite22}}}</span>]]</b></small>
+</td>
+<td style="background:#9DC1B7; border-left: 1px solid #D5EFD6;"> [[File:{{{elite3sprite2}}}|64px|{{{elite32}}}|link={{{elite32}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite32}}}|<span style="color:#000;">{{{elite32}}}</span>]]</b></small>
+</td>
+<td class="roundytr" style="background:#9DC1B7; border-left: 1px solid #D5EFD6;"> [[File:{{{elite4sprite2}}}|64px|{{{elite42}}}|link={{{elite42}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite42}}}|<span style="color:#000;">{{{elite42}}}</span>]]</b></small>
+</td></tr>
+<tr>
+<td class="roundybottom" colspan="4" style="background:#9DC1B7; border-top: 1px solid #D5EFD6;"> [[File:{{{championsprite2}}}|{{{champion2}}}|link={{{champion2}}}]]<br /><b><a href="/wiki/Pok%C3%A9mon_Champion" title="Pokémon Champion"><span style="color:#000;">Champion</span></a></b> <b>[[{{{champion2}}}|<span style="color:#000;">{{{champion2}}}</span>]]</b>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="border: 2px solid #ACE1AF; background: #D5EFD6; color:#000;"> <div style="text-align:center;"><b><a href="/wiki/Route" title="Route"><span style="color:#000000;">Connecting locations</span></a></b></div>
+<table class="roundy" style="margin:auto; background:#D5EFD6; border-collapse: collapse;">
+
+
+<tr>
+<td width="30%" style="text-align:right; background:#FFFFFF; border-top-left-radius: 100px; -moz-border-radius-topleft: 100px; -webkit-border-top-left-radius: 100px; -khtml-border-top-left-radius: 100px; -icab-border-top-left-radius: 100px; -o-border-top-left-radius: 100px; border-bottom-left-radius: 100px; -moz-border-radius-bottomleft: 100px; -webkit-border-bottom-left-radius: 100px; -khtml-border-bottom-left-radius: 100px; -icab-border-bottom-left-radius: 100px; -o-border-bottom-left-radius: 100px;">
+<table width="100%" style="background:#FFFFFF; border-top-left-radius: 100px; -moz-border-radius-topleft: 100px; -webkit-border-top-left-radius: 100px; -khtml-border-top-left-radius: 100px; -icab-border-top-left-radius: 100px; -o-border-top-left-radius: 100px; border-bottom-left-radius: 100px; -moz-border-radius-bottomleft: 100px; -webkit-border-bottom-left-radius: 100px; -khtml-border-bottom-left-radius: 100px; -icab-border-bottom-left-radius: 100px; -o-border-bottom-left-radius: 100px;">
+
+<tr style="text-align:right;">
+<td> &#8592;
+</td>
+<td> <a href="/wiki/Kanto_Route_16" title="Kanto Route 16"><span style="color:#000;">Route 16</span></a>
+</td></tr></table>
+</td>
+<th width="40%" style="background:#FFFFFF; border: 1px solid #D5EFD6;"> Celadon City
+</th>
+<td width="30%" style="text-align:left; background:#FFFFFF; border-top-right-radius: 100px; -moz-border-radius-topright: 100px; -webkit-border-top-right-radius: 100px; -khtml-border-top-right-radius: 100px; -icab-border-top-right-radius: 100px; -o-border-top-right-radius: 100px; border-bottom-right-radius: 100px; -moz-border-radius-bottomright: 100px; -webkit-border-bottom-right-radius: 100px; -khtml-border-bottom-right-radius: 100px; -icab-border-bottom-right-radius: 100px; -o-border-bottom-right-radius: 100px;">
+<table width="100%" style="background:#FFFFFF; border-top-right-radius: 100px; -moz-border-radius-topright: 100px; -webkit-border-top-right-radius: 100px; -khtml-border-top-right-radius: 100px; -icab-border-top-right-radius: 100px; -o-border-top-right-radius: 100px; border-bottom-right-radius: 100px; -moz-border-radius-bottomright: 100px; -webkit-border-bottom-right-radius: 100px; -khtml-border-bottom-right-radius: 100px; -icab-border-bottom-right-radius: 100px; -o-border-bottom-right-radius: 100px;">
+
+<tr>
+<td> <a href="/wiki/Kanto_Route_7" title="Kanto Route 7"><span style="color:#000;">Route 7</span></a>
+</td>
+<td> &#8594;
+</td></tr></table>
+</td></tr></table>
+</td></tr>
+<tr style="text-align:center;">
+<td class="roundy" style="border: 2px solid #ACE1AF; background: #D5EFD6;"> <span style="color:#000000;"><b><a href="/wiki/Region" title="Region"><span style="color:#000000;">Location</span></a></b></span> <br /> <a href="/wiki/File:Kanto_Celadon_City_Map.png" class="image"><img alt="Kanto Celadon City Map.png" src="//cdn.bulbagarden.net/upload/b/bd/Kanto_Celadon_City_Map.png" width="192" height="145" /></a> <br /> <span style="color:#000000;"><small>Location of Celadon City in <a href="/wiki/Kanto" title="Kanto"><span style="color:#000000;">Kanto</span></a>.</small></span>
+</td></tr>
+<tr>
+<td class="roundy" style="border: 2px solid #ACE1AF; background: #D5EFD6;">
+<table class="collapsible" width="100%" style="background: transparent;">
+
+<tr class="expandable">
+<th> Other generation maps
+</th></tr>
+<tr style="text-align:center;">
+<td>
+<table class="roundy" width="100%" style="background: #D5EFD6;">
+
+<tr>
+<td width="33%" class="roundy" style="background: #FFFFFF;"> <a href="/wiki/File:Celadon_City_RBY.png" class="image"><img alt="Celadon City RBY.png" src="//cdn.bulbagarden.net/upload/thumb/f/ff/Celadon_City_RBY.png/100px-Celadon_City_RBY.png" width="100" height="72" srcset="//cdn.bulbagarden.net/upload/thumb/f/ff/Celadon_City_RBY.png/150px-Celadon_City_RBY.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/ff/Celadon_City_RBY.png/200px-Celadon_City_RBY.png 2x" /></a>
+</td>
+<td width="33%" class="roundy" style="background: #FFFFFF;"> <a href="/wiki/File:Celadon_City_GSC.png" class="image"><img alt="Celadon City GSC.png" src="//cdn.bulbagarden.net/upload/thumb/6/6e/Celadon_City_GSC.png/100px-Celadon_City_GSC.png" width="100" height="90" srcset="//cdn.bulbagarden.net/upload/thumb/6/6e/Celadon_City_GSC.png/150px-Celadon_City_GSC.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6e/Celadon_City_GSC.png/200px-Celadon_City_GSC.png 2x" /></a>
+</td>
+<td width="33%" class="roundy" style="background: #FFFFFF;"> <a href="/wiki/File:Celadon_City_FRLG.png" class="image"><img alt="Celadon City FRLG.png" src="//cdn.bulbagarden.net/upload/thumb/e/ee/Celadon_City_FRLG.png/100px-Celadon_City_FRLG.png" width="100" height="67" srcset="//cdn.bulbagarden.net/upload/thumb/e/ee/Celadon_City_FRLG.png/150px-Celadon_City_FRLG.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ee/Celadon_City_FRLG.png/200px-Celadon_City_FRLG.png 2x" /></a>
+</td></tr>
+<tr>
+<th> <span style="color:#000000;">Gen I</span>
+</th>
+<th> <span style="color:#000000;">Gen II</span>
+</th>
+<th> <span style="color:#000000;">Gen III</span>
+</th></tr></table>
+</td></tr></table>
+</td></tr></table>
+<p><b>Celadon City</b> (Japanese: <b>タマムシシティ</b> <i>Tamamushi City</i>) is located in central <a href="/wiki/Kanto" title="Kanto">Kanto</a>. It is the most populous city in Kanto and the eighth most populous in the <a href="/wiki/Pok%C3%A9mon_world" title="Pokémon world">Pokémon world</a>, surpassing even <a href="/wiki/Saffron_City" title="Saffron City">Saffron City</a> in the east. The city has two entrances, one from the east via <a href="/wiki/Kanto_Route_7" title="Kanto Route 7">Route 7</a>, and one from the west via <a href="/wiki/Kanto_Route_16" title="Kanto Route 16">Route 16</a>.
+</p><p>Celadon is the main place to spend money in Kanto, through the <a href="/wiki/Celadon_Department_Store" title="Celadon Department Store">Celadon Department Store</a> and the <a href="/wiki/Celadon_Game_Corner" title="Celadon Game Corner">Celadon Game Corner</a>. It is the home of the <a href="/wiki/Celadon_Condominiums" title="Celadon Condominiums">Celadon Condominiums</a>, where residents of the city live, and the Celadon Hotel, where visitors can rest. Celadon is also home to <a href="/wiki/Erika" title="Erika">Erika</a>, the city's <a href="/wiki/Gym_Leader" title="Gym Leader">Gym Leader</a>, and <a href="/wiki/Eusine" title="Eusine">Eusine</a>, the hunter that pursues <a href="/wiki/Suicune_(Pok%C3%A9mon)" title="Suicune (Pokémon)">Suicune</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Slogan"><span class="tocnumber">1</span> <span class="toctext">Slogan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Generations_I-III"><span class="tocnumber">1.1</span> <span class="toctext">Generations I-III</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Generation_IV"><span class="tocnumber">1.2</span> <span class="toctext">Generation IV</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Places_of_interest"><span class="tocnumber">2</span> <span class="toctext">Places of interest</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Celadon_Department_Store"><span class="tocnumber">2.1</span> <span class="toctext">Celadon Department Store</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Celadon_Condominiums"><span class="tocnumber">2.2</span> <span class="toctext">Celadon Condominiums</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Celadon_Game_Corner"><span class="tocnumber">2.3</span> <span class="toctext">Celadon Game Corner</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Rocket_Hideout"><span class="tocnumber">2.4</span> <span class="toctext">Rocket Hideout</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Celadon_Hotel"><span class="tocnumber">2.5</span> <span class="toctext">Celadon Hotel</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Move_Tutor"><span class="tocnumber">2.6</span> <span class="toctext">Move Tutor</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Celadon_Gym"><span class="tocnumber">2.7</span> <span class="toctext">Celadon Gym</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Pok.C3.A9mon_Red.2C_Blue.2C_and_Yellow"><span class="tocnumber">3.1</span> <span class="toctext">Pokémon Red, Blue, and Yellow</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Pok.C3.A9mon_Gold.2C_Silver.2C_and_Crystal"><span class="tocnumber">3.2</span> <span class="toctext">Pokémon Gold, Silver, and Crystal</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Pok.C3.A9mon_FireRed_and_LeafGreen"><span class="tocnumber">3.3</span> <span class="toctext">Pokémon FireRed and LeafGreen</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Pok.C3.A9mon_HeartGold_and_SoulSilver"><span class="tocnumber">3.4</span> <span class="toctext">Pokémon HeartGold and SoulSilver</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Items"><span class="tocnumber">4</span> <span class="toctext">Items</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Celadon_Condominiums_2"><span class="tocnumber">4.1</span> <span class="toctext">Celadon Condominiums</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Pok.C3.A9mon"><span class="tocnumber">5</span> <span class="toctext">Pokémon</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Generation_I"><span class="tocnumber">5.1</span> <span class="toctext">Generation I</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Generation_II"><span class="tocnumber">5.2</span> <span class="toctext">Generation II</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Generation_III"><span class="tocnumber">5.3</span> <span class="toctext">Generation III</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Generation_IV_2"><span class="tocnumber">5.4</span> <span class="toctext">Generation IV</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Differences_between_generations"><span class="tocnumber">6</span> <span class="toctext">Differences between generations</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#In_the_spin-off_games"><span class="tocnumber">7</span> <span class="toctext">In the spin-off games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#In_Pok.C3.A9mon_Pinball"><span class="tocnumber">7.1</span> <span class="toctext">In Pokémon Pinball</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#In_the_anime"><span class="tocnumber">8</span> <span class="toctext">In the anime</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#In_the_main_series"><span class="tocnumber">8.1</span> <span class="toctext">In the main series</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#In_Pok.C3.A9mon_Origins"><span class="tocnumber">8.2</span> <span class="toctext">In Pokémon Origins</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#In_Pok.C3.A9mon_Generations"><span class="tocnumber">8.3</span> <span class="toctext">In Pokémon Generations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#In_the_manga"><span class="tocnumber">9</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">9.1</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#In_the_Pok.C3.A9mon_Pocket_Monsters_manga"><span class="tocnumber">9.2</span> <span class="toctext">In the Pokémon Pocket Monsters manga</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#In_the_Pok.C3.A9mon_Zensho_manga"><span class="tocnumber">9.3</span> <span class="toctext">In the Pokémon Zensho manga</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#Trivia"><span class="tocnumber">10</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#Name_origin"><span class="tocnumber">11</span> <span class="toctext">Name origin</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Slogan">Slogan</span></h2>
+<h3><span class="mw-headline" id="Generations_I-III">Generations I-III</span></h3>
+<p><i><b>The City of Rainbow Dreams</b></i> (Japanese: <b>タマムシ　にじいろ　ゆめの　いろ</b> <i>Tamamushi, the color of rainbow dreams.</i>)
+</p>
+<h3><span class="mw-headline" id="Generation_IV">Generation IV</span></h3>
+<p><i><b>City of the Rainbow's Colors</b></i> (Japanese: <b>にじいろの　おおきな　まち</b> <i>The large rainbow-colored town</i>)
+</p>
+<h2><span class="mw-headline" id="Places_of_interest">Places of interest</span></h2>
+<h3><span class="mw-headline" id="Celadon_Department_Store">Celadon Department Store</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Celadon_Department_Store" title="Celadon Department Store">Celadon Department Store</a></i></dd></dl>
+<p>Celadon's department store is the largest building in the city, as well as the largest shop in <a href="/wiki/Kanto" title="Kanto">Kanto</a>. It is located in the northwest corner of the city. The store has two sliding door entrances, and is six stories high, including a roof level. In front of it lies a decorative fountain. Here, a receptionist welcomes customers and directs them to a board that describes the store layout. The second floor contains Top-Grade <a href="/wiki/Item" title="Item">items</a> for Trainers. On the third floor, a man will give away <a href="/wiki/TM18" class="mw-disambig" title="TM18">TM18</a> (<a href="/wiki/Counter_(move)" title="Counter (move)">Counter</a>) in <a href="/wiki/Generation_I" title="Generation I">Generation I</a>, while in <a href="/wiki/Generation_III" title="Generation III">Generation III</a>, he becomes a <a href="/wiki/Move_Tutor" title="Move Tutor">Move Tutor</a> who will teach the move to a capable Pokémon. The fourth floor contains gifts people can buy for others. On the fifth floor there is a pharmacy selling <a href="/wiki/Vitamin" title="Vitamin">Vitamins</a> as well as <a href="/wiki/Battle_item" title="Battle item">Battle items</a>. And finally, on the Rooftop Square, there are some <a href="/wiki/Vending_machine" class="mw-redirect" title="Vending machine">vending machines</a> and a picnic table. A thirsty Trainer will give <a href="/wiki/TM" title="TM">TMs</a> in exchange for one of the drinks. In Generation I, the Trainer trades <a href="/wiki/TM13" class="mw-disambig" title="TM13">TM13</a> (<a href="/wiki/Ice_Beam_(move)" title="Ice Beam (move)">Ice Beam</a>) for Fresh Water, <a href="/wiki/TM48" class="mw-disambig" title="TM48">TM48</a> (<a href="/wiki/Rock_Slide_(move)" title="Rock Slide (move)">Rock Slide</a>) for Soda Pop, and <a href="/wiki/TM49" class="mw-disambig" title="TM49">TM49</a> (<a href="/wiki/Tri_Attack_(move)" title="Tri Attack (move)">Tri Attack</a>) for Lemonade. In Generation III, the Trainer trades <a href="/wiki/TM16" class="mw-disambig" title="TM16">TM16</a> (<a href="/wiki/Light_Screen_(move)" title="Light Screen (move)">Light Screen</a>) for Fresh Water, <a href="/wiki/TM20" class="mw-disambig" title="TM20">TM20</a> (<a href="/wiki/Safeguard_(move)" title="Safeguard (move)">Safeguard</a>) for Soda Pop, and <a href="/wiki/TM33" class="mw-disambig" title="TM33">TM33</a> (<a href="/wiki/Reflect_(move)" title="Reflect (move)">Reflect</a>) for Lemonade.
+</p>
+<h3><span class="mw-headline" id="Celadon_Condominiums">Celadon Condominiums</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Celadon_Condominiums" title="Celadon Condominiums">Celadon Condominiums</a></i></dd></dl>
+<p>Next to the city's <a href="/wiki/Pok%C3%A9mon_Center" title="Pokémon Center">Pokémon Center</a> is the Celadon Condominiums (known as <b>Celadon Mansion</b> prior to <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>), where staff members of <a href="/wiki/Game_Freak" title="Game Freak">Game Freak</a> rent a room from an old lady. It is here that players of both the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games and their <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Generation III remakes</a> can find an <a href="/wiki/Eevee_(Pok%C3%A9mon)" title="Eevee (Pokémon)">Eevee</a>. This is the home of the <a href="/wiki/Game_Freak" title="Game Freak">Game Freak</a> development studio, where the lead developer will give the player a <a href="/wiki/Diploma" title="Diploma">diploma</a> that signifies that they have completed the <a href="/wiki/National_Pok%C3%A9dex" title="National Pokédex">National Pokédex</a>. In <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">HeartGold and SoulSilver</a> it has been largely renovated, with a brand new elevator system. In floor 3, the member of <a href="/wiki/Game_Freak" title="Game Freak">Game Freak</a> standing in front of the globe gives the player a <a href="/wiki/GB_Sounds" title="GB Sounds">GB Sounds</a>.
+</p><p>Celadon Condominiums play a more vital role in <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Pokémon FireRed and LeafGreen</a>. The player must enter the building, where, on the first floor, he/she will encounter an old woman who will give the player <a href="/wiki/Drink#Tea" title="Drink">Tea</a>, which he/she must use to enter Saffron City. Also, if the player is pursuing the <a href="/wiki/Fame_Checker" title="Fame Checker">Fame Checker</a> sidequest, the second floor proves useful as well, providing information about <a href="/wiki/Erika" title="Erika">Erika</a>. Going into the Condominiums from the back not only leads the player to Eevee, but to the Know-It-All as well; this <a href="/wiki/Non-player_character" title="Non-player character">NPC</a> provides the player with standard information concerning <a href="/wiki/Status_condition" title="Status condition">status changes</a> if the player reads the blackboard.
+</p><p>In <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, instead of finding an <a href="/wiki/Eevee_(Pok%C3%A9mon)" title="Eevee (Pokémon)">Eevee</a>, a man will give <a href="/wiki/TM03" class="mw-disambig" title="TM03">TM03</a> (<a href="/wiki/Curse_(move)" title="Curse (move)">Curse</a>) away to people. In <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>, he gives away the <a href="/wiki/Type-enhancing_item#Spell_Tag" title="Type-enhancing item">Spell Tag</a>.
+</p>
+<h3><span class="mw-headline" id="Celadon_Game_Corner">Celadon Game Corner</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Celadon_Game_Corner" title="Celadon Game Corner">Celadon Game Corner</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:Celadon_Game_Corner_Inside_FRLG.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/8f/Celadon_Game_Corner_Inside_FRLG.png/240px-Celadon_Game_Corner_Inside_FRLG.png" width="240" height="200" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/8/8f/Celadon_Game_Corner_Inside_FRLG.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Celadon_Game_Corner_Inside_FRLG.png" class="internal" title="Enlarge"></a></div>Celadon Game Corner</div></div></div>
+<p>The southern part of the city caters to travelers and tourists. In addition to a hotel and a restaurant, the Game Corner is a popular spot. The citizens take pride in the city's beauty and think the casino is bad for their image. The Celadon Game Corner is one of the six Game Corners in the Pokémon world, and for a time, is run by <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a>. The woman at the service desk sells 50 coins for <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1000, and 500 coins for <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>10,000. The option to buy 500 coins is only available in the Generation III remakes.
+</p><p>The only game available is <a href="/wiki/Slot_machine" title="Slot machine">slots</a>, which people in the game say are rigged. There are thirty slot machines in the Game Corner, with eight of them having people already seated at them, one that is labeled "out of order," one labeled "reserved," and one where someone left their keys. Slot machines in the first generation and their <a href="/wiki/Generation_III" title="Generation III">third generation</a> remakes consist simply of inserting coins and stopping the reels with the A button.
+</p><p>In the <a href="/wiki/Generation" title="Generation">Generation</a> <a href="/wiki/Generation_I" title="Generation I">I</a> and <a href="/wiki/Generation_III" title="Generation III">III</a> games, the player must go into the underbelly of the Game Corner and defeat Team Rocket. By pushing a button underneath a poster, the player gains access to the <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">Rocket Hideout</a>. A <a href="/wiki/Team_Rocket_Grunt_(Trainer_class)" title="Team Rocket Grunt (Trainer class)">Team Rocket Grunt</a> is guarding the poster in question when the player first approaches it. After being defeated, the Grunt retreats into the base, leaving the poster un-guarded, and enabling the player to approach. Once the player activates a switch behind the poster, the stairs to the hideout will appear.
+</p><p>In <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, it is no longer run by Team Rocket. The hideout is not accessible, but people have not forgotten about the terrible events that occurred. In Generation II, a Card Flip game is added, which allows players to place bets on which card a player will flip over. The deck has 24, each one with a number between 1 and 6 and a picture of one of four Pokémon (<a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a>, <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a>, <a href="/wiki/Oddish_(Pok%C3%A9mon)" title="Oddish (Pokémon)">Oddish</a>, or <a href="/wiki/Poliwag_(Pok%C3%A9mon)" title="Poliwag (Pokémon)">Poliwag</a>). Bets can be placed by single card, by single column, by single row, by a pair of columns, or by a pair of rows.
+</p><p>In <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>, the Game Corner was again no longer run by Team Rocket, but the only game inside the building is the Voltorb Card Flip Game.
+</p><p>Located right next to the Game Corner is the Rocket Prize Corner, where people can exchange coins for prizes. These prizes include <a href="/wiki/TM" title="TM">TMs</a> and other rare items. The Celadon Game Corner also trades very rare Pokémon such as <a href="/wiki/Dratini_(Pok%C3%A9mon)" title="Dratini (Pokémon)">Dratini</a> and <a href="/wiki/Porygon_(Pok%C3%A9mon)" title="Porygon (Pokémon)">Porygon</a> in exchange for coins. In Generation IV, there is a man in this building who will tell the player the type of their Pokémon's <a href="/wiki/Hidden_Power_(move)" title="Hidden Power (move)">Hidden Power</a>.
+</p>
+<h3><span class="mw-headline" id="Rocket_Hideout">Rocket Hideout</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">Rocket Hideout</a></i></dd></dl>
+<p>The Rocket Hideout is an underground complex four floors deep beneath the Rocket Game Corner. It is a secret base built used by <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a> to facilitate and administer their operations. The Rocket Hideout is accessed by pressing a switch behind a poster in the <a href="/wiki/Celadon_Game_Corner" title="Celadon Game Corner">Game Corner</a> in Celadon City. A <a href="/wiki/Team_Rocket_Grunt_(Trainer_class)" title="Team Rocket Grunt (Trainer class)">Team Rocket Grunt</a> is guarding the poster in question when the player first approaches it. After being defeated, the Grunt retreats into the base, leaving the poster un-guarded, and enabling the player to approach. Once the player activates a switch behind the poster, the stairs to the hideout will appear.
+</p><p>In the <a href="/wiki/Generation" title="Generation">Generation</a> <a href="/wiki/Generation_I" title="Generation I">I</a> and <a href="/wiki/Generation_III" title="Generation III">III</a> games, the player must go into the underbelly of the Game Corner and defeat Team Rocket. The player's initial objective is to search for and obtain the <a href="/wiki/List_of_Key_Items_in_Generation_III#Lift_Key" title="List of Key Items in Generation III">Lift Key</a> in order to activate the lift leading to <a href="/wiki/Giovanni" title="Giovanni">Giovanni</a>. Once battled, Giovanni will flee, leaving the <a href="/wiki/Silph_Scope" title="Silph Scope">Silph Scope</a> behind.
+</p><p>There are spinner tiles scattered around the place. This tile, when stepped upon, will whisk the player in the direction of the arrows depicted on it. The player will continue to travel in that direction until they hit a wall, land on another spinner (which may send them in a different direction) or land on a Stopper, a tile only used for that purpose.
+</p>
+<h3><span class="mw-headline" id="Celadon_Hotel">Celadon Hotel</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Capsule_Monsters_Hotel.jpg" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/c/c7/Capsule_Monsters_Hotel.jpg/250px-Capsule_Monsters_Hotel.jpg" width="250" height="265" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/c/c7/Capsule_Monsters_Hotel.jpg/375px-Capsule_Monsters_Hotel.jpg 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c7/Capsule_Monsters_Hotel.jpg/500px-Capsule_Monsters_Hotel.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Capsule_Monsters_Hotel.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Ken_Sugimori" title="Ken Sugimori">Ken Sugimori</a>'s <a href="/wiki/Capsule_Monsters" title="Capsule Monsters">concept art</a> for a hotel that bears resemblance to a <a href="/wiki/Pok%C3%A9mon_Center" title="Pokémon Center">Pokémon Center</a>, much like the Celadon Hotel.</div></div></div>
+<p>A luxurious hotel building can be found located in the southeastern part of the city. However, the player is not able to rent a room due to all the rooms being booked. A couple is staying here at the moment, who are here on vacation and brought their little brother, who is a bit annoyed about it. In <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions">Red and Blue</a> (but not <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version">Pokémon Yellow</a>), there is an <a href="/wiki/List_of_glitches_in_Generation_I#Invisible_PC_access" title="List of glitches in Generation I">invisible PC</a> in the hotel, perhaps explainable by the close resemblance between the hotel's layout and a Pokémon Center. This is less a glitch and more likely an oversight by the programmers, who may have copied and pasted a Pokémon Center's layout into the location and forgotten to remove the code to activate the PC at that particular point, though the PC itself is no longer there and the player can walk through the tile it would be located on. This bug was later removed in the <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version">Pokémon Yellow</a> release.
+</p>
+<h3><span class="mw-headline" id="Move_Tutor">Move Tutor</span></h3>
+<p>The man who can only be accessed by Surf gives out <a href="/wiki/TM41" class="mw-disambig" title="TM41">TM41</a> (<a href="/wiki/Softboiled_(move)" class="mw-redirect" title="Softboiled (move)">Softboiled</a>) in <a href="/wiki/Generation_I" title="Generation I">Generation I</a>. In <a href="/wiki/Generation_III" title="Generation III">Generation III</a>, he instead offers to directly teach this move to certain Pokémon.
+</p>
+<h3><span class="mw-headline" id="Celadon_Gym">Celadon Gym</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Celadon_Gym" title="Celadon Gym">Celadon Gym</a></i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:210px;"><a href="/wiki/File:Celadon_Gym_FRLG.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/9/9b/Celadon_Gym_FRLG.png" width="208" height="308" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Celadon_Gym_FRLG.png" class="internal" title="Enlarge"></a></div>Celadon Gym in <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Pokémon FireRed and LeafGreen</a></div></div></div>
+<p>The Celadon Gym is the official <a href="/wiki/Gym" title="Gym">Gym</a> of Celadon City. It is based on <a href="/wiki/Grass_(type)" title="Grass (type)">Grass-type</a> <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a>. The <a href="/wiki/Gym_Leader" title="Gym Leader">Gym Leader</a> is <a href="/wiki/Erika" title="Erika">Erika</a>. <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a> who defeat her receive the <a href="/wiki/Badge#Rainbow_Badge" title="Badge">Rainbow Badge</a>.
+</p><p>The Celadon Gym is a garden full of Trainers. It is impossible to reach Erika without fighting at least two other Trainers and using <a href="/wiki/Cut_(move)" title="Cut (move)">Cut</a>. In all versions and adaptations of Pokémon, Celadon Gym is consistently rendered as a greenhouse.
+</p><p>In the anime, Celadon Gym appeared in <i><a href="/wiki/EP026" title="EP026">Pokémon Scent-Sation!</a></i>. Attached to the Celadon Gym is a perfume shop, run by Erika herself. <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> wanted to challenge Erika to a Gym <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battle</a>, but the workers at the Gym refused to allow his entry because he had earlier criticized a <a href="https://en.wikipedia.org/wiki/perfume" class="extiw" title="wp:perfume">perfume</a> shop, saying that all they do is turn men into zombies. They kicked him out of the shop for insulting them and when Ash found out that the Gym is where the perfume was manufactured, he was visibly shocked.
+</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span></h2>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Red.2C_Blue.2C_and_Yellow">Pokémon Red, Blue, and Yellow</span></h3>
+<p>The population of Celadon City is 81 (70, excluding the <a href="/wiki/Team_Rocket_Grunt_(Trainer_class)" title="Team Rocket Grunt (Trainer class)">Team Rocket Grunt</a> guarding the <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">Rocket Hideout</a> and everyone inside the Hideout).
+</p>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Gold.2C_Silver.2C_and_Crystal">Pokémon Gold, Silver, and Crystal</span></h3>
+<p>The population of Celadon City is 63.
+</p>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_FireRed_and_LeafGreen">Pokémon FireRed and LeafGreen</span></h3>
+<p>The population of Celadon City is 82 (72, excluding the <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a> members in the Rocket Hideout), making it the largest city in <a href="/wiki/Kanto" title="Kanto">Kanto</a>, beating even its skyscraper-clustered neighbor <a href="/wiki/Saffron_City" title="Saffron City">Saffron City</a>. Celadon City's large population is partly due to the <a href="/wiki/Celadon_Department_Store" title="Celadon Department Store">Department store</a> and the Team Rocket Hideout.
+</p>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_HeartGold_and_SoulSilver">Pokémon HeartGold and SoulSilver</span></h3>
+<p>In <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>, the population of Celadon City is 68.
+</p>
+<h2><span class="mw-headline" id="Items">Items</span></h2>
+<table class="roundy" style="background: #ABA9A4; border: 2px solid #949391" cellspacing="2" cellpadding="4">
+
+<tr>
+<th colspan="2" style="background: #CFCDC7; color:#000000; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Item
+</th>
+<th style="background: #CFCDC7; color:#000000;"> Location
+</th>
+<th style="background: #CFCDC7; color:#000000; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Games
+</th></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_PP_Up_Sprite.png" class="image" title="PP Up"><img alt="PP Up" src="//cdn.bulbagarden.net/upload/3/3a/Bag_PP_Up_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/Vitamin#PP_Up" title="Vitamin">PP Up</a>
+</td>
+<td style="text-align:left; background: #FFFFFF"> At the end of the short path beyond the <a href="/wiki/Cut_(move)" title="Cut (move)">cuttable</a> bush <i>(hidden)</i>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #FF1111"><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">&#160;R&#160;</span></a></span><span style="background: #1111FF"><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#FFF;">&#160;B&#160;</span></a></span><span style="background: #FFD733"><a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#000;">&#160;Y&#160;</span></a></span><span style="background: #FF7327"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;FR&#160;</span></a></span><span style="background: #00DD00"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;LG&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_Ether_Sprite.png" class="image" title="Ether"><img alt="Ether" src="//cdn.bulbagarden.net/upload/8/85/Bag_Ether_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/Ether" title="Ether">Ether</a>
+</td>
+<td style="text-align:left; background: #FFFFFF"> In the far northwest corner of the city, behind the buildings
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #FF7327"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;FR&#160;</span></a></span><span style="background: #00DD00"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;LG&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_PP_Up_Sprite.png" class="image" title="PP Up"><img alt="PP Up" src="//cdn.bulbagarden.net/upload/3/3a/Bag_PP_Up_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/Vitamin#PP_Up" title="Vitamin">PP Up</a>
+</td>
+<td style="text-align:left; background: #FFFFFF"> In the southeastern-most part of the city <i>(hidden)</i>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #DAA520"><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">&#160;G&#160;</span></a></span><span style="background: #C0C0C0"><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">&#160;S&#160;</span></a></span><span style="background: #4FD9FF"><a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#000;">&#160;C&#160;</span></a></span><span style="background: #B69E00"><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">&#160;HG&#160;</span></a></span><span style="background: #C0C0E1"><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">&#160;SS&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_TM_Normal_Sprite.png" class="image" title="TM Normal"><img alt="TM Normal" src="//cdn.bulbagarden.net/upload/9/9a/Bag_TM_Normal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/TM41" class="mw-disambig" title="TM41">TM41</a> (<a href="/wiki/Softboiled_(move)" class="mw-redirect" title="Softboiled (move)">Softboiled</a>)
+</td>
+<td style="text-align:left; background: #FFFFFF"> Received from the man across the pond (requires <a href="/wiki/Surf_(move)" title="Surf (move)">Surf</a>)
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #FF1111"><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">&#160;R&#160;</span></a></span><span style="background: #1111FF"><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#FFF;">&#160;B&#160;</span></a></span><span style="background: #FFD733"><a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#000;">&#160;Y&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_Coin_Case_Sprite.png" class="image" title="Coin Case"><img alt="Coin Case" src="//cdn.bulbagarden.net/upload/9/92/Bag_Coin_Case_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/Coin_Case" title="Coin Case">Coin Case</a>
+</td>
+<td style="text-align:left; background: #FFFFFF"> Received from a man in the restaurant
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #FF1111"><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">&#160;R&#160;</span></a></span><span style="background: #1111FF"><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#FFF;">&#160;B&#160;</span></a></span><span style="background: #FFD733"><a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#000;">&#160;Y&#160;</span></a></span><span style="background: #FF7327"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;FR&#160;</span></a></span><span style="background: #00DD00"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;LG&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_Leftovers_Sprite.png" class="image" title="Leftovers"><img alt="Leftovers" src="//cdn.bulbagarden.net/upload/0/0f/Bag_Leftovers_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/In-battle_effect_item#Leftovers" title="In-battle effect item">Leftovers</a>
+</td>
+<td style="text-align:left; background: #FFFFFF"> In the restaurant's trash can <i>(hidden)</i>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #DAA520"><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">&#160;G&#160;</span></a></span><span style="background: #C0C0C0"><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">&#160;S&#160;</span></a></span><span style="background: #4FD9FF"><a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#000;">&#160;C&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_TM_Normal_Sprite.png" class="image" title="TM Normal"><img alt="TM Normal" src="//cdn.bulbagarden.net/upload/9/9a/Bag_TM_Normal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/TM67" class="mw-disambig" title="TM67">TM67</a> (<a href="/wiki/Recycle_(move)" title="Recycle (move)">Recycle</a>)
+</td>
+<td style="text-align:left; background: #FFFFFF"> At the end of the narrow pathway to the north of the city
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #B69E00"><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">&#160;HG&#160;</span></a></span><span style="background: #C0C0E1"><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">&#160;SS&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td colspan="4" style="background: #CFCDC7; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;">
+</td></tr></table>
+<h3><span class="mw-headline" id="Celadon_Condominiums_2">Celadon Condominiums</span></h3>
+<table class="roundy" style="background: #A8B9BD; border: 2px solid #8A9CA1" cellspacing="2" cellpadding="4">
+
+<tr>
+<th colspan="2" style="background: #C3D8DE; color:#000000; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Item
+</th>
+<th style="background: #C3D8DE; color:#000000;"> Location
+</th>
+<th style="background: #C3D8DE; color:#000000; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Games
+</th></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_Tea_Sprite.png" class="image" title="Tea"><img alt="Tea" src="//cdn.bulbagarden.net/upload/5/55/Bag_Tea_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/Drink#Tea" title="Drink">Tea</a>
+</td>
+<td style="text-align:left; background: #FFFFFF"> 1F, from the Manager in the Manager's Suite
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #FF7327"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;FR&#160;</span></a></span><span style="background: #00DD00"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;LG&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_GB_Sounds_Sprite.png" class="image" title="GB Sounds"><img alt="GB Sounds" src="//cdn.bulbagarden.net/upload/3/34/Bag_GB_Sounds_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/GB_Sounds" title="GB Sounds">GB Sounds</a>
+</td>
+<td style="text-align:left; background: #FFFFFF"> 3F, from <a href="/wiki/Game_Freak" title="Game Freak">Game Freak</a> sound designer after obtaining all 16 <a href="/wiki/Badge" title="Badge">Badges</a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #B69E00"><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">&#160;HG&#160;</span></a></span><span style="background: #C0C0E1"><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">&#160;SS&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_TM_Unknown_Sprite.png" class="image" title="TM Unknown"><img alt="TM Unknown" src="//cdn.bulbagarden.net/upload/b/b2/Bag_TM_Unknown_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/TM03" class="mw-disambig" title="TM03">TM03</a> (<a href="/wiki/Curse_(move)" title="Curse (move)">Curse</a>)
+</td>
+<td style="text-align:left; background: #FFFFFF"> Roof, obtained by listening to the man's story at night
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #DAA520"><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">&#160;G&#160;</span></a></span><span style="background: #C0C0C0"><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">&#160;S&#160;</span></a></span><span style="background: #4FD9FF"><a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#000;">&#160;C&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_Spell_Tag_Sprite.png" class="image" title="Spell Tag"><img alt="Spell Tag" src="//cdn.bulbagarden.net/upload/5/51/Bag_Spell_Tag_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/Type-enhancing_item#Spell_Tag" title="Type-enhancing item">Spell Tag</a>
+</td>
+<td style="text-align:left; background: #FFFFFF"> Roof, obtained by listening to the man's story at night
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #B69E00"><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">&#160;HG&#160;</span></a></span><span style="background: #C0C0E1"><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">&#160;SS&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td colspan="4" style="background: #C3D8DE; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;">
+</td></tr></table>
+<h2><span class="mw-headline" id="Pok.C3.A9mon">Pokémon</span></h2>
+<p>Wild Pokémon can be found in the pond in the center of the city.
+</p>
+<h3><span class="mw-headline" id="Generation_I">Generation I</span></h3>
+<table align="left" class="roundy" width="425px" style="border: 2px solid #949391; background: #ABA9A4; margin-right: 5px; margin-bottom: 5px;">
+<tr>
+<th class="roundytl" width="20%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Pokémon&#160;&#160;
+</th>
+<th width="18%" style="background: #CFCDC7; color: #000000" rowspan="1" colspan="6"> &#160;&#160;Games&#160;&#160;
+</th>
+<th width="29%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Location&#160;&#160;
+</th>
+<th width="29%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Levels&#160;&#160;
+</th>
+<th class="roundytr" width="33%" style="background: #CFCDC7; color: #000000" colspan="3"> &#160;&#160;Rate&#160;&#160;
+</th></tr>
+
+
+<tr>
+<th style="background: #CFCDC7; color: #000000" colspan="13"> Gift Pokémon
+</th></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C6C6A7; border: 2px solid #6D6D4E;"> <span class="plainlinks"><a href="/wiki/Eevee_(Pok%C3%A9mon)" title="133"><img alt="133" src="//cdn.bulbagarden.net/upload/d/de/133MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Eevee_(Pok%C3%A9mon)" title="Eevee (Pokémon)"><span style="color:#000;">Eevee</span></a>
+</td></tr></table>
+</td>
+<th colspan="2" style="background:#FF1111;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">R</span></a>
+</th>
+<th colspan="2" style="background:#1111FF;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">B</span></a>
+</th>
+<th colspan="2" style="background:#FFD733;"> <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#000;">Y</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Gen_I_Item_Ball.png" class="image" title="Gift"><img alt="Gift" src="//cdn.bulbagarden.net/upload/1/17/Gen_I_Item_Ball.png" width="14" height="14" /></a>
+</td>
+<td> Gift
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 25
+</td>
+<td colspan="3" style="background:#FFFFFF;"> One
+</td></tr>
+<tr>
+<th style="background: #9DB7F5; color: #000000" colspan="13"> Fishing
+</th></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #445E9C;"> <span class="plainlinks"><a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="129"><img alt="129" src="//cdn.bulbagarden.net/upload/7/7c/129MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="Magikarp (Pokémon)"><span style="color:#000;">Magikarp</span></a>
+</td></tr></table>
+</td>
+<th colspan="2" style="background:#FF1111;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">R</span></a>
+</th>
+<th colspan="2" style="background:#1111FF;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">B</span></a>
+</th>
+<th colspan="2" style="background:#FFD733;"> <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#000;">Y</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Old_Rod_Sprite.png" class="image" title="Old Rod"><img alt="Old Rod" src="//cdn.bulbagarden.net/upload/b/b2/Bag_Old_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Old&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 5
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 100%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #445E9C;"> <span class="plainlinks"><a href="/wiki/Poliwag_(Pok%C3%A9mon)" title="060"><img alt="060" src="//cdn.bulbagarden.net/upload/1/17/060MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Poliwag_(Pok%C3%A9mon)" title="Poliwag (Pokémon)"><span style="color:#000;">Poliwag</span></a>
+</td></tr></table>
+</td>
+<th colspan="2" style="background:#FF1111;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">R</span></a>
+</th>
+<th colspan="2" style="background:#1111FF;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">B</span></a>
+</th>
+<th colspan="2" style="background:#FFD733;"> <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#000;">Y</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Good_Rod_Sprite.png" class="image" title="Good Rod"><img alt="Good Rod" src="//cdn.bulbagarden.net/upload/4/44/Bag_Good_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Good&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 10
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 50%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #445E9C;"> <span class="plainlinks"><a href="/wiki/Goldeen_(Pok%C3%A9mon)" title="118"><img alt="118" src="//cdn.bulbagarden.net/upload/9/9b/118MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Goldeen_(Pok%C3%A9mon)" title="Goldeen (Pokémon)"><span style="color:#000;">Goldeen</span></a>
+</td></tr></table>
+</td>
+<th colspan="2" style="background:#FF1111;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">R</span></a>
+</th>
+<th colspan="2" style="background:#1111FF;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">B</span></a>
+</th>
+<th colspan="2" style="background:#FFD733;"> <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#000;">Y</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Good_Rod_Sprite.png" class="image" title="Good Rod"><img alt="Good Rod" src="//cdn.bulbagarden.net/upload/4/44/Bag_Good_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Good&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 10
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 50%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #445E9C;"> <span class="plainlinks"><a href="/wiki/Poliwhirl_(Pok%C3%A9mon)" title="061"><img alt="061" src="//cdn.bulbagarden.net/upload/3/36/061MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Poliwhirl_(Pok%C3%A9mon)" title="Poliwhirl (Pokémon)"><span style="color:#000;">Poliwhirl</span></a>
+</td></tr></table>
+</td>
+<th colspan="2" style="background:#FF1111;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">R</span></a>
+</th>
+<th colspan="2" style="background:#1111FF;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">B</span></a>
+</th>
+<th colspan="2" style="background:#FFFFFF;"> <span style="color:#A68C21;">Y</span>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Super_Rod_Sprite.png" class="image" title="Super Rod"><img alt="Super Rod" src="//cdn.bulbagarden.net/upload/f/ff/Bag_Super_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Super&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 23
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 50%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #A13959;"> <span class="plainlinks"><a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="079"><img alt="079" src="//cdn.bulbagarden.net/upload/6/6a/079MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="Slowpoke (Pokémon)"><span style="color:#000;">Slowpoke</span></a>
+</td></tr></table>
+</td>
+<th colspan="2" style="background:#FF1111;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">R</span></a>
+</th>
+<th colspan="2" style="background:#1111FF;"> <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">B</span></a>
+</th>
+<th colspan="2" style="background:#FFFFFF;"> <span style="color:#A68C21;">Y</span>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Super_Rod_Sprite.png" class="image" title="Super Rod"><img alt="Super Rod" src="//cdn.bulbagarden.net/upload/f/ff/Bag_Super_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Super&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 15
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 50%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #445E9C;"> <span class="plainlinks"><a href="/wiki/Goldeen_(Pok%C3%A9mon)" title="118"><img alt="118" src="//cdn.bulbagarden.net/upload/9/9b/118MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Goldeen_(Pok%C3%A9mon)" title="Goldeen (Pokémon)"><span style="color:#000;">Goldeen</span></a>
+</td></tr></table>
+</td>
+<th colspan="2" style="background:#FFFFFF;"> <span style="color:#A60B0B;">R</span>
+</th>
+<th colspan="2" style="background:#FFFFFF;"> <span style="color:#0B0BA6;">B</span>
+</th>
+<th colspan="2" style="background:#FFD733;"> <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#000;">Y</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Super_Rod_Sprite.png" class="image" title="Super Rod"><img alt="Super Rod" src="//cdn.bulbagarden.net/upload/f/ff/Bag_Super_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Super&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 5, 10, 15, 20
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 100%
+</td></tr>
+<tr>
+<td class="roundybottom" style="background: #CFCDC7; color: #000000" colspan="13"> <small><b>A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.</b></small>
+</td></tr></table><br style="clear:both;" />
+<h3><span class="mw-headline" id="Generation_II">Generation II</span></h3>
+<table align="left" class="roundy" width="425px" style="border: 2px solid #949391; background: #ABA9A4; margin-right: 5px; margin-bottom: 5px;">
+<tr>
+<th class="roundytl" width="20%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Pokémon&#160;&#160;
+</th>
+<th width="18%" style="background: #CFCDC7; color: #000000" rowspan="1" colspan="6"> &#160;&#160;Games&#160;&#160;
+</th>
+<th width="29%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Location&#160;&#160;
+</th>
+<th width="29%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Levels&#160;&#160;
+</th>
+<th class="roundytr" width="33%" style="background: #CFCDC7; color: #000000" colspan="3"> &#160;&#160;Rate&#160;&#160;
+</th></tr>
+
+
+<tr>
+<th style="background: #9DB7F5; color: #000000" colspan="13"> Surfing
+</th></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C183C1; border: 2px solid #682A68;"> <span class="plainlinks"><a href="/wiki/Grimer_(Pok%C3%A9mon)" title="088"><img alt="088" src="//cdn.bulbagarden.net/upload/5/50/088MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Grimer_(Pok%C3%A9mon)" title="Grimer (Pokémon)"><span style="color:#000;">Grimer</span></a>
+</td></tr></table>
+</td>
+<th colspan="2" style="background:#DAA520;"> <a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">G</span></a>
+</th>
+<th colspan="2" style="background:#C0C0C0;"> <a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">S</span></a>
+</th>
+<th colspan="2" style="background:#4FD9FF;"> <a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#000;">C</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:GSC_Surf_M.png" class="image" title="Surfing"><img alt="Surfing" src="//cdn.bulbagarden.net/upload/0/02/GSC_Surf_M.png" width="18" height="18" /></a>
+</td>
+<td> <a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#000;">Surfing</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 15-24
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 90%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C183C1; border: 2px solid #682A68;"> <span class="plainlinks"><a href="/wiki/Muk_(Pok%C3%A9mon)" title="089"><img alt="089" src="//cdn.bulbagarden.net/upload/b/b4/089MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Muk_(Pok%C3%A9mon)" title="Muk (Pokémon)"><span style="color:#000;">Muk</span></a>
+</td></tr></table>
+</td>
+<th colspan="2" style="background:#DAA520;"> <a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">G</span></a>
+</th>
+<th colspan="2" style="background:#C0C0C0;"> <a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#000;">S</span></a>
+</th>
+<th colspan="2" style="background:#4FD9FF;"> <a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#000;">C</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:GSC_Surf_M.png" class="image" title="Surfing"><img alt="Surfing" src="//cdn.bulbagarden.net/upload/0/02/GSC_Surf_M.png" width="18" height="18" /></a>
+</td>
+<td> <a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#000;">Surfing</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 15-19
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 10%
+</td></tr>
+<tr>
+<td class="roundybottom" style="background: #CFCDC7; color: #000000" colspan="13"> <small><b>A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.</b></small>
+</td></tr></table><br style="clear:both;" />
+<h3><span class="mw-headline" id="Generation_III">Generation III</span></h3>
+<table align="left" class="roundy" width="425px" style="border: 2px solid #949391; background: #ABA9A4; margin-right: 5px; margin-bottom: 5px;">
+<tr>
+<th class="roundytl" width="20%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Pokémon&#160;&#160;
+</th>
+<th width="18%" style="background: #CFCDC7; color: #000000" rowspan="1" colspan="6"> &#160;&#160;Games&#160;&#160;
+</th>
+<th width="29%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Location&#160;&#160;
+</th>
+<th width="29%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Levels&#160;&#160;
+</th>
+<th class="roundytr" width="33%" style="background: #CFCDC7; color: #000000" colspan="3"> &#160;&#160;Rate&#160;&#160;
+</th></tr>
+
+
+<tr>
+<th style="background: #CFCDC7; color: #000000" colspan="13"> Gift Pokémon
+</th></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C6C6A7; border: 2px solid #6D6D4E;"> <span class="plainlinks"><a href="/wiki/Eevee_(Pok%C3%A9mon)" title="133"><img alt="133" src="//cdn.bulbagarden.net/upload/d/de/133MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Eevee_(Pok%C3%A9mon)" title="Eevee (Pokémon)"><span style="color:#000;">Eevee</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#FF7327;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">FR</span></a>
+</th>
+<th colspan="3" style="background:#00DD00;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">LG</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Gen_III_Item_Ball.png" class="image" title="Gift"><img alt="Gift" src="//cdn.bulbagarden.net/upload/1/12/Gen_III_Item_Ball.png" width="12" height="12" /></a>
+</td>
+<td> Gift
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 25
+</td>
+<td colspan="3" style="background:#FFFFFF;"> One
+</td></tr>
+<tr>
+<th style="background: #9DB7F5; color: #000000" colspan="13"> Surfing
+</th></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #445E9C;"> <span class="plainlinks"><a href="/wiki/Psyduck_(Pok%C3%A9mon)" title="054"><img alt="054" src="//cdn.bulbagarden.net/upload/6/6b/054MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Psyduck_(Pok%C3%A9mon)" title="Psyduck (Pokémon)"><span style="color:#000;">Psyduck</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#FF7327;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">FR</span></a>
+</th>
+<th colspan="3" style="background:#FFFFFF;"> <span style="color:#009000;">LG</span>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:FRLG_Surf_M.png" class="image" title="Surfing"><img alt="Surfing" src="//cdn.bulbagarden.net/upload/9/9d/FRLG_Surf_M.png" width="23" height="26" /></a>
+</td>
+<td> <a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#000;">Surfing</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 5-40
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 99%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #A13959;"> <span class="plainlinks"><a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="079"><img alt="079" src="//cdn.bulbagarden.net/upload/6/6a/079MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="Slowpoke (Pokémon)"><span style="color:#000;">Slowpoke</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#FFFFFF;"> <span style="color:#A64B19;">FR</span>
+</th>
+<th colspan="3" style="background:#00DD00;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">LG</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:FRLG_Surf_M.png" class="image" title="Surfing"><img alt="Surfing" src="//cdn.bulbagarden.net/upload/9/9d/FRLG_Surf_M.png" width="23" height="26" /></a>
+</td>
+<td> <a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#000;">Surfing</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 5-40
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 99%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C183C1; border: 2px solid #682A68;"> <span class="plainlinks"><a href="/wiki/Koffing_(Pok%C3%A9mon)" title="109"><img alt="109" src="//cdn.bulbagarden.net/upload/3/3f/109MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Koffing_(Pok%C3%A9mon)" title="Koffing (Pokémon)"><span style="color:#000;">Koffing</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#FF7327;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">FR</span></a>
+</th>
+<th colspan="3" style="background:#00DD00;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">LG</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:FRLG_Surf_M.png" class="image" title="Surfing"><img alt="Surfing" src="//cdn.bulbagarden.net/upload/9/9d/FRLG_Surf_M.png" width="23" height="26" /></a>
+</td>
+<td> <a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#000;">Surfing</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 30-40
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 1%
+</td></tr>
+<tr>
+<th style="background: #9DB7F5; color: #000000" colspan="13"> Fishing
+</th></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #445E9C;"> <span class="plainlinks"><a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="129"><img alt="129" src="//cdn.bulbagarden.net/upload/7/7c/129MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="Magikarp (Pokémon)"><span style="color:#000;">Magikarp</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#FF7327;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">FR</span></a>
+</th>
+<th colspan="3" style="background:#00DD00;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">LG</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Old_Rod_Sprite.png" class="image" title="Old Rod"><img alt="Old Rod" src="//cdn.bulbagarden.net/upload/b/b2/Bag_Old_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Old&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 5
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 100%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #445E9C;"> <span class="plainlinks"><a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="129"><img alt="129" src="//cdn.bulbagarden.net/upload/7/7c/129MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="Magikarp (Pokémon)"><span style="color:#000;">Magikarp</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#FF7327;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">FR</span></a>
+</th>
+<th colspan="3" style="background:#00DD00;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">LG</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Good_Rod_Sprite.png" class="image" title="Good Rod"><img alt="Good Rod" src="//cdn.bulbagarden.net/upload/4/44/Bag_Good_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Good&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 5-15
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 100%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #9DB7F5; border: 2px solid #445E9C;"> <span class="plainlinks"><a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="129"><img alt="129" src="//cdn.bulbagarden.net/upload/7/7c/129MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="Magikarp (Pokémon)"><span style="color:#000;">Magikarp</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#FF7327;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">FR</span></a>
+</th>
+<th colspan="3" style="background:#00DD00;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">LG</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Super_Rod_Sprite.png" class="image" title="Super Rod"><img alt="Super Rod" src="//cdn.bulbagarden.net/upload/f/ff/Bag_Super_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Super&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 15-35
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 99%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C183C1; border: 2px solid #682A68;"> <span class="plainlinks"><a href="/wiki/Grimer_(Pok%C3%A9mon)" title="088"><img alt="088" src="//cdn.bulbagarden.net/upload/5/50/088MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Grimer_(Pok%C3%A9mon)" title="Grimer (Pokémon)"><span style="color:#000;">Grimer</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#FF7327;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">FR</span></a>
+</th>
+<th colspan="3" style="background:#00DD00;"> <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">LG</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:Bag_Super_Rod_Sprite.png" class="image" title="Super Rod"><img alt="Super Rod" src="//cdn.bulbagarden.net/upload/f/ff/Bag_Super_Rod_Sprite.png" width="24" height="24" /></a>
+</td>
+<td> <a href="/wiki/Fishing" title="Fishing"><span style="color:#000;">Fishing</span></a><br /><span style="line-height:8px"><small>Super&#160;Rod</small></span>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 30-40
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 1%
+</td></tr>
+<tr>
+<td class="roundybottom" style="background: #CFCDC7; color: #000000" colspan="13"> <small><b>A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.</b></small>
+</td></tr></table><br style="clear:both;" />
+<h3><span class="mw-headline" id="Generation_IV_2">Generation IV</span></h3>
+<table align="left" class="roundy" width="425px" style="border: 2px solid #949391; background: #ABA9A4; margin-right: 5px; margin-bottom: 5px;">
+<tr>
+<th class="roundytl" width="20%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Pokémon&#160;&#160;
+</th>
+<th width="18%" style="background: #CFCDC7; color: #000000" rowspan="1" colspan="6"> &#160;&#160;Games&#160;&#160;
+</th>
+<th width="29%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Location&#160;&#160;
+</th>
+<th width="29%" style="background: #CFCDC7; color: #000000" rowspan="1"> &#160;&#160;Levels&#160;&#160;
+</th>
+<th class="roundytr" width="33%" style="background: #CFCDC7; color: #000000" colspan="3"> &#160;&#160;Rate&#160;&#160;
+</th></tr>
+
+
+<tr>
+<th style="background: #CFCDC7; color: #000000" colspan="13"> Headbutt
+</th></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C6C6A7; border: 2px solid #6D5E9C;"> <span class="plainlinks"><a href="/wiki/Spearow_(Pok%C3%A9mon)" title="021"><img alt="021" src="//cdn.bulbagarden.net/upload/5/5b/021MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Spearow_(Pok%C3%A9mon)" title="Spearow (Pokémon)"><span style="color:#000;">Spearow</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#B69E00;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">HG</span></a>
+</th>
+<th colspan="3" style="background:#C0C0E1;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">SS</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:HGSS_Headbutt_Kanto.png" class="image" title="Headbutt"><img alt="Headbutt" src="//cdn.bulbagarden.net/upload/thumb/3/36/HGSS_Headbutt_Kanto.png/20px-HGSS_Headbutt_Kanto.png" width="20" height="22" srcset="//cdn.bulbagarden.net/upload/thumb/3/36/HGSS_Headbutt_Kanto.png/30px-HGSS_Headbutt_Kanto.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/36/HGSS_Headbutt_Kanto.png/40px-HGSS_Headbutt_Kanto.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Headbutt_(move)" title="Headbutt (move)"><span style="color:#000;">Headbutt</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 11-20
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 80%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C6D16E; border: 2px solid #7D1F1A;"> <span class="plainlinks"><a href="/wiki/Heracross_(Pok%C3%A9mon)" title="214"><img alt="214" src="//cdn.bulbagarden.net/upload/4/4c/214MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Heracross_(Pok%C3%A9mon)" title="Heracross (Pokémon)"><span style="color:#000;">Heracross</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#B69E00;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">HG</span></a>
+</th>
+<th colspan="3" style="background:#C0C0E1;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">SS</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:HGSS_Headbutt_Kanto.png" class="image" title="Headbutt"><img alt="Headbutt" src="//cdn.bulbagarden.net/upload/thumb/3/36/HGSS_Headbutt_Kanto.png/20px-HGSS_Headbutt_Kanto.png" width="20" height="22" srcset="//cdn.bulbagarden.net/upload/thumb/3/36/HGSS_Headbutt_Kanto.png/30px-HGSS_Headbutt_Kanto.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/36/HGSS_Headbutt_Kanto.png/40px-HGSS_Headbutt_Kanto.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Headbutt_(move)" title="Headbutt (move)"><span style="color:#000;">Headbutt</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 11-17
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 20%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C6D16E; border: 2px solid #6D5E9C;"> <span class="plainlinks"><a href="/wiki/Combee_(Pok%C3%A9mon)" title="415"><img alt="415" src="//cdn.bulbagarden.net/upload/e/ee/415MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Combee_(Pok%C3%A9mon)" title="Combee (Pokémon)"><span style="color:#000;">Combee</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#B69E00;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">HG</span></a>
+</th>
+<th colspan="3" style="background:#C0C0E1;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">SS</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:HGSS_Headbutt_Kanto.png" class="image" title="Headbutt"><img alt="Headbutt" src="//cdn.bulbagarden.net/upload/thumb/3/36/HGSS_Headbutt_Kanto.png/20px-HGSS_Headbutt_Kanto.png" width="20" height="22" srcset="//cdn.bulbagarden.net/upload/thumb/3/36/HGSS_Headbutt_Kanto.png/30px-HGSS_Headbutt_Kanto.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/36/HGSS_Headbutt_Kanto.png/40px-HGSS_Headbutt_Kanto.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Headbutt_(move)" title="Headbutt (move)"><span style="color:#000;">Headbutt</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 10-20
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 20%
+</td></tr>
+<tr>
+<th style="background: #9DB7F5; color: #000000" colspan="13"> Surfing
+</th></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C183C1; border: 2px solid #682A68;"> <span class="plainlinks"><a href="/wiki/Grimer_(Pok%C3%A9mon)" title="088"><img alt="088" src="//cdn.bulbagarden.net/upload/5/50/088MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Grimer_(Pok%C3%A9mon)" title="Grimer (Pokémon)"><span style="color:#000;">Grimer</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#B69E00;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">HG</span></a>
+</th>
+<th colspan="3" style="background:#C0C0E1;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">SS</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:HGSS_Surf_M.png" class="image" title="Surfing"><img alt="Surfing" src="//cdn.bulbagarden.net/upload/7/7d/HGSS_Surf_M.png" width="30" height="38" /></a>
+</td>
+<td> <a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#000;">Surfing</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 15-20
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 90%
+</td></tr>
+<tr style="text-align:center;">
+<td style="background: #FFFFFF;">
+<table width="100%" class="roundy" style="background: transparent;">
+<tr>
+<th width="32px" style="border-radius: 32px; -moz-border-radius: 32px; -webkit-border-radius: 32px; -khtml-border-radius: 32px; -icab-border-radius: 32px; -o-border-radius: 32px; background: #C183C1; border: 2px solid #682A68;"> <span class="plainlinks"><a href="/wiki/Muk_(Pok%C3%A9mon)" title="089"><img alt="089" src="//cdn.bulbagarden.net/upload/b/b4/089MS.png" width="40" height="40" /></a></span>
+</th>
+<td> <a href="/wiki/Muk_(Pok%C3%A9mon)" title="Muk (Pokémon)"><span style="color:#000;">Muk</span></a>
+</td></tr></table>
+</td>
+<th colspan="3" style="background:#B69E00;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">HG</span></a>
+</th>
+<th colspan="3" style="background:#C0C0E1;"> <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#000;">SS</span></a>
+</th>
+<td style="background:#FFFFFF;">
+<table width="100%" style="background:transparent;">
+
+<tr>
+<td width="30px"> <a href="/wiki/File:HGSS_Surf_M.png" class="image" title="Surfing"><img alt="Surfing" src="//cdn.bulbagarden.net/upload/7/7d/HGSS_Surf_M.png" width="30" height="38" /></a>
+</td>
+<td> <a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#000;">Surfing</span></a>
+</td></tr></table>
+</td>
+<td style="background:#FFFFFF;"> 15
+</td>
+<td colspan="3" style="background:#FFFFFF;"> 10%
+</td></tr>
+<tr>
+<td class="roundybottom" style="background: #CFCDC7; color: #000000" colspan="13"> <small><b>A colored background means that the Pokémon can be found in this location in the specified game. A white background with a colored letter means that the Pokémon cannot be found here.</b></small>
+</td></tr></table><br style="clear:both;" />
+<h2><span class="mw-headline" id="Differences_between_generations">Differences between generations</span></h2>
+<p>Between <a href="/wiki/Generation_I" title="Generation I">Generation I</a> and <a href="/wiki/Generation_III" title="Generation III">III</a>, there have being some little and unnoticeable chances to Celadon City. Mostly, there are only aesthetic changes between building designs. A fountain has been added to the western side of the city. The small pond in the center of the city now has small hints of pollution, with <a href="/wiki/Grimer_(Pok%C3%A9mon)" title="Grimer (Pokémon)">Grimer</a> and <a href="/wiki/Koffing_(Pok%C3%A9mon)" title="Koffing (Pokémon)">Koffing</a> appearing on rare occasions, as an allusion to <a href="/wiki/Generation_II" title="Generation II">the previous generation</a>.
+</p><p>In <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, Celadon City has changed quite a bit. Some buildings have been removed and some have been added. There is a café located on the eastern side of town, and the Department Store has been moved the far western side of town. Over the course of two years, the small pond has grown very polluted; only <a href="/wiki/Grimer_(Pok%C3%A9mon)" title="Grimer (Pokémon)">Grimer</a> and <a href="/wiki/Muk_(Pok%C3%A9mon)" title="Muk (Pokémon)">Muk</a> can be found there. Like Generation III, <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> has the added fountain to the western side of the city. The central pond has been extended southward with a bridge going across it.
+</p>
+<h2><span class="mw-headline" id="In_the_spin-off_games">In the spin-off games</span></h2>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Pinball">In Pokémon Pinball</span></h3>
+<p>In <a href="/wiki/Pok%C3%A9mon_Pinball" title="Pokémon Pinball">Pokémon Pinball</a>, Celadon City appears on the Blue table. Catchable <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> include <a href="/wiki/Vulpix_(Pok%C3%A9mon)" title="Vulpix (Pokémon)">Vulpix</a>, <a href="/wiki/Meowth_(Pok%C3%A9mon)" title="Meowth (Pokémon)">Meowth</a>, <a href="/wiki/Mankey_(Pok%C3%A9mon)" title="Mankey (Pokémon)">Mankey</a>, <a href="/wiki/Scyther_(Pok%C3%A9mon)" title="Scyther (Pokémon)">Scyther</a>, <a href="/wiki/Pinsir_(Pok%C3%A9mon)" title="Pinsir (Pokémon)">Pinsir</a>, <a href="/wiki/Eevee_(Pok%C3%A9mon)" title="Eevee (Pokémon)">Eevee</a>, <a href="/wiki/Porygon_(Pok%C3%A9mon)" title="Porygon (Pokémon)">Porygon</a> and <a href="/wiki/Dratini_(Pok%C3%A9mon)" title="Dratini (Pokémon)">Dratini</a>.
+</p>
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Celadon_Skyline.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/b/bf/Celadon_Skyline.png/250px-Celadon_Skyline.png" width="250" height="147" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/b/bf/Celadon_Skyline.png/375px-Celadon_Skyline.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/bf/Celadon_Skyline.png/500px-Celadon_Skyline.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Celadon_Skyline.png" class="internal" title="Enlarge"></a></div>Celadon City in the anime</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Celadon_City_Hall.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/82/Celadon_City_Hall.png/250px-Celadon_City_Hall.png" width="250" height="188" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/8/82/Celadon_City_Hall.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Celadon_City_Hall.png" class="internal" title="Enlarge"></a></div>Celadon City Hall</div></div></div>
+<h3><span class="mw-headline" id="In_the_main_series">In the main series</span></h3>
+<p><a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>, <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a>, and <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a> arrived in Celadon City in <i><a href="/wiki/EP026" title="EP026">Pokémon Scent-sation!</a></i> so that Ash could challenge the Gym Leader, Erika. She initially refused to battle him due to the fact that he offended her by insulting her perfume, so Ash sneaked into the <a href="/wiki/Celadon_Gym" title="Celadon Gym">Celadon Gym</a> disguised as a girl and answering to the name "<a href="/wiki/Ashley" title="Ashley">Ashley</a>". When Team Rocket's interference caused a fire to start inside the Gym, Erika's <a href="/wiki/Gloom_(Pok%C3%A9mon)" title="Gloom (Pokémon)">Gloom</a> was trapped inside. Ash saved the Pokémon despite its stench, and Erika awarded him the <a href="/wiki/Badge#Rainbow_Badge" title="Badge">Rainbow Badge</a> for his courage.
+</p><p>Ash and his friends briefly revisited Celadon City in <i><a href="/wiki/EP029" title="EP029">The Punchy Pokémon</a></i> after they just left it. Although it is not mentioned in the episode, according to official art for the <a href="/wiki/P1_Grand_Prix" title="P1 Grand Prix">P1 Grand Prix</a> from the Game Freak website, the P1 Grand Prix takes place in the Celadon City Hall.
+</p><p>In <i><a href="/wiki/EP136" title="EP136">Chikorita's Big Upset</a></i>, it was mentioned that Celadon City has a <a href="/wiki/Celadon_University" title="Celadon University">university</a>, where the episode's <a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a> studied Pokémon psychology. In <a href="/wiki/EP163" title="EP163">a later episode</a>, it was revealed that <a href="/wiki/Professor_Oak_(anime)" title="Professor Oak (anime)">Professor Oak</a> used to teach there, and <a href="/wiki/Foster" title="Foster">Foster</a> was one of his top students.
+</p>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Origins">In Pokémon Origins</span></h3>
+<p><a href="/wiki/Red_(Origins)" title="Red (Origins)">Red</a> was briefly seen visiting Celadon City in the <a href="/wiki/Pok%C3%A9mon_Origins" title="Pokémon Origins">Pokémon Origins</a> episode <i><a href="/wiki/PO03" title="PO03">File 3: Giovanni</a></i>. After defeating Erika and earning the Rainbow Badge, he followed a "suspicious-looking guy" to a place that turned out to be <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">Team Rocket's secret hideout</a>. There, he released several Pokémon imprisoned by Team Rocket and had his first encounter with the leader of the organization, <a href="/wiki/Giovanni" title="Giovanni">Giovanni</a>.
+</p>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Generations">In Pokémon Generations</span></h3>
+<p><a href="/wiki/Celadon_Game_Corner" title="Celadon Game Corner">Celadon Game Corner</a> made an appearance in <i><a href="/wiki/PG02" title="PG02">The Chase</a></i>.
+</p>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Celadon_City_Adventures.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/76/Celadon_City_Adventures.png/200px-Celadon_City_Adventures.png" width="200" height="165" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/7/76/Celadon_City_Adventures.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Celadon_City_Adventures.png" class="internal" title="Enlarge"></a></div>Celadon City in Pokémon Adventures</div></div></div>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<p>Celadon City first appeared from <i><a href="/wiki/PS015" title="PS015">Wartortle Wars</a></i> to <i><a href="/wiki/PS020" title="PS020">Meanwhile...Vileplume!</a></i>. After being fooled into buying a lot of expensive <a href="/wiki/Item" title="Item">items</a>, all of which later turned out to be fake, from <a href="/wiki/Green_(Adventures)" title="Green (Adventures)">Green</a>, <a href="/wiki/Red_(Adventures)" title="Red (Adventures)">Red</a> encountered her again trying to sell her items to the people of Celadon. Upon noticing Red, she tried to get away with her <a href="/wiki/Blasty" title="Blasty">Wartortle</a>, but was stopped by Red and his <a href="/wiki/Snor" title="Snor">Snorlax</a>. When Red later went to spend night at the Celadon Hotel, he was enraged to find out that Green had secretly stolen his <a href="/wiki/Badge#Boulder_Badge" title="Badge">Boulder</a> and <a href="/wiki/Badge#Cascade_Badge" title="Badge">Cascade Badges</a>.
+</p><p>After having an encounter with <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a> and <a href="/wiki/Mew_(Adventures)" title="Mew (Adventures)">Mew</a>, and supposedly recovering his Badges, Red encountered <a href="/wiki/Erika" title="Erika">Erika</a>, the Celadon City Gym Leader. She offered to accept Red's challenge for a battle if he caught her an <a href="/wiki/Eevee_(Pok%C3%A9mon)" title="Eevee (Pokémon)">Eevee</a>. With the help of <a href="/wiki/Bill_(Adventures)" title="Bill (Adventures)">Bill</a>, Red soon found an <a href="/wiki/Vee" title="Vee">Eevee</a>, but it turned out to be a modified Eevee, capable of changing into <a href="/wiki/Eeveelution" title="Eeveelution">it evolutions</a> and <a href="/wiki/Devolution" title="Devolution">back</a>. After catching the Eevee, Red learned from Erika that the Eevee had been tested by Team Rocket, and she had wanted to test Red if he'd be a good ally in a fight against the evil organization.
+</p><p>In the <a href="/wiki/Yellow_chapter_(Adventures)" title="Yellow chapter (Adventures)"><i>Yellow</i> chapter</a>, <a href="/wiki/Yellow_(Adventures)" title="Yellow (Adventures)">Yellow</a> ended up in Celadon City after having escaped from <a href="/wiki/Lorelei" title="Lorelei">Lorelei</a>, and was greeted by Erika and several of her students. <a href="/wiki/Super_Nerd_(Trainer_class)" title="Super Nerd (Trainer class)">Super Nerd</a> Miles, sent to capture <a href="/wiki/Pika" title="Pika">Pika</a> by <a href="/wiki/Agatha" title="Agatha">Agatha</a>, then appeared, disguised as Red. He knocked Erika out, overwhelmed Yellow, and tried to escape with Pika, but was stopped by the four "Gym Leaders of Justice". Agatha's <a href="/wiki/Gastly_(Pok%C3%A9mon)" title="Gastly (Pokémon)">Gastly</a> then tried to kill Miles, but was stopped by <a href="/wiki/Blue_(Adventures)" title="Blue (Adventures)">Blue</a>. Afterwards, Blue and Yellow left to train together at <a href="/wiki/Kanto_Route_9" title="Kanto Route 9">Route 9</a>.
+</p><p>Later in the chapter, Celadon City was attacked by an army of <a href="/wiki/Shellder_(Pok%C3%A9mon)" title="Shellder (Pokémon)">Shellder</a> and <a href="/wiki/Cloyster_(Pok%C3%A9mon)" title="Cloyster (Pokémon)">Cloyster</a>, sent by Lorelei. While protecting her Gym, Erika found out that the <a href="/wiki/Elite_Four" title="Elite Four">Elite Four</a> were after her Badge. After Yellow defeated <a href="/wiki/Lance" title="Lance">Lance</a> at <a href="/wiki/Cerise_Island" title="Cerise Island">Cerise Island</a>, the Pokémon army lost its strength.
+</p><p>Like in the anime, Celadon City has a <a href="/wiki/Celadon_University" title="Celadon University">university</a>, at which Erika teaches in addition to her duties as Gym Leader.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Pocket_Monsters_manga">In the Pokémon Pocket Monsters manga</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Celadon_City_PM.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/b/b0/Celadon_City_PM.png/200px-Celadon_City_PM.png" width="200" height="174" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/b/b0/Celadon_City_PM.png/300px-Celadon_City_PM.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b0/Celadon_City_PM.png/400px-Celadon_City_PM.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Celadon_City_PM.png" class="internal" title="Enlarge"></a></div>Celadon City in Pokémon Pocket Monsters</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Celadon_City_Zensho.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/5/56/Celadon_City_Zensho.png/200px-Celadon_City_Zensho.png" width="200" height="73" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/5/56/Celadon_City_Zensho.png/300px-Celadon_City_Zensho.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/56/Celadon_City_Zensho.png/400px-Celadon_City_Zensho.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Celadon_City_Zensho.png" class="internal" title="Enlarge"></a></div>Celadon City in Pokémon Zensho</div></div></div>
+<p>Celadon City appeared in <i><a href="/wiki/PM009" title="PM009">Pikachu Was Kidnapped!!</a></i>, where <a href="/wiki/Red_(Pocket_Monsters)" title="Red (Pocket Monsters)">Red</a> and his Pokémon ventured to the Game Corner, winning a lot of <a href="/wiki/Coin" title="Coin">Coins</a>. Team Rocket tried to steal <a href="/wiki/Red%27s_Pikachu_(Pocket_Monsters)" title="Red's Pikachu (Pocket Monsters)">Red's Pikachu</a>, but were stopped by <a href="/wiki/Red%27s_Clefairy" title="Red's Clefairy">Clefairy</a>.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Zensho_manga">In the Pokémon Zensho manga</span></h3>
+<p>Celadon City appeared in <i><a href="/wiki/PZ05" title="PZ05">Celadon City</a></i>, where <a href="/wiki/Satoshi_(Zensho)" title="Satoshi (Zensho)">Satoshi</a> visited the city. Originally, he merely followed a pair of <a href="/wiki/Team_Rocket_Grunt_(Trainer_class)" title="Team Rocket Grunt (Trainer class)">Team Rocket Grunts</a> from <a href="/wiki/Lavender_Town" title="Lavender Town">Lavender Town</a> in order to get a <a href="/wiki/Silph_Scope" title="Silph Scope">Silph Scope</a>, but after snatching one from the <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">Rocket Hideout</a>, he noticed the Gym and decided to challenge it as well. During the Gym battle with Erika, <a href="/wiki/Satoshi%27s_Charmeleon_(Zensho)" class="mw-redirect" title="Satoshi's Charmeleon (Zensho)">Satoshi's Charmeleon</a> accidentally set Erika's kimono on fire, but saved her by <a href="/wiki/Slash_(move)" title="Slash (move)">slashing</a> off the burning part. Seeing how well Satoshi had raised his Pokémon, Erika gave him a <a href="/wiki/Badge#Rainbow_Badge" title="Badge">Rainbow Badge</a>.
+<br clear="all" />
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> Many <a href="/wiki/Gym_Leader" title="Gym Leader">Gym Leaders</a> have appeared at one point or another within Celadon City. <a href="/wiki/Erika" title="Erika">Erika</a>, as its own Gym Leader, resides there, while <a href="/wiki/Jasmine" title="Jasmine">Jasmine</a>, <a href="/wiki/Falkner" title="Falkner">Falkner</a>, <a href="/wiki/Janine" title="Janine">Janine</a>, <a href="/wiki/Maylene" title="Maylene">Maylene</a>, and <a href="/wiki/Crasher_Wake" title="Crasher Wake">Crasher Wake</a> stop by at times during <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>. <a href="/wiki/Giovanni" title="Giovanni">Giovanni</a> also appears here during <a href="/wiki/Generation_I" title="Generation I">Generation I</a> and <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">its remakes</a>, as the Rocket Boss in <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">the hideout</a> under the <a href="/wiki/Celadon_Game_Corner" title="Celadon Game Corner">Game Corner</a>, while <a href="/wiki/Blue_(game)" title="Blue (game)">Blue</a> is known to have visited the city to challenge Erika in Generation I and its remakes. <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a> and <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a> also have visited the city, along with <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>, in the anime episode <i><a href="/wiki/EP026" title="EP026">Pokémon Scent-sation!</a></i>.</li>
+<li> In the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games, the two <a href="/wiki/Team_Rocket_Grunt_(Trainer_class)" title="Team Rocket Grunt (Trainer class)">Team Rocket Grunts</a> that can be seen in the city remain even after <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a> is thwarted by the player at <a href="/wiki/Silph_Co." title="Silph Co.">Silph Co.</a> This was changed in <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Pokémon FireRed and LeafGreen</a>.
+<ul><li> However, a pair of grunts in the house near the restaurant remain even after the player has defeated the Elite Four.</li></ul></li>
+<li> Celadon City is one of two cities that is more populous than the largest city in its region, the other being <a href="/wiki/Nimbasa_City" title="Nimbasa City">Nimbasa City</a>. They are more populous than <a href="/wiki/Saffron_City" title="Saffron City">Saffron City</a> and <a href="/wiki/Castelia_City" title="Castelia City">Castelia City</a>, respectively. This also happens in Sinnoh, but only in <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond and Pearl</a> where <a href="/wiki/Hearthome_City" title="Hearthome City">Hearthome City</a> is more populous than <a href="/wiki/Jubilife_City" title="Jubilife City">Jubilife City</a>.
+<ul><li> Coincidentally, Nimbasa City and Celadon City are both home to the fourth Gyms of their regions.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Name_origin">Name origin</span></h2>
+<table class="roundy" style="background: #c0e7c2; border: 3px solid #ACE1AF">
+<tr>
+<th> Language
+</th>
+<th> Name
+</th>
+<th> Origin
+</th></tr>
+<tr style="background:#FFF">
+<td> Japanese
+</td>
+<td> タマムシシティ <i>Tamamushi City</i>
+</td>
+<td> From 玉虫色 <i>tamamushi-iro</i>, the <a href="https://en.wikipedia.org/wiki/Iridescence" class="extiw" title="wp:Iridescence">iridescent</a> green color of the <a href="https://en.wikipedia.org/wiki/Buprestidae" class="extiw" title="wp:Buprestidae">jewel beetle</a>
+</td></tr>
+<tr style="background:#FFF">
+<td> English
+</td>
+<td> Celadon City
+</td>
+<td> From <i>celadon</i>, a light grayish green color named after the <a href="https://en.wikipedia.org/wiki/celadon" class="extiw" title="wp:celadon">pottery</a>
+</td></tr>
+<tr style="background:#FFF">
+<td> French
+</td>
+<td> Céladopole
+</td>
+<td> From <i>céladon</i> and the suffix <i>-pole</i> (city)
+</td></tr>
+<tr style="background:#FFF">
+<td> German
+</td>
+<td> Prismania City
+</td>
+<td> From <i>Prisma</i>, prism
+</td></tr>
+<tr style="background:#FFF">
+<td> Italian
+</td>
+<td> Azzurropoli
+</td>
+<td> From <i>azzurro</i> (azure) and the suffix <i>-poli</i> (city)
+</td></tr>
+<tr style="background:#FFF">
+<td> Spanish
+</td>
+<td> Ciudad Azulona
+</td>
+<td> From <i>azulón</i>, azure
+</td></tr>
+<tr style="background:#FFF">
+<td> Korean
+</td>
+<td> 무지개시티 <i>Mujigae City</i>
+</td>
+<td> From 무지개 <i>mujigae</i>, rainbow
+</td></tr>
+<tr style="background:#FFF">
+<td> Chinese (<span class="explain" title="Taiwan and Mainland China">Mandarin</span>)
+</td>
+<td> 彩虹市 <i>Cǎihóng Shì</i>
+</td>
+<td> From 彩虹 <i>cǎihóng</i>, rainbow
+</td></tr>
+<tr style="background:#FFF">
+<td> Chinese (<span class="explain" title="Hong Kong">Cantonese</span>)
+</td>
+<td> 彩色市 <i>Chóisīk Síh</i>
+</td>
+<td> From 彩色 <i>chóisīk</i>, multicolored
+</td></tr>
+<tr style="background:#FFF">
+<td> Czech
+</td>
+<td> Seladonové město
+</td>
+<td> From <i>seladon</i> (celadon) and <i>město</i> (city, town)
+</td></tr>
+<tr style="background:#FFF">
+<td> Indonesian
+</td>
+<td> Kota Seladon<span class="explain" title="Pokémon Pocket Monsters">*</span>
+</td>
+<td> From its English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Norwegian
+</td>
+<td> Celadon City
+</td>
+<td> Same as English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Polish
+</td>
+<td> Prizmania
+</td>
+<td> From its German name
+</td></tr>
+<tr style="background:#FFF">
+<td> Brazilian Portuguese
+</td>
+<td> Cidade de Celadon<span class="explain" title="Anime, manga">*</span><br />Cidade Celadon<span class="explain" title="The Official Pokémon Handbook">*</span>
+</td>
+<td> From its English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Russian
+</td>
+<td> Силадон <i>Siladon</i>
+</td>
+<td> From its English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Swedish
+</td>
+<td> Celadonstaden
+</td>
+<td> From English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Vietnamese
+</td>
+<td> Thành phố Tamamushi
+</td>
+<td> Transliteration of its Japanese name
+</td></tr></table>
+<p><br clear="all" />
+<br clear="all" />
+</p>
+<table class="roundy" style="margin:auto; text-align:center; border: 2px solid #537A13; background: #80BB1D;">
+
+<tr>
+<th class="roundytop" style="background: #ACD36C;"> <a href="/wiki/Kanto" title="Kanto"><span style="color:#000;">Kanto</span></a>
+</th></tr>
+<tr>
+<td>
+<table class="roundy" style="margin:auto; text-align:center; background: #ACD36C;">
+
+<tr>
+<th class="roundy" style="border: 2px solid #786824; background: #D1C17D;"> <a href="/wiki/Pewter_Gym" title="Pewter Gym"><img alt="Boulder Badge.png" src="//cdn.bulbagarden.net/upload/thumb/d/dd/Boulder_Badge.png/40px-Boulder_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/d/dd/Boulder_Badge.png/60px-Boulder_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/dd/Boulder_Badge.png/80px-Boulder_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #445E9C; background: #9DB7F5;"> <a href="/wiki/Cerulean_Gym" title="Cerulean Gym"><img alt="Cascade Badge.png" src="//cdn.bulbagarden.net/upload/thumb/9/9c/Cascade_Badge.png/40px-Cascade_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/9/9c/Cascade_Badge.png/60px-Cascade_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/9c/Cascade_Badge.png/80px-Cascade_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #A1871F; background: #FAE078;"> <a href="/wiki/Vermilion_Gym" title="Vermilion Gym"><img alt="Thunder Badge.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Thunder_Badge.png/40px-Thunder_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Thunder_Badge.png/60px-Thunder_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Thunder_Badge.png/80px-Thunder_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #4E8234; background: #A7DB8D;"> <a href="/wiki/Celadon_Gym" title="Celadon Gym"><img alt="Rainbow Badge.png" src="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/40px-Rainbow_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/60px-Rainbow_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/80px-Rainbow_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #682A68; background: #C183C1;"> <a href="/wiki/Fuchsia_Gym" title="Fuchsia Gym"><img alt="Soul Badge.png" src="//cdn.bulbagarden.net/upload/thumb/7/7d/Soul_Badge.png/40px-Soul_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/7/7d/Soul_Badge.png/60px-Soul_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7d/Soul_Badge.png/80px-Soul_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #A13959; background: #FA92B2;"> <a href="/wiki/Saffron_Gym" title="Saffron Gym"><img alt="Marsh Badge.png" src="//cdn.bulbagarden.net/upload/thumb/6/6b/Marsh_Badge.png/40px-Marsh_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/6/6b/Marsh_Badge.png/60px-Marsh_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6b/Marsh_Badge.png/80px-Marsh_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #9C531F; background: #F5AC78;"> <a href="/wiki/Cinnabar_Gym" title="Cinnabar Gym"><img alt="Volcano Badge.png" src="//cdn.bulbagarden.net/upload/thumb/1/12/Volcano_Badge.png/40px-Volcano_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/1/12/Volcano_Badge.png/60px-Volcano_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/12/Volcano_Badge.png/80px-Volcano_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #927D44; background: #EBD69D;"> <a href="/wiki/Viridian_Gym" title="Viridian Gym"><img alt="Earth Badge.png" src="//cdn.bulbagarden.net/upload/thumb/7/78/Earth_Badge.png/40px-Earth_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/7/78/Earth_Badge.png/60px-Earth_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/78/Earth_Badge.png/80px-Earth_Badge.png 2x" /></a>
+</th></tr></table>
+</td></tr>
+<tr>
+<td>
+<table width="700px;" class="roundy" style="margin:auto; text-align:center; background: #FFFFFF; border: 2px solid #537A13;">
+
+<tr>
+<td class="roundy" style="background:#FFFFFF; font-size: 90%;"> <b>Settlements</b><br /><a href="/wiki/Pallet_Town" title="Pallet Town">Pallet Town</a> • <a href="/wiki/Viridian_City" title="Viridian City">Viridian City</a> • <a href="/wiki/Pewter_City" title="Pewter City">Pewter City</a> • <a href="/wiki/Cerulean_City" title="Cerulean City">Cerulean City</a> • <a href="/wiki/Vermilion_City" title="Vermilion City">Vermilion City</a> • <a href="/wiki/Lavender_Town" title="Lavender Town">Lavender Town</a><br /><a class="mw-selflink selflink">Celadon City</a> • <a href="/wiki/Saffron_City" title="Saffron City">Saffron City</a> • <a href="/wiki/Fuchsia_City" title="Fuchsia City">Fuchsia City</a> • <a href="/wiki/Cinnabar_Island" title="Cinnabar Island">Cinnabar Island</a> • <a href="/wiki/Indigo_Plateau" title="Indigo Plateau">Indigo Plateau</a>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFFFFF; font-size: 90%;"> <b><a href="/wiki/Route" title="Route"><span style="color:#000;">Routes</span></a></b><br /><a href="/wiki/Kanto_Route_1" title="Kanto Route 1">1</a> • <a href="/wiki/Kanto_Route_2" title="Kanto Route 2">2</a> • <a href="/wiki/Kanto_Route_3" title="Kanto Route 3">3</a> • <a href="/wiki/Kanto_Route_4" title="Kanto Route 4">4</a> • <a href="/wiki/Kanto_Route_5" title="Kanto Route 5">5</a> • <a href="/wiki/Kanto_Route_6" title="Kanto Route 6">6</a> • <a href="/wiki/Kanto_Route_7" title="Kanto Route 7">7</a> • <a href="/wiki/Kanto_Route_8" title="Kanto Route 8">8</a> • <a href="/wiki/Kanto_Route_9" title="Kanto Route 9">9</a> • <a href="/wiki/Kanto_Route_10" title="Kanto Route 10">10</a> • <a href="/wiki/Kanto_Route_11" title="Kanto Route 11">11</a> • <a href="/wiki/Kanto_Route_12" title="Kanto Route 12">12</a> • <a href="/wiki/Kanto_Route_13" title="Kanto Route 13">13</a> • <a href="/wiki/Kanto_Route_14" title="Kanto Route 14">14</a> • <a href="/wiki/Kanto_Route_15" title="Kanto Route 15">15</a> • <a href="/wiki/Kanto_Route_16" title="Kanto Route 16">16</a> • <a href="/wiki/Kanto_Route_17" title="Kanto Route 17">17</a> • <a href="/wiki/Kanto_Route_18" title="Kanto Route 18">18</a> • <a href="/wiki/Kanto_Route_19" title="Kanto Route 19">19</a> • <a href="/wiki/Kanto_Route_20" title="Kanto Route 20">20</a> • <a href="/wiki/Kanto_Route_21" title="Kanto Route 21">21</a> • <a href="/wiki/Kanto_Route_22" title="Kanto Route 22">22</a> • <a href="/wiki/Kanto_Route_23" title="Kanto Route 23">23</a> • <a href="/wiki/Kanto_Route_24" title="Kanto Route 24">24</a> • <a href="/wiki/Kanto_Route_25" title="Kanto Route 25">25</a> • <a href="/wiki/Kanto_Route_26" title="Kanto Route 26">26</a> • <a href="/wiki/Kanto_Route_27" title="Kanto Route 27">27</a> • <a href="/wiki/Kanto_Route_28" title="Kanto Route 28">28</a>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFFFFF; font-size: 90%;"> <b>Landmarks</b><br /><a href="/wiki/Professor_Oak%27s_Laboratory" title="Professor Oak's Laboratory">Professor Oak's Laboratory</a> • <a href="/wiki/Viridian_Forest" title="Viridian Forest">Viridian Forest</a> • <a href="/wiki/Diglett%27s_Cave" title="Diglett's Cave">Diglett's Cave</a> • <a href="/wiki/Pewter_Museum_of_Science" title="Pewter Museum of Science">Pewter Museum of Science</a> • <a href="/wiki/Mt._Moon" title="Mt. Moon">Mt. Moon</a> (<a href="/wiki/Mt._Moon_Square" title="Mt. Moon Square">Square</a>) • <a href="/wiki/Cerulean_Cave" title="Cerulean Cave">Cerulean Cave</a><br /><a href="/wiki/Underground_Path_(Kanto_Routes_5-6)" title="Underground Path (Kanto Routes 5-6)">Underground Path (Kanto Routes 5-6)</a> • <a href="/wiki/Underground_Path_(Kanto_Routes_7-8)" title="Underground Path (Kanto Routes 7-8)">Underground Path (Kanto Routes 7-8)</a> • <a href="/wiki/S.S._Anne" title="S.S. Anne">S.S. Anne</a> • <a href="/wiki/S.S._Aqua" title="S.S. Aqua">S.S. Aqua</a> • <a href="/wiki/Sea_Cottage" title="Sea Cottage">Sea Cottage</a> • <a href="/wiki/Rock_Tunnel" title="Rock Tunnel">Rock Tunnel</a><br /><a href="/wiki/Kanto_Power_Plant" title="Kanto Power Plant">Power Plant</a> • <a href="/wiki/Kanto_Route_17" title="Kanto Route 17">Cycling Road</a> • <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">Rocket Hideout</a> • <a href="/wiki/Silph_Co." title="Silph Co.">Silph Co.</a> • <a href="/wiki/Magnet_Train" title="Magnet Train">Magnet Train</a> • <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a> • <a href="/wiki/Kanto_Safari_Zone" title="Kanto Safari Zone">Safari Zone</a>/<a href="/wiki/Pal_Park" title="Pal Park">Pal Park</a><br /><a href="/wiki/Seafoam_Islands" title="Seafoam Islands">Seafoam Islands</a> • <a href="/wiki/Pok%C3%A9mon_Mansion_(Kanto)" title="Pokémon Mansion (Kanto)">Pokémon Mansion</a> • <a href="/wiki/Pok%C3%A9mon_Lab" title="Pokémon Lab">Pokémon Lab</a> • <a href="/wiki/Pok%C3%A9mon_League_Reception_Gate" title="Pokémon League Reception Gate">Pokémon League Reception Gate</a> • <a href="/wiki/Victory_Road_(Kanto)" title="Victory Road (Kanto)">Victory Road</a> • <a href="/wiki/Tohjo_Falls" title="Tohjo Falls">Tohjo Falls</a>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFFFFF; font-size:90%"> <b>Access to</b><br /><a href="/wiki/Sevii_Islands" title="Sevii Islands">Sevii Islands</a> • <a href="/wiki/Johto" title="Johto">Johto</a>
+</td></tr></table>
+</td></tr></table><br />
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Cities_and_Towns_logo.png" class="image"><img alt="Project Cities and Towns logo.png" src="//cdn.bulbagarden.net/upload/thumb/4/4e/Project_Cities_and_Towns_logo.png/80px-Project_Cities_and_Towns_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/4/4e/Project_Cities_and_Towns_logo.png/120px-Project_Cities_and_Towns_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/4e/Project_Cities_and_Towns_logo.png/160px-Project_Cities_and_Towns_logo.png 2x" /></a>
+</td>
+<td> This article is part of <b><a href="/wiki/Bulbapedia:Project_Cities_and_Towns" title="Bulbapedia:Project Cities and Towns">Project Cities and Towns</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on every city and town in the Pokémon world.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180130132516
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.408 seconds
+Real time usage: 0.573 seconds
+Preprocessor visited node count: 8032/1000000
+Preprocessor generated node count: 27794/1000000
+Post‐expand include size: 84419/2097152 bytes
+Template argument size: 8850/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  321.651      1 -total
+  9.47%   30.472      4 Template:Catch/header
+  9.04%   29.066      7 Template:Catch/entry1
+  8.77%   28.216     11 Template:Itemlist
+  8.62%   27.714      1 Template:Kanto
+  8.60%   27.664     40 Template:Locationcolor/light
+  8.15%   26.210      8 Template:Catch/entryfl
+  7.77%   24.986      5 Template:Catch/entryhs
+  6.66%   21.428      1 Template:Town_infobox
+  5.50%   17.703      2 Template:Itlisth
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:2093-0!*!0!!en!5!* and timestamp 20180130132516 and revision id 2736037
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Celadon_City&amp;oldid=2736037">https://bulbapedia.bulbagarden.net/w/index.php?title=Celadon_City&amp;oldid=2736037</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Kanto_locations" title="Category:Kanto locations">Kanto locations</a></li><li><a href="/wiki/Category:Red,_Blue_and_Yellow_locations" title="Category:Red, Blue and Yellow locations">Red, Blue and Yellow locations</a></li><li><a href="/wiki/Category:Gold,_Silver_and_Crystal_locations" title="Category:Gold, Silver and Crystal locations">Gold, Silver and Crystal locations</a></li><li><a href="/wiki/Category:FireRed_and_LeafGreen_locations" title="Category:FireRed and LeafGreen locations">FireRed and LeafGreen locations</a></li><li><a href="/wiki/Category:HeartGold_and_SoulSilver_locations" title="Category:HeartGold and SoulSilver locations">HeartGold and SoulSilver locations</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_Pinball_locations" title="Category:Pokémon Pinball locations">Pokémon Pinball locations</a></li><li><a href="/wiki/Category:Cities" title="Category:Cities">Cities</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Celadon_City" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Celadon_City" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Celadon_City&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Celadon_City&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Celadon+City" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Celadon+City" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Celadon_City" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Celadon_City" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Celadon_City&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Celadon_City&amp;oldid=2736037" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Celadon_City&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Prismania_City" title="Prismania City – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/C%C3%A9ladopole" title="Céladopole – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Azzurropoli" title="Azzurropoli – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%82%BF%E3%83%9E%E3%83%A0%E3%82%B7%E3%82%B7%E3%83%86%E3%82%A3" title="タマムシシティ – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Prizmania" title="Prizmania – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E5%BD%A9%E8%99%B9%E5%B8%82" title="彩虹市 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 26 January 2018, at 11:29.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Celadon_City&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.573","ppvisitednodes":{"value":8032,"limit":1000000},"ppgeneratednodes":{"value":27794,"limit":1000000},"postexpandincludesize":{"value":84419,"limit":2097152},"templateargumentsize":{"value":8850,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  321.651      1 -total","  9.47%   30.472      4 Template:Catch/header","  9.04%   29.066      7 Template:Catch/entry1","  8.77%   28.216     11 Template:Itemlist","  8.62%   27.714      1 Template:Kanto","  8.60%   27.664     40 Template:Locationcolor/light","  8.15%   26.210      8 Template:Catch/entryfl","  7.77%   24.986      5 Template:Catch/entryhs","  6.66%   21.428      1 Template:Town_infobox","  5.50%   17.703      2 Template:Itlisth"]},"cachereport":{"timestamp":"20180130132516","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":52});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

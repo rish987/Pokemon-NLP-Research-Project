@@ -1,0 +1,1918 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Orange Archipelago - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orange_Archipelago","wgTitle":"Orange Archipelago","wgCurRevisionId":2706878,"wgRevisionId":2706878,"wgArticleId":1631,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pokémon League","Anime locations","Orange Islands","Regions","Islands"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Orange_Archipelago","wgRelevantArticleId":1631,"wgRequestId":"800bdaffd7157cad81b720e7","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/5/5a/Orange.jpg"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Orange_Archipelago"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Orange_Archipelago"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Orange_Archipelago rootpage-Orange_Archipelago skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Orange Archipelago</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="roundy" align="right" style="background: #FF7F00; margin-left: 10px; margin-bottom: 10px; border: 3px solid #A65300; width: 25%" cellspacing="1" cellpadding="3">
+
+
+<tr>
+<td align="center" colspan="2">
+<table align="center" width="100%" class="roundy" style="background: #FFAC59;">
+
+<tr align="center">
+<td rowspan="2"> <big><big><b>Orange Archipelago</b></big></big>
+</td>
+<td> <span lang="ja"><b>オレンジ諸島</b></span>
+</td></tr>
+<tr align="center">
+<td> <small><i>Orange Archipelago </i></small>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="2" align="center" style="background: #FFF;">
+<table class="roundy" width="100%" style="background: #FFF;">
+<tr>
+<td colspan="2" class="c" style="background: #fff;"> <div><a href="/wiki/File:Orange.jpg" class="image"><img alt="Orange.jpg" src="//cdn.bulbagarden.net/upload/thumb/5/5a/Orange.jpg/250px-Orange.jpg" width="250" height="352" srcset="//cdn.bulbagarden.net/upload/thumb/5/5a/Orange.jpg/375px-Orange.jpg 1.5x, //cdn.bulbagarden.net/upload/thumb/5/5a/Orange.jpg/500px-Orange.jpg 2x" /></a></div><div><small>A complete map of the Orange Islands in relation to <a href="/wiki/Kanto" title="Kanto">Kanto</a> and <a href="/wiki/Johto" title="Johto">Johto</a></small></div>
+</td></tr></table>
+</td></tr>
+<tr>
+<td colspan="2">
+<table style="background:none; border-collapse:collapse; width:100%;">
+<tr>
+<th class="roundytl" align="right" style="background: #FFAC59; border-bottom: 1px solid #FF7F00; border-right: 1px solid #FF7F00; width: 50%"> Introduction
+</th>
+<td class="roundytr" style="background: #fff; border-bottom: 1px solid #FF7F00; width: 50%"> <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">Pokémon anime</a>
+</td></tr>
+<tr>
+<th align="right" style="background: #FFAC59; border-bottom: 1px solid #FF7F00; border-right: 1px solid #FF7F00; width: 50%"> Professor
+</th>
+<td style="background: #fff; border-bottom: 1px solid #FF7F00; width: 50%"> <a href="/wiki/Professor_Ivy" title="Professor Ivy">Professor Ivy</a>
+</td></tr>
+<tr>
+<th align="right" style="background: #FFAC59; border-bottom: 1px solid #FF7F00; border-right: 1px solid #FF7F00; width: 50%"> Starter Pokémon
+</th>
+<td style="background: #fff; border-bottom: 1px solid #FF7F00; width: 50%"> Unknown
+</td></tr>
+<tr>
+<th class="roundybl" align="right" style="background: #FFAC59; border-right: 1px solid #FF7F00;"> Regional Villains
+</th>
+<td class="roundybr" style="background: #fff;">  <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a>
+</td></tr></table>
+</td></tr>
+<tr>
+<td colspan="2">
+<table width="100%" align="right" style="background: none; border-collapse:collapse;">
+<tr>
+<td width="2%">
+</td>
+<td width="3%">
+</td>
+<th colspan="2" width="90%" class="roundytop" style="background: #A65300; border-bottom: 1px solid #FF7F00;"> <span style="color:#FFAC59;">League</span>
+</th>
+<td width="3%">
+</td>
+<td width="2%">
+</td></tr>
+<tr>
+<th colspan="3" align="right" class="roundytl" style="background: #FFAC59; border-right: 1px solid #FF7F00; border-bottom: 1px solid #FF7F00; width: 50%"> Pokémon League
+</th>
+<td colspan="3" class="roundytr" style="background: #fff; border-bottom: 1px solid #FF7F00; width: 50%"> <a href="/wiki/Orange_League" title="Orange League">Orange League</a>
+</td></tr>
+<tr>
+<th colspan="3" class="roundybl" align="right" style="background: #FFAC59; border-right: 1px solid #FF7F00; width: 50%"> League Location
+</th>
+<td colspan="3" class="roundybr" style="background: #fff; width: 50%"> <a href="/wiki/Pummelo_Island" title="Pummelo Island">Pummelo Island</a>
+</td></tr></table>
+</td></tr>
+
+<tr style="display:none;">
+<td colspan="2">
+<table width="100%" align="right" style="background: none; border-collapse:collapse;">
+<tr>
+<td width="2%">
+</td>
+<td width="3%">
+</td>
+<th colspan="2" width="90%" class="roundytop" style="background: #A65300; border-bottom: 1px solid #FF7F00;"> <span style="color:#FFAC59;">Pokédex</span>
+</th>
+<td width="3%">
+</td>
+<td width="2%">
+</td></tr>
+<tr>
+<th colspan="3" align="right" class="roundyleft" style="background: #FFAC59; border-right: 1px solid #FF7F00; border-bottom: 1px solid #FF7F00; width: 50%"> Pokédex List
+</th>
+<td colspan="3" class="roundyright" style="background: #fff; border-bottom: 1px solid #FF7F00; width: 50%"> {{{pokelist}}}
+</td></tr></table>
+</td></tr>
+
+<tr>
+<td colspan="2">
+<table width="100%" align="right" style="background: none; border-collapse:collapse;">
+<tr>
+<td width="2%">
+</td>
+<td width="3%">
+</td>
+<th colspan="2" width="90%" class="roundytop" style="background: #A65300; border-bottom: 1px solid #FF7F00;"> <span style="color:#FFAC59;">Anime</span>
+</th>
+<td width="3%">
+</td>
+<td width="2%">
+</td></tr>
+<tr>
+<th colspan="3" align="right" class="roundytl" style="background: #FFAC59; border-right: 1px solid #FF7F00; border-bottom: 1px solid #FF7F00; width: 50%"> Series
+</th>
+<td colspan="3" class="roundytr" style="background: #fff; border-bottom: 1px solid #FF7F00; width: 50%"> <a href="/wiki/Original_series" title="Original series">Original</a>
+</td></tr>
+<tr>
+<th colspan="3" class="roundybl" align="right" style="background: #FFAC59; border-right: 1px solid #FF7F00; width: 50%"> Season(s)
+</th>
+<td colspan="3" class="roundybr" style="background: #fff; width: 50%"> <a href="/wiki/S02" title="S02">Adventures in the Orange Islands</a> (2)
+</td></tr></table>
+</td></tr>
+
+<tr style="display:none;">
+<td colspan="2">
+<table width="100%" align="right" style="background: none; border-collapse:collapse;">
+<tr>
+<td width="2%">
+</td>
+<td width="3%">
+</td>
+<th colspan="2" width="90%" class="roundytop" style="background: #A65300; border-bottom: 1px solid #FF7F00;"> <span style="color:#FFAC59;">Games</span>
+</th>
+<td width="3%">
+</td>
+<td width="2%">
+</td></tr>
+<tr>
+<th colspan="3" align="right" class="roundyleft" style="background: #FFAC59; border-right: 1px solid #FF7F00; border-bottom: 1px solid #FF7F00; width: 50%"> Generation
+</th>
+<td colspan="3" class="roundytr" style="background: #fff; border-bottom: 1px solid #FF7F00; width: 50%"> {{{generation}}}
+</td></tr>
+<tr style="display:none;">
+<th colspan="3" class="roundybl" align="right" style="background: #FFAC59; border-right: 1px solid #FF7F00; width: 50%"> Games
+</th>
+<td colspan="3" class="roundybr" style="background: #fff; width: 50%"> {{{games}}}
+</td></tr></table>
+</td></tr>
+
+<tr style="display:none;">
+<td colspan="2">
+<table width="100%" align="right" style="background: none; border-collapse:collapse;">
+<tr>
+<td width="2%">
+</td>
+<td width="3%">
+</td>
+<th colspan="2" width="90%" class="roundytop" style="background: #A65300; border-bottom: 1px solid #FF7F00;"> <span style="color:#FFAC59;">Manga</span>
+</th>
+<td width="3%">
+</td>
+<td width="2%">
+</td></tr>
+<tr>
+<th colspan="3" align="right" class="roundyleft" style="background: #FFAC59; border-right: 1px solid #FF7F00; border-bottom: 1px solid #FF7F00; width: 50%"> Adventures Debut
+</th>
+<td colspan="3" class="roundyright" style="background: #fff; border-bottom: 1px solid #FF7F00; width: 50%"> {{{manga}}}
+</td></tr></table>
+</td></tr>
+</table>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Orange_Islands_map.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/1/1a/Orange_Islands_map.png" width="250" height="250" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Orange_Islands_map.png" class="internal" title="Enlarge"></a></div>Orange Archipelago</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Orange_Islands_Map_Oak.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/5/57/Orange_Islands_Map_Oak.png/300px-Orange_Islands_Map_Oak.png" width="300" height="225" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/Orange_Islands_Map_Oak.png/450px-Orange_Islands_Map_Oak.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/Orange_Islands_Map_Oak.png/600px-Orange_Islands_Map_Oak.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Orange_Islands_Map_Oak.png" class="internal" title="Enlarge"></a></div>Anime map of the Orange Islands</div></div></div>
+<p>The <b>Orange Archipelago</b> (Japanese: <b>オレンジ諸島</b> <i>Orange Archipelago</i>), more commonly known as the <b>Orange Islands</b>, is a <a href="/wiki/Region" title="Region">region</a> shown in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a>. It consists of a large chain of tropical islands that is located south of <a href="/wiki/Kanto" title="Kanto">Kanto</a>. The Orange Archipelago also appears in the anime-based <a href="/wiki/The_Electric_Tale_of_Pikachu" title="The Electric Tale of Pikachu">The Electric Tale of Pikachu</a> <a href="/wiki/Pok%C3%A9mon_manga" title="Pokémon manga">manga</a>.
+</p><p><a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Pokémon Trainers</a> come here to participate in the <a href="/wiki/Orange_League" title="Orange League">Orange League</a>, but its tropical climate also attracts many tourists. One effect of the climate is the presence of <a href="/wiki/List_of_alternately_colored_Pok%C3%A9mon_in_the_anime" title="List of alternately colored Pokémon in the anime">alternately colored Pokémon</a>.
+</p><p>Most of the scattered islands in the archipelago are named after types of oranges or other various citrus, and many are deserted. The <a href="/wiki/Officer_Jenny" title="Officer Jenny">Officer Jennys</a> and <a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joys</a> of the archipelago dress in slightly different attire than those of the other regions. Some also appear to have tans.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Locations"><span class="tocnumber">1</span> <span class="toctext">Locations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#League"><span class="tocnumber">2</span> <span class="toctext">League</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#In_other_languages"><span class="tocnumber">4</span> <span class="toctext">In other languages</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Locations">Locations</span></h2>
+<table cellpadding="2" style="margin:auto; text-align:center; background: #A65300; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; -icab-border-radius: 5px; -o-border-radius: 5px;; border:2px solid #FF7F00">
+
+<tr>
+<th style="color:#fff; background:#FF7F00; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;">Image
+</th>
+<th style="color:#fff; background:#FF7F00">Name
+</th>
+<th style="color:#fff; background:#FF7F00">Debut
+</th>
+<th style="color:#fff; background:#FF7F00">Location
+</th>
+<th style="color:#fff; background:#FF7F00; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;">Areas of interest
+</th></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Valencia_Island.png" class="image"><img alt="Valencia Island.png" src="//cdn.bulbagarden.net/upload/thumb/7/7e/Valencia_Island.png/150px-Valencia_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/7/7e/Valencia_Island.png/225px-Valencia_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7e/Valencia_Island.png/300px-Valencia_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Valencia_Island" title="Valencia Island">Valencia Island</a>
+</td>
+<td> <i><a href="/wiki/EP082" title="EP082">A Scare in the Air</a></i>
+</td>
+<td> <a href="/wiki/File:Valencia.png" class="image"><img alt="Valencia.png" src="//cdn.bulbagarden.net/upload/thumb/4/4d/Valencia.png/115px-Valencia.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/4/4d/Valencia.png/173px-Valencia.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/4d/Valencia.png/230px-Valencia.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Tangelo_Island.png" class="image"><img alt="Tangelo Island.png" src="//cdn.bulbagarden.net/upload/thumb/9/91/Tangelo_Island.png/150px-Tangelo_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/9/91/Tangelo_Island.png/225px-Tangelo_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/91/Tangelo_Island.png/300px-Tangelo_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Tangelo_Island" title="Tangelo Island">Tangelo Island</a>
+</td>
+<td> <i><a href="/wiki/EP084" title="EP084">The Lost Lapras</a></i>
+</td>
+<td> <a href="/wiki/File:Tangelo.png" class="image"><img alt="Tangelo.png" src="//cdn.bulbagarden.net/upload/thumb/0/03/Tangelo.png/115px-Tangelo.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/0/03/Tangelo.png/173px-Tangelo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/03/Tangelo.png/230px-Tangelo.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Pok%C3%A9mon_Park_(anime)" title="Pokémon Park (anime)">Pokémon Park</a>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Mikan_Island.png" class="image"><img alt="Mikan Island.png" src="//cdn.bulbagarden.net/upload/thumb/7/78/Mikan_Island.png/150px-Mikan_Island.png" width="150" height="112" srcset="//cdn.bulbagarden.net/upload/thumb/7/78/Mikan_Island.png/225px-Mikan_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/78/Mikan_Island.png/300px-Mikan_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Mikan_Island" title="Mikan Island">Mikan Island</a>
+</td>
+<td> <i><a href="/wiki/EP085" title="EP085">Fit to be Tide</a></i>
+</td>
+<td> <a href="/wiki/File:Mikan.png" class="image"><img alt="Mikan.png" src="//cdn.bulbagarden.net/upload/thumb/1/14/Mikan.png/115px-Mikan.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/1/14/Mikan.png/173px-Mikan.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/14/Mikan.png/230px-Mikan.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Mikan_Gym" title="Mikan Gym">Mikan Gym</a>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Mandarin_Island_North.png" class="image"><img alt="Mandarin Island North.png" src="//cdn.bulbagarden.net/upload/thumb/3/3e/Mandarin_Island_North.png/150px-Mandarin_Island_North.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/3/3e/Mandarin_Island_North.png/225px-Mandarin_Island_North.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/3e/Mandarin_Island_North.png/300px-Mandarin_Island_North.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Mandarin_Island_North" title="Mandarin Island North">Mandarin Island North</a>
+</td>
+<td> <i><a href="/wiki/EP086" title="EP086">Pikachu Re-Volts</a></i>
+</td>
+<td> <a href="/wiki/File:Mandarin_Island_North_Map.png" class="image"><img alt="Mandarin Island North Map.png" src="//cdn.bulbagarden.net/upload/thumb/3/3e/Mandarin_Island_North_Map.png/115px-Mandarin_Island_North_Map.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/3/3e/Mandarin_Island_North_Map.png/173px-Mandarin_Island_North_Map.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/3e/Mandarin_Island_North_Map.png/230px-Mandarin_Island_North_Map.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Sunburst_Island.png" class="image"><img alt="Sunburst Island.png" src="//cdn.bulbagarden.net/upload/thumb/6/67/Sunburst_Island.png/150px-Sunburst_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/6/67/Sunburst_Island.png/225px-Sunburst_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/67/Sunburst_Island.png/300px-Sunburst_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Sunburst_Island" title="Sunburst Island">Sunburst Island</a>
+</td>
+<td> <i><a href="/wiki/EP087" title="EP087">The Crystal Onix</a></i>
+</td>
+<td> <a href="/wiki/File:Sunburst.png" class="image"><img alt="Sunburst.png" src="//cdn.bulbagarden.net/upload/thumb/9/97/Sunburst.png/115px-Sunburst.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/9/97/Sunburst.png/173px-Sunburst.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/97/Sunburst.png/230px-Sunburst.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Pinkan_Island.png" class="image"><img alt="Pinkan Island.png" src="//cdn.bulbagarden.net/upload/thumb/d/d3/Pinkan_Island.png/150px-Pinkan_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/d/d3/Pinkan_Island.png/225px-Pinkan_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d3/Pinkan_Island.png/300px-Pinkan_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Pinkan_Island" title="Pinkan Island">Pinkan Island</a>
+</td>
+<td> <i><a href="/wiki/EP088" title="EP088">In the Pink</a></i>
+</td>
+<td> <a href="/wiki/File:Pinkan.png" class="image"><img alt="Pinkan.png" src="//cdn.bulbagarden.net/upload/thumb/4/43/Pinkan.png/115px-Pinkan.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/4/43/Pinkan.png/173px-Pinkan.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/43/Pinkan.png/230px-Pinkan.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Fukuhara_Island_No_4.png" class="image"><img alt="Fukuhara Island No 4.png" src="//cdn.bulbagarden.net/upload/thumb/3/36/Fukuhara_Island_No_4.png/150px-Fukuhara_Island_No_4.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/3/36/Fukuhara_Island_No_4.png/225px-Fukuhara_Island_No_4.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/36/Fukuhara_Island_No_4.png/300px-Fukuhara_Island_No_4.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Fukuhara_Island_No._4" title="Fukuhara Island No. 4">Fukuhara Island No. 4</a>
+</td>
+<td> <i><a href="/wiki/EP089" title="EP089">Shell Shock</a></i>
+</td>
+<td> <a href="/wiki/File:Fukuhara_Island_No_4_map.png" class="image"><img alt="Fukuhara Island No 4 map.png" src="//cdn.bulbagarden.net/upload/thumb/1/1b/Fukuhara_Island_No_4_map.png/115px-Fukuhara_Island_No_4_map.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/1/1b/Fukuhara_Island_No_4_map.png/173px-Fukuhara_Island_No_4_map.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1b/Fukuhara_Island_No_4_map.png/230px-Fukuhara_Island_No_4_map.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Kinnow_Island.png" class="image"><img alt="Kinnow Island.png" src="//cdn.bulbagarden.net/upload/thumb/e/e8/Kinnow_Island.png/150px-Kinnow_Island.png" width="150" height="54" srcset="//cdn.bulbagarden.net/upload/thumb/e/e8/Kinnow_Island.png/225px-Kinnow_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e8/Kinnow_Island.png/300px-Kinnow_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Kinnow_Island" title="Kinnow Island">Kinnow Island</a>
+</td>
+<td> <i><a href="/wiki/EP091" title="EP091">Bye Bye Psyduck</a></i>
+</td>
+<td> <a href="/wiki/File:Kinnow.png" class="image"><img alt="Kinnow.png" src="//cdn.bulbagarden.net/upload/thumb/d/db/Kinnow.png/115px-Kinnow.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/d/db/Kinnow.png/173px-Kinnow.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/db/Kinnow.png/230px-Kinnow.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Pok%C3%A9mon_Showboat" title="Pokémon Showboat">Pokémon Showboat</a>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Unnamed_island_EP092.png" class="image"><img alt="Unnamed island EP092.png" src="//cdn.bulbagarden.net/upload/thumb/b/b6/Unnamed_island_EP092.png/150px-Unnamed_island_EP092.png" width="150" height="57" srcset="//cdn.bulbagarden.net/upload/thumb/b/b6/Unnamed_island_EP092.png/225px-Unnamed_island_EP092.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b6/Unnamed_island_EP092.png/300px-Unnamed_island_EP092.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Unnamed_island_(EP092)" title="Unnamed island (EP092)">Unnamed island</a>
+</td>
+<td> <i><a href="/wiki/EP092" title="EP092">The Joy of Pokémon</a></i>
+</td>
+<td> <a href="/wiki/File:Unnamed_island_EP092_map.png" class="image"><img alt="Unnamed island EP092 map.png" src="//cdn.bulbagarden.net/upload/thumb/0/0f/Unnamed_island_EP092_map.png/115px-Unnamed_island_EP092_map.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/0/0f/Unnamed_island_EP092_map.png/173px-Unnamed_island_EP092_map.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/0f/Unnamed_island_EP092_map.png/230px-Unnamed_island_EP092_map.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Navel_Island.png" class="image"><img alt="Navel Island.png" src="//cdn.bulbagarden.net/upload/thumb/3/3a/Navel_Island.png/150px-Navel_Island.png" width="150" height="114" srcset="//cdn.bulbagarden.net/upload/thumb/3/3a/Navel_Island.png/225px-Navel_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/3a/Navel_Island.png/300px-Navel_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Navel_Island" title="Navel Island">Navel Island</a>
+</td>
+<td> <i><a href="/wiki/EP093" title="EP093">Navel Maneuvers</a></i>
+</td>
+<td> <a href="/wiki/File:Navel.png" class="image"><img alt="Navel.png" src="//cdn.bulbagarden.net/upload/thumb/9/90/Navel.png/115px-Navel.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/9/90/Navel.png/173px-Navel.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/90/Navel.png/230px-Navel.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Navel_Gym" title="Navel Gym">Navel Gym</a>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Grapefruit_Island.png" class="image"><img alt="Grapefruit Island.png" src="//cdn.bulbagarden.net/upload/thumb/e/e5/Grapefruit_Island.png/150px-Grapefruit_Island.png" width="150" height="54" srcset="//cdn.bulbagarden.net/upload/thumb/e/e5/Grapefruit_Island.png/225px-Grapefruit_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e5/Grapefruit_Island.png/300px-Grapefruit_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Seven_Grapefruit_Islands" title="Seven Grapefruit Islands">Seven Grapefruit Islands</a>
+</td>
+<td> <i><a href="/wiki/EP094" title="EP094">Snack Attack!</a></i>
+</td>
+<td> <a href="/wiki/File:Grapefruit.png" class="image"><img alt="Grapefruit.png" src="//cdn.bulbagarden.net/upload/thumb/5/5a/Grapefruit.png/115px-Grapefruit.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/5/5a/Grapefruit.png/173px-Grapefruit.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/5a/Grapefruit.png/230px-Grapefruit.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Moro_Island.png" class="image"><img alt="Moro Island.png" src="//cdn.bulbagarden.net/upload/thumb/4/48/Moro_Island.png/150px-Moro_Island.png" width="150" height="96" srcset="//cdn.bulbagarden.net/upload/thumb/4/48/Moro_Island.png/225px-Moro_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/48/Moro_Island.png/300px-Moro_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Moro_Island" title="Moro Island">Moro Island</a>
+</td>
+<td> <i><a href="/wiki/EP095" title="EP095">A Shipful of Shivers</a></i>
+</td>
+<td> <a href="/wiki/File:Moro.png" class="image"><img alt="Moro.png" src="//cdn.bulbagarden.net/upload/thumb/5/5e/Moro.png/115px-Moro.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/5/5e/Moro.png/173px-Moro.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/5e/Moro.png/230px-Moro.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Ghost_ship" title="Ghost ship">Ghost ship</a>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Golden_Island.png" class="image"><img alt="Golden Island.png" src="//cdn.bulbagarden.net/upload/thumb/f/ff/Golden_Island.png/150px-Golden_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/f/ff/Golden_Island.png/225px-Golden_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/ff/Golden_Island.png/300px-Golden_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Golden_Island" title="Golden Island">Golden Island</a>
+</td>
+<td> <i><a href="/wiki/EP096" title="EP096">Meowth Rules!</a></i>
+</td>
+<td> <a href="/wiki/File:Golden.png" class="image"><img alt="Golden.png" src="//cdn.bulbagarden.net/upload/thumb/5/55/Golden.png/115px-Golden.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/5/55/Golden.png/173px-Golden.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/55/Golden.png/230px-Golden.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Murcott_Island.png" class="image"><img alt="Murcott Island.png" src="//cdn.bulbagarden.net/upload/thumb/5/5f/Murcott_Island.png/150px-Murcott_Island.png" width="150" height="89" srcset="//cdn.bulbagarden.net/upload/thumb/5/5f/Murcott_Island.png/225px-Murcott_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/5f/Murcott_Island.png/300px-Murcott_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Murcott_Island" title="Murcott Island">Murcott Island</a>
+</td>
+<td> <i><a href="/wiki/EP097" title="EP097">Tracey Gets Bugged</a></i>
+</td>
+<td> <a href="/wiki/File:Murcott.png" class="image"><img alt="Murcott.png" src="//cdn.bulbagarden.net/upload/thumb/d/d1/Murcott.png/115px-Murcott.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/d/d1/Murcott.png/173px-Murcott.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d1/Murcott.png/230px-Murcott.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Unnamed_island_EP098.png" class="image"><img alt="Unnamed island EP098.png" src="//cdn.bulbagarden.net/upload/thumb/b/b5/Unnamed_island_EP098.png/150px-Unnamed_island_EP098.png" width="150" height="101" srcset="//cdn.bulbagarden.net/upload/thumb/b/b5/Unnamed_island_EP098.png/225px-Unnamed_island_EP098.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b5/Unnamed_island_EP098.png/300px-Unnamed_island_EP098.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Unnamed_island_(EP098)" title="Unnamed island (EP098)">Unnamed island</a>
+</td>
+<td> <i><a href="/wiki/EP098" title="EP098">A Way Off Day Off</a></i>
+</td>
+<td> <a href="/wiki/File:Unnamed_island_EP098_map.png" class="image"><img alt="Unnamed island EP098 map.png" src="//cdn.bulbagarden.net/upload/thumb/a/a3/Unnamed_island_EP098_map.png/115px-Unnamed_island_EP098_map.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/a/a3/Unnamed_island_EP098_map.png/173px-Unnamed_island_EP098_map.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a3/Unnamed_island_EP098_map.png/230px-Unnamed_island_EP098_map.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Mandarin_Island_South.png" class="image"><img alt="Mandarin Island South.png" src="//cdn.bulbagarden.net/upload/thumb/0/01/Mandarin_Island_South.png/150px-Mandarin_Island_South.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/0/01/Mandarin_Island_South.png/225px-Mandarin_Island_South.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/01/Mandarin_Island_South.png/300px-Mandarin_Island_South.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Mandarin_Island_South" title="Mandarin Island South">Mandarin Island South</a>
+</td>
+<td> <i><a href="/wiki/EP099" title="EP099">The Mandarin Island Miss Match</a></i>
+</td>
+<td> <a href="/wiki/File:Mandarin_Island_South_Map.png" class="image"><img alt="Mandarin Island South Map.png" src="//cdn.bulbagarden.net/upload/thumb/8/88/Mandarin_Island_South_Map.png/115px-Mandarin_Island_South_Map.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/8/88/Mandarin_Island_South_Map.png/173px-Mandarin_Island_South_Map.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/88/Mandarin_Island_South_Map.png/230px-Mandarin_Island_South_Map.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Yambera" title="Yambera">Yambera</a><br /><a href="/wiki/Trovitopolis" title="Trovitopolis">Trovitopolis</a>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Trovita_Island.png" class="image"><img alt="Trovita Island.png" src="//cdn.bulbagarden.net/upload/thumb/2/20/Trovita_Island.png/150px-Trovita_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/2/20/Trovita_Island.png/225px-Trovita_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/2/20/Trovita_Island.png/300px-Trovita_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Trovita_Island" title="Trovita Island">Trovita Island</a>
+</td>
+<td> <i><a href="/wiki/EP103" title="EP103">Misty Meets Her Match!</a></i>
+</td>
+<td> <a href="/wiki/File:Trovita.png" class="image"><img alt="Trovita.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Trovita.png/115px-Trovita.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Trovita.png/173px-Trovita.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Trovita.png/230px-Trovita.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Trovita_Gym" title="Trovita Gym">Trovita Gym</a>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Fairchild_Island.png" class="image"><img alt="Fairchild Island.png" src="//cdn.bulbagarden.net/upload/thumb/3/3f/Fairchild_Island.png/150px-Fairchild_Island.png" width="150" height="101" srcset="//cdn.bulbagarden.net/upload/thumb/3/3f/Fairchild_Island.png/225px-Fairchild_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/3f/Fairchild_Island.png/300px-Fairchild_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Fairchild_Island" title="Fairchild Island">Fairchild Island</a>
+</td>
+<td> <i><a href="/wiki/EP104" title="EP104">Bound for Trouble</a></i>
+</td>
+<td> <a href="/wiki/File:Fairchild.png" class="image"><img alt="Fairchild.png" src="//cdn.bulbagarden.net/upload/thumb/8/88/Fairchild.png/115px-Fairchild.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/8/88/Fairchild.png/173px-Fairchild.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/88/Fairchild.png/230px-Fairchild.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Shamouti_Island.png" class="image"><img alt="Shamouti Island.png" src="//cdn.bulbagarden.net/upload/thumb/5/55/Shamouti_Island.png/150px-Shamouti_Island.png" width="150" height="84" srcset="//cdn.bulbagarden.net/upload/thumb/5/55/Shamouti_Island.png/225px-Shamouti_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/55/Shamouti_Island.png/300px-Shamouti_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Shamouti_Island" title="Shamouti Island">Shamouti Island</a>
+</td>
+<td> <i><a href="/wiki/M02" title="M02">The Power of One</a></i>
+</td>
+<td> <a href="/wiki/File:Shamouti.png" class="image"><img alt="Shamouti.png" src="//cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/115px-Shamouti.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/173px-Shamouti.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/230px-Shamouti.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Fire_Island.png" class="image"><img alt="Fire Island.png" src="//cdn.bulbagarden.net/upload/thumb/6/66/Fire_Island.png/150px-Fire_Island.png" width="150" height="84" srcset="//cdn.bulbagarden.net/upload/thumb/6/66/Fire_Island.png/225px-Fire_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/66/Fire_Island.png/300px-Fire_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Fire_Island" title="Fire Island">Fire Island</a>
+</td>
+<td> <i><a href="/wiki/M02" title="M02">The Power of One</a></i>
+</td>
+<td> <a href="/wiki/File:Shamouti.png" class="image"><img alt="Shamouti.png" src="//cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/115px-Shamouti.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/173px-Shamouti.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/230px-Shamouti.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Lightning_Island.png" class="image"><img alt="Lightning Island.png" src="//cdn.bulbagarden.net/upload/thumb/e/e9/Lightning_Island.png/150px-Lightning_Island.png" width="150" height="84" srcset="//cdn.bulbagarden.net/upload/thumb/e/e9/Lightning_Island.png/225px-Lightning_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e9/Lightning_Island.png/300px-Lightning_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Lightning_Island" title="Lightning Island">Lightning Island</a>
+</td>
+<td> <i><a href="/wiki/M02" title="M02">The Power of One</a></i>
+</td>
+<td> <a href="/wiki/File:Shamouti.png" class="image"><img alt="Shamouti.png" src="//cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/115px-Shamouti.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/173px-Shamouti.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/230px-Shamouti.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Ice_Island.png" class="image"><img alt="Ice Island.png" src="//cdn.bulbagarden.net/upload/thumb/f/f6/Ice_Island.png/150px-Ice_Island.png" width="150" height="84" srcset="//cdn.bulbagarden.net/upload/thumb/f/f6/Ice_Island.png/225px-Ice_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/f6/Ice_Island.png/300px-Ice_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Ice_Island" title="Ice Island">Ice Island</a>
+</td>
+<td> <i><a href="/wiki/M02" title="M02">The Power of One</a></i>
+</td>
+<td> <a href="/wiki/File:Shamouti.png" class="image"><img alt="Shamouti.png" src="//cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/115px-Shamouti.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/173px-Shamouti.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d4/Shamouti.png/230px-Shamouti.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Unnamed_island_PK04.png" class="image"><img alt="Unnamed island PK04.png" src="//cdn.bulbagarden.net/upload/thumb/d/db/Unnamed_island_PK04.png/150px-Unnamed_island_PK04.png" width="150" height="56" srcset="//cdn.bulbagarden.net/upload/thumb/d/db/Unnamed_island_PK04.png/225px-Unnamed_island_PK04.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/db/Unnamed_island_PK04.png/300px-Unnamed_island_PK04.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Unnamed_island_(PK04)" title="Unnamed island (PK04)">Unnamed island</a>
+</td>
+<td> <i><a href="/wiki/PK04" title="PK04">Pikachu's Rescue Adventure</a></i>
+</td>
+<td> <a href="/wiki/File:Orange_Islands_map.png" class="image"><img alt="Orange Islands map.png" src="//cdn.bulbagarden.net/upload/thumb/1/1a/Orange_Islands_map.png/115px-Orange_Islands_map.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/1/1a/Orange_Islands_map.png/173px-Orange_Islands_map.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1a/Orange_Islands_map.png/230px-Orange_Islands_map.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Cleopatra_Island.png" class="image"><img alt="Cleopatra Island.png" src="//cdn.bulbagarden.net/upload/thumb/0/04/Cleopatra_Island.png/150px-Cleopatra_Island.png" width="150" height="119" srcset="//cdn.bulbagarden.net/upload/thumb/0/04/Cleopatra_Island.png/225px-Cleopatra_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/04/Cleopatra_Island.png/300px-Cleopatra_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Cleopatra_Island" title="Cleopatra Island">Cleopatra Island</a>
+</td>
+<td> <i><a href="/wiki/EP105" title="EP105">Charizard Chills</a></i>
+</td>
+<td> <a href="/wiki/File:Cleopatra.png" class="image"><img alt="Cleopatra.png" src="//cdn.bulbagarden.net/upload/thumb/b/b0/Cleopatra.png/115px-Cleopatra.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/b/b0/Cleopatra.png/173px-Cleopatra.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b0/Cleopatra.png/230px-Cleopatra.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Ascorbia_Island.png" class="image"><img alt="Ascorbia Island.png" src="//cdn.bulbagarden.net/upload/thumb/3/3a/Ascorbia_Island.png/150px-Ascorbia_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/3/3a/Ascorbia_Island.png/225px-Ascorbia_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/3a/Ascorbia_Island.png/300px-Ascorbia_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Ascorbia_Island" title="Ascorbia Island">Ascorbia Island</a>
+</td>
+<td> <i><a href="/wiki/EP106" title="EP106">The Pokémon Water War</a></i>
+</td>
+<td> <a href="/wiki/File:Ascorbia.png" class="image"><img alt="Ascorbia.png" src="//cdn.bulbagarden.net/upload/thumb/f/f2/Ascorbia.png/115px-Ascorbia.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/f/f2/Ascorbia.png/173px-Ascorbia.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/f2/Ascorbia.png/230px-Ascorbia.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Butwal_Island.png" class="image"><img alt="Butwal Island.png" src="//cdn.bulbagarden.net/upload/thumb/4/4e/Butwal_Island.png/150px-Butwal_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/4/4e/Butwal_Island.png/225px-Butwal_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/4e/Butwal_Island.png/300px-Butwal_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Butwal_Island" title="Butwal Island">Butwal Island</a>
+</td>
+<td> <i><a href="/wiki/EP107" title="EP107">Pokémon Food Fight!</a></i>
+</td>
+<td> <a href="/wiki/File:Butwal.png" class="image"><img alt="Butwal.png" src="//cdn.bulbagarden.net/upload/thumb/d/d9/Butwal.png/115px-Butwal.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/d/d9/Butwal.png/173px-Butwal.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d9/Butwal.png/230px-Butwal.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Kumquat_Island.png" class="image"><img alt="Kumquat Island.png" src="//cdn.bulbagarden.net/upload/thumb/d/d5/Kumquat_Island.png/150px-Kumquat_Island.png" width="150" height="69" srcset="//cdn.bulbagarden.net/upload/thumb/d/d5/Kumquat_Island.png/225px-Kumquat_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d5/Kumquat_Island.png/300px-Kumquat_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Kumquat_Island" title="Kumquat Island">Kumquat Island</a>
+</td>
+<td> <i><a href="/wiki/EP108" title="EP108">Pokémon Double Trouble</a></i>
+</td>
+<td> <a href="/wiki/File:Kumquat.png" class="image"><img alt="Kumquat.png" src="//cdn.bulbagarden.net/upload/thumb/1/16/Kumquat.png/115px-Kumquat.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/1/16/Kumquat.png/173px-Kumquat.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/16/Kumquat.png/230px-Kumquat.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Kumquat_Gym" title="Kumquat Gym">Kumquat Gym</a>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Rind_Island.png" class="image"><img alt="Rind Island.png" src="//cdn.bulbagarden.net/upload/thumb/f/f6/Rind_Island.png/150px-Rind_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/f/f6/Rind_Island.png/225px-Rind_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/f6/Rind_Island.png/300px-Rind_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Rind_Island" title="Rind Island">Rind Island</a>
+</td>
+<td> <i><a href="/wiki/EP109" title="EP109">The Wacky Watcher!</a></i>
+</td>
+<td> <a href="/wiki/File:Rind.png" class="image"><img alt="Rind.png" src="//cdn.bulbagarden.net/upload/thumb/4/46/Rind.png/115px-Rind.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/4/46/Rind.png/173px-Rind.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/46/Rind.png/230px-Rind.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Unnamed_island_EP110.png" class="image"><img alt="Unnamed island EP110.png" src="//cdn.bulbagarden.net/upload/thumb/6/6a/Unnamed_island_EP110.png/150px-Unnamed_island_EP110.png" width="150" height="100" srcset="//cdn.bulbagarden.net/upload/thumb/6/6a/Unnamed_island_EP110.png/225px-Unnamed_island_EP110.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6a/Unnamed_island_EP110.png/300px-Unnamed_island_EP110.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Unnamed_island_(EP110)" title="Unnamed island (EP110)">Unnamed island</a>
+</td>
+<td> <i><a href="/wiki/EP110" title="EP110">The Stun Spore Detour</a></i>
+</td>
+<td> <a href="/wiki/File:Unnamed_island_EP110_map.png" class="image"><img alt="Unnamed island EP110 map.png" src="//cdn.bulbagarden.net/upload/thumb/d/de/Unnamed_island_EP110_map.png/115px-Unnamed_island_EP110_map.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/d/de/Unnamed_island_EP110_map.png/173px-Unnamed_island_EP110_map.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/de/Unnamed_island_EP110_map.png/230px-Unnamed_island_EP110_map.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Pummelo_Island.png" class="image"><img alt="Pummelo Island.png" src="//cdn.bulbagarden.net/upload/thumb/9/9a/Pummelo_Island.png/150px-Pummelo_Island.png" width="150" height="85" srcset="//cdn.bulbagarden.net/upload/thumb/9/9a/Pummelo_Island.png/225px-Pummelo_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/9a/Pummelo_Island.png/300px-Pummelo_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Pummelo_Island" title="Pummelo Island">Pummelo Island</a>
+</td>
+<td> <i><a href="/wiki/EP111" title="EP111">Hello, Pummelo!</a></i>
+</td>
+<td> <a href="/wiki/File:Pummelo.png" class="image"><img alt="Pummelo.png" src="//cdn.bulbagarden.net/upload/thumb/8/86/Pummelo.png/115px-Pummelo.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/8/86/Pummelo.png/173px-Pummelo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/86/Pummelo.png/230px-Pummelo.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Pummelo_Stadium" title="Pummelo Stadium">Pummelo Stadium</a>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Tarroco_Island.png" class="image"><img alt="Tarroco Island.png" src="//cdn.bulbagarden.net/upload/thumb/a/a8/Tarroco_Island.png/150px-Tarroco_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/a/a8/Tarroco_Island.png/225px-Tarroco_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a8/Tarroco_Island.png/300px-Tarroco_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Tarroco_Island" title="Tarroco Island">Tarroco Island</a>
+</td>
+<td> <i><a href="/wiki/EP113" title="EP113">Viva Las Lapras</a></i>
+</td>
+<td> <a href="/wiki/File:Tarroco.png" class="image"><img alt="Tarroco.png" src="//cdn.bulbagarden.net/upload/thumb/2/2c/Tarroco.png/115px-Tarroco.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/2/2c/Tarroco.png/173px-Tarroco.png 1.5x, //cdn.bulbagarden.net/upload/thumb/2/2c/Tarroco.png/230px-Tarroco.png 2x" /></a>
+</td>
+<td>
+</td></tr>
+<tr style="background: #fff;">
+<td> <a href="/wiki/File:Hamlin_Island.png" class="image"><img alt="Hamlin Island.png" src="//cdn.bulbagarden.net/upload/thumb/6/6f/Hamlin_Island.png/150px-Hamlin_Island.png" width="150" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/6/6f/Hamlin_Island.png/225px-Hamlin_Island.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6f/Hamlin_Island.png/300px-Hamlin_Island.png 2x" /></a>
+</td>
+<td> <a href="/wiki/Hamlin_Island" title="Hamlin Island">Hamlin Island</a>
+</td>
+<td> <i><a href="/wiki/EP114" title="EP114">The Underground Round Up</a></i>
+</td>
+<td> <a href="/wiki/File:Hamlin.png" class="image"><img alt="Hamlin.png" src="//cdn.bulbagarden.net/upload/thumb/4/4c/Hamlin.png/115px-Hamlin.png" width="115" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/4/4c/Hamlin.png/173px-Hamlin.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/4c/Hamlin.png/230px-Hamlin.png 2x" /></a>
+</td>
+<td>
+</td></tr></table>
+<h2><span class="mw-headline" id="League">League</span></h2>
+<dl><dd><i>Main article: <a href="/wiki/Orange_League" title="Orange League">Orange League</a></i></dd></dl>
+<p>Only four Orange League Badges are required to participate in championship competition, held on <a href="/wiki/Pummelo_Island" title="Pummelo Island">Pummelo Island</a>. Unlike Gyms in other regions, the Orange League requires participants to complete challenges for the leaders of the Orange League, the Orange Crew.
+</p><p>Compared to the Gym Leaders of the other regions <a href="/wiki/Ash" class="mw-redirect" title="Ash">Ash</a> has visited, the challenges set by the Orange Crew are not restricted to a building serving as the Gym, with <a href="/wiki/Danny" title="Danny">Danny</a>'s tasks involving a mountain while <a href="/wiki/Cissy" title="Cissy">Cissy</a> and <a href="/wiki/Rudy" title="Rudy">Rudy</a> had a portion of their challenges involving the ocean. Only <a href="/wiki/Luana" title="Luana">Luana</a> hosted hers in a Gym arena although this was an extension to her hotel.
+</p><p><br clear="all" />
+</p>
+<table class="roundy" style="margin:auto; text-align:center; background: #FF7F00; border: 4px solid #FF7F00;" cellspacing="1" cellpadding="2">
+
+<tr>
+<th style="background: #FF7F00;" colspan="4"> <a href="/wiki/Orange_League" title="Orange League"><span style="color:#A65300;">Orange League</span></a>
+</th></tr>
+<tr>
+<th colspan="2"> <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime"><span style="color:#A65300;">Anime-exclusive</span></a>
+</th>
+<th style="background: #FF7F00;" colspan="2"> <a href="/wiki/Region" title="Region"><span style="color:#A65300;">Region:</span></a> <a class="mw-selflink selflink"><span style="color:#A65300;">Orange Archipelago</span></a>
+</th></tr>
+<tr>
+<th style="background: #FFAC59; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> <a href="/wiki/Gym_Leader" title="Gym Leader"><span style="color:#FF7F00;">Gym Leader</span></a><br /><span style="color:#FF7F00;"><small>Japanese</small></span>
+</th>
+<th style="background: #FFAC59;"> <span style="color:#FF7F00;">Location<br /><small>Japanese</small></span>
+</th>
+<th style="background: #FFAC59;"> <span style="color:#FF7F00;">Challenge</span>
+</th>
+<th style="background: #FFAC59; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> <span style="color:#FF7F00;">Prize</span>
+</th></tr>
+<tr style="background:#6890F0">
+<td> <a href="/wiki/File:CissySmall.png" class="image"><img alt="CissySmall.png" src="//cdn.bulbagarden.net/upload/thumb/a/a0/CissySmall.png/120px-CissySmall.png" width="120" height="110" srcset="//cdn.bulbagarden.net/upload/thumb/a/a0/CissySmall.png/180px-CissySmall.png 1.5x, //cdn.bulbagarden.net/upload/a/a0/CissySmall.png 2x" /></a><br /><a href="/wiki/Cissy" title="Cissy"><span style="color:#445E9C;">Cissy</span></a><br /><small><span style="color:#445E9C;">アツミ Atsumi</span></small>
+</td>
+<td> <a href="/wiki/Mikan_Island" title="Mikan Island"><span style="color:#445E9C;">Mikan Island</span></a><br /><small><span style="color:#445E9C;">ナツカン島<br />Natsukan Island</span></small>
+</td>
+<td> <a href="/wiki/Water_Gun_(move)" title="Water Gun (move)"><span style="color:#445E9C;">Water Gun</span></a> <span style="color:#445E9C;">target test</span><br /><a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#445E9C;">Surfing</span></a> <span style="color:#445E9C;">race</span>
+</td>
+<td> <a href="/wiki/File:Coral-Eye_Badge.png" class="image"><img alt="Coral-Eye Badge.png" src="//cdn.bulbagarden.net/upload/thumb/8/82/Coral-Eye_Badge.png/40px-Coral-Eye_Badge.png" width="40" height="29" srcset="//cdn.bulbagarden.net/upload/thumb/8/82/Coral-Eye_Badge.png/60px-Coral-Eye_Badge.png 1.5x, //cdn.bulbagarden.net/upload/8/82/Coral-Eye_Badge.png 2x" /></a><br /><span style="color:#445E9C;">Coral-Eye Badge</span>
+</td></tr>
+<tr style="background:#E0C068">
+<td> <a href="/wiki/File:DannySmall.png" class="image"><img alt="DannySmall.png" src="//cdn.bulbagarden.net/upload/thumb/7/77/DannySmall.png/140px-DannySmall.png" width="140" height="120" srcset="//cdn.bulbagarden.net/upload/7/77/DannySmall.png 1.5x" /></a><br /><a href="/wiki/Danny" title="Danny"><span style="color:#927D44;">Danny</span></a><br /><small><span style="color:#927D44;">ダン Dan</span></small>
+</td>
+<td> <a href="/wiki/Navel_Island" title="Navel Island"><span style="color:#927D44;">Navel Island</span></a><br /><small><span style="color:#927D44;">ネーブル島<br />Navel Island</span></small>
+</td>
+<td> <span style="color:#927D44;">Climb mountain (to qualify)<br />Freeze a geyser race<br />Build a Toboggan race<br />Toboggan race</span>
+</td>
+<td> <a href="/wiki/File:Sea_Ruby_Badge.png" class="image"><img alt="Sea Ruby Badge.png" src="//cdn.bulbagarden.net/upload/thumb/e/e1/Sea_Ruby_Badge.png/40px-Sea_Ruby_Badge.png" width="40" height="32" srcset="//cdn.bulbagarden.net/upload/thumb/e/e1/Sea_Ruby_Badge.png/60px-Sea_Ruby_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e1/Sea_Ruby_Badge.png/80px-Sea_Ruby_Badge.png 2x" /></a><br /><span style="color:#927D44;">Sea Ruby Badge</span>
+</td></tr>
+<tr style="background:#78C850">
+<td> <a href="/wiki/File:RudySmall.png" class="image"><img alt="RudySmall.png" src="//cdn.bulbagarden.net/upload/thumb/7/78/RudySmall.png/120px-RudySmall.png" width="120" height="106" srcset="//cdn.bulbagarden.net/upload/thumb/7/78/RudySmall.png/180px-RudySmall.png 1.5x, //cdn.bulbagarden.net/upload/7/78/RudySmall.png 2x" /></a><br /><a href="/wiki/Rudy" title="Rudy"><span style="color:#4E8234;">Rudy</span></a><br /><small><span style="color:#4E8234;">ジギー Ziggy</span></small>
+</td>
+<td> <a href="/wiki/Trovita_Island" title="Trovita Island"><span style="color:#4E8234;">Trovita Island</span></a><br /><small><span style="color:#4E8234;">ユズ島<br />Yuzu Island</span></small>
+</td>
+<td> <span style="color:#4E8234;">Target test<br />Same-type Pokémon battle</span>
+</td>
+<td> <a href="/wiki/File:Spike_Shell_Badge.png" class="image"><img alt="Spike Shell Badge.png" src="//cdn.bulbagarden.net/upload/thumb/7/77/Spike_Shell_Badge.png/40px-Spike_Shell_Badge.png" width="40" height="41" srcset="//cdn.bulbagarden.net/upload/thumb/7/77/Spike_Shell_Badge.png/60px-Spike_Shell_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/77/Spike_Shell_Badge.png/80px-Spike_Shell_Badge.png 2x" /></a><br /><span style="color:#4E8234;">Spike Shell Badge</span>
+</td></tr>
+<tr style="background:#F85888">
+<td> <a href="/wiki/File:LuanaSmall.png" class="image"><img alt="LuanaSmall.png" src="//cdn.bulbagarden.net/upload/thumb/f/f9/LuanaSmall.png/120px-LuanaSmall.png" width="120" height="109" srcset="//cdn.bulbagarden.net/upload/thumb/f/f9/LuanaSmall.png/180px-LuanaSmall.png 1.5x, //cdn.bulbagarden.net/upload/f/f9/LuanaSmall.png 2x" /></a><br /><a href="/wiki/Luana" title="Luana"><span style="color:#A13959;">Luana</span></a><br /><small><span style="color:#A13959;">ルリコ Ruriko</span></small>
+</td>
+<td> <a href="/wiki/Kumquat_Island" title="Kumquat Island"><span style="color:#A13959;">Kumquat Island</span></a><br /><small><span style="color:#A13959;">リュウチン島<br />Liǔchéng Island</span></small>
+</td>
+<td> <a href="/wiki/Double_Battle" title="Double Battle"><span style="color:#A13959;">Double Battle</span></a>
+</td>
+<td> <a href="/wiki/File:Jade_Star_Badge.png" class="image"><img alt="Jade Star Badge.png" src="//cdn.bulbagarden.net/upload/thumb/6/61/Jade_Star_Badge.png/40px-Jade_Star_Badge.png" width="40" height="45" srcset="//cdn.bulbagarden.net/upload/thumb/6/61/Jade_Star_Badge.png/60px-Jade_Star_Badge.png 1.5x, //cdn.bulbagarden.net/upload/6/61/Jade_Star_Badge.png 2x" /></a><br /><span style="color:#A13959;">Jade Star Badge</span>
+</td></tr>
+<tr>
+<td style="background:#7038F8; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;;"> <a href="/wiki/File:DrakeSmall.png" class="image"><img alt="DrakeSmall.png" src="//cdn.bulbagarden.net/upload/thumb/8/84/DrakeSmall.png/120px-DrakeSmall.png" width="120" height="92" srcset="//cdn.bulbagarden.net/upload/thumb/8/84/DrakeSmall.png/180px-DrakeSmall.png 1.5x, //cdn.bulbagarden.net/upload/8/84/DrakeSmall.png 2x" /></a><br /><a href="/wiki/Drake_(Orange_League)" title="Drake (Orange League)"><span style="color:#4924A1;">Drake</span></a><br /><small><span style="color:#4924A1;">ユウジ Yūji</span></small>
+</td>
+<td style="background:#7038F8;"> <a href="/wiki/Pummelo_Island" title="Pummelo Island"><span style="color:#4924A1;">Pummelo Island</span></a><br /><small><span style="color:#4924A1;">カンキツ島<br />Kankitsu Island</span></small>
+</td>
+<td style="background:#7038F8;"> <a href="/wiki/Full_Battle" title="Full Battle"><span style="color:#4924A1;">Six-on-six battle</span></a>
+</td>
+<td style="background:#7038F8; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;;"> <a href="/wiki/File:WinnerTrophy.png" class="image"><img alt="WinnerTrophy.png" src="//cdn.bulbagarden.net/upload/thumb/6/68/WinnerTrophy.png/40px-WinnerTrophy.png" width="40" height="56" srcset="//cdn.bulbagarden.net/upload/thumb/6/68/WinnerTrophy.png/60px-WinnerTrophy.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/68/WinnerTrophy.png/80px-WinnerTrophy.png 2x" /></a>
+<p><a href="/wiki/Winner%27s_Trophy" title="Winner's Trophy"><span style="color:#4924A1;">Winner's Trophy</span></a><span style="color:#4924A1;">,<br />Honor at the</span><br /><a href="/wiki/Palace_of_Victory" title="Palace of Victory"><span style="color:#4924A1;">Palace of Victory</span></a>
+</p>
+</td></tr></table>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> The region is only called the Orange Archipelago three times, twice in <i><a href="/wiki/EP081" title="EP081">Pallet Party Panic</a></i> and once in <i><a href="/wiki/EP084" title="EP084">The Lost Lapras</a></i>. It is otherwise exclusively referred to as the Orange Islands.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #FFAC59; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #FF7F00; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #FFAC59; border-collapse:collapse">
+
+<tr style="background: #FFAC59">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 橘子群島 <i>Gwātjí Kwàhndóu</i> <span class="explain" title="Anime">*</span><br />香橙群島 <i>Hēungcháang Kwàhndóu</i> <span class="explain" title="Movie &amp; The Electric Tale of Pikachu">*</span>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 橘子群島 / 橘子群岛 <i>Júzǐ Qúndǎo</i> <span class="explain" title="Anime &amp; Manga (Taiwan)">*</span><br />柑橘群岛 <i>Gānjú Qúndǎo</i><span class="explain" title="Manga (Mainland China)">*</span>
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> Orange Øhav<br />Orangeøerne<span class="explain" title="Pokémon TV">*</span>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Orange-saaret
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Archipel Orange
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Orange-Inseln
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:India_Flag.png" class="image"><img alt="India Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/20px-India_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/30px-India_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/40px-India_Flag.png 2x" /></a>  <a href="/wiki/Pok%C3%A9mon_in_South_Asia" title="Pokémon in South Asia">Hindi</a>
+</td>
+<td> Orange Islands
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Iceland_Flag.png" class="image"><img alt="Iceland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/18/Iceland_Flag.png/20px-Iceland_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/1/18/Iceland_Flag.png/30px-Iceland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/18/Iceland_Flag.png/40px-Iceland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Iceland" title="Pokémon in Iceland">Icelandic</a>
+</td>
+<td> Orangeeyjurnar<br />Appelsínueyjurnar<span class="explain" title="M03 subtitles">*</span>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Arcipelago Orange
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 오렌지제도 <i>Orange Jedo</i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Orange-øyene
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Wyspy Pomarańczowe <br />Wyspy Oranżowe
+</td></tr>
+
+<tr>
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> Ilhas Laranja
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> Ilhas Laranjas
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Оранжевые острова <i>Oranzhevye Ostrova</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Islas Naranja
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Apelsinöarna<br />Apelsinskärgården<span class="explain" title="EP081, EP085">*</span><br />Orange-öarna<span class="explain" title="M02">*</span>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Turkey_Flag.png" class="image"><img alt="Turkey Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/20px-Turkey_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/30px-Turkey_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/40px-Turkey_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Turkey" title="Pokémon in Turkey">Turkish</a>
+</td>
+<td> Portaklal Adaları
+</td></tr>
+
+
+
+<tr>
+<td colspan="3" style="background: #FFAC59">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<p><br clear="all" />
+<br clear="all" />
+</p>
+<table style="background: #F8F8F8; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 4px solid #CCBBFF; margin: auto; width: auto" cellspacing="1" cellpadding="2">
+
+<tr>
+<th rowspan="3" style="background:#D6D6EB; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/File:LyraChallenge.png" class="image"><img alt="LyraChallenge.png" src="//cdn.bulbagarden.net/upload/3/3c/LyraChallenge.png" width="96" height="64" /></a>
+</th>
+<th style="font-size:100%; background:#CCCCFF; text-align:center" colspan="2"> The <a href="/wiki/Pok%C3%A9mon_League" title="Pokémon League"><span style="color:#000;">Pokémon League</span></a>
+</th>
+<th rowspan="3" style="background:#D67873;border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> <a href="/wiki/File:VSBruno.png" class="image"><img alt="VSBruno.png" src="//cdn.bulbagarden.net/upload/b/b8/VSBruno.png" width="96" height="64" /></a>
+</th></tr>
+<tr>
+<td style="font-size:90%; text-align:center" bgcolor="#FFFFFF"> <b>Participation</b><br /><a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainer</a> • <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">Battle</a> • <a href="/wiki/Gym_Leader" title="Gym Leader">Gym Leaders</a><br /><a href="/wiki/Gym" title="Gym">Gyms</a> • <a href="/wiki/Badge" title="Badge">Badges</a> • <a href="/wiki/Hall_of_Fame" title="Hall of Fame">Hall of Fame</a><br /><b><a href="/wiki/Pok%C3%A9mon_Champion" title="Pokémon Champion"><span style="color:#000;">Championship matches</span></a></b><br /><a href="/wiki/Elite_Four" title="Elite Four">Elite Four</a> • <a href="/wiki/Orange_League" title="Orange League">Orange League</a><br /><a href="/wiki/Pok%C3%A9mon_World_Tournament" title="Pokémon World Tournament">Pokémon World Tournament</a><br /><b><a href="/wiki/Pok%C3%A9mon_League_Conference" title="Pokémon League Conference"><span style="color:#000;">Pokémon League Conferences</span></a></b><br /><a href="/wiki/Indigo_Plateau_Conference" title="Indigo Plateau Conference">Indigo</a> • <a href="/wiki/Silver_Conference" title="Silver Conference">Silver</a> • <a href="/wiki/Ever_Grande_Conference" title="Ever Grande Conference">Ever Grande</a><br /><a href="/wiki/Lily_of_the_Valley_Conference" title="Lily of the Valley Conference">Lily of the Valley</a> • <a href="/wiki/Vertress_Conference" title="Vertress Conference">Vertress</a> • <a href="/wiki/Lumiose_Conference" title="Lumiose Conference">Lumiose</a>
+</td>
+<td style="font-size:90%; text-align:center" bgcolor="#FFFFFF"> <b><span style="color:#000;">Pokémon League locations</span></b><br /><a href="/wiki/Indigo_Plateau" title="Indigo Plateau">Indigo Plateau</a> • <a href="/wiki/Pummelo_Stadium" title="Pummelo Stadium">Pummelo Stadium</a><span class="explain" title="Anime only">*</span> • <a href="/wiki/Ever_Grande_City" title="Ever Grande City">Ever Grande</a><br /><a href="/wiki/Pok%C3%A9mon_League_(Sinnoh)" title="Pokémon League (Sinnoh)">Pokémon League</a> • <a href="/wiki/Pok%C3%A9mon_League_(Unova)" title="Pokémon League (Unova)">Pokémon League</a><br /><a href="/wiki/Pok%C3%A9mon_League_(Kalos)" title="Pokémon League (Kalos)">Pokémon League</a> • <a href="/wiki/Pok%C3%A9mon_League_(Alola)" title="Pokémon League (Alola)">Pokémon League</a><br /><b><a href="/wiki/Category:Regional_Pok%C3%A9mon_Leagues" title="Category:Regional Pokémon Leagues"><span style="color:#000;">Regional Pokémon Leagues</span></a></b><br /><a href="/wiki/Indigo_League" title="Indigo League">Indigo</a> • <a href="/wiki/Orange_League" title="Orange League">Orange</a><span class="explain" title="Anime only">*</span> • <a href="/wiki/Johto_League" title="Johto League">Johto</a> • <a href="/wiki/Hoenn_League" title="Hoenn League">Hoenn</a><br /><a href="/wiki/Sinnoh_League" title="Sinnoh League">Sinnoh</a> • <a href="/wiki/Unova_League" title="Unova League">Unova</a> • <a href="/wiki/Kalos_League" title="Kalos League">Kalos</a> • <a href="/wiki/Alola_League" title="Alola League">Alola</a><br /><b><span style="color:#000;">Areas of jurisdiction</span></b><br /><a href="/wiki/Pok%C3%A9mon_League_Reception_Gate" title="Pokémon League Reception Gate">Pokémon League Reception Gate</a> • <a href="/wiki/Cerulean_Cave" title="Cerulean Cave">Cerulean Cave</a>
+</td></tr></table><br />
+<table class="roundy" style="margin:auto; text-align:center; border: 2px solid #A65300; background: #FF7F00;">
+
+<tr>
+<th colspan="3" class="roundytop" style="background: #FFAC59;"> <a class="mw-selflink selflink"><span style="color:#000;">Orange Archipelago</span></a>
+</th></tr>
+<tr>
+<td>
+<table class="roundy" style="margin:auto; background: #FFAC59;">
+
+<tr>
+<th class="roundy" style="border: 2px solid #445E9C; background: #9DB7F5;"> <a href="/wiki/Mikan_Gym" title="Mikan Gym"><img alt="Coral-Eye Badge.png" src="//cdn.bulbagarden.net/upload/thumb/8/82/Coral-Eye_Badge.png/40px-Coral-Eye_Badge.png" width="40" height="29" srcset="//cdn.bulbagarden.net/upload/thumb/8/82/Coral-Eye_Badge.png/60px-Coral-Eye_Badge.png 1.5x, //cdn.bulbagarden.net/upload/8/82/Coral-Eye_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #927D44; background: #EBD69D;"> <a href="/wiki/Navel_Gym" title="Navel Gym"><img alt="Sea Ruby Badge.png" src="//cdn.bulbagarden.net/upload/thumb/e/e1/Sea_Ruby_Badge.png/40px-Sea_Ruby_Badge.png" width="40" height="32" srcset="//cdn.bulbagarden.net/upload/thumb/e/e1/Sea_Ruby_Badge.png/60px-Sea_Ruby_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e1/Sea_Ruby_Badge.png/80px-Sea_Ruby_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #4E8234; background: #A7DB8D;"> <a href="/wiki/Trovita_Gym" title="Trovita Gym"><img alt="Spike Shell Badge.png" src="//cdn.bulbagarden.net/upload/thumb/7/77/Spike_Shell_Badge.png/40px-Spike_Shell_Badge.png" width="40" height="41" srcset="//cdn.bulbagarden.net/upload/thumb/7/77/Spike_Shell_Badge.png/60px-Spike_Shell_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/77/Spike_Shell_Badge.png/80px-Spike_Shell_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #A13959; background: #FA92B2;"> <a href="/wiki/Kumquat_Gym" title="Kumquat Gym"><img alt="Jade Star Badge.png" src="//cdn.bulbagarden.net/upload/thumb/6/61/Jade_Star_Badge.png/40px-Jade_Star_Badge.png" width="40" height="45" srcset="//cdn.bulbagarden.net/upload/thumb/6/61/Jade_Star_Badge.png/60px-Jade_Star_Badge.png 1.5x, //cdn.bulbagarden.net/upload/6/61/Jade_Star_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #4924A1; background: #A27DFA;"> <a href="/wiki/Pummelo_Stadium" title="Pummelo Stadium"><img alt="WinnerTrophy.png" src="//cdn.bulbagarden.net/upload/thumb/6/68/WinnerTrophy.png/40px-WinnerTrophy.png" width="40" height="56" srcset="//cdn.bulbagarden.net/upload/thumb/6/68/WinnerTrophy.png/60px-WinnerTrophy.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/68/WinnerTrophy.png/80px-WinnerTrophy.png 2x" /></a>
+</th></tr></table>
+</td></tr>
+<tr>
+<td>
+<table class="roundy" style="margin:auto; background: #FFFFFF; border: 2px solid #A65300;">
+
+<tr>
+<td style="background:none; font-size: 90%;"> <b>Inhabited islands</b><br /><a href="/wiki/Ascorbia_Island" title="Ascorbia Island">Ascorbia</a> • <a href="/wiki/Butwal_Island" title="Butwal Island">Butwal</a> • <a href="/wiki/Golden_Island" title="Golden Island">Golden</a> • <a href="/wiki/Hamlin_Island" title="Hamlin Island">Hamlin</a> • <a href="/wiki/Kinnow_Island" title="Kinnow Island">Kinnow</a> • <a href="/wiki/Kumquat_Island" title="Kumquat Island">Kumquat</a> • <a href="/wiki/Mandarin_Island_North" title="Mandarin Island North">Mandarin N.</a><br /><a href="/wiki/Mandarin_Island_South" title="Mandarin Island South">Mandarin S.</a> • <a href="/wiki/Mikan_Island" title="Mikan Island">Mikan</a> • <a href="/wiki/Moro_Island" title="Moro Island">Moro</a> • <a href="/wiki/Murcott_Island" title="Murcott Island">Murcott</a> • <a href="/wiki/Navel_Island" title="Navel Island">Navel</a> • <a href="/wiki/Pummelo_Island" title="Pummelo Island">Pummelo</a> • <a href="/wiki/Shamouti_Island" title="Shamouti Island">Shamouti</a><br /><a href="/wiki/Sunburst_Island" title="Sunburst Island">Sunburst</a> • <a href="/wiki/Tangelo_Island" title="Tangelo Island">Tangelo</a> • <a href="/wiki/Tarroco_Island" title="Tarroco Island">Tarroco</a> • <a href="/wiki/Trovita_Island" title="Trovita Island">Trovita</a> • <a href="/wiki/Valencia_Island" title="Valencia Island">Valencia</a>
+</td></tr>
+<tr>
+<td style="background:none; font-size: 90%;"> <b>Deserted islands</b><br /><a href="/wiki/Cleopatra_Island" title="Cleopatra Island">Cleopatra</a> • <a href="/wiki/Fairchild_Island" title="Fairchild Island">Fairchild</a> • <a href="/wiki/Fire_Island" title="Fire Island">Fire</a> • <a href="/wiki/Fukuhara_Island_No._4" title="Fukuhara Island No. 4">Fukuhara No. 4</a><br /><a href="/wiki/Seven_Grapefruit_Islands" title="Seven Grapefruit Islands">Grapefruit</a> • <a href="/wiki/Ice_Island" title="Ice Island">Ice</a> • <a href="/wiki/Lightning_Island" title="Lightning Island">Lightning</a> • <a href="/wiki/Pinkan_Island" title="Pinkan Island">Pinkan</a> • <a href="/wiki/Rind_Island" title="Rind Island">Rind</a>
+</td></tr>
+<tr>
+<td style="background:none; font-size: 90%;"> <b>Unnamed islands</b><br /><a href="/wiki/Unnamed_island_(EP092)" title="Unnamed island (EP092)">Unnamed island (EP092)</a> • <a href="/wiki/Unnamed_island_(EP098)" title="Unnamed island (EP098)">Unnamed island (EP098)</a><br /><a href="/wiki/Unnamed_island_(EP110)" title="Unnamed island (EP110)">Unnamed island (EP110)</a> • <a href="/wiki/Unnamed_island_(PK04)" title="Unnamed island (PK04)">Unnamed island (PK04)</a>
+</td></tr>
+<tr>
+<td style="background:none; font-size: 90%;"> <b>Settlements</b><br /><a href="/wiki/Trovitopolis" title="Trovitopolis">Trovitopolis</a> • <a href="/wiki/Yambera" title="Yambera">Yambera</a>
+</td></tr>
+<tr>
+<td style="background:none; font-size: 90%;"> <b>Landmarks</b><br /><a href="/wiki/Ghost_ship" title="Ghost ship">Ghost ship</a> • <a href="/wiki/Palace_of_Victory" title="Palace of Victory">Palace of Victory</a> • <a href="/wiki/Pok%C3%A9mon_Park_(anime)" title="Pokémon Park (anime)">Pokémon Park</a><br /><a href="/wiki/Pok%C3%A9mon_Showboat" title="Pokémon Showboat">Pokémon Showboat</a> • <a href="/wiki/Pummelo_Stadium" title="Pummelo Stadium">Pummelo Stadium</a>
+</td></tr></table>
+</td></tr></table><br />
+<table class="roundy" style="margin:auto; border: 2px solid #A65300; background: #FF7F00;">
+
+<tr>
+<th colspan="3" class="roundy" style="background: #FFAC59;"> <a href="/wiki/Region" title="Region"><span style="color:#000000;">Regions</span></a> in the <a href="/wiki/Pok%C3%A9mon_world" title="Pokémon world"><span style="color:#000;">Pokémon world</span></a>
+</th></tr>
+<tr>
+<td style="padding:0px;">
+<table class="roundy" style="margin:auto; background: #FFFFFF; font-size: 90%; border:2px solid #A65300; margin:3px;" cellspacing="0" cellpadding="3px">
+
+<tr>
+<td style="text-align:center; background:transparent; padding:3px; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <b><a href="/wiki/Core_series" title="Core series"><span style="color:#000;">Core series</span></a></b>
+</td>
+<td style="padding:3px; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <a href="/wiki/Kanto" title="Kanto">Kanto</a> (<a href="/wiki/Sevii_Islands" title="Sevii Islands">Sevii Islands</a>) • <a href="/wiki/Johto" title="Johto">Johto</a> • <a href="/wiki/Hoenn" title="Hoenn">Hoenn</a> • <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a> • <a href="/wiki/Unova" title="Unova">Unova</a> • <a href="/wiki/Kalos" title="Kalos">Kalos</a> • <a href="/wiki/Alola" title="Alola">Alola</a>
+</td></tr>
+<tr>
+<td style="text-align:center; background:transparent; padding:3px; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <b>Side series</b>
+</td>
+<td style="padding:3px; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <a href="/wiki/Orre" title="Orre">Orre</a>
+</td></tr>
+<tr>
+<td style="text-align:center; background:transparent; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <b>Anime</b>
+</td>
+<td style="padding:3px; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <a class="mw-selflink selflink">Orange Archipelago</a> • <a href="/wiki/Decolore_Islands" title="Decolore Islands">Decolore Islands</a>
+</td></tr>
+<tr>
+<td style="text-align:center; background:transparent; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <b><a href="/wiki/Spin-off_Pok%C3%A9mon_games" title="Spin-off Pokémon games"><span style="color:#000;">Spin-off games</span></a></b>
+</td>
+<td style="padding:3px; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <a href="/wiki/Trading_Card_Game_Islands" title="Trading Card Game Islands">TCG Islands</a> • <a href="/wiki/Fiore" title="Fiore">Fiore</a> • <a href="/wiki/Almia" title="Almia">Almia</a> • <a href="/wiki/Oblivia" title="Oblivia">Oblivia</a> • <a href="/wiki/Pok%C3%A9mon_Island" title="Pokémon Island">Pokémon Island</a> • <a href="/wiki/Mintale_Town" title="Mintale Town">Mintale Town</a><br /><a href="/wiki/Pok%C3%A9mon_world_(Mystery_Dungeon)" title="Pokémon world (Mystery Dungeon)">Mystery Dungeon world</a> • <a href="/wiki/Pok%C3%A9Park_(game)" title="PokéPark (game)">PokéPark</a> • <a href="/wiki/Ransei" title="Ransei">Ransei</a> • <a href="/wiki/Ferrum" title="Ferrum">Ferrum</a> • <a href="/wiki/Carmonte_Island" title="Carmonte Island">Carmonte Island</a>
+</td></tr>
+<tr>
+<td style="text-align:center; background:transparent; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <b>TCG</b>
+</td>
+<td style="padding:3px; border: 1px #A65300 solid; border-left: 0px; border-right: 0px; border-top:none"> <a href="/wiki/Southern_Islands_(TCG)" title="Southern Islands (TCG)">Southern Islands</a> • <a href="/wiki/Holon" title="Holon">Holon</a>
+</td></tr>
+<tr>
+<td style="padding:3px;"> <b><a href="https://en.wikipedia.org/wiki/Sovereign_state" class="extiw" title="wp:Sovereign state"><span style="color:#000;">Sovereign states</span></a> in<br />the <a href="/wiki/Pok%C3%A9mon_world" title="Pokémon world"><span style="color:#000;">Pokémon world</span></a></b>
+</td>
+<td style="padding:3px;"> <a href="/wiki/Pok%C3%A9mon_nation" title="Pokémon nation">Pokémon nation</a> • <a href="/wiki/Ranger_Union" title="Ranger Union">Ranger Union</a> • <a href="/wiki/Guyana" title="Guyana">Guyana</a><br /><a href="/wiki/Lucario_Kingdom" title="Lucario Kingdom">Lucario Kingdom</a> • <a href="/wiki/Mirage_Kingdom" title="Mirage Kingdom">Mirage Kingdom</a> • <a href="/wiki/Rota" title="Rota">Rota</a>
+</td></tr></table>
+</td></tr></table><br />
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Locations_logo.png" class="image"><img alt="Project Locations logo.png" src="//cdn.bulbagarden.net/upload/thumb/5/51/Project_Locations_logo.png/80px-Project_Locations_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/5/51/Project_Locations_logo.png/120px-Project_Locations_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/51/Project_Locations_logo.png/160px-Project_Locations_logo.png 2x" /></a>
+</td>
+<td> This article is part of <b><a href="/wiki/Bulbapedia:Project_Locations" title="Bulbapedia:Project Locations">Project Locations</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on every location in the Pokémon world.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180130192227
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.276 seconds
+Real time usage: 1.443 seconds
+Preprocessor visited node count: 1940/1000000
+Preprocessor generated node count: 10351/1000000
+Post‐expand include size: 31845/2097152 bytes
+Template argument size: 6003/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  278.369      1 -total
+ 20.20%   56.225      1 Template:League
+ 12.97%   36.098      1 Template:Langtable
+ 12.22%   34.019      1 Template:RegionInfobox
+ 10.07%   28.040     28 Template:Color2
+  9.26%   25.782      1 Template:Orange_Archipelago
+  4.99%   13.880      1 Template:Regions
+  3.91%   10.879     34 Template:Color
+  3.05%    8.488      1 Template:Project_Locations_notice
+  2.49%    6.941      2 Template:Mcolor
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:1631-0!*!0!!en!5!* and timestamp 20180130192225 and revision id 2706878
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Orange_Archipelago&amp;oldid=2706878">https://bulbapedia.bulbagarden.net/w/index.php?title=Orange_Archipelago&amp;oldid=2706878</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pok%C3%A9mon_League" title="Category:Pokémon League">Pokémon League</a></li><li><a href="/wiki/Category:Anime_locations" title="Category:Anime locations">Anime locations</a></li><li><a href="/wiki/Category:Orange_Islands" title="Category:Orange Islands">Orange Islands</a></li><li><a href="/wiki/Category:Regions" title="Category:Regions">Regions</a></li><li><a href="/wiki/Category:Islands" title="Category:Islands">Islands</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Orange_Archipelago" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Orange_Archipelago" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Orange_Archipelago&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Orange_Archipelago&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Orange+Archipelago" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Orange+Archipelago" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Orange_Archipelago" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Orange_Archipelago" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Orange_Archipelago&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Orange_Archipelago&amp;oldid=2706878" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Orange_Archipelago&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Orange-Inseln" title="Orange-Inseln – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Archipel_Orange" title="Archipel Orange – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Arcipelago_Orange" title="Arcipelago Orange – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E8%AB%B8%E5%B3%B6" title="オレンジ諸島 – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Wyspy_Pomara%C5%84czowe" title="Wyspy Pomarańczowe – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E6%A9%98%E5%AD%90%E7%BE%A4%E5%B3%B6" title="橘子群島 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 26 October 2017, at 00:52.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Orange_Archipelago&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"1.443","ppvisitednodes":{"value":1940,"limit":1000000},"ppgeneratednodes":{"value":10351,"limit":1000000},"postexpandincludesize":{"value":31845,"limit":2097152},"templateargumentsize":{"value":6003,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  278.369      1 -total"," 20.20%   56.225      1 Template:League"," 12.97%   36.098      1 Template:Langtable"," 12.22%   34.019      1 Template:RegionInfobox"," 10.07%   28.040     28 Template:Color2","  9.26%   25.782      1 Template:Orange_Archipelago","  4.99%   13.880      1 Template:Regions","  3.91%   10.879     34 Template:Color","  3.05%    8.488      1 Template:Project_Locations_notice","  2.49%    6.941      2 Template:Mcolor"]},"cachereport":{"timestamp":"20180130192227","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

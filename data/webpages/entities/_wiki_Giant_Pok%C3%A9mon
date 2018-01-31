@@ -1,0 +1,1417 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Giant Pokémon - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Giant_Pokémon","wgTitle":"Giant Pokémon","wgCurRevisionId":2731418,"wgRevisionId":2731418,"wgArticleId":5128,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Anime characters (Pokémon)","Variant Pokémon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Giant_Pokémon","wgRelevantArticleId":5128,"wgRequestId":"775eed996bc067329c2581c3","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Giant_Pok%C3%A9mon"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Giant_Pok%C3%A9mon"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Giant_Pokémon rootpage-Giant_Pokémon skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Giant Pokémon</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Giant Pokémon</b>, while rarely playing a large part in terms of plot, are nonetheless a recurring theme in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">Pokémon anime</a>. There are several episodes that have a plot revolving around unusually large <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a>, such to the point that it seems to be a rather common mutation for Pokémon to go through. All <a href="/wiki/Totem_Pok%C3%A9mon" title="Totem Pokémon">Totem Pokémon</a> shown in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a> have been giant so far.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_the_anime"><span class="tocnumber">1</span> <span class="toctext">In the anime</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Ancient_giant_Pok.C3.A9mon"><span class="tocnumber">1.1</span> <span class="toctext">Ancient giant Pokémon</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Temporary_giant_Pok.C3.A9mon"><span class="tocnumber">1.2</span> <span class="toctext">Temporary giant Pokémon</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#In_the_games"><span class="tocnumber">2</span> <span class="toctext">In the games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#In_the_core_series"><span class="tocnumber">2.1</span> <span class="toctext">In the core series</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#In_the_spin-off_games"><span class="tocnumber">2.2</span> <span class="toctext">In the spin-off games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#In_the_manga"><span class="tocnumber">3</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#In_The_Electric_Tale_of_Pikachu_manga"><span class="tocnumber">3.1</span> <span class="toctext">In The Electric Tale of Pikachu manga</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#In_the_Pok.C3.A9mon_Gold_and_Silver:_The_Golden_Boys_manga"><span class="tocnumber">3.2</span> <span class="toctext">In the Pokémon Gold and Silver: The Golden Boys manga</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">3.3</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<table class="roundy" style="margin:auto; text-align:center; background:#88a; border:3px solid #88a">
+
+<tr>
+<th style="background:#bebed1; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)"><span style="color:#000;">Pokémon</span></a>
+</th>
+<th style="background:#bebed1"> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th style="background:#bebed1; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> First appearance
+</th></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Gary_Krabby.png" class="image"><img alt="Gary Krabby.png" src="//cdn.bulbagarden.net/upload/thumb/7/7d/Gary_Krabby.png/200px-Gary_Krabby.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/7/7d/Gary_Krabby.png/300px-Gary_Krabby.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7d/Gary_Krabby.png/400px-Gary_Krabby.png 2x" /></a><br /><a href="/wiki/Krabby_(Pok%C3%A9mon)" title="Krabby (Pokémon)">Krabby</a>
+</td>
+<td> <a href="/wiki/Gary_Oak" title="Gary Oak">Gary Oak</a>
+</td>
+<td> <i><a href="/wiki/EP013" title="EP013">Mystery at the Lighthouse</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Dragonite.png" class="image"><img alt="Giant Dragonite.png" src="//cdn.bulbagarden.net/upload/thumb/9/9a/Giant_Dragonite.png/200px-Giant_Dragonite.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/9/9a/Giant_Dragonite.png/300px-Giant_Dragonite.png 1.5x, //cdn.bulbagarden.net/upload/9/9a/Giant_Dragonite.png 2x" /></a><br /><a href="/wiki/Dragonite_(Pok%C3%A9mon)" title="Dragonite (Pokémon)">Dragonite</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP013" title="EP013">Mystery at the Lighthouse</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Tentacruel.png" class="image"><img alt="Giant Tentacruel.png" src="//cdn.bulbagarden.net/upload/thumb/9/9c/Giant_Tentacruel.png/200px-Giant_Tentacruel.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/9/9c/Giant_Tentacruel.png/300px-Giant_Tentacruel.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/9c/Giant_Tentacruel.png/400px-Giant_Tentacruel.png 2x" /></a><br /><a href="/wiki/Tentacruel_(Pok%C3%A9mon)" title="Tentacruel (Pokémon)">Tentacruel</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP019" title="EP019">Tentacool &amp; Tentacruel</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Kangaskhan.png" class="image"><img alt="Giant Kangaskhan.png" src="//cdn.bulbagarden.net/upload/thumb/1/13/Giant_Kangaskhan.png/200px-Giant_Kangaskhan.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/1/13/Giant_Kangaskhan.png/300px-Giant_Kangaskhan.png 1.5x, //cdn.bulbagarden.net/upload/1/13/Giant_Kangaskhan.png 2x" /></a><br /><a href="/wiki/Kangaskhan_(Pok%C3%A9mon)" title="Kangaskhan (Pokémon)">Kangaskhan</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP034" title="EP034">The Kangaskhan Kid</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Bruno_Onix.png" class="image"><img alt="Bruno Onix.png" src="//cdn.bulbagarden.net/upload/thumb/3/34/Bruno_Onix.png/200px-Bruno_Onix.png" width="200" height="192" srcset="//cdn.bulbagarden.net/upload/thumb/3/34/Bruno_Onix.png/300px-Bruno_Onix.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/34/Bruno_Onix.png/400px-Bruno_Onix.png 2x" /></a><br /><a href="/wiki/Bruno%27s_Onix" title="Bruno's Onix">Onix</a>
+</td>
+<td> <a href="/wiki/Bruno" title="Bruno">Bruno</a>
+</td>
+<td> <i><a href="/wiki/EP071" title="EP071">To Master the Onixpected!</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Magikarp.png" class="image"><img alt="Giant Magikarp.png" src="//cdn.bulbagarden.net/upload/thumb/3/33/Giant_Magikarp.png/200px-Giant_Magikarp.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/3/33/Giant_Magikarp.png/300px-Giant_Magikarp.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/33/Giant_Magikarp.png/400px-Giant_Magikarp.png 2x" /></a><br /><a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="Magikarp (Pokémon)">Magikarp</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP092" title="EP092">The Joy of Pokémon</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Nurse_Joy_Bulbasaur.png" class="image"><img alt="Nurse Joy Bulbasaur.png" src="//cdn.bulbagarden.net/upload/thumb/f/f8/Nurse_Joy_Bulbasaur.png/200px-Nurse_Joy_Bulbasaur.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/f/f8/Nurse_Joy_Bulbasaur.png/300px-Nurse_Joy_Bulbasaur.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/f8/Nurse_Joy_Bulbasaur.png/400px-Nurse_Joy_Bulbasaur.png 2x" /></a><br /><a href="/wiki/Bulbasaur_(Pok%C3%A9mon)" title="Bulbasaur (Pokémon)">Bulbasaur</a>
+</td>
+<td> <a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a>, <a href="/wiki/Mayor_of_Trovitopolis" title="Mayor of Trovitopolis">Mayor of Trovitopolis</a>
+</td>
+<td> <i><a href="/wiki/EP102" title="EP102">The Mystery Menace</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Pidgeot.png" class="image"><img alt="Giant Pidgeot.png" src="//cdn.bulbagarden.net/upload/thumb/8/85/Giant_Pidgeot.png/200px-Giant_Pidgeot.png" width="200" height="151" srcset="//cdn.bulbagarden.net/upload/thumb/8/85/Giant_Pidgeot.png/300px-Giant_Pidgeot.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/85/Giant_Pidgeot.png/400px-Giant_Pidgeot.png 2x" /></a><br /><a href="/wiki/Pidgeot_(Pok%C3%A9mon)" title="Pidgeot (Pokémon)">Pidgeot</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP104" title="EP104">Bound For Trouble</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Rhydon.png" class="image"><img alt="Giant Rhydon.png" src="//cdn.bulbagarden.net/upload/thumb/7/7f/Giant_Rhydon.png/200px-Giant_Rhydon.png" width="200" height="152" srcset="//cdn.bulbagarden.net/upload/thumb/7/7f/Giant_Rhydon.png/300px-Giant_Rhydon.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7f/Giant_Rhydon.png/400px-Giant_Rhydon.png 2x" /></a><br /><a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon (Pokémon)">Rhydon</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP104" title="EP104">Bound For Trouble</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Charizard.png" class="image"><img alt="Giant Charizard.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Giant_Charizard.png/200px-Giant_Charizard.png" width="200" height="112" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Giant_Charizard.png/300px-Giant_Charizard.png 1.5x, //cdn.bulbagarden.net/upload/8/89/Giant_Charizard.png 2x" /></a><br /><a href="/wiki/Charizard_(Pok%C3%A9mon)" title="Charizard (Pokémon)">Charizard</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP134" title="EP134">Charizard's Burning Ambition</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Cyrus_second_Sunflora.png" class="image"><img alt="Cyrus second Sunflora.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Cyrus_second_Sunflora.png/200px-Cyrus_second_Sunflora.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Cyrus_second_Sunflora.png/300px-Cyrus_second_Sunflora.png 1.5x, //cdn.bulbagarden.net/upload/1/1d/Cyrus_second_Sunflora.png 2x" /></a><br /><a href="/wiki/Sunflora_(Pok%C3%A9mon)" title="Sunflora (Pokémon)">Sunflora</a>
+</td>
+<td> <a href="/wiki/Cyrus_(EP135)" title="Cyrus (EP135)">Cyrus</a>
+</td>
+<td> <i><a href="/wiki/EP135" title="EP135">Grin to Win!</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Egan_Magcargo.png" class="image"><img alt="Egan Magcargo.png" src="//cdn.bulbagarden.net/upload/thumb/a/a7/Egan_Magcargo.png/200px-Egan_Magcargo.png" width="200" height="149" srcset="//cdn.bulbagarden.net/upload/thumb/a/a7/Egan_Magcargo.png/300px-Egan_Magcargo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a7/Egan_Magcargo.png/400px-Egan_Magcargo.png 2x" /></a><br /><a href="/wiki/Magcargo_(Pok%C3%A9mon)" title="Magcargo (Pokémon)">Magcargo</a>
+</td>
+<td> <a href="/wiki/Egan" title="Egan">Egan</a>
+</td>
+<td> <i><a href="/wiki/EP240" title="EP240">Some Like it Hot</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Goldeen.png" class="image"><img alt="Giant Goldeen.png" src="//cdn.bulbagarden.net/upload/thumb/6/6d/Giant_Goldeen.png/200px-Giant_Goldeen.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/6/6d/Giant_Goldeen.png/300px-Giant_Goldeen.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6d/Giant_Goldeen.png/400px-Giant_Goldeen.png 2x" /></a><br /><a href="/wiki/Goldeen_(Pok%C3%A9mon)" title="Goldeen (Pokémon)">Goldeen</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP244" title="EP244">Enlighten Up!</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Gulpin.png" class="image"><img alt="Giant Gulpin.png" src="//cdn.bulbagarden.net/upload/thumb/f/f4/Giant_Gulpin.png/200px-Giant_Gulpin.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/f/f4/Giant_Gulpin.png/300px-Giant_Gulpin.png 1.5x, //cdn.bulbagarden.net/upload/f/f4/Giant_Gulpin.png 2x" /></a><br /><a href="/wiki/Gulpin_(Pok%C3%A9mon)" title="Gulpin (Pokémon)">Gulpin</a>
+</td>
+<td> <a href="/wiki/Professor_Jacuzzi" title="Professor Jacuzzi">Professor Jacuzzi</a>
+</td>
+<td> <i><a href="/wiki/AG065" title="AG065">Gulpin' it Down</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Nero.png" class="image"><img alt="Nero.png" src="//cdn.bulbagarden.net/upload/thumb/e/ed/Nero.png/200px-Nero.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/e/ed/Nero.png/300px-Nero.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ed/Nero.png/400px-Nero.png 2x" /></a><br /><a href="/wiki/Whiscash_(Pok%C3%A9mon)" title="Whiscash (Pokémon)">Whiscash</a> "<a href="/wiki/Nero" title="Nero">Nero</a>"
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/AG075" title="AG075">Whiscash and Ash</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Winona_Skarmory.png" class="image"><img alt="Winona Skarmory.png" src="//cdn.bulbagarden.net/upload/thumb/2/20/Winona_Skarmory.png/200px-Winona_Skarmory.png" width="200" height="144" srcset="//cdn.bulbagarden.net/upload/thumb/2/20/Winona_Skarmory.png/300px-Winona_Skarmory.png 1.5x, //cdn.bulbagarden.net/upload/thumb/2/20/Winona_Skarmory.png/400px-Winona_Skarmory.png 2x" /></a><br /><a href="/wiki/Skarmory_(Pok%C3%A9mon)" title="Skarmory (Pokémon)">Skarmory</a>
+</td>
+<td> <a href="/wiki/Winona" title="Winona">Winona</a>
+</td>
+<td> <i><a href="/wiki/AG084" title="AG084">Who's Flying Now?</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Claydol.png" class="image"><img alt="Giant Claydol.png" src="//cdn.bulbagarden.net/upload/thumb/7/72/Giant_Claydol.png/200px-Giant_Claydol.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/7/72/Giant_Claydol.png/300px-Giant_Claydol.png 1.5x, //cdn.bulbagarden.net/upload/7/72/Giant_Claydol.png 2x" /></a><br /><a href="/wiki/Claydol_(Pok%C3%A9mon)" title="Claydol (Pokémon)">Claydol</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/AG104" title="AG104">Claydol Big and Tall</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Old_man_Mantine.png" class="image"><img alt="Old man Mantine.png" src="//cdn.bulbagarden.net/upload/thumb/8/82/Old_man_Mantine.png/200px-Old_man_Mantine.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/8/82/Old_man_Mantine.png/300px-Old_man_Mantine.png 1.5x, //cdn.bulbagarden.net/upload/8/82/Old_man_Mantine.png 2x" /></a><br /><a href="/wiki/Mantine_(Pok%C3%A9mon)" title="Mantine (Pokémon)">Mantine</a>
+</td>
+<td> <a href="/wiki/Old_man_(DP039)" title="Old man (DP039)">Old man</a>
+</td>
+<td> <i><a href="/wiki/DP039" title="DP039">Steamboat Willies!</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Kellyn_Staraptor.png" class="image"><img alt="Kellyn Staraptor.png" src="//cdn.bulbagarden.net/upload/thumb/4/42/Kellyn_Staraptor.png/200px-Kellyn_Staraptor.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/4/42/Kellyn_Staraptor.png/300px-Kellyn_Staraptor.png 1.5x, //cdn.bulbagarden.net/upload/4/42/Kellyn_Staraptor.png 2x" /></a><br /><a href="/wiki/Staraptor_(Pok%C3%A9mon)" title="Staraptor (Pokémon)">Staraptor</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/DP072" title="DP072">Pokémon Ranger and the Kidnapped Riolu! Part 2</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:DP107_size.png" class="image"><img alt="DP107 size.png" src="//cdn.bulbagarden.net/upload/thumb/9/98/DP107_size.png/200px-DP107_size.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/9/98/DP107_size.png/300px-DP107_size.png 1.5x, //cdn.bulbagarden.net/upload/9/98/DP107_size.png 2x" /></a><br /><a href="/wiki/Root_and_Claw_Fossils" title="Root and Claw Fossils">Claw Fossil</a>
+</td>
+<td> <a href="/wiki/Byron" title="Byron">Byron</a>
+</td>
+<td> <i><a href="/wiki/DP107" title="DP107">Ancient Family Matters!</a></i>
+</td></tr>
+
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Totem_Gumshoos.png" class="image"><img alt="Totem Gumshoos.png" src="//cdn.bulbagarden.net/upload/thumb/f/f2/Totem_Gumshoos.png/200px-Totem_Gumshoos.png" width="200" height="112" srcset="//cdn.bulbagarden.net/upload/thumb/f/f2/Totem_Gumshoos.png/300px-Totem_Gumshoos.png 1.5x, //cdn.bulbagarden.net/upload/f/f2/Totem_Gumshoos.png 2x" /></a><br /><a href="/wiki/Gumshoos_(Pok%C3%A9mon)" title="Gumshoos (Pokémon)">Gumshoos</a>
+</td>
+<td> <a href="/wiki/Totem_Pok%C3%A9mon" title="Totem Pokémon">None</a>
+</td>
+<td> <i><a href="/wiki/SM009" title="SM009">To Top a Totem!</a></i>
+</td></tr>
+
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Totem_Alola_Raticate.png" class="image"><img alt="Totem Alola Raticate.png" src="//cdn.bulbagarden.net/upload/thumb/b/b7/Totem_Alola_Raticate.png/200px-Totem_Alola_Raticate.png" width="200" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/b/b7/Totem_Alola_Raticate.png/300px-Totem_Alola_Raticate.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b7/Totem_Alola_Raticate.png/400px-Totem_Alola_Raticate.png 2x" /></a><br /><a href="/wiki/Regional_variant" title="Regional variant">Alolan</a> <a href="/wiki/Raticate_(Pok%C3%A9mon)" title="Raticate (Pokémon)">Raticate</a>
+</td>
+<td> <a href="/wiki/Totem_Pok%C3%A9mon" title="Totem Pokémon">None</a>
+</td>
+<td> <i><a href="/wiki/SM025" title="SM025">A Team-on-Team Tussle!</a></i>
+</td></tr>
+
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Totem_Wishiwashi.png" class="image"><img alt="Totem Wishiwashi.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Totem_Wishiwashi.png/200px-Totem_Wishiwashi.png" width="200" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Totem_Wishiwashi.png/300px-Totem_Wishiwashi.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Totem_Wishiwashi.png/400px-Totem_Wishiwashi.png 2x" /></a><br /> <a href="/wiki/Wishiwashi_(Pok%C3%A9mon)" title="Wishiwashi (Pokémon)">Wishiwashi</a>
+</td>
+<td> <a href="/wiki/Totem_Pok%C3%A9mon" title="Totem Pokémon">None</a>
+</td>
+<td> <i><a href="/wiki/SM033" title="SM033">Big Sky, Small Fry!</a></i>
+</td></tr>
+
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Totem_Lurantis.png" class="image"><img alt="Totem Lurantis.png" src="//cdn.bulbagarden.net/upload/thumb/3/39/Totem_Lurantis.png/200px-Totem_Lurantis.png" width="200" height="173" srcset="//cdn.bulbagarden.net/upload/thumb/3/39/Totem_Lurantis.png/300px-Totem_Lurantis.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/39/Totem_Lurantis.png/400px-Totem_Lurantis.png 2x" /></a><br /><a href="/wiki/Lurantis_(Pok%C3%A9mon)" title="Lurantis (Pokémon)">Lurantis</a>
+</td>
+<td> <a href="/wiki/Totem_Pok%C3%A9mon" title="Totem Pokémon">None</a>
+</td>
+<td> <i><a href="/wiki/SM035" title="SM035">Currying Favor and Flavor!</a></i>
+</td></tr>
+
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Totem_Kommo-o.png" class="image"><img alt="Totem Kommo-o.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Totem_Kommo-o.png/200px-Totem_Kommo-o.png" width="200" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Totem_Kommo-o.png/300px-Totem_Kommo-o.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Totem_Kommo-o.png/400px-Totem_Kommo-o.png 2x" /></a><br /><a href="/wiki/Kommo-o_(Pok%C3%A9mon)" title="Kommo-o (Pokémon)">Kommo-o</a>
+</td>
+<td> <a href="/wiki/Totem_Pok%C3%A9mon" title="Totem Pokémon">None</a>
+</td>
+<td> <a href="/wiki/SM051" title="SM051">SM051</a>
+</td></tr>
+<tr>
+<th colspan="3" style="background:#bebed1; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> &#160;
+</th></tr></table>
+<h3><span class="mw-headline" id="Ancient_giant_Pok.C3.A9mon">Ancient giant Pokémon</span></h3>
+<p>Several ancient giant Pokémon appeared in the <i><a href="/wiki/EP072" title="EP072">The Ancient Puzzle of Pokémopolis</a></i>. These Pokémon were all covered in tattoo-like marks. Gengar emerged from a black vajra-like artifact, Alakazam emerged from a spoon-like artifact, and Jigglypuff emerged from an ancient bell.
+</p>
+<table class="roundy" style="margin:auto; text-align:center; background:#88a; border:3px solid #88a">
+
+<tr>
+<th style="background:#bebed1; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)"><span style="color:#000;">Pokémon</span></a>
+</th>
+<th style="background:#bebed1"> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th style="background:#bebed1; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> First appearance
+</th></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Alakazam.png" class="image"><img alt="Giant Alakazam.png" src="//cdn.bulbagarden.net/upload/thumb/b/b5/Giant_Alakazam.png/200px-Giant_Alakazam.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/b/b5/Giant_Alakazam.png/300px-Giant_Alakazam.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b5/Giant_Alakazam.png/400px-Giant_Alakazam.png 2x" /></a><br /><a href="/wiki/Alakazam_(Pok%C3%A9mon)" title="Alakazam (Pokémon)">Alakazam</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP072" title="EP072">The Ancient Puzzle of Pokémopolis</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Giant_Gengar.png" class="image"><img alt="Giant Gengar.png" src="//cdn.bulbagarden.net/upload/thumb/0/06/Giant_Gengar.png/200px-Giant_Gengar.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/0/06/Giant_Gengar.png/300px-Giant_Gengar.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/06/Giant_Gengar.png/400px-Giant_Gengar.png 2x" /></a><br /><a href="/wiki/Gengar_(Pok%C3%A9mon)" title="Gengar (Pokémon)">Gengar</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP072" title="EP072">The Ancient Puzzle of Pokémopolis</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Bigglypuff.png" class="image"><img alt="Bigglypuff.png" src="//cdn.bulbagarden.net/upload/thumb/d/db/Bigglypuff.png/200px-Bigglypuff.png" width="200" height="256" srcset="//cdn.bulbagarden.net/upload/thumb/d/db/Bigglypuff.png/300px-Bigglypuff.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/db/Bigglypuff.png/400px-Bigglypuff.png 2x" /></a><br /><a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a>
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/EP072" title="EP072">The Ancient Puzzle of Pokémopolis</a></i>
+</td></tr>
+<tr>
+<th colspan="3" style="background:#bebed1; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> &#160;
+</th></tr></table>
+<h3><span class="mw-headline" id="Temporary_giant_Pok.C3.A9mon">Temporary giant Pokémon</span></h3>
+<table class="roundy" style="margin:auto; text-align:center; background:#88a; border:3px solid #88a">
+
+<tr>
+<th style="background:#bebed1; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)"><span style="color:#000;">Pokémon</span></a>
+</th>
+<th style="background:#bebed1"> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th style="background:#bebed1; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> First appearance
+</th></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/Misty%27s_Togepi" class="mw-redirect" title="Misty's Togepi">Togepi</a>
+</td>
+<td> <a href="/wiki/Misty" title="Misty">Misty</a>
+</td>
+<td> <i><a href="/wiki/EP263" title="EP263">Address Unown!</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Ash_Treecko_giant.png" class="image"><img alt="Ash Treecko giant.png" src="//cdn.bulbagarden.net/upload/thumb/a/a8/Ash_Treecko_giant.png/200px-Ash_Treecko_giant.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/a/a8/Ash_Treecko_giant.png/300px-Ash_Treecko_giant.png 1.5x, //cdn.bulbagarden.net/upload/a/a8/Ash_Treecko_giant.png 2x" /></a><br /><a href="/wiki/Ash%27s_Treecko" class="mw-redirect" title="Ash's Treecko">Treecko</a>
+</td>
+<td> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash Ketchum</a>
+</td>
+<td> <i><a href="/wiki/AG065" title="AG065">Gulpin' it Down</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Xander_Caterpie.png" class="image"><img alt="Xander Caterpie.png" src="//cdn.bulbagarden.net/upload/thumb/4/4e/Xander_Caterpie.png/200px-Xander_Caterpie.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/4/4e/Xander_Caterpie.png/300px-Xander_Caterpie.png 1.5x, //cdn.bulbagarden.net/upload/4/4e/Xander_Caterpie.png 2x" /></a><br /><a href="/wiki/Caterpie_(Pok%C3%A9mon)" title="Caterpie (Pokémon)">Caterpie</a>
+</td>
+<td> <a href="/wiki/Xander" title="Xander">Xander</a>
+</td>
+<td> <i><a href="/wiki/AG142" title="AG142">Caterpie's Big Dilemma</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Xander_Metapod.png" class="image"><img alt="Xander Metapod.png" src="//cdn.bulbagarden.net/upload/thumb/c/c9/Xander_Metapod.png/200px-Xander_Metapod.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/c/c9/Xander_Metapod.png/300px-Xander_Metapod.png 1.5x, //cdn.bulbagarden.net/upload/c/c9/Xander_Metapod.png 2x" /></a><br /><a href="/wiki/Metapod_(Pok%C3%A9mon)" title="Metapod (Pokémon)">Metapod</a>
+</td>
+<td> <a href="/wiki/Xander" title="Xander">Xander</a>
+</td>
+<td> <i><a href="/wiki/AG142" title="AG142">Caterpie's Big Dilemma</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td>  <a href="/wiki/File:Xander_Butterfree.png" class="image"><img alt="Xander Butterfree.png" src="//cdn.bulbagarden.net/upload/thumb/3/31/Xander_Butterfree.png/200px-Xander_Butterfree.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/Xander_Butterfree.png/300px-Xander_Butterfree.png 1.5x, //cdn.bulbagarden.net/upload/3/31/Xander_Butterfree.png 2x" /></a><br /><a href="/wiki/Butterfree_(Pok%C3%A9mon)" title="Butterfree (Pokémon)">Butterfree</a>
+</td>
+<td> <a href="/wiki/Xander" title="Xander">Xander</a>
+</td>
+<td> <i><a href="/wiki/AG142" title="AG142">Caterpie's Big Dilemma</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Jessie_Dustox_giant.png" class="image"><img alt="Jessie Dustox giant.png" src="//cdn.bulbagarden.net/upload/thumb/3/3a/Jessie_Dustox_giant.png/200px-Jessie_Dustox_giant.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/3/3a/Jessie_Dustox_giant.png/300px-Jessie_Dustox_giant.png 1.5x, //cdn.bulbagarden.net/upload/3/3a/Jessie_Dustox_giant.png 2x" /></a><br /><a href="/wiki/Jessie%27s_Dustox" title="Jessie's Dustox">Dustox</a>
+</td>
+<td> <a href="/wiki/Jessie" title="Jessie">Jessie</a>
+</td>
+<td> <i><a href="/wiki/AG142" title="AG142">Caterpie's Big Dilemma</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:James_Cacnea_giant.png" class="image"><img alt="James Cacnea giant.png" src="//cdn.bulbagarden.net/upload/thumb/a/ab/James_Cacnea_giant.png/200px-James_Cacnea_giant.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/a/ab/James_Cacnea_giant.png/300px-James_Cacnea_giant.png 1.5x, //cdn.bulbagarden.net/upload/a/ab/James_Cacnea_giant.png 2x" /></a><br /><a href="/wiki/James%27s_Cacnea" title="James's Cacnea">Cacnea</a>
+</td>
+<td> <a href="/wiki/James" title="James">James</a>
+</td>
+<td> <i><a href="/wiki/AG142" title="AG142">Caterpie's Big Dilemma</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:DP043_Giants.png" class="image"><img alt="DP043 Giants.png" src="//cdn.bulbagarden.net/upload/thumb/5/5a/DP043_Giants.png/200px-DP043_Giants.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/5/5a/DP043_Giants.png/300px-DP043_Giants.png 1.5x, //cdn.bulbagarden.net/upload/5/5a/DP043_Giants.png 2x" /></a><br /><a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Pikachu</a>, <a href="/wiki/Dawn%27s_Piplup" title="Dawn's Piplup">Piplup</a>, and <a href="/wiki/Brock%27s_Croagunk" title="Brock's Croagunk">Croagunk</a>
+</td>
+<td> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash Ketchum</a>, <a href="/wiki/Dawn_(anime)" title="Dawn (anime)">Dawn</a>, and <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a>
+</td>
+<td> <i><a href="/wiki/DP043" title="DP043">Malice In Wonderland!</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td> <a href="/wiki/File:Grand_Spectrala_Islet_Zoroark_Illusion.png" class="image"><img alt="Grand Spectrala Islet Zoroark Illusion.png" src="//cdn.bulbagarden.net/upload/thumb/8/81/Grand_Spectrala_Islet_Zoroark_Illusion.png/200px-Grand_Spectrala_Islet_Zoroark_Illusion.png" width="200" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/8/81/Grand_Spectrala_Islet_Zoroark_Illusion.png/300px-Grand_Spectrala_Islet_Zoroark_Illusion.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/81/Grand_Spectrala_Islet_Zoroark_Illusion.png/400px-Grand_Spectrala_Islet_Zoroark_Illusion.png 2x" /></a><br /><a href="/wiki/Zoroark_(Pok%C3%A9mon)" title="Zoroark (Pokémon)">Zoroark</a> (<a href="/wiki/Illusion_(Ability)" title="Illusion (Ability)">Illusion</a>)
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/BW127" title="BW127">The Island of Illusions!</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td>  <a href="/wiki/File:Grand_Spectrala_Islet_Heatmor_Illusion.png" class="image"><img alt="Grand Spectrala Islet Heatmor Illusion.png" src="//cdn.bulbagarden.net/upload/thumb/c/ca/Grand_Spectrala_Islet_Heatmor_Illusion.png/200px-Grand_Spectrala_Islet_Heatmor_Illusion.png" width="200" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/c/ca/Grand_Spectrala_Islet_Heatmor_Illusion.png/300px-Grand_Spectrala_Islet_Heatmor_Illusion.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/ca/Grand_Spectrala_Islet_Heatmor_Illusion.png/400px-Grand_Spectrala_Islet_Heatmor_Illusion.png 2x" /></a><br /><a href="/wiki/Heatmor_(Pok%C3%A9mon)" title="Heatmor (Pokémon)">Heatmor</a> (<a href="/wiki/Zoroark_(Pok%C3%A9mon)" title="Zoroark (Pokémon)">Zoroark</a>'s <a href="/wiki/Illusion_(Ability)" title="Illusion (Ability)">Illusion</a>)
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/BW127" title="BW127">The Island of Illusions!</a></i>
+</td></tr>
+<tr style="background:#fff">
+<td>  <a href="/wiki/File:Grand_Spectrala_Islet_Meowth_Illusion.png" class="image"><img alt="Grand Spectrala Islet Meowth Illusion.png" src="//cdn.bulbagarden.net/upload/thumb/3/38/Grand_Spectrala_Islet_Meowth_Illusion.png/200px-Grand_Spectrala_Islet_Meowth_Illusion.png" width="200" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/3/38/Grand_Spectrala_Islet_Meowth_Illusion.png/300px-Grand_Spectrala_Islet_Meowth_Illusion.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/38/Grand_Spectrala_Islet_Meowth_Illusion.png/400px-Grand_Spectrala_Islet_Meowth_Illusion.png 2x" /></a><br /><a href="/wiki/Meowth_(Pok%C3%A9mon)" title="Meowth (Pokémon)">Meowth</a> (<a href="/wiki/Zoroark_(Pok%C3%A9mon)" title="Zoroark (Pokémon)">Zoroark</a>'s <a href="/wiki/Illusion_(Ability)" title="Illusion (Ability)">Illusion</a>)
+</td>
+<td> None
+</td>
+<td> <i><a href="/wiki/BW127" title="BW127">The Island of Illusions!</a></i>
+</td></tr>
+<tr>
+<th colspan="3" style="background:#bebed1; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> &#160;
+</th></tr></table>
+<h2><span class="mw-headline" id="In_the_games">In the games</span></h2>
+<h3><span class="mw-headline" id="In_the_core_series">In the <a href="/wiki/Core_series" title="Core series">core series</a></span></h3>
+<p>In <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Ruby and Sapphire</a>, there are two men living in <a href="/wiki/Sootopolis_City" title="Sootopolis City">Sootopolis City</a> who respectively want the player to bring them large specimens of <a href="/wiki/Barboach_(Pok%C3%A9mon)" title="Barboach (Pokémon)">Barboach</a> and <a href="/wiki/Shroomish_(Pok%C3%A9mon)" title="Shroomish (Pokémon)">Shroomish</a>. Likewise, in <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Pokémon Emerald</a>, the same two men want the player to bring them large specimens of <a href="/wiki/Lotad_(Pok%C3%A9mon)" title="Lotad (Pokémon)">Lotad</a> and <a href="/wiki/Seedot_(Pok%C3%A9mon)" title="Seedot (Pokémon)">Seedot</a>.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon">Sun and Moon</a>, <a href="/wiki/Totem_Pok%C3%A9mon" title="Totem Pokémon">Totem Pokémon</a> are a type of <a href="/wiki/Variant_Pok%C3%A9mon" title="Variant Pokémon">Pokémon variant</a> that appear at the end of <a href="/wiki/Alola" title="Alola">Alola</a>'s <a href="/wiki/Island_challenge" title="Island challenge">island trials</a>. Due to the influence of the energy emanated from <a href="/wiki/Ultra_Wormhole" title="Ultra Wormhole">Ultra Wormholes</a>, these Pokémon appear larger and weigh approximately two to four times as much as other Pokémon of the same species.
+</p>
+<h3><span class="mw-headline" id="In_the_spin-off_games">In the <a href="/wiki/Spin-off_Pok%C3%A9mon_games" title="Spin-off Pokémon games">spin-off games</a></span></h3>
+<p>In <a href="/wiki/Hey_You,_Pikachu!" title="Hey You, Pikachu!">Hey You, Pikachu!</a> one of the activities involves <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> <a href="/wiki/Fishing" title="Fishing">fishing</a>, and it is possible to fish Pokémon much larger than average. There is also an <a href="/wiki/Oddish_(Pok%C3%A9mon)" title="Oddish (Pokémon)">Oddish</a> that, instead of evolving, grows larger when it is watered, until it is at least ten times Pikachu's size.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_Ranger:_Guardian_Signs" title="Pokémon Ranger: Guardian Signs">Pokémon Ranger: Guardian Signs</a>, <a href="/wiki/Hocus_(Ranger)" title="Hocus (Ranger)">Hocus</a> attacks the player with a giant <a href="/wiki/Crobat_(Pok%C3%A9mon)" title="Crobat (Pokémon)">Crobat</a> when he is faced in the <a href="/wiki/Sky_Fortress" title="Sky Fortress">Sky Fortress</a>.
+</p><p>In the <a href="/wiki/Super_Smash_Bros." title="Super Smash Bros.">Super Smash Bros.</a> series, the player can be temporarily large by eating the Super Mushroom. <a href="/wiki/Jigglypuff_(Super_Smash_Bros.)" title="Jigglypuff (Super Smash Bros.)">Jigglypuff</a>'s Final Smash, Puff Up can make Jigglypuff gigantic temporarily, plus knocking out any opponent near it.
+</p>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<h3><span class="mw-headline" id="In_The_Electric_Tale_of_Pikachu_manga">In The Electric Tale of Pikachu manga</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Black_Fog.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Black_Fog.png/250px-Black_Fog.png" width="250" height="231" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Black_Fog.png/375px-Black_Fog.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Black_Fog.png/500px-Black_Fog.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Black_Fog.png" class="internal" title="Enlarge"></a></div>The giant Haunter Black Fog</div></div></div>
+<p>In <a href="/wiki/The_Electric_Tale_of_Pikachu" title="The Electric Tale of Pikachu">The Electric Tale of Pikachu</a>, <a href="/wiki/Sabrina" title="Sabrina">Sabrina</a> is attacked by a giant <a href="/wiki/Haunter_(Pok%C3%A9mon)" title="Haunter (Pokémon)">Haunter</a> called <a href="/wiki/Black_Fog" title="Black Fog">Black Fog</a> in <i><a href="/wiki/ET04" title="ET04">Haunting My Dreams</a></i>. Black Fog is an unusually large Haunter, that was unusual in its density and its ability to use two moves simultaneously. It <a href="/wiki/Self-Destruct_(move)" title="Self-Destruct (move)">destroyed itself</a> rather than be captured by <a href="/wiki/Ash_Ketchum_(EToP)" title="Ash Ketchum (EToP)">Ash</a>.
+</p><p>Ash caught a giant <a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="Slowpoke (Pokémon)">Slowpoke</a> in <i><a href="/wiki/ET19" title="ET19">Ash vs. Gary</a></i>. He later gave it to <a href="/wiki/Gary_Oak" title="Gary Oak">Gary</a> in exchange for a picture of his sister, <a href="/wiki/Daisy_Oak" title="Daisy Oak">May Oak</a>.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Gold_and_Silver:_The_Golden_Boys_manga">In the Pokémon Gold and Silver: The Golden Boys manga</span></h3>
+<p>In <a href="/wiki/Pok%C3%A9mon_Gold_%26_Silver:_The_Golden_Boys" title="Pokémon Gold &amp; Silver: The Golden Boys">Pokémon Gold &amp; Silver: The Golden Boys</a>, a giant <a href="/wiki/Sudowoodo_(Pok%C3%A9mon)" title="Sudowoodo (Pokémon)">Sudowoodo</a> blocks <a href="/wiki/Johto_Route_36" title="Johto Route 36">Route 36</a>. It turns out that the Sudowoodo is giant because of dried mud covering its body.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<p>In <a href="/wiki/Pok%C3%A9mon_Adventures" title="Pokémon Adventures">Pokémon Adventures</a>, <a href="/wiki/Dragonite_(Pok%C3%A9mon)" title="Dragonite (Pokémon)">Dragonite</a> are generally shown larger than they usually are, as with some other Pokémon.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> <a href="/wiki/Winona" title="Winona">Winona</a> and <a href="/wiki/Byron" title="Byron">Byron</a> are the only <a href="/wiki/Gym_Leader" title="Gym Leader">Gym Leaders</a> in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a> that own a giant Pokémon; Byron's giant Pokémon was only a <a href="/wiki/Fossil" title="Fossil">Fossil</a>, however.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/wiki/Size_discrepancies_in_the_Pok%C3%A9mon_anime" title="Size discrepancies in the Pokémon anime">Size discrepancies in the Pokémon anime</a></li></ul>
+
+<!-- 
+NewPP limit report
+Cached time: 20180131022458
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.128 seconds
+Real time usage: 0.834 seconds
+Preprocessor visited node count: 742/1000000
+Preprocessor generated node count: 2237/1000000
+Post‐expand include size: 4893/2097152 bytes
+Template argument size: 1334/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   78.227      1 -total
+ 12.25%    9.583     45 Template:P
+  6.12%    4.788      1 Template:2v2
+  5.98%    4.681      6 Template:Color2
+  5.56%    4.351      3 Template:Pkmn
+  5.54%    4.337      1 Template:Ra
+  5.22%    4.083      1 Template:OBP
+  5.12%    4.008      3 Template:Roundytl
+  4.97%    3.885      1 Template:Gary
+  4.94%    3.866      1 Template:Rt
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:5128-0!*!0!!en!5!* and timestamp 20180131022457 and revision id 2731418
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Giant_Pokémon&amp;oldid=2731418">https://bulbapedia.bulbagarden.net/w/index.php?title=Giant_Pokémon&amp;oldid=2731418</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Anime_characters_(Pok%C3%A9mon)" title="Category:Anime characters (Pokémon)">Anime characters (Pokémon)</a></li><li><a href="/wiki/Category:Variant_Pok%C3%A9mon" title="Category:Variant Pokémon">Variant Pokémon</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Giant_Pok%C3%A9mon" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Giant_Pok%C3%A9mon" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Giant_Pok%C3%A9mon&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Giant_Pok%C3%A9mon&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Giant+Pok%C3%A9mon" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Giant+Pok%C3%A9mon" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Giant_Pok%C3%A9mon" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Giant_Pok%C3%A9mon" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Giant_Pok%C3%A9mon&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Giant_Pok%C3%A9mon&amp;oldid=2731418" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Giant_Pok%C3%A9mon&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Gigantische_Pok%C3%A9mon" title="Gigantische Pokémon – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Pok%C3%A9mon_g%C3%A9ant" title="Pokémon géant – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Pok%C3%A9mon_giganti" title="Pokémon giganti – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 17 January 2018, at 14:42.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Giant_Pok%C3%A9mon&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.834","ppvisitednodes":{"value":742,"limit":1000000},"ppgeneratednodes":{"value":2237,"limit":1000000},"postexpandincludesize":{"value":4893,"limit":2097152},"templateargumentsize":{"value":1334,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%   78.227      1 -total"," 12.25%    9.583     45 Template:P","  6.12%    4.788      1 Template:2v2","  5.98%    4.681      6 Template:Color2","  5.56%    4.351      3 Template:Pkmn","  5.54%    4.337      1 Template:Ra","  5.22%    4.083      1 Template:OBP","  5.12%    4.008      3 Template:Roundytl","  4.97%    3.885      1 Template:Gary","  4.94%    3.866      1 Template:Rt"]},"cachereport":{"timestamp":"20180131022458","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

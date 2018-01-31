@@ -1,0 +1,2233 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lavender Town - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lavender_Town","wgTitle":"Lavender Town","wgCurRevisionId":2736034,"wgRevisionId":2736034,"wgArticleId":1012,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Kanto locations","Red, Blue and Yellow locations","Gold, Silver and Crystal locations","FireRed and LeafGreen locations","HeartGold and SoulSilver locations","Pokémon Pinball locations","Towns"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lavender_Town","wgRelevantArticleId":1012,"wgRequestId":"c91eebd9aee40f34379bcaa3","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/5/5e/Lavender_Town_HGSS.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Lavender_Town"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Lavender_Town"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lavender_Town rootpage-Lavender_Town skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Lavender Town</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="roundy" style="float:right; background: #c0b7d5; width: 30%; max-width: 30%; margin-left: 5px; margin-bottom: 5px; border: 3px solid #ADA1C9;">
+
+<tr style="text-align:center;">
+<td class="roundy" style="border: 2px solid #ADA1C9; background: #D5CFE3;">
+<table class="roundy" width="100%" style="background: #D5CFE3;">
+
+<tr>
+<th rowspan="1" style="color:#000000; line-height: 22pt;"> <big><big><big>Lavender Town</big></big></big>
+</th>
+<td rowspan="2" style="text-align:center; color:#000000;"> <small><b><span lang="ja">シオンタウン</span></b></small><br /><small><i>Shion Town</i></small>
+</td></tr>
+<tr>
+<td style="text-align:center; line-height: 8pt;"> <small><i>"The Noble Town"</i></small>
+</td></tr></table>
+</td></tr>
+<tr style="background: #c0b7d5;">
+<td colspan="2">
+<table class="roundy" style="margin:auto; text-align:center; background: #FFFFFF;">
+
+<tr>
+<td> <a href="/wiki/File:Lavender_Town_HGSS.png" class="image"><img alt="Lavender Town HGSS.png" src="//cdn.bulbagarden.net/upload/thumb/5/5e/Lavender_Town_HGSS.png/300px-Lavender_Town_HGSS.png" width="300" height="343" srcset="//cdn.bulbagarden.net/upload/5/5e/Lavender_Town_HGSS.png 1.5x" /></a>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; background: #c0b7d5;">
+<td colspan="2">
+<table class="roundy" style="margin:auto; text-align:center; background: #FFFFFF;">
+
+<tr>
+<td> <a href="/wiki/File:None.png" class="image"><img alt="None.png" src="//cdn.bulbagarden.net/upload/e/e3/None.png" width="300" height="300" /></a><br /><small>Lavender Town in {{{variable2}}}.</small>
+</td></tr></table>
+</td></tr>
+<tr style="">
+<td class="roundy" style="border: 2px solid #ADA1C9; background: #D5CFE3; color:#000;"> <div style="text-align:center;"><b>Map description</b></div>
+<table class="roundy" style="margin:auto; background:#D5CFE3; border-collapse: collapse;">
+<tr>
+<td class="roundy" style="background:#FFFFFF;">
+<table class="roundy" width="100%" style="background:#FFFFFF;">
+<tr>
+<td> A small town covered in a beautiful hue of purple.
+</td></tr></table>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; text-align:center;">
+<td class="roundy" style="border: 2px solid #44685E; background: #9DC1B7;"> [[|<span style="color:#000000;"><b>Lavender Town Gym</b></span>]] - <a href="/wiki/Kanto" title="Kanto"><span style="color:#000;">Kanto</span></a> Gym #{{{gymno}}}
+<table class="roundy" width="100%" style="background:#9DC1B7; border-collapse: collapse;">
+
+<tr>
+<td class="roundyleft" style="vertical-align: bottom; background:#FFFFFF; border-right: 1px solid #9DC1B7;"> [[File:{{{leadersprite}}}|{{{leader}}}|link={{{leader}}}]]<br /><small><b>[[{{{leader}}}|<span style="color:#000;">{{{leader}}}</span>]]</b></small>
+</td>
+<td style="background:#FFFFFF;"> No specialty type
+</td>
+<td class="roundyright" style="vertical-align:bottom; background:#FFFFFF; border-left: 1px solid #9DC1B7;"> [[File:{{{badge}}} Badge.png|70px|{{{badge}}} Badge|link=Badge#{{{badge}}} Badge]]<br /><small><b>[[Badge#{{{badge}}} Badge|<span style="color:#000;">{{{badge}}} Badge</span>]]</b></small>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; text-align:center;">
+<td class="roundy" style="border: 2px solid #44685E; background: #9DC1B7;"> <b>[[|<span style="color:#000000;">Lavender Town Gym</span>]]</b> - <a href="/wiki/Kanto" title="Kanto"><span style="color:#000;">Kanto</span></a> Gym #{{{gymno}}}
+<table class="roundy" width="100%" style="background:#9DC1B7; border-collapse: collapse;">
+
+<tr>
+<td class="roundyleft" style="vertical-align: bottom; background:#FFFFFF; border-right: 1px solid #9DC1B7;"> [[File:{{{leadersprite2}}}|{{{leader2}}}|link={{{leader2}}}]]<br /><small><b>[[{{{leader2}}}|<span style="color:#000;">{{{leader2}}}</span>]]</b></small>
+</td>
+<td style="background:#FFFFFF;"> <a href="/wiki/Unknown_(type)" class="mw-redirect" title="Unknown (type)"><span style="color:#000;">Unknown-type</span></a><br />specialist Gym
+</td>
+<td class="roundyright" style="vertical-align:bottom; background:#FFFFFF; border-left: 1px solid #9DC1B7;"> [[File:{{{badge}}} Badge.png|70px|{{{badge}}} Badge|link=Badge#{{{badge}}} Badge]]<br /><small><b>[[Badge#{{{badge}}} Badge|<span style="color:#000;">{{{badge}}} Badge</span>]]</b></small>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; text-align:center;">
+<td class="roundy" style="border: 2px solid #44685E; background: #9DC1B7;"> <b>[[|<span style="color:#000000;">Lavender Town Gym</span>]]</b> - <a href="/wiki/Kanto" title="Kanto"><span style="color:#000;">Kanto</span></a> Gym #{{{gymno}}}
+<table class="roundy" width="100%" style="background:#9DC1B7; border-collapse: collapse;">
+
+<tr>
+<td class="roundyleft" style="vertical-align:bottom; background:#FFFFFF; border-right: 1px solid #9DC1B7;"> [[File:{{{leadersprite3}}}|{{{leader3}}}|link={{{leader3}}}]]<br /><small><b>[[{{{leader3}}}|<span style="color:#000;">{{{leader3}}}</span>]]</b></small>
+</td>
+<td style="background:#FFFFFF;"> <a href="/wiki/Unknown_(type)" class="mw-redirect" title="Unknown (type)"><span style="color:#000;">Unknown-type</span></a><br />specialist Gym
+</td>
+<td class="roundyright" style="vertical-align:bottom; background:#FFFFFF; border-left: 1px solid #9DC1B7;"> [[File:{{{badge}}} Badge.png|70px|{{{badge}}} Badge|link=Badge#{{{badge}}} Badge]]<br /><small><b>[[Badge#{{{badge}}} Badge|<span style="color:#000;">{{{badge}}} Badge</span>]]</b></small>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; text-align:center;">
+<td class="roundy" style="border: 2px solid #ADA1C9; background: #D5CFE3;"> [[|<span style="color:#000000;"><b> League</b></span>]]
+<table class="roundy" width="100%" style="background:#D5CFE3; border-collapse: collapse;">
+
+<tr>
+<td class="roundytl" style="background:#9DC1B7; border-right: 1px solid #D5CFE3;"> [[File:{{{elite1sprite}}}|64px|{{{elite1}}}|link={{{elite1}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite1}}}|<span style="color:#000;">{{{elite1}}}</span>]]</b></small>
+</td>
+<td style="background:#9DC1B7; border-right: 1px solid #D5CFE3;"> [[File:{{{elite2sprite}}}|64px|{{{elite2}}}|link={{{elite2}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite2}}}|<span style="color:#000;">{{{elite2}}}</span>]]</b></small>
+</td>
+<td style="background:#9DC1B7; border-left: 1px solid #D5CFE3;"> [[File:{{{elite3sprite}}}|64px|{{{elite3}}}|link={{{elite3}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite3}}}|<span style="color:#000;">{{{elite3}}}</span>]]</b></small>
+</td>
+<td class="roundytr" style="background:#9DC1B7; border-left: 1px solid #D5CFE3;"> [[File:{{{elite4sprite}}}|64px|{{{elite4}}}|link={{{elite4}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite4}}}|<span style="color:#000;">{{{elite4}}}</span>]]</b></small>
+</td></tr>
+<tr>
+<td class="roundybottom" colspan="4" style="background:#9DC1B7; border-top: 1px solid #D5CFE3;"> [[File:{{{championsprite}}}|{{{champion}}}|link={{{champion}}}]]<br /><b><a href="/wiki/Pok%C3%A9mon_Champion" title="Pokémon Champion"><span style="color:#000;">Champion</span></a></b> <b>[[{{{champion}}}|<span style="color:#000;">{{{champion}}}</span>]]</b>
+</td></tr></table>
+</td></tr>
+<tr style="display: none; text-align:center;">
+<td class="roundy" style="border: 2px solid #ADA1C9; background: #D5CFE3;"> [[|<span style="color:#000000;"><b> League</b></span>]]
+<table class="roundy" width="100%" style="background:#D5CFE3; border-collapse: collapse;">
+
+<tr>
+<td class="roundytl" style="background:#9DC1B7; border-right: 1px solid #D5CFE3;"> [[File:{{{elite1sprite2}}}|64px|{{{elite12}}}|link={{{elite12}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite12}}}|<span style="color:#000;">{{{elite12}}}</span>]]</b></small>
+</td>
+<td style="background:#9DC1B7; border-right: 1px solid #D5CFE3;"> [[File:{{{elite2sprite2}}}|64px|{{{elite22}}}|link={{{elite22}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite22}}}|<span style="color:#000;">{{{elite22}}}</span>]]</b></small>
+</td>
+<td style="background:#9DC1B7; border-left: 1px solid #D5CFE3;"> [[File:{{{elite3sprite2}}}|64px|{{{elite32}}}|link={{{elite32}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite32}}}|<span style="color:#000;">{{{elite32}}}</span>]]</b></small>
+</td>
+<td class="roundytr" style="background:#9DC1B7; border-left: 1px solid #D5CFE3;"> [[File:{{{elite4sprite2}}}|64px|{{{elite42}}}|link={{{elite42}}}]]<br /><small><b><a href="/wiki/Elite_Four" title="Elite Four"><span style="color:#000;">Elite Four</span></a></b></small><br /><small><b>[[{{{elite42}}}|<span style="color:#000;">{{{elite42}}}</span>]]</b></small>
+</td></tr>
+<tr>
+<td class="roundybottom" colspan="4" style="background:#9DC1B7; border-top: 1px solid #D5CFE3;"> [[File:{{{championsprite2}}}|{{{champion2}}}|link={{{champion2}}}]]<br /><b><a href="/wiki/Pok%C3%A9mon_Champion" title="Pokémon Champion"><span style="color:#000;">Champion</span></a></b> <b>[[{{{champion2}}}|<span style="color:#000;">{{{champion2}}}</span>]]</b>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="border: 2px solid #ADA1C9; background: #D5CFE3; color:#000;"> <div style="text-align:center;"><b><a href="/wiki/Route" title="Route"><span style="color:#000000;">Connecting locations</span></a></b></div>
+<table class="roundy" style="margin:auto; background:#D5CFE3; border-collapse: collapse;">
+
+<tr style="text-align:center;">
+<td width="30%"> &#160;
+</td>
+<td width="40%" style="background:#FFFFFF; border-top-left-radius: 100px; -moz-border-radius-topleft: 100px; -webkit-border-top-left-radius: 100px; -khtml-border-top-left-radius: 100px; -icab-border-top-left-radius: 100px; -o-border-top-left-radius: 100px; border-top-right-radius: 100px; -moz-border-radius-topright: 100px; -webkit-border-top-right-radius: 100px; -khtml-border-top-right-radius: 100px; -icab-border-top-right-radius: 100px; -o-border-top-right-radius: 100px;">
+<table width="100%" style="background:#FFFFFF; border-top-left-radius: 100px; -moz-border-radius-topleft: 100px; -webkit-border-top-left-radius: 100px; -khtml-border-top-left-radius: 100px; -icab-border-top-left-radius: 100px; -o-border-top-left-radius: 100px; border-top-right-radius: 100px; -moz-border-radius-topright: 100px; -webkit-border-top-right-radius: 100px; -khtml-border-top-right-radius: 100px; -icab-border-top-right-radius: 100px; -o-border-top-right-radius: 100px;">
+
+<tr style="text-align:center;">
+<td> &#8593;
+</td></tr>
+<tr style="text-align:center;">
+<td> <a href="/wiki/Kanto_Route_10" title="Kanto Route 10"><span style="color:#000;">Route 10</span></a>
+</td></tr></table>
+</td>
+<td width="30%"> &#160;
+</td></tr>
+<tr>
+<td width="30%" style="text-align:right; background:#FFFFFF; border-top-left-radius: 100px; -moz-border-radius-topleft: 100px; -webkit-border-top-left-radius: 100px; -khtml-border-top-left-radius: 100px; -icab-border-top-left-radius: 100px; -o-border-top-left-radius: 100px; border-bottom-left-radius: 100px; -moz-border-radius-bottomleft: 100px; -webkit-border-bottom-left-radius: 100px; -khtml-border-bottom-left-radius: 100px; -icab-border-bottom-left-radius: 100px; -o-border-bottom-left-radius: 100px;">
+<table width="100%" style="background:#FFFFFF; border-top-left-radius: 100px; -moz-border-radius-topleft: 100px; -webkit-border-top-left-radius: 100px; -khtml-border-top-left-radius: 100px; -icab-border-top-left-radius: 100px; -o-border-top-left-radius: 100px; border-bottom-left-radius: 100px; -moz-border-radius-bottomleft: 100px; -webkit-border-bottom-left-radius: 100px; -khtml-border-bottom-left-radius: 100px; -icab-border-bottom-left-radius: 100px; -o-border-bottom-left-radius: 100px;">
+
+<tr style="text-align:right;">
+<td> &#8592;
+</td>
+<td> <a href="/wiki/Kanto_Route_8" title="Kanto Route 8"><span style="color:#000;">Route 8</span></a>
+</td></tr></table>
+</td>
+<th width="40%" style="background:#FFFFFF; border: 1px solid #D5CFE3;"> Lavender Town
+</th>
+<td width="30%" style="text-align:left; background:#D5CFE3; border-top-right-radius: 100px; -moz-border-radius-topright: 100px; -webkit-border-top-right-radius: 100px; -khtml-border-top-right-radius: 100px; -icab-border-top-right-radius: 100px; -o-border-top-right-radius: 100px; border-bottom-right-radius: 100px; -moz-border-radius-bottomright: 100px; -webkit-border-bottom-right-radius: 100px; -khtml-border-bottom-right-radius: 100px; -icab-border-bottom-right-radius: 100px; -o-border-bottom-right-radius: 100px;">
+</td></tr>
+<tr style="text-align:center;">
+<td> &#160;
+</td>
+<td style="background:#FFFFFF; border-bottom-left-radius: 100px; -moz-border-radius-bottomleft: 100px; -webkit-border-bottom-left-radius: 100px; -khtml-border-bottom-left-radius: 100px; -icab-border-bottom-left-radius: 100px; -o-border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; -moz-border-radius-bottomright: 100px; -webkit-border-bottom-right-radius: 100px; -khtml-border-bottom-right-radius: 100px; -icab-border-bottom-right-radius: 100px; -o-border-bottom-right-radius: 100px;">
+<table width="100%" style="background:#FFFFFF; border-bottom-left-radius: 100px; -moz-border-radius-bottomleft: 100px; -webkit-border-bottom-left-radius: 100px; -khtml-border-bottom-left-radius: 100px; -icab-border-bottom-left-radius: 100px; -o-border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; -moz-border-radius-bottomright: 100px; -webkit-border-bottom-right-radius: 100px; -khtml-border-bottom-right-radius: 100px; -icab-border-bottom-right-radius: 100px; -o-border-bottom-right-radius: 100px;">
+
+<tr>
+<td> <a href="/wiki/Kanto_Route_12" title="Kanto Route 12"><span style="color:#000;">Route 12</span></a>
+</td></tr>
+<tr style="text-align:center;">
+<td> &#8595;
+</td></tr></table>
+</td>
+<td> &#160;
+</td></tr></table>
+</td></tr>
+<tr style="text-align:center;">
+<td class="roundy" style="border: 2px solid #ADA1C9; background: #D5CFE3;"> <span style="color:#000000;"><b><a href="/wiki/Region" title="Region"><span style="color:#000000;">Location</span></a></b></span> <br /> <a href="/wiki/File:Kanto_Lavender_Town_Map.png" class="image"><img alt="Kanto Lavender Town Map.png" src="//cdn.bulbagarden.net/upload/1/14/Kanto_Lavender_Town_Map.png" width="192" height="145" /></a> <br /> <span style="color:#000000;"><small>Location of Lavender Town in <a href="/wiki/Kanto" title="Kanto"><span style="color:#000000;">Kanto</span></a>.</small></span>
+</td></tr>
+<tr>
+<td class="roundy" style="border: 2px solid #ADA1C9; background: #D5CFE3;">
+<table class="collapsible" width="100%" style="background: transparent;">
+
+<tr class="expandable">
+<th> Other generation maps
+</th></tr>
+<tr style="text-align:center;">
+<td>
+<table class="roundy" width="100%" style="background: #D5CFE3;">
+
+<tr>
+<td width="33%" class="roundy" style="background: #FFFFFF;"> <a href="/wiki/File:Lavender_Town_RBY.png" class="image"><img alt="Lavender Town RBY.png" src="//cdn.bulbagarden.net/upload/thumb/3/3b/Lavender_Town_RBY.png/100px-Lavender_Town_RBY.png" width="100" height="90" srcset="//cdn.bulbagarden.net/upload/thumb/3/3b/Lavender_Town_RBY.png/150px-Lavender_Town_RBY.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/3b/Lavender_Town_RBY.png/200px-Lavender_Town_RBY.png 2x" /></a>
+</td>
+<td width="33%" class="roundy" style="background: #FFFFFF;"> <a href="/wiki/File:Lavender_Town_GSC.png" class="image"><img alt="Lavender Town GSC.png" src="//cdn.bulbagarden.net/upload/thumb/a/a2/Lavender_Town_GSC.png/100px-Lavender_Town_GSC.png" width="100" height="90" srcset="//cdn.bulbagarden.net/upload/thumb/a/a2/Lavender_Town_GSC.png/150px-Lavender_Town_GSC.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a2/Lavender_Town_GSC.png/200px-Lavender_Town_GSC.png 2x" /></a>
+</td>
+<td width="33%" class="roundy" style="background: #FFFFFF;"> <a href="/wiki/File:Lavender_Town_FRLG.png" class="image"><img alt="Lavender Town FRLG.png" src="//cdn.bulbagarden.net/upload/thumb/4/48/Lavender_Town_FRLG.png/100px-Lavender_Town_FRLG.png" width="100" height="83" srcset="//cdn.bulbagarden.net/upload/thumb/4/48/Lavender_Town_FRLG.png/150px-Lavender_Town_FRLG.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/48/Lavender_Town_FRLG.png/200px-Lavender_Town_FRLG.png 2x" /></a>
+</td></tr>
+<tr>
+<th> <span style="color:#000000;">Gen I</span>
+</th>
+<th> <span style="color:#000000;">Gen II</span>
+</th>
+<th> <span style="color:#000000;">Gen III</span>
+</th></tr></table>
+</td></tr></table>
+</td></tr></table>
+<p><b>Lavender Town</b> (Japanese: <b>シオンタウン</b> <i>Shion Town</i>) is a small town located in northeast <a href="/wiki/Kanto" title="Kanto">Kanto</a>, just south of the <a href="/wiki/Rock_Tunnel" title="Rock Tunnel">Rock Tunnel</a>.
+</p><p>The citizens of Lavender Town in <a href="/wiki/Generation_I" title="Generation I">Generation I</a> and <a href="/wiki/Generation_III" title="Generation III">Generation III</a> claim Lavender Town is known mainly for ghost sightings in the <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a> and as the main gravesite of Pokémon. In <a href="/wiki/Generation" title="Generation">Generation</a> <a href="/wiki/Generation_II" title="Generation II">II</a> and <a href="/wiki/Generation_IV" title="Generation IV">IV</a> the town is noticeably modernized with the inclusion of a broadcasting station. The citizens claim the <a href="/wiki/Ghost_(literal)" title="Ghost (literal)">ghosts</a> that appear in the Tower are the spirits of Pokémon that have died.
+</p><p>North of Lavender is <a href="/wiki/Kanto_Route_10" title="Kanto Route 10">Route 10</a> and the <a href="/wiki/Rock_Tunnel" title="Rock Tunnel">Rock Tunnel</a>.  West of the town is <a href="/wiki/Kanto_Route_8" title="Kanto Route 8">Route 8</a>, while to the south is <a href="/wiki/Kanto_Route_12" title="Kanto Route 12">Route 12</a> and the <a href="/wiki/Kanto_Route_12#Silence_Bridge" title="Kanto Route 12">Silence Bridge</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Slogan"><span class="tocnumber">1</span> <span class="toctext">Slogan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Generations_I-III"><span class="tocnumber">1.1</span> <span class="toctext">Generations I-III</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Generation_IV"><span class="tocnumber">1.2</span> <span class="toctext">Generation IV</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Places_of_interest"><span class="tocnumber">2</span> <span class="toctext">Places of interest</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Pok.C3.A9mon_Tower"><span class="tocnumber">2.1</span> <span class="toctext">Pokémon Tower</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Kanto_Radio_Tower"><span class="tocnumber">2.2</span> <span class="toctext">Kanto Radio Tower</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Lavender_Volunteer_Pok.C3.A9mon_House"><span class="tocnumber">2.3</span> <span class="toctext">Lavender Volunteer Pokémon House</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Name_Rater"><span class="tocnumber">2.4</span> <span class="toctext">Name Rater</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#House_of_Memories"><span class="tocnumber">2.5</span> <span class="toctext">House of Memories</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Silph_Scope_advertisement"><span class="tocnumber">2.6</span> <span class="toctext">Silph Scope advertisement</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Pok.C3.A9mon_Red.2C_Blue.2C_and_Yellow"><span class="tocnumber">3.1</span> <span class="toctext">Pokémon Red, Blue, and Yellow</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Pok.C3.A9mon_Gold.2C_Silver.2C_and_Crystal"><span class="tocnumber">3.2</span> <span class="toctext">Pokémon Gold, Silver, and Crystal</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Pok.C3.A9mon_FireRed_and_LeafGreen"><span class="tocnumber">3.3</span> <span class="toctext">Pokémon FireRed and LeafGreen</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Pok.C3.A9mon_HeartGold_and_SoulSilver"><span class="tocnumber">3.4</span> <span class="toctext">Pokémon HeartGold and SoulSilver</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Pok.C3.A9_Mart"><span class="tocnumber">4</span> <span class="toctext">Poké Mart</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Items"><span class="tocnumber">5</span> <span class="toctext">Items</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Difference_between_generations"><span class="tocnumber">6</span> <span class="toctext">Difference between generations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Generation_I_and_III"><span class="tocnumber">6.1</span> <span class="toctext">Generation I and III</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Generation_II_and_IV"><span class="tocnumber">6.2</span> <span class="toctext">Generation II and IV</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#In_the_spin-off_games"><span class="tocnumber">7</span> <span class="toctext">In the spin-off games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#In_Pok.C3.A9mon_Pinball"><span class="tocnumber">7.1</span> <span class="toctext">In Pokémon Pinball</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#In_the_anime"><span class="tocnumber">8</span> <span class="toctext">In the anime</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#In_the_main_series"><span class="tocnumber">8.1</span> <span class="toctext">In the main series</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#In_Pok.C3.A9mon_Origins"><span class="tocnumber">8.2</span> <span class="toctext">In Pokémon Origins</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#In_the_manga"><span class="tocnumber">9</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#In_The_Electric_Tale_of_Pikachu_manga"><span class="tocnumber">9.1</span> <span class="toctext">In The Electric Tale of Pikachu manga</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">9.2</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Trivia"><span class="tocnumber">10</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#Name_origin"><span class="tocnumber">11</span> <span class="toctext">Name origin</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Slogan">Slogan</span></h2>
+<h3><span class="mw-headline" id="Generations_I-III">Generations I-III</span></h3>
+<p><i><b>The Noble Purple Town</b></i> (Japanese: <b>シオンは　むらさき　とうとい　いろ</b> <i>Shion is the color of purple nobility.</i>)
+</p>
+<h3><span class="mw-headline" id="Generation_IV">Generation IV</span></h3>
+<p><i><b>The Noble Town</b></i> (Japanese: <b>とうとさの　にじむ　まち</b> <i>The town oozing with nobleness.</i>)
+</p>
+<h2><span class="mw-headline" id="Places_of_interest">Places of interest</span></h2>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Tower">Pokémon Tower</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a></i></dd></dl>
+<p>In <a href="/wiki/Generation" title="Generation">Generations</a> <a href="/wiki/Generation_I" title="Generation I">I</a> and <a href="/wiki/Generation_III" title="Generation III">III</a>, Pokémon Tower is a seven-floor graveyard that holds the grave of departed Pokémon. On all seven floors, the tower houses hundreds of graves of deceased <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a>.
+</p><p>Many people visit the building daily to pay their respects to the fallen. On all floors other than the first two, though, the possibility of being attacked by <a href="/wiki/Wild_Pok%C3%A9mon" title="Wild Pokémon">wild Pokémon</a> is present. Populated by <a href="/wiki/Channeler_(Trainer_class)" title="Channeler (Trainer class)">Channelers</a>, it was notable for numerous <a href="/wiki/Ghost_(literal)" title="Ghost (literal)">ghost</a> sightings (Pokémon killed by <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a>), as well as the location of Team Rocket's kidnapping of <a href="/wiki/Mr._Fuji" title="Mr. Fuji">Mr. Fuji</a>. Although players can encounter <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost-type</a> Pokémon here, they can not be seen or captured unless they have a <a href="/wiki/Silph_Scope" title="Silph Scope">Silph Scope</a>. 
+</p><p>Aside from graves, the tower is home to wild <a href="/wiki/Cubone_(Pok%C3%A9mon)" title="Cubone (Pokémon)">Cubone</a> as well as many <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost-type</a> Pokémon. Prior to the player's visit, <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a> tried to steal the Cubone to sell their valuable skulls. In the process, a mother <a href="/wiki/Marowak_(Pok%C3%A9mon)" title="Marowak (Pokémon)">Marowak</a> that was protecting her Cubone child was killed. <a href="/wiki/Marowak_(ghost)" title="Marowak (ghost)">The ghost</a> of the mother Marowak haunted the tower until <a href="/wiki/Red_(game)" title="Red (game)">Red</a>/<a href="/wiki/Leaf_(game)" title="Leaf (game)">Leaf</a> was able to knock it out, setting her spirit free.
+</p><p>The Ghost-type Pokémon in the tower appear to have a unique ability to disguise themselves as literal ghosts. Any Pokémon who attempts to fight ghosts without the trainer having a Silph Scope will be "too scared to move" and hence will be unable to attack or do anything else except run. However, the <a href="/wiki/Silph_Scope" title="Silph Scope">Silph Scope</a> will reveal their true natures and identity, allowing the Pokémon to be engaged in battle.
+</p>
+<h3><span class="mw-headline" id="Kanto_Radio_Tower">Kanto Radio Tower</span></h3>
+<p>In <a href="/wiki/Generation_II" title="Generation II">Generation II</a> and <a href="/wiki/Generation_IV" title="Generation IV">IV</a>, the tower was converted to the Kanto Radio Tower, with all graves being moved to either the <a href="/wiki/House_of_Memories" title="House of Memories">House of Memories</a> or underground. The new House of Memories is placed where the <a href="/wiki/Pok%C3%A9_Mart" title="Poké Mart">Poké Mart</a> has been before. The Kanto radio tower can be entered, like its <a href="/wiki/Goldenrod_Radio_Tower" title="Goldenrod Radio Tower">Johto counterpart</a>, but only the ground floor, as the upper floors are completely off limits. This was done to prevent a similar take over that was seen in Johto. Talking to the receptionist on the ground floor, the player can receive a <a href="/wiki/Pok%C3%A9gear" title="Pokégear">Pokégear</a> radio card for Kanto. 
+</p><p>The Radio Tower broadcasts music and radio programs, including the <a href="/wiki/Pok%C3%A9_Flute" title="Poké Flute">Poké Flute</a> channel, to the radios and <a href="/wiki/Pok%C3%A9gear" title="Pokégear">Pokégear</a> of Kanto. After restoring power to Kanto by fixing the generator at the <a href="/wiki/Kanto_Power_Plant" title="Kanto Power Plant">Kanto Power Plant</a>, Trainers can receive the <a href="/wiki/Pok%C3%A9gear#Radio" title="Pokégear">EXPN Card</a> from the manager of the tower, allowing Pokégears to tune into the Poké Flute channel, which can be used to move <a href="/wiki/Snorlax_(Pok%C3%A9mon)" title="Snorlax (Pokémon)">Snorlax</a> from its slumber. The stairs in <a href="/wiki/Generation_II" title="Generation II">Generation II</a> lead down into a basement instead of up into the tower, but the player is blocked by a guard.
+</p>
+<h3><span class="mw-headline" id="Lavender_Volunteer_Pok.C3.A9mon_House">Lavender Volunteer Pokémon House</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:194px;"><a href="/wiki/File:Lavender_Volunteer_Pok%C3%A9mon_House.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/b/b3/Lavender_Volunteer_Pok%C3%A9mon_House.png" width="192" height="144" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lavender_Volunteer_Pok%C3%A9mon_House.png" class="internal" title="Enlarge"></a></div>The inside of the Volunteer House</div></div></div>
+<p>The Lavender Volunteer Pokémon House (Japanese: あいのボランティアポケモンハウス <i>Caring Volunteer Pokémon House</i>), located in central Lavender Town, was founded by <a href="/wiki/Mr._Fuji" title="Mr. Fuji">Mr. Fuji</a> in order to care for abandoned and orphaned Pokémon. Many members of the organization live in the safe house, looking after the abandoned Pokémon. Many Pokémon have stayed at the Volunteer Pokémon House over time, including <a href="/wiki/Psyduck_(Pok%C3%A9mon)" title="Psyduck (Pokémon)">Psyduck</a>, <a href="/wiki/Nidorino_(Pok%C3%A9mon)" title="Nidorino (Pokémon)">Nidorino</a>, and after the Team Rocket attack on the Pokémon Tower, <a href="/wiki/Cubone_(Pok%C3%A9mon)" title="Cubone (Pokémon)">Cubone</a>.
+</p><p>A newborn <a href="/wiki/Cubone_(Pok%C3%A9mon)" title="Cubone (Pokémon)">Cubone</a> has been Mr. Fuji's biggest concern ever since the attack on the Pokémon Tower and the death of <a href="/wiki/Marowak_(ghost)" title="Marowak (ghost)">its mother</a> at the hands of Team Rocket, with him praying for it every night and caring for it everyday in the Volunteer Pokémon House. After going through the Pokémon Tower and defeating Team Rocket, Mr. Fuji will give the player a <a href="/wiki/Pok%C3%A9_Flute" title="Poké Flute">Poké Flute</a> in gratitude. The player then uses this flute to progress the game.
+</p><p>The Lavender Volunteer Pokémon House is in fact Mr. Fuji's own house, however, it is designed for abandoned Pokémon. There is a pen in the corner for Pokémon to play in, and a kitchen area that has a delicious smelling odor admitting from it. There are also Pokémon magazines lined on the shelf, such as the Pokémon Insider, Pokémon Fan, and on the table there is an open copy of Pokémon Fan Magazine with a clipping of the Monthly Grand Prize Draw application form missing. In addition to this there are several different kind of pot plants around the room and a TV with a show about a Pokémon having fun.
+</p>
+<h3><span class="mw-headline" id="Name_Rater">Name Rater</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Name_Rater" title="Name Rater">Name Rater</a></i></dd></dl>
+<p>The Name Rater is located in the south end of town, and allows the player to change, or grant a nickname to any of their Pokémon. If the Pokémon was caught by the player that currently owns it, he'll say that the name could be better and offer the player the option of changing it. If the Pokémon he's judging was obtained via a trade, he will say that the name is perfect and refuse to change it. However, if both players have identical <a href="/wiki/Trainer_ID_number" title="Trainer ID number">Trainer IDs and secret IDs</a>, he will allow name changes.
+</p>
+<h3><span class="mw-headline" id="House_of_Memories">House of Memories</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/House_of_Memories" title="House of Memories">House of Memories</a></i></dd></dl>
+<p>The House of Memories, named Soul House in <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, is a small building located on the south-eastern side of Lavender Town during the events of Generation II and IV. The House of Memories was built to hold graves from the <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a> when it was converted to the Kanto Radio Tower. There are many chambers within the building, but they cannot be accessed by anyone other than <a href="/wiki/Mr._Fuji" title="Mr. Fuji">Mr. Fuji</a>. There are no wild Pokémon or <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">Trainer battles</a> found within the House of Memories.
+</p>
+<h3><span class="mw-headline" id="Silph_Scope_advertisement">Silph Scope advertisement</span></h3>
+<p>In <a href="/wiki/Generation_I" title="Generation I">Generation I</a> and <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">FireRed and LeafGreen</a>, there's a sign advertising the <a href="/wiki/Silph_Scope" title="Silph Scope">Silph Scope</a>.
+</p>
+<div style="width: 246px; min-height: 45px; vertical-align: middle; border: #687078 solid; border-width: 2px 3px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -khtml-border-radius: 4px; -icab-border-radius: 4px; -o-border-radius: 4px; background: #c8c8d8; padding: 2px 0px; margin: 15px; display: block;">
+<div style="width: 230px; min-height: 45px; background: #f8f8f8; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; -icab-border-radius: 2px; -o-border-radius: 2px; margin: 0px 8px; display: block;">
+<div style="text-align: left; color: #606060; font-size: 95%; line-height: 1.5em; padding: 0px 2px; word-wrap: break-word; overflow: hidden;">
+<p>New SILPH SCOPE!<br />
+Make the Invisible Plain to See!<br />
+SILPH CO.<br />
+</p>
+</div></div></div>
+<h2><span class="mw-headline" id="Demographics">Demographics</span></h2>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Red.2C_Blue.2C_and_Yellow">Pokémon Red, Blue, and Yellow</span></h3>
+<p>Lavender Town's population is 36. Most of these people are inside the <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a>.
+</p>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Gold.2C_Silver.2C_and_Crystal">Pokémon Gold, Silver, and Crystal</span></h3>
+<p>Lavender Town's population is 27. This decline is due to the Pokémon Tower being converted into the Kanto Radio Tower.
+</p>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_FireRed_and_LeafGreen">Pokémon FireRed and LeafGreen</span></h3>
+<p>Lavender Town's population is 41. Most of the population here are brought up living around the Pokémon Tower, so they believe in ghosts and they are very religious, attending services at the Tower and praying for Pokémon's well-being. The number makes it the third largest settlement in Kanto.
+</p>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_HeartGold_and_SoulSilver">Pokémon HeartGold and SoulSilver</span></h3>
+<p>In <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>, the population of Lavender Town is 30. Lavender Town suffered a large decline in population from FireRed and LeafGreen to HeartGold and SoulSilver.
+</p>
+<h2><span class="mw-headline" id="Pok.C3.A9_Mart">Poké Mart</span></h2>
+<table align="left" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #0066FF; background: #66BBFF; margin-right: 5px; margin-bottom: 5px;">
+
+<tr>
+<th colspan="2"> Generation I
+</th></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Great_Ball_Sprite.png" class="image" title="Great Ball"><img alt="Great Ball" src="//cdn.bulbagarden.net/upload/c/ca/Bag_Great_Ball_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Great_Ball" class="mw-redirect" title="Great Ball"><span style="color:#000;">Great Ball</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>600
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Super_Potion_Sprite.png" class="image" title="Super Potion"><img alt="Super Potion" src="//cdn.bulbagarden.net/upload/a/a3/Bag_Super_Potion_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Super_Potion" class="mw-redirect" title="Super Potion"><span style="color:#000;">Super Potion</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>700
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Revive_Sprite.png" class="image" title="Revive"><img alt="Revive" src="//cdn.bulbagarden.net/upload/9/9a/Bag_Revive_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Revive" title="Revive"><span style="color:#000;">Revive</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1500
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Escape_Rope_Sprite.png" class="image" title="Escape Rope"><img alt="Escape Rope" src="//cdn.bulbagarden.net/upload/0/0d/Bag_Escape_Rope_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Escape_Rope" title="Escape Rope"><span style="color:#000;">Escape Rope</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>550
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Super_Repel_Sprite.png" class="image" title="Super Repel"><img alt="Super Repel" src="//cdn.bulbagarden.net/upload/c/c0/Bag_Super_Repel_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Super_Repel" title="Super Repel"><span style="color:#000;">Super Repel</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>500
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Antidote_Sprite.png" class="image" title="Antidote"><img alt="Antidote" src="//cdn.bulbagarden.net/upload/e/ea/Bag_Antidote_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Antidote" title="Antidote"><span style="color:#000;">Antidote</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>100
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Burn_Heal_Sprite.png" class="image" title="Burn Heal"><img alt="Burn Heal" src="//cdn.bulbagarden.net/upload/6/6c/Bag_Burn_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Burn_Heal" title="Burn Heal"><span style="color:#000;">Burn Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>250
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Ice_Heal_Sprite.png" class="image" title="Ice Heal"><img alt="Ice Heal" src="//cdn.bulbagarden.net/upload/9/9f/Bag_Ice_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Ice_Heal" title="Ice Heal"><span style="color:#000;">Ice Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>250
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Paralyze_Heal_Sprite.png" class="image" title="Paralyze Heal"><img alt="Paralyze Heal" src="//cdn.bulbagarden.net/upload/a/ab/Bag_Paralyze_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Paralyze_Heal" title="Paralyze Heal"><span style="color:#000;">Paralyze Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>200
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+</td></tr></table>
+<table align="left" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #0066FF; background: #66BBFF; margin-right: 5px; margin-bottom: 5px;">
+
+<tr>
+<th colspan="2"> Generation II
+</th></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Great_Ball_Sprite.png" class="image" title="Great Ball"><img alt="Great Ball" src="//cdn.bulbagarden.net/upload/c/ca/Bag_Great_Ball_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Great_Ball" class="mw-redirect" title="Great Ball"><span style="color:#000;">Great Ball</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>600
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Potion_Sprite.png" class="image" title="Potion"><img alt="Potion" src="//cdn.bulbagarden.net/upload/e/ed/Bag_Potion_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Potion" title="Potion"><span style="color:#000;">Potion</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>300
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Super_Potion_Sprite.png" class="image" title="Super Potion"><img alt="Super Potion" src="//cdn.bulbagarden.net/upload/a/a3/Bag_Super_Potion_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Super_Potion" class="mw-redirect" title="Super Potion"><span style="color:#000;">Super Potion</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>700
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Max_Repel_Sprite.png" class="image" title="Max Repel"><img alt="Max Repel" src="//cdn.bulbagarden.net/upload/2/2e/Bag_Max_Repel_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Max_Repel" title="Max Repel"><span style="color:#000;">Max Repel</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>700
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Antidote_Sprite.png" class="image" title="Antidote"><img alt="Antidote" src="//cdn.bulbagarden.net/upload/e/ea/Bag_Antidote_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Antidote" title="Antidote"><span style="color:#000;">Antidote</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>100
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Paralyze_Heal_Sprite.png" class="image" title="Paralyze Heal"><img alt="Paralyze Heal" src="//cdn.bulbagarden.net/upload/a/ab/Bag_Paralyze_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Paralyze_Heal" title="Paralyze Heal"><span style="color:#000;">Parlyz Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>200
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Awakening_Sprite.png" class="image" title="Awakening"><img alt="Awakening" src="//cdn.bulbagarden.net/upload/8/8d/Bag_Awakening_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Awakening" title="Awakening"><span style="color:#000;">Awakening</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>250
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Burn_Heal_Sprite.png" class="image" title="Burn Heal"><img alt="Burn Heal" src="//cdn.bulbagarden.net/upload/6/6c/Bag_Burn_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Burn_Heal" title="Burn Heal"><span style="color:#000;">Burn Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>250
+</td></tr></table>
+</td></tr></table>
+<table align="left" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #0066FF; background: #66BBFF; margin-right: 5px; margin-bottom: 5px;">
+
+<tr>
+<th colspan="2"> Generation III
+</th></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Great_Ball_Sprite.png" class="image" title="Great Ball"><img alt="Great Ball" src="//cdn.bulbagarden.net/upload/c/ca/Bag_Great_Ball_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Great_Ball" class="mw-redirect" title="Great Ball"><span style="color:#000;">Great Ball</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>600
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Super_Potion_Sprite.png" class="image" title="Super Potion"><img alt="Super Potion" src="//cdn.bulbagarden.net/upload/a/a3/Bag_Super_Potion_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Super_Potion" class="mw-redirect" title="Super Potion"><span style="color:#000;">Super Potion</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>700
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Revive_Sprite.png" class="image" title="Revive"><img alt="Revive" src="//cdn.bulbagarden.net/upload/9/9a/Bag_Revive_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Revive" title="Revive"><span style="color:#000;">Revive</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1500
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Antidote_Sprite.png" class="image" title="Antidote"><img alt="Antidote" src="//cdn.bulbagarden.net/upload/e/ea/Bag_Antidote_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Antidote" title="Antidote"><span style="color:#000;">Antidote</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>100
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Paralyze_Heal_Sprite.png" class="image" title="Paralyze Heal"><img alt="Paralyze Heal" src="//cdn.bulbagarden.net/upload/a/ab/Bag_Paralyze_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Paralyze_Heal" title="Paralyze Heal"><span style="color:#000;">Parlyz Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>200
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Burn_Heal_Sprite.png" class="image" title="Burn Heal"><img alt="Burn Heal" src="//cdn.bulbagarden.net/upload/6/6c/Bag_Burn_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Burn_Heal" title="Burn Heal"><span style="color:#000;">Burn Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>250
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Ice_Heal_Sprite.png" class="image" title="Ice Heal"><img alt="Ice Heal" src="//cdn.bulbagarden.net/upload/9/9f/Bag_Ice_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Ice_Heal" title="Ice Heal"><span style="color:#000;">Ice Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>250
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Escape_Rope_Sprite.png" class="image" title="Escape Rope"><img alt="Escape Rope" src="//cdn.bulbagarden.net/upload/0/0d/Bag_Escape_Rope_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Escape_Rope" title="Escape Rope"><span style="color:#000;">Escape Rope</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>550
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Super_Repel_Sprite.png" class="image" title="Super Repel"><img alt="Super Repel" src="//cdn.bulbagarden.net/upload/c/c0/Bag_Super_Repel_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Super_Repel" title="Super Repel"><span style="color:#000;">Super Repel</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>500
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+</td></tr></table><br clear="left" />
+<table align="left" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #0066FF; background: #66BBFF; margin-right: 5px; margin-bottom: 5px;">
+
+<tr>
+<th colspan="2"> Lower cashier (Generation IV)
+</th></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Pok%C3%A9_Ball_Sprite.png" class="image" title="Poké Ball"><img alt="Poké Ball" src="//cdn.bulbagarden.net/upload/9/93/Bag_Pok%C3%A9_Ball_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball"><span style="color:#000;">Poké Ball</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>200
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Great_Ball_Sprite.png" class="image" title="Great Ball"><img alt="Great Ball" src="//cdn.bulbagarden.net/upload/c/ca/Bag_Great_Ball_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Great_Ball" class="mw-redirect" title="Great Ball"><span style="color:#000;">Great Ball</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>600
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Ultra_Ball_Sprite.png" class="image" title="Ultra Ball"><img alt="Ultra Ball" src="//cdn.bulbagarden.net/upload/0/03/Bag_Ultra_Ball_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Ultra_Ball" class="mw-redirect" title="Ultra Ball"><span style="color:#000;">Ultra Ball</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1200
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Potion_Sprite.png" class="image" title="Potion"><img alt="Potion" src="//cdn.bulbagarden.net/upload/e/ed/Bag_Potion_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Potion" title="Potion"><span style="color:#000;">Potion</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>300
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Super_Potion_Sprite.png" class="image" title="Super Potion"><img alt="Super Potion" src="//cdn.bulbagarden.net/upload/a/a3/Bag_Super_Potion_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Super_Potion" class="mw-redirect" title="Super Potion"><span style="color:#000;">Super Potion</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>700
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Hyper_Potion_Sprite.png" class="image" title="Hyper Potion"><img alt="Hyper Potion" src="//cdn.bulbagarden.net/upload/e/e1/Bag_Hyper_Potion_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Hyper_Potion" class="mw-redirect" title="Hyper Potion"><span style="color:#000;">Hyper Potion</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1200
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Max_Potion_Sprite.png" class="image" title="Max Potion"><img alt="Max Potion" src="//cdn.bulbagarden.net/upload/7/7d/Bag_Max_Potion_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Max_Potion" class="mw-redirect" title="Max Potion"><span style="color:#000;">Max Potion</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>2500
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Full_Restore_Sprite.png" class="image" title="Full Restore"><img alt="Full Restore" src="//cdn.bulbagarden.net/upload/c/ce/Bag_Full_Restore_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Full_Restore" title="Full Restore"><span style="color:#000;">Full Restore</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>3000
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Revive_Sprite.png" class="image" title="Revive"><img alt="Revive" src="//cdn.bulbagarden.net/upload/9/9a/Bag_Revive_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Revive" title="Revive"><span style="color:#000;">Revive</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1500
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Antidote_Sprite.png" class="image" title="Antidote"><img alt="Antidote" src="//cdn.bulbagarden.net/upload/e/ea/Bag_Antidote_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Antidote" title="Antidote"><span style="color:#000;">Antidote</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>100
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Paralyze_Heal_Sprite.png" class="image" title="Paralyze Heal"><img alt="Paralyze Heal" src="//cdn.bulbagarden.net/upload/a/ab/Bag_Paralyze_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Paralyze_Heal" title="Paralyze Heal"><span style="color:#000;">Parlyz Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>200
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Awakening_Sprite.png" class="image" title="Awakening"><img alt="Awakening" src="//cdn.bulbagarden.net/upload/8/8d/Bag_Awakening_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Awakening" title="Awakening"><span style="color:#000;">Awakening</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>250
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Burn_Heal_Sprite.png" class="image" title="Burn Heal"><img alt="Burn Heal" src="//cdn.bulbagarden.net/upload/6/6c/Bag_Burn_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Burn_Heal" title="Burn Heal"><span style="color:#000;">Burn Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>250
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Ice_Heal_Sprite.png" class="image" title="Ice Heal"><img alt="Ice Heal" src="//cdn.bulbagarden.net/upload/9/9f/Bag_Ice_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Ice_Heal" title="Ice Heal"><span style="color:#000;">Ice Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>250
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Full_Heal_Sprite.png" class="image" title="Full Heal"><img alt="Full Heal" src="//cdn.bulbagarden.net/upload/2/29/Bag_Full_Heal_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Full_Heal" title="Full Heal"><span style="color:#000;">Full Heal</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>600
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Escape_Rope_Sprite.png" class="image" title="Escape Rope"><img alt="Escape Rope" src="//cdn.bulbagarden.net/upload/0/0d/Bag_Escape_Rope_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Escape_Rope" title="Escape Rope"><span style="color:#000;">Escape Rope</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>550
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Repel_Sprite.png" class="image" title="Repel"><img alt="Repel" src="//cdn.bulbagarden.net/upload/5/5d/Bag_Repel_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Repel" title="Repel"><span style="color:#000;">Repel</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>350
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Super_Repel_Sprite.png" class="image" title="Super Repel"><img alt="Super Repel" src="//cdn.bulbagarden.net/upload/c/c0/Bag_Super_Repel_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Super_Repel" title="Super Repel"><span style="color:#000;">Super Repel</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>500
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Max_Repel_Sprite.png" class="image" title="Max Repel"><img alt="Max Repel" src="//cdn.bulbagarden.net/upload/2/2e/Bag_Max_Repel_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Max_Repel" title="Max Repel"><span style="color:#000;">Max Repel</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>700
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+</td></tr></table>
+<table align="left" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #0066FF; background: #66BBFF; margin-right: 5px; margin-bottom: 5px;">
+
+<tr>
+<th colspan="2"> Upper cashier (Generation IV)
+</th></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Snow_Mail_Sprite.png" class="image" title="Snow Mail"><img alt="Snow Mail" src="//cdn.bulbagarden.net/upload/e/e1/Bag_Snow_Mail_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Snow_Mail" class="mw-redirect" title="Snow Mail"><span style="color:#000;">Snow Mail</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>50
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Dusk_Ball_Sprite.png" class="image" title="Dusk Ball"><img alt="Dusk Ball" src="//cdn.bulbagarden.net/upload/0/06/Bag_Dusk_Ball_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Dusk_Ball" class="mw-redirect" title="Dusk Ball"><span style="color:#000;">Dusk Ball</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1000
+</td></tr></table>
+</td></tr>
+<tr align="center">
+<td width="50%" valign="top">
+<table align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 2px solid #777; background: #CCC;">
+
+<tr>
+<td rowspan="2" align="center" width="32px"> <a href="/wiki/File:Bag_Quick_Ball_Sprite.png" class="image" title="Quick Ball"><img alt="Quick Ball" src="//cdn.bulbagarden.net/upload/4/41/Bag_Quick_Ball_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="background: #EEE; border-top-right-radius: 6px; -moz-border-radius-topright: 6px; -webkit-border-top-right-radius: 6px; -khtml-border-top-right-radius: 6px; -icab-border-top-right-radius: 6px; -o-border-top-right-radius: 6px;" width="128px"> <a href="/wiki/Quick_Ball" class="mw-redirect" title="Quick Ball"><span style="color:#000;">Quick Ball</span></a>
+</td></tr>
+<tr>
+<td style="background: #EEE; border-bottom-right-radius: 6px; -moz-border-radius-bottomright: 6px; -webkit-border-bottom-right-radius: 6px; -khtml-border-bottom-right-radius: 6px; -icab-border-bottom-right-radius: 6px; -o-border-bottom-right-radius: 6px;"> <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="Pokémon Dollar" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1000
+</td></tr></table>
+</td>
+<td width="50%" valign="top">
+</td></tr></table><br clear="left" />
+<h2><span class="mw-headline" id="Items">Items</span></h2>
+<table class="roundy" style="background: #D9D9D9; border: 2px solid #CCCCCC" cellspacing="2" cellpadding="4">
+
+<tr>
+<th colspan="2" style="background: #E6E6E6; color:#000000; border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Item
+</th>
+<th style="background: #E6E6E6; color:#000000;"> Location
+</th>
+<th style="background: #E6E6E6; color:#000000; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Games
+</th></tr>
+<tr>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/File:Bag_Pok%C3%A9_Flute_Sprite.png" class="image" title="Poké Flute"><img alt="Poké Flute" src="//cdn.bulbagarden.net/upload/2/2d/Bag_Pok%C3%A9_Flute_Sprite.png" width="24" height="24" /></a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <a href="/wiki/Pok%C3%A9_Flute" title="Poké Flute">Poké Flute</a>
+</td>
+<td style="text-align:left; background: #FFFFFF"> Obtained from <a href="/wiki/Mr._Fuji" title="Mr. Fuji">Mr. Fuji</a> after the player defeats <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a> in the <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a>
+</td>
+<td style="text-align:center; background: #FFFFFF"> <b><span style="background: #FF1111"><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#000;">&#160;R&#160;</span></a></span><span style="background: #1111FF"><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#FFF;">&#160;B&#160;</span></a></span><span style="background: #FFD733"><a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#000;">&#160;Y&#160;</span></a></span><span style="background: #FF7327"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;FR&#160;</span></a></span><span style="background: #00DD00"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#000;">&#160;LG&#160;</span></a></span></b>
+</td></tr>
+<tr>
+<td colspan="4" style="background: #E6E6E6; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;">
+</td></tr></table>
+<h2><span class="mw-headline" id="Difference_between_generations">Difference between generations</span></h2>
+<h3><span class="mw-headline" id="Generation_I_and_III">Generation I and III</span></h3>
+<p>Lavender Town is very consistent in the way of layout, with a <a href="/wiki/Pok%C3%A9mon_Center" title="Pokémon Center">Pokémon Center</a> in the north-western district of the town, the <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a> on the eastern side of town, the Lavender Volunteer Pokémon House, located in central Lavender Town, the <a href="/wiki/Name_Rater" title="Name Rater">Name Rater</a> and other residential house on the southern side, and the <a href="/wiki/Pok%C3%A9_Mart" title="Poké Mart">Poké Mart</a> located on the south-eastern side. The Pokémon Tower in Generation I is cave-like on the outside with the Tower covered by rocks and mountain, however, this isn't the case in Generation III and the building is a complete tower. Apart from this, most aesthetic features have been enhanced. Trees have become bigger, the cement road has been changed to a gravel path, flowers are more visible and most other sprites have been upgraded to Generation III standards.
+</p>
+<h3><span class="mw-headline" id="Generation_II_and_IV">Generation II and IV</span></h3>
+<p>In <a href="/wiki/Generation_II" title="Generation II">Generation II</a> and <a href="/wiki/Generation_IV" title="Generation IV">IV</a> only, the tower was converted into a Radio Tower, broadcasting music and radio programs, including the <a href="/wiki/Pok%C3%A9_Flute" title="Poké Flute">Poké Flute</a> channel, to the radios and <a href="/wiki/Pok%C3%A9gear" title="Pokégear">Pokégear</a> of Kanto. Unlike the <a href="/wiki/Goldenrod_Radio_Tower" title="Goldenrod Radio Tower">Goldenrod Radio Tower</a> in <a href="/wiki/Goldenrod_City" title="Goldenrod City">Goldenrod City</a>, only one floor, the ground floor, is open to the public as a result of <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a>'s infiltration of the Goldenrod tower. The stairs in <a href="/wiki/Generation_II" title="Generation II">Generation II</a> lead down into a basement instead of up into the tower, but the player is blocked by a guard.
+</p><p>To compensate for the loss of the burial site, the graves were moved to a small building, the Soul House, at the south end of the town. Most of them were placed in secret chambers that only Mr. Fuji knows about. In Generation IV, the Soul House was renamed House of Memories. The House of Memories was built over the <a href="/wiki/Pok%C3%A9_Mart" title="Poké Mart">Poké Mart</a>, which was relocated next to the <a href="/wiki/Pok%C3%A9mon_Center" title="Pokémon Center">Pokémon Center</a> in the north-western district of Lavender Town.
+</p>
+<h2><span class="mw-headline" id="In_the_spin-off_games">In the spin-off games</span></h2>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Pinball">In Pokémon Pinball</span></h3>
+<p>In <a href="/wiki/Pok%C3%A9mon_Pinball" title="Pokémon Pinball">Pokémon Pinball</a>, Lavender Town appears on the Red table; catchable <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> include <a href="/wiki/Pidgey_(Pok%C3%A9mon)" title="Pidgey (Pokémon)">Pidgey</a>, <a href="/wiki/Ekans_(Pok%C3%A9mon)" title="Ekans (Pokémon)">Ekans</a>, <a href="/wiki/Mankey_(Pok%C3%A9mon)" title="Mankey (Pokémon)">Mankey</a>, <a href="/wiki/Growlithe_(Pok%C3%A9mon)" title="Growlithe (Pokémon)">Growlithe</a>, <a href="/wiki/Magnemite_(Pok%C3%A9mon)" title="Magnemite (Pokémon)">Magnemite</a>, <a href="/wiki/Gastly_(Pok%C3%A9mon)" title="Gastly (Pokémon)">Gastly</a>, <a href="/wiki/Cubone_(Pok%C3%A9mon)" title="Cubone (Pokémon)">Cubone</a>, <a href="/wiki/Electabuzz_(Pok%C3%A9mon)" title="Electabuzz (Pokémon)">Electabuzz</a> and <a href="/wiki/Zapdos_(Pok%C3%A9mon)" title="Zapdos (Pokémon)">Zapdos</a>.
+</p>
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Lavender_Town_anime.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/3/31/Lavender_Town_anime.png/250px-Lavender_Town_anime.png" width="250" height="188" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/3/31/Lavender_Town_anime.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lavender_Town_anime.png" class="internal" title="Enlarge"></a></div>Lavender Town in the anime</div></div></div>
+<h3><span class="mw-headline" id="In_the_main_series">In the main series</span></h3>
+<p>In the anime, Lavender Town appears in the episode <i><a href="/wiki/EP023" title="EP023">The Tower of Terror</a></i> where <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> travels to there to catch a <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost-type</a> Pokémon to fight <a href="/wiki/Sabrina" title="Sabrina">Sabrina</a>, and ends up befriending a <a href="/wiki/Sabrina%27s_Haunter" title="Sabrina's Haunter">Haunter</a>. Only the <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a> is seen during the episode, with a very different design than in the games. The tower is home to some playful <a href="/wiki/Gastly_(Pok%C3%A9mon)" title="Gastly (Pokémon)">Gastly</a>, <a href="/wiki/Sabrina%27s_Haunter" title="Sabrina's Haunter">Haunter</a>, and <a href="/wiki/Gengar_(Pok%C3%A9mon)" title="Gengar (Pokémon)">Gengar</a>. The <a href="/wiki/Battle_Frontier_(Generation_III)#Battle_Dome" title="Battle Frontier (Generation III)">Battle Dome</a> is also located near the city.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Origins">In Pokémon Origins</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Lavender_Town_PO.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/75/Lavender_Town_PO.png/250px-Lavender_Town_PO.png" width="250" height="141" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/7/75/Lavender_Town_PO.png/375px-Lavender_Town_PO.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/75/Lavender_Town_PO.png/500px-Lavender_Town_PO.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lavender_Town_PO.png" class="internal" title="Enlarge"></a></div>Lavender Town in Pokémon Origins</div></div></div>
+<p>Lavender Town played a major role in the <a href="/wiki/Pok%C3%A9mon_Origins" title="Pokémon Origins">Pokémon Origins</a> episode <i><a href="/wiki/PO02" title="PO02">File 2: Cubone</a></i>. After making his way to Lavender Town through <a href="/wiki/Rock_Tunnel" title="Rock Tunnel">Rock Tunnel</a>, <a href="/wiki/Red_(Origins)" title="Red (Origins)">Red</a> soon heard how Team Rocket had taken over the Pokémon Tower as their new base, and that <a href="/wiki/Mr._Fuji" title="Mr. Fuji">Mr. Fuji</a>, a local resident, had been captured by them when he had tried to convince them to leave. Willing to help driving Team Rocket away and save Mr. Fuji, Red volunteered to go into the tower, despite the persistent rumors of a <a href="/wiki/Ghost_(literal)" title="Ghost (literal)">ghost</a> appearing there.
+</p><p><a href="/wiki/Blue_(Origins)" title="Blue (Origins)">Blue</a>, overhearing the conversation, decided save Mr. Fuji himself and become the hero instead of Red. However, on the fifth floor of the Pokémon Tower, he encountered a ghost, which chased him down several floors, where here encountered Red. As Red bravely stayed to battle the ghost, Blue snuck past them back upstairs, where he stole a <a href="/wiki/Silph_Scope" title="Silph Scope">Silph Scope</a> from a <a href="/wiki/Team_Rocket_Grunt_(Trainer_class)" title="Team Rocket Grunt (Trainer class)">Team Rocket Grunt</a>. He took the Scope to Red, who was able to use it to identify the ghost as the mother of <a href="/wiki/Cubone_(Pok%C3%A9mon)" title="Cubone (Pokémon)">Cubone</a>, <a href="/wiki/Marowak_(ghost)" title="Marowak (ghost)">Marowak</a>, who had been killed by Team Rocket. After the ghost of Marowak had been calmed down, Red entered the top floor, defeated Team Rocket in a battle, and saved Mr. Fuji. As a thanks for driving Team Rocket away, Mr. Fuji gave Red a <a href="/wiki/Pok%C3%A9_Flute" title="Poké Flute">Poké Flute</a> and a pair of mysterious gems. Afterwards, Red departed Lavender Town to continue his journey.
+</p><p>Lavender Town made a reappearance in <i><a href="/wiki/PO04" title="PO04">File 4: Charizard</a></i>, where Mr. Fuji learned from <a href="/wiki/Reina" title="Reina">Reina</a> how Blue had been defeated by a really strong <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic-type</a> Pokémon at the <a href="/wiki/Cerulean_Cave" title="Cerulean Cave">Cerulean Cave</a>. Hearing this, Mr. Fuji understood what the Pokémon in question was. Later, when Red headed to Cerulean Cave to catch the Pokémon, <a href="/wiki/Mewtwo_(Pok%C3%A9mon)" title="Mewtwo (Pokémon)">Mewtwo</a>, Mr. Fuji, upon hearing of this, understood that Red's only hope of victory lied within the stones he had given him, revealed to be a <a href="/wiki/Key_Stone" title="Key Stone">Key Stone</a> and a <a href="/wiki/Mega_Stone#Charizardite_X" title="Mega Stone">Charizardite X</a>. Sure enough, his prediction soon came true, as Red managed to use the stones to <a href="/wiki/Mega_Evolution" title="Mega Evolution">Mega Evolve</a> his <a href="/wiki/Red%27s_Charizard" title="Red's Charizard">Charizard</a> and defeat Mewtwo, giving him a chance to catch it.
+</p>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:232px;"><a href="/wiki/File:Lavender_Town_Adventures.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/d/d4/Lavender_Town_Adventures.png/230px-Lavender_Town_Adventures.png" width="230" height="99" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/d/d4/Lavender_Town_Adventures.png/345px-Lavender_Town_Adventures.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d4/Lavender_Town_Adventures.png/460px-Lavender_Town_Adventures.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lavender_Town_Adventures.png" class="internal" title="Enlarge"></a></div>Lavender Town in Pokémon Adventures</div></div></div>
+<h3><span class="mw-headline" id="In_The_Electric_Tale_of_Pikachu_manga">In The Electric Tale of Pikachu manga</span></h3>
+<p><a href="/wiki/Ash_Ketchum_(EToP)" title="Ash Ketchum (EToP)">Ash</a> visited Lavender Town in <i><a href="/wiki/ET04" title="ET04">Haunting My Dreams</a></i>. After reuniting with <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a> and challenging <a href="/wiki/Sabrina" title="Sabrina">Sabrina</a> in <a href="/wiki/Saffron_City" title="Saffron City">Saffron City</a>, they traveled to Lavender Town to stop a <a href="/wiki/Giant_Pok%C3%A9mon" title="Giant Pokémon">giant</a> <a href="/wiki/Haunter_(Pok%C3%A9mon)" title="Haunter (Pokémon)">Haunter</a> called the <a href="/wiki/Black_Fog" title="Black Fog">Black Fog</a>, which was sucking out people and Pokémon's souls with its <a href="/wiki/Dream_Eater_(move)" title="Dream Eater (move)">Dream Eater</a>. Although Ash's plan to contain the Black Fog in a giant <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a> failed, escaping from it weakened Black Fog enough for it to become able to be caught in a regular Poké Ball. However, when Ash tried to catch the <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost-type</a>, it opted to kill itself with <a href="/wiki/Self-Destruct_(move)" title="Self-Destruct (move)">Self-Destruct</a> rather than let itself be caught by a human.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<p>Lavender Town appeared in <i><a href="/wiki/PS013" title="PS013">Sigh For Psyduck</a></i> and <i><a href="/wiki/PS014" title="PS014">That Awful Arbok!</a></i>. After arriving to the town, <a href="/wiki/Red_(Adventures)" title="Red (Adventures)">Red</a> met <a href="/wiki/Mr._Fuji" title="Mr. Fuji">Mr. Fuji</a>, and learned that <a href="/wiki/Blue_(Adventures)" title="Blue (Adventures)">Blue</a> had disappeared into the ghost-infested <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a> two weeks earlier. Wanting to figure out what was going on, Red also entered the tower, encountering multiple zombie Pokémon and a mind-controlled Blue there. With <a href="/wiki/Saur" title="Saur">Saur</a>'s help, Red was able to free Blue from the control of the <a href="/wiki/Gastly_(Pok%C3%A9mon)" title="Gastly (Pokémon)">Gastly</a> that was possessing him and the zombies. Together, he and Blue found out that the culprit behind everything was <a href="/wiki/Koga" title="Koga">Koga</a>, an elite member of <a href="/wiki/Team_Rocket" title="Team Rocket">Team Rocket</a>. Although Koga tried to kill the two with his <a href="/wiki/Arbok_(Pok%C3%A9mon)" title="Arbok (Pokémon)">Arbok</a>, Blue was able to defeat it with his <a href="/wiki/Blue%27s_Charmeleon" class="mw-redirect" title="Blue's Charmeleon">Charmeleon</a>, allowing the two Trainers to escape the tower alive.
+<br clear="all" />
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> In the <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German versions</a>, Lavender Town is called Lavandia, which is the same as the <a href="/wiki/Pok%C3%A9mon_in_France" title="Pokémon in France">French</a> name of <a href="/wiki/Mauville_City" title="Mauville City">Mauville City</a>.</li>
+<li> In the Japanese edition of the <a href="https://en.wikipedia.org/wiki/Bible" class="extiw" title="wp:Bible">Christian Bible</a>, <a href="https://en.wikipedia.org/wiki/Mount_Zion" class="extiw" title="wp:Mount Zion">Mount Zion</a> is called <b>シオンの<span class="explain" title="さん">山</span></b> <i>Mount Shion</i>, which is the same as the Japanese name of Lavender Town.</li>
+<li> Contrary to popular belief, the Lavender Town background music was not altered between releases in <a href="/wiki/Generation_I" title="Generation I">Generation I</a>.</li>
+<li> In the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games, after rescuing <a href="/wiki/Mr._Fuji" title="Mr. Fuji">Mr. Fuji</a> atop the <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a>, the player is automatically warped to his house, landing on the welcome mat's right tile. Due to an oddity, if the player then tries to immediately turn around and leave without moving from the tile, they will be unable to (even after saving and resetting the game). Walking at least one tile in any direction will restore the normal behavior of the mat's tile.</li></ul>
+<h2><span class="mw-headline" id="Name_origin">Name origin</span></h2>
+<table class="roundy" style="float:left; background:#c0b7d5; border: 3px solid #ADA1C9">
+
+<tr>
+<th> Language
+</th>
+<th> Name
+</th>
+<th> Origin
+</th></tr>
+<tr style="background:#FFF">
+<td> Japanese
+</td>
+<td> シオンタウン <i>Shion Town</i>
+</td>
+<td> From 紫苑色 <i>shion-iro</i>, the light purple color of the <a href="https://en.wikipedia.org/wiki/Aster_tataricus" class="extiw" title="wp:Aster tataricus">Tatarian aster</a>
+</td></tr>
+<tr style="background:#FFF">
+<td> English
+</td>
+<td> Lavender Town
+</td>
+<td> From <i><a href="https://en.wikipedia.org/wiki/Lavender_(color)" class="extiw" title="wp:Lavender (color)">lavender</a></i>, a pale purple color
+</td></tr>
+<tr style="background:#FFF">
+<td> French
+</td>
+<td> Lavanville
+</td>
+<td> From <i>lavande</i> (lavender) and <i>ville</i> (town)
+</td></tr>
+<tr style="background:#FFF">
+<td> German
+</td>
+<td> Lavandia
+</td>
+<td> From <i>Lavendel</i>, lavender
+</td></tr>
+<tr style="background:#FFF">
+<td> Italian
+</td>
+<td> Lavandonia
+</td>
+<td> From <i>lavanda</i>, lavender
+</td></tr>
+<tr style="background:#FFF">
+<td rowspan="2">  Spanish
+</td>
+<td> Pueblo Lavanda
+</td>
+<td> From <i>lavanda</i>, lavender
+</td></tr>
+<tr style="background:#FFF">
+<td>Ciudad Lavender<span class="explain" title="Latin American dub">*</span>
+</td>
+<td> From its English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Korean
+</td>
+<td> 보라타운 <i>Bora Town</i>
+</td>
+<td> From 보라 <i>bora</i>, violet
+</td></tr>
+<tr style="background:#FFF">
+<td> Chinese (<span class="explain" title="Taiwan and Mainland China">Mandarin</span>)
+</td>
+<td> 紫苑鎮 / 紫苑镇 <i>Zǐyuàn Zhèn</i>
+</td>
+<td> From 紫苑 <i>zǐyuàn</i>, purple garden
+</td></tr>
+<tr style="background:#FFF">
+<td> Chinese (<span class="explain" title="Hong Kong">Cantonese</span>)
+</td>
+<td> 紫苑鎮 <i>Jíyún Jan'</i>
+</td>
+<td> From 紫苑 <i>jíyún</i>, purple garden
+</td></tr>
+<tr style="background:#FFF">
+<td> Czech
+</td>
+<td> Levandulové město
+</td>
+<td> From <i>levandule</i> (lavender) and <i>město</i> (town, city)
+</td></tr>
+<tr style="background:#FFF">
+<td> Norwegian
+</td>
+<td> Lavender Town
+</td>
+<td> Same as English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Polish
+</td>
+<td> Lawandia
+</td>
+<td> From its German name
+</td></tr>
+<tr style="background:#FFF">
+<td> Brazilian Portuguese
+</td>
+<td> Cidade de Lavanda<span class="explain" title="Anime">*</span><br />Cidade de Lavender<span class="explain" title="Manga">*</span><br />Cidade Lavender<span class="explain" title="The Official Pokémon Handbook">*</span>
+</td>
+<td> From its English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Russian
+</td>
+<td> Лавандия <i>Lavandiya</i>
+</td>
+<td> From лаванда <i>lavanda</i> (<a href="https://en.wikipedia.org/wiki/lavandula" class="extiw" title="wp:lavandula">lavandula</a>), similar to English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Swedish
+</td>
+<td> Lavenderstaden
+</td>
+<td> From English name
+</td></tr>
+<tr style="background:#FFF">
+<td> Vietnamese
+</td>
+<td> Thị trấn Shion
+</td>
+<td> Transliteration of its Japanese name
+</td></tr></table>
+<p><br clear="all" />
+<br clear="all" />
+</p>
+<table class="roundy" style="margin:auto; text-align:center; border: 2px solid #537A13; background: #80BB1D;">
+
+<tr>
+<th class="roundytop" style="background: #ACD36C;"> <a href="/wiki/Kanto" title="Kanto"><span style="color:#000;">Kanto</span></a>
+</th></tr>
+<tr>
+<td>
+<table class="roundy" style="margin:auto; text-align:center; background: #ACD36C;">
+
+<tr>
+<th class="roundy" style="border: 2px solid #786824; background: #D1C17D;"> <a href="/wiki/Pewter_Gym" title="Pewter Gym"><img alt="Boulder Badge.png" src="//cdn.bulbagarden.net/upload/thumb/d/dd/Boulder_Badge.png/40px-Boulder_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/d/dd/Boulder_Badge.png/60px-Boulder_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/dd/Boulder_Badge.png/80px-Boulder_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #445E9C; background: #9DB7F5;"> <a href="/wiki/Cerulean_Gym" title="Cerulean Gym"><img alt="Cascade Badge.png" src="//cdn.bulbagarden.net/upload/thumb/9/9c/Cascade_Badge.png/40px-Cascade_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/9/9c/Cascade_Badge.png/60px-Cascade_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/9c/Cascade_Badge.png/80px-Cascade_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #A1871F; background: #FAE078;"> <a href="/wiki/Vermilion_Gym" title="Vermilion Gym"><img alt="Thunder Badge.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Thunder_Badge.png/40px-Thunder_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Thunder_Badge.png/60px-Thunder_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Thunder_Badge.png/80px-Thunder_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #4E8234; background: #A7DB8D;"> <a href="/wiki/Celadon_Gym" title="Celadon Gym"><img alt="Rainbow Badge.png" src="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/40px-Rainbow_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/60px-Rainbow_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b5/Rainbow_Badge.png/80px-Rainbow_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #682A68; background: #C183C1;"> <a href="/wiki/Fuchsia_Gym" title="Fuchsia Gym"><img alt="Soul Badge.png" src="//cdn.bulbagarden.net/upload/thumb/7/7d/Soul_Badge.png/40px-Soul_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/7/7d/Soul_Badge.png/60px-Soul_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7d/Soul_Badge.png/80px-Soul_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #A13959; background: #FA92B2;"> <a href="/wiki/Saffron_Gym" title="Saffron Gym"><img alt="Marsh Badge.png" src="//cdn.bulbagarden.net/upload/thumb/6/6b/Marsh_Badge.png/40px-Marsh_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/6/6b/Marsh_Badge.png/60px-Marsh_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6b/Marsh_Badge.png/80px-Marsh_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #9C531F; background: #F5AC78;"> <a href="/wiki/Cinnabar_Gym" title="Cinnabar Gym"><img alt="Volcano Badge.png" src="//cdn.bulbagarden.net/upload/thumb/1/12/Volcano_Badge.png/40px-Volcano_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/1/12/Volcano_Badge.png/60px-Volcano_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/12/Volcano_Badge.png/80px-Volcano_Badge.png 2x" /></a>
+</th>
+<th class="roundy" style="border: 2px solid #0B0BA6; background: #6464FF;"> <a href="/wiki/Viridian_Gym" title="Viridian Gym"><img alt="Earth Badge.png" src="//cdn.bulbagarden.net/upload/thumb/7/78/Earth_Badge.png/40px-Earth_Badge.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/thumb/7/78/Earth_Badge.png/60px-Earth_Badge.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/78/Earth_Badge.png/80px-Earth_Badge.png 2x" /></a>
+</th></tr></table>
+</td></tr>
+<tr>
+<td>
+<table width="700px;" class="roundy" style="margin:auto; text-align:center; background: #FFFFFF; border: 2px solid #537A13;">
+
+<tr>
+<td class="roundy" style="background:#FFFFFF; font-size: 90%;"> <b>Settlements</b><br /><a href="/wiki/Pallet_Town" title="Pallet Town">Pallet Town</a> • <a href="/wiki/Viridian_City" title="Viridian City">Viridian City</a> • <a href="/wiki/Pewter_City" title="Pewter City">Pewter City</a> • <a href="/wiki/Cerulean_City" title="Cerulean City">Cerulean City</a> • <a href="/wiki/Vermilion_City" title="Vermilion City">Vermilion City</a> • <a class="mw-selflink selflink">Lavender Town</a><br /><a href="/wiki/Celadon_City" title="Celadon City">Celadon City</a> • <a href="/wiki/Saffron_City" title="Saffron City">Saffron City</a> • <a href="/wiki/Fuchsia_City" title="Fuchsia City">Fuchsia City</a> • <a href="/wiki/Cinnabar_Island" title="Cinnabar Island">Cinnabar Island</a> • <a href="/wiki/Indigo_Plateau" title="Indigo Plateau">Indigo Plateau</a>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFFFFF; font-size: 90%;"> <b><a href="/wiki/Route" title="Route"><span style="color:#000;">Routes</span></a></b><br /><a href="/wiki/Kanto_Route_1" title="Kanto Route 1">1</a> • <a href="/wiki/Kanto_Route_2" title="Kanto Route 2">2</a> • <a href="/wiki/Kanto_Route_3" title="Kanto Route 3">3</a> • <a href="/wiki/Kanto_Route_4" title="Kanto Route 4">4</a> • <a href="/wiki/Kanto_Route_5" title="Kanto Route 5">5</a> • <a href="/wiki/Kanto_Route_6" title="Kanto Route 6">6</a> • <a href="/wiki/Kanto_Route_7" title="Kanto Route 7">7</a> • <a href="/wiki/Kanto_Route_8" title="Kanto Route 8">8</a> • <a href="/wiki/Kanto_Route_9" title="Kanto Route 9">9</a> • <a href="/wiki/Kanto_Route_10" title="Kanto Route 10">10</a> • <a href="/wiki/Kanto_Route_11" title="Kanto Route 11">11</a> • <a href="/wiki/Kanto_Route_12" title="Kanto Route 12">12</a> • <a href="/wiki/Kanto_Route_13" title="Kanto Route 13">13</a> • <a href="/wiki/Kanto_Route_14" title="Kanto Route 14">14</a> • <a href="/wiki/Kanto_Route_15" title="Kanto Route 15">15</a> • <a href="/wiki/Kanto_Route_16" title="Kanto Route 16">16</a> • <a href="/wiki/Kanto_Route_17" title="Kanto Route 17">17</a> • <a href="/wiki/Kanto_Route_18" title="Kanto Route 18">18</a> • <a href="/wiki/Kanto_Route_19" title="Kanto Route 19">19</a> • <a href="/wiki/Kanto_Route_20" title="Kanto Route 20">20</a> • <a href="/wiki/Kanto_Route_21" title="Kanto Route 21">21</a> • <a href="/wiki/Kanto_Route_22" title="Kanto Route 22">22</a> • <a href="/wiki/Kanto_Route_23" title="Kanto Route 23">23</a> • <a href="/wiki/Kanto_Route_24" title="Kanto Route 24">24</a> • <a href="/wiki/Kanto_Route_25" title="Kanto Route 25">25</a> • <a href="/wiki/Kanto_Route_26" title="Kanto Route 26">26</a> • <a href="/wiki/Kanto_Route_27" title="Kanto Route 27">27</a> • <a href="/wiki/Kanto_Route_28" title="Kanto Route 28">28</a>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFFFFF; font-size: 90%;"> <b>Landmarks</b><br /><a href="/wiki/Professor_Oak%27s_Laboratory" title="Professor Oak's Laboratory">Professor Oak's Laboratory</a> • <a href="/wiki/Viridian_Forest" title="Viridian Forest">Viridian Forest</a> • <a href="/wiki/Diglett%27s_Cave" title="Diglett's Cave">Diglett's Cave</a> • <a href="/wiki/Pewter_Museum_of_Science" title="Pewter Museum of Science">Pewter Museum of Science</a> • <a href="/wiki/Mt._Moon" title="Mt. Moon">Mt. Moon</a> (<a href="/wiki/Mt._Moon_Square" title="Mt. Moon Square">Square</a>) • <a href="/wiki/Cerulean_Cave" title="Cerulean Cave">Cerulean Cave</a><br /><a href="/wiki/Underground_Path_(Kanto_Routes_5-6)" title="Underground Path (Kanto Routes 5-6)">Underground Path (Kanto Routes 5-6)</a> • <a href="/wiki/Underground_Path_(Kanto_Routes_7-8)" title="Underground Path (Kanto Routes 7-8)">Underground Path (Kanto Routes 7-8)</a> • <a href="/wiki/S.S._Anne" title="S.S. Anne">S.S. Anne</a> • <a href="/wiki/S.S._Aqua" title="S.S. Aqua">S.S. Aqua</a> • <a href="/wiki/Sea_Cottage" title="Sea Cottage">Sea Cottage</a> • <a href="/wiki/Rock_Tunnel" title="Rock Tunnel">Rock Tunnel</a><br /><a href="/wiki/Kanto_Power_Plant" title="Kanto Power Plant">Power Plant</a> • <a href="/wiki/Kanto_Route_17" title="Kanto Route 17">Cycling Road</a> • <a href="/wiki/Rocket_Hideout" title="Rocket Hideout">Rocket Hideout</a> • <a href="/wiki/Silph_Co." title="Silph Co.">Silph Co.</a> • <a href="/wiki/Magnet_Train" title="Magnet Train">Magnet Train</a> • <a href="/wiki/Pok%C3%A9mon_Tower" title="Pokémon Tower">Pokémon Tower</a> • <a href="/wiki/Kanto_Safari_Zone" title="Kanto Safari Zone">Safari Zone</a>/<a href="/wiki/Pal_Park" title="Pal Park">Pal Park</a><br /><a href="/wiki/Seafoam_Islands" title="Seafoam Islands">Seafoam Islands</a> • <a href="/wiki/Pok%C3%A9mon_Mansion_(Kanto)" title="Pokémon Mansion (Kanto)">Pokémon Mansion</a> • <a href="/wiki/Pok%C3%A9mon_Lab" title="Pokémon Lab">Pokémon Lab</a> • <a href="/wiki/Pok%C3%A9mon_League_Reception_Gate" title="Pokémon League Reception Gate">Pokémon League Reception Gate</a> • <a href="/wiki/Victory_Road_(Kanto)" title="Victory Road (Kanto)">Victory Road</a> • <a href="/wiki/Tohjo_Falls" title="Tohjo Falls">Tohjo Falls</a>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#FFFFFF; font-size:90%"> <b>Access to</b><br /><a href="/wiki/Sevii_Islands" title="Sevii Islands">Sevii Islands</a> • <a href="/wiki/Johto" title="Johto">Johto</a>
+</td></tr></table>
+</td></tr></table><br />
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Cities_and_Towns_logo.png" class="image"><img alt="Project Cities and Towns logo.png" src="//cdn.bulbagarden.net/upload/thumb/4/4e/Project_Cities_and_Towns_logo.png/80px-Project_Cities_and_Towns_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/4/4e/Project_Cities_and_Towns_logo.png/120px-Project_Cities_and_Towns_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/4e/Project_Cities_and_Towns_logo.png/160px-Project_Cities_and_Towns_logo.png 2x" /></a>
+</td>
+<td> This article is part of <b><a href="/wiki/Bulbapedia:Project_Cities_and_Towns" title="Bulbapedia:Project Cities and Towns">Project Cities and Towns</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on every city and town in the Pokémon world.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180130142041
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.502 seconds
+Preprocessor visited node count: 5499/1000000
+Preprocessor generated node count: 24764/1000000
+Post‐expand include size: 164568/2097152 bytes
+Template argument size: 54925/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  283.140      1 -total
+ 38.06%  107.762     26 Template:Shoprow
+ 34.86%   98.698     48 Template:Shopitem
+ 15.51%   43.921      1 Template:Kanto
+  9.05%   25.618      1 Template:Town_infobox
+  6.13%   17.358      1 Template:Itlisth
+  5.07%   14.358     57 Template:Roundy
+  4.40%   12.456     49 Template:Roundytr
+  4.32%   12.225     48 Template:Roundybr
+  3.69%   10.440     50 Template:Color
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:1012-0!*!0!!en!5!* and timestamp 20180130142041 and revision id 2736034
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Lavender_Town&amp;oldid=2736034">https://bulbapedia.bulbagarden.net/w/index.php?title=Lavender_Town&amp;oldid=2736034</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Kanto_locations" title="Category:Kanto locations">Kanto locations</a></li><li><a href="/wiki/Category:Red,_Blue_and_Yellow_locations" title="Category:Red, Blue and Yellow locations">Red, Blue and Yellow locations</a></li><li><a href="/wiki/Category:Gold,_Silver_and_Crystal_locations" title="Category:Gold, Silver and Crystal locations">Gold, Silver and Crystal locations</a></li><li><a href="/wiki/Category:FireRed_and_LeafGreen_locations" title="Category:FireRed and LeafGreen locations">FireRed and LeafGreen locations</a></li><li><a href="/wiki/Category:HeartGold_and_SoulSilver_locations" title="Category:HeartGold and SoulSilver locations">HeartGold and SoulSilver locations</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_Pinball_locations" title="Category:Pokémon Pinball locations">Pokémon Pinball locations</a></li><li><a href="/wiki/Category:Towns" title="Category:Towns">Towns</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Lavender_Town" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Lavender_Town" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Lavender_Town&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Lavender_Town&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lavender+Town" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lavender+Town" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lavender_Town" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lavender_Town" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Lavender_Town&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Lavender_Town&amp;oldid=2736034" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Lavender_Town&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Lavandia" title="Lavandia – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Lavanville" title="Lavanville – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Lavandonia" title="Lavandonia – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%82%B7%E3%82%AA%E3%83%B3%E3%82%BF%E3%82%A6%E3%83%B3" title="シオンタウン – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Lawandia" title="Lawandia – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E7%B4%AB%E8%8B%91%E9%95%87" title="紫苑镇 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 26 January 2018, at 11:24.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Lavender_Town&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.502","ppvisitednodes":{"value":5499,"limit":1000000},"ppgeneratednodes":{"value":24764,"limit":1000000},"postexpandincludesize":{"value":164568,"limit":2097152},"templateargumentsize":{"value":54925,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  283.140      1 -total"," 38.06%  107.762     26 Template:Shoprow"," 34.86%   98.698     48 Template:Shopitem"," 15.51%   43.921      1 Template:Kanto","  9.05%   25.618      1 Template:Town_infobox","  6.13%   17.358      1 Template:Itlisth","  5.07%   14.358     57 Template:Roundy","  4.40%   12.456     49 Template:Roundytr","  4.32%   12.225     48 Template:Roundybr","  3.69%   10.440     50 Template:Color"]},"cachereport":{"timestamp":"20180130142041","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

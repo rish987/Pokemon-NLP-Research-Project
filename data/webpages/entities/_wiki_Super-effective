@@ -1,0 +1,2138 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Type - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Type","wgTitle":"Type","wgCurRevisionId":2701114,"wgRevisionId":2701114,"wgArticleId":4406,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Types","Terminology","Game mechanics","Pokémon world"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Type","wgRelevantArticleId":4406,"wgRequestId":"80c9ee42c15a070cdb05ebc7","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"Super-effective","wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgInternalRedirectTargetUrl":"/wiki/Type#Type_effectiveness"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Type#Type_effectiveness"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Type#Type_effectiveness"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Type rootpage-Type skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Type</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Super-effective&amp;redirect=no" class="mw-redirect" title="Super-effective">Super-effective</a>)</span></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><dl><dd><i>If you were looking for the property of a Pokémon called type in <a href="/wiki/The_Official_Pok%C3%A9mon_Handbook" title="The Official Pokémon Handbook">The Official Pokémon Handbook</a>, see <a href="/wiki/Pok%C3%A9mon_category" title="Pokémon category">Pokémon category</a>.</i></dd></dl>
+<table class="roundy" style="float:right; width: 150px; text-align:center; background:#FFF; border: 2px solid #8C888C; margin-left: 5px; margin-bottom: 5px">
+<tr>
+<th colspan="7"> <a class="mw-selflink selflink"><span style="color:#000;">Types</span></a>
+</th></tr>
+<tr>
+<td rowspan="10" width="2%">
+</td>
+<td width="21%">
+</td>
+<td width="21%">
+</td>
+<td rowspan="10" width="2%">
+</td>
+<td width="21%">
+</td>
+<td width="21%">
+</td>
+<td rowspan="10" width="2%">
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#A8A878; border: 1px solid #6D6D4E"> <a href="/wiki/Normal_(type)" title="Normal (type)"><span style="color:#FFF;">Normal</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#F08030; border: 1px solid #9C531F"> <a href="/wiki/Fire_(type)" title="Fire (type)"><span style="color:#FFF;">Fire</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#C03028; border: 1px solid #7D1F1A"> <a href="/wiki/Fighting_(type)" title="Fighting (type)"><span style="color:#FFF;">Fighting</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#6890F0; border: 1px solid #445E9C"> <a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF;">Water</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#A890F0; border: 1px solid #6D5E9C"> <a href="/wiki/Flying_(type)" title="Flying (type)"><span style="color:#FFF;">Flying</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#78C850; border: 1px solid #4E8234"> <a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color:#FFF;">Grass</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#A040A0; border: 1px solid #682A68"> <a href="/wiki/Poison_(type)" title="Poison (type)"><span style="color:#FFF;">Poison</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Electric_(type)" title="Electric (type)"><span style="color:#FFF;">Electric</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#E0C068; border: 1px solid #927D44"> <a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF;">Ground</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#F85888; border: 1px solid #A13959"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color:#FFF;">Psychic</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#B8A038; border: 1px solid #786824"> <a href="/wiki/Rock_(type)" title="Rock (type)"><span style="color:#FFF;">Rock</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#98D8D8; border: 1px solid #638D8D"> <a href="/wiki/Ice_(type)" title="Ice (type)"><span style="color:#FFF;">Ice</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#A8B820; border: 1px solid #6D7815"> <a href="/wiki/Bug_(type)" title="Bug (type)"><span style="color:#FFF;">Bug</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#7038F8; border: 1px solid #4924A1"> <a href="/wiki/Dragon_(type)" title="Dragon (type)"><span style="color:#FFF;">Dragon</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#705898; border: 1px solid #493963"> <a href="/wiki/Ghost_(type)" title="Ghost (type)"><span style="color:#FFF;">Ghost</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#705848; border: 1px solid #49392F"> <a href="/wiki/Dark_(type)" title="Dark (type)"><span style="color:#FFF;">Dark</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#B8B8D0; border: 1px solid #787887"> <a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color:#FFF;">Steel</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#EE99AC; border: 1px solid #9B6470"> <a href="/wiki/Fairy_(type)" title="Fairy (type)"><span style="color:#FFF;">Fairy</span></a>
+</td></tr>
+<tr>
+<td colspan="7">
+</td></tr>
+<tr>
+<td colspan="2">
+</td>
+<td colspan="3" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#68A090; border: 1px solid #44685E"> <a href="/wiki/%3F%3F%3F_(type)" title="??? (type)"><span style="color:#FFF;">???</span></a>
+</td>
+<td colspan="2">
+</td></tr></table>
+<p><b>Types</b> (Japanese: <b>タイプ</b> <i>Type</i>) are properties for <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> and their <a href="/wiki/Move" title="Move">moves</a>. As of <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>, there are 18 types, as listed to the right. Most of these  were introduced during <a href="/wiki/Generation_I" title="Generation I">Generation I</a>, but the <a href="/wiki/Dark_(type)" title="Dark (type)">Dark</a> and <a href="/wiki/Steel_(type)" title="Steel (type)">Steel</a> types were introduced in <a href="/wiki/Generation_II" title="Generation II">Generation II</a> and the <a href="/wiki/Fairy_(type)" title="Fairy (type)">Fairy</a> type was introduced in <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>. A unique <a href="/wiki/%3F%3F%3F_(type)" title="??? (type)">???</a> type also existed from Generations II through <a href="/wiki/Generation_IV" title="Generation IV">IV</a>. During <a href="/wiki/Generation_I" title="Generation I">Generation I</a>, types were occasionally referred to as <b>elements</b>.
+</p><p>A Pokémon may have either one or two types: For instance, <a href="/wiki/Charmander_(Pok%C3%A9mon)" title="Charmander (Pokémon)">Charmander</a> is a <a href="/wiki/Fire_(type)" title="Fire (type)">Fire</a> type, while <a href="/wiki/Bulbasaur_(Pok%C3%A9mon)" title="Bulbasaur (Pokémon)">Bulbasaur</a> is both a <a href="/wiki/Grass_(type)" title="Grass (type)">Grass</a> type and a <a href="/wiki/Poison_(type)" title="Poison (type)">Poison</a> type. With the current 18-type system, there are 324 possible ways to assign types to Pokémon, with 171 unique combinations. As of <a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a>, 146 different type combinations have been used. Similar to Pokémon, <a href="/wiki/Pok%C3%A9star_Studios_opponents" title="Pokéstar Studios opponents">Pokéstar Studios opponents</a> also have types.
+</p><p>A move has exactly one type. The type of a damaging move typically defines which types of Pokémon it is super effective against, which types of Pokémon it is not very effective against, and which types of Pokémon it is completely ineffective against.
+</p><p>Most <a href="/wiki/Gym_Leader" title="Gym Leader">Gym Leaders</a> and members of the <a href="/wiki/Elite_Four" title="Elite Four">Elite Four</a> are designed to have a <a href="/wiki/Type_expert" title="Type expert">type-specific theme</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Type_effectiveness"><span class="tocnumber">1</span> <span class="toctext">Type effectiveness</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Type_chart"><span class="tocnumber">1.1</span> <span class="toctext">Type chart</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Dual-type_damage_misinformation_glitch"><span class="tocnumber">1.2</span> <span class="toctext">Dual-type damage misinformation glitch</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Type-affected_game_mechanics"><span class="tocnumber">2</span> <span class="toctext">Type-affected game mechanics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.3F.3F.3F_type"><span class="tocnumber">3</span> <span class="toctext">??? type</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Shadow"><span class="tocnumber">4</span> <span class="toctext">Shadow</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Typeless"><span class="tocnumber">5</span> <span class="toctext">Typeless</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Glitch_types"><span class="tocnumber">6</span> <span class="toctext">Glitch types</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#In_other_games"><span class="tocnumber">7</span> <span class="toctext">In other games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#In_the_Pok.C3.A9mon_Mystery_Dungeon_series"><span class="tocnumber">7.1</span> <span class="toctext">In the Pokémon Mystery Dungeon series</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#In_the_Pok.C3.A9mon_Ranger_series"><span class="tocnumber">7.2</span> <span class="toctext">In the Pokémon Ranger series</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#In_the_Pok.C3.A9mon_Rumble_series"><span class="tocnumber">7.3</span> <span class="toctext">In the Pokémon Rumble series</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#In_Pok.C3.A9mon_Battrio"><span class="tocnumber">7.4</span> <span class="toctext">In Pokémon Battrio</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#In_Pok.C3.A9mon_Shuffle"><span class="tocnumber">7.5</span> <span class="toctext">In Pokémon Shuffle</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#In_Pok.C3.A9mon_GO"><span class="tocnumber">7.6</span> <span class="toctext">In Pokémon GO</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#In_the_TCG"><span class="tocnumber">8</span> <span class="toctext">In the TCG</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#In_other_languages"><span class="tocnumber">9</span> <span class="toctext">In other languages</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Type_effectiveness">Type effectiveness</span></h2>
+<dl><dd><i>"Super effective" redirects here. For the webcomic, see <a href="/wiki/Super_Effective_(webcomic)" title="Super Effective (webcomic)">Super Effective (webcomic)</a>.</i></dd>
+<dd><i>"It's super effective" redirects here. For the podcast, see <a href="/wiki/It%27s_Super_Effective_(podcast)" title="It's Super Effective (podcast)">It's Super Effective (podcast)</a>.</i></dd>
+<dd><i>"Weakness" and "Resistance" redirect here. For the TCG mechanics, see <a href="/wiki/Appendix:Glossary_(TCG)#Weakness" title="Appendix:Glossary (TCG)">Appendix:Glossary (TCG) → Weakness</a></i> and <i><a href="/wiki/Appendix:Glossary_(TCG)#Resistance" title="Appendix:Glossary (TCG)">Appendix:Glossary (TCG) → Resistance</a>.</i></dd></dl>
+<p>Damaging moves typically vary in <b>effectiveness</b> (Japanese: <b><span class="explain" title="こうか">効果</span></b> <i>effectiveness</i>) depending on the move's type and the type(s) of its target.
+</p><p>Type effectiveness greatly influences how much <a href="/wiki/Damage" title="Damage">damage</a> moves deal:
+</p>
+<ul><li> If the type of a move is <b>super effective</b> (Japanese: <b><span class="explain" title="こうかはばつぐん">効果はバツグン</span></b> <i>super effective</i>) against a type of its target, the damage done is double the normal amount;</li>
+<li> If the type of a move is <b>not very effective</b> (Japanese: <b><span class="explain" title="こうかはいまひとつ">効果は今一つ</span></b> <i>not very effective</i>) against a type of its target, the damage done is half the normal amount;</li>
+<li> If the type of a move is <b>not effective</b> (Japanese: <b><span class="explain" title="こうかがない">効果がない</span></b> <i>not effective</i>) against a type of its target, the target is completely immune to it, and the move will deal no damage.</li></ul>
+<p>For targets that have two types, overall type effectiveness is the combined effectiveness against each of its types:
+</p>
+<ul><li> If the type of a move is super effective against both of the opponent's types (such as <a href="/wiki/Dig_(move)" title="Dig (move)">Dig</a>, a <a href="/wiki/Ground_(type)" title="Ground (type)">Ground-type</a> move, used against an <a href="/wiki/Aggron_(Pok%C3%A9mon)" title="Aggron (Pokémon)">Aggron</a>, a <a href="/wiki/Steel_(type)" title="Steel (type)">Steel</a>/<a href="/wiki/Rock_(type)" title="Rock (type)">Rock</a> Pokémon), then the move does 4 times the damage;</li>
+<li> If the type of a move is not very effective against both of the opponent's types (such as <a href="/wiki/Wake-Up_Slap_(move)" title="Wake-Up Slap (move)">Wake-Up Slap</a>, a <a href="/wiki/Fighting_(type)" title="Fighting (type)">Fighting-type</a> move, used against a <a href="/wiki/Sigilyph_(Pok%C3%A9mon)" title="Sigilyph (Pokémon)">Sigilyph</a>, a <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic</a>/<a href="/wiki/Flying_(type)" title="Flying (type)">Flying</a> Pokémon), then the move only does ¼ of the damage;</li>
+<li> If the type of a move is super effective against one of the opponent's types but not very effective against the other (such as <a href="/wiki/Razor_Leaf_(move)" title="Razor Leaf (move)">Razor Leaf</a>, a <a href="/wiki/Grass_(type)" title="Grass (type)">Grass-type</a> move, used against a <a href="/wiki/Gyarados_(Pok%C3%A9mon)" title="Gyarados (Pokémon)">Gyarados</a>, a <a href="/wiki/Water_(type)" title="Water (type)">Water</a>/<a href="/wiki/Flying_(type)" title="Flying (type)">Flying</a> Pokémon), then the move deals normal damage;</li>
+<li> If the type of move is completely ineffective against one of the opponent's types, then the move does no damage, even if the opponent has a second type that would be vulnerable to it (as in <a href="/wiki/Thunderbolt_(move)" title="Thunderbolt (move)">Thunderbolt</a>, an <a href="/wiki/Electric_(type)" title="Electric (type)">Electric-type</a> move, used against a <a href="/wiki/Quagsire_(Pok%C3%A9mon)" title="Quagsire (Pokémon)">Quagsire</a>, a <a href="/wiki/Water_(type)" title="Water (type)">Water</a>/<a href="/wiki/Ground_(type)" title="Ground (type)">Ground</a> Pokémon).</li></ul>
+<p>The moves <a href="/wiki/Flying_Press_(move)" title="Flying Press (move)">Flying Press</a>, <a href="/wiki/Freeze-Dry_(move)" title="Freeze-Dry (move)">Freeze-Dry</a>, and <a href="/wiki/Thousand_Arrows_(move)" title="Thousand Arrows (move)">Thousand Arrows</a> have custom interactions with defending types that do not strictly match their assigned types. <a href="/wiki/Category:Moves_that_deal_direct_damage" title="Category:Moves that deal direct damage">Moves that deal direct damage</a> (including <a href="/wiki/One-hit_knockout_move" title="One-hit knockout move">one-hit knockout moves</a>) do not employ effectiveness, although Pokémon may still be immune to them based on type interactions. Certain <a href="/wiki/Ability" title="Ability">Abilities</a>, <a href="/wiki/Held_item" title="Held item">held items</a>, or types of <a href="/wiki/Weather" title="Weather">weather</a> (such as <a href="/wiki/Levitate_(Ability)" title="Levitate (Ability)">Levitate</a>, the <a href="/wiki/Ring_Target" title="Ring Target">Ring Target</a>, or a <a href="/wiki/Mysterious_air_current" title="Mysterious air current">mysterious air current</a>, respectively) may modify the effectiveness of specific moves against types.
+</p><p><a href="/wiki/Status_move" title="Status move">Status moves</a> typically do not employ type effectiveness; however, <a href="/wiki/Ground_(type)" title="Ground (type)">Ground-type</a> Pokémon are immune to <a href="/wiki/Thunder_Wave_(move)" title="Thunder Wave (move)">Thunder Wave</a> based on type interactions, and <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost-type</a> Pokémon are immune to <a href="/wiki/Glare_(move)" title="Glare (move)">Glare</a> based on type interactions in Generation II and III only. Furthermore, status moves may be unable to affect Pokémon based on type-related interactions other than effectiveness; for example, <a href="/wiki/Poison_(type)" title="Poison (type)">Poison-type</a> Pokémon cannot be afflicted with <a href="/wiki/Poison_(status_condition)" title="Poison (status condition)">poison</a> and are thus unaffected by <a href="/wiki/Poison_Gas_(move)" title="Poison Gas (move)">Poison Gas</a>.
+</p>
+<h3><span class="mw-headline" id="Type_chart">Type chart</span></h3>
+<dl><dd><i>For type charts from previous generations, see <a href="/wiki/Type/Type_chart" title="Type/Type chart">Type/Type chart</a></i></dd></dl>
+<p>A <b>type chart</b>, also known as <b>type matchup chart</b>, shows which modifiers are applied to <a href="/wiki/Move" title="Move">move</a> types when attacking <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> of each type. If the defending Pokémon is dual-typed, the modifier is calculated as the product of the modifiers for both of its types: a <a href="/wiki/Flying_(type)" title="Flying (type)">Flying-type</a> move would hit for 4× damage on a <a href="/wiki/Bug_(type)" title="Bug (type)">Bug</a>/<a href="/wiki/Grass_(type)" title="Grass (type)">Grass</a> Pokémon, while a <a href="/wiki/Ground_(type)" title="Ground (type)">Ground-type</a> move used against the same would do only a quarter of the normal damage. (A complete ineffectiveness against either type will make the move deal no damage, since 0 multiplied by any number is 0.)
+</p><p>The type chart differs depending on the <a href="/wiki/Generation" title="Generation">generation</a> of <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">games</a> it is from. The current type chart is shown below.
+</p>
+<table class="roundy" style="border: 2px solid #111; background:#555; margin-right: 5px; margin-bottom: 5px">
+
+<tr>
+<th colspan="2" rowspan="2"> ×
+</th>
+<th colspan="18" style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px; background:#4C4BA4"> <small>Defending type</small>
+</th></tr>
+<tr>
+<th style="background:#A8A878"> <a href="/wiki/Normal_(type)" title="Normal"><img alt="Normal" src="//cdn.bulbagarden.net/upload/e/e4/NormalIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#C03028"> <a href="/wiki/Fighting_(type)" title="Fighting"><img alt="Fighting" src="//cdn.bulbagarden.net/upload/8/8e/FightingIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#A890F0"> <a href="/wiki/Flying_(type)" title="Flying"><img alt="Flying" src="//cdn.bulbagarden.net/upload/7/73/FlyingIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#A040A0"> <a href="/wiki/Poison_(type)" title="Poison"><img alt="Poison" src="//cdn.bulbagarden.net/upload/7/71/PoisonIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#E0C068"> <a href="/wiki/Ground_(type)" title="Ground"><img alt="Ground" src="//cdn.bulbagarden.net/upload/d/d9/GroundIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#B8A038"> <a href="/wiki/Rock_(type)" title="Rock"><img alt="Rock" src="//cdn.bulbagarden.net/upload/1/15/RockIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#A8B820"> <a href="/wiki/Bug_(type)" title="Bug"><img alt="Bug" src="//cdn.bulbagarden.net/upload/2/2a/BugIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#705898"> <a href="/wiki/Ghost_(type)" title="Ghost"><img alt="Ghost" src="//cdn.bulbagarden.net/upload/4/48/GhostIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#B8B8D0"> <a href="/wiki/Steel_(type)" title="Steel"><img alt="Steel" src="//cdn.bulbagarden.net/upload/6/69/SteelIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#F08030"> <a href="/wiki/Fire_(type)" title="Fire"><img alt="Fire" src="//cdn.bulbagarden.net/upload/d/d0/FireIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#6890F0"> <a href="/wiki/Water_(type)" title="Water"><img alt="Water" src="//cdn.bulbagarden.net/upload/c/cc/WaterIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#78C850"> <a href="/wiki/Grass_(type)" title="Grass"><img alt="Grass" src="//cdn.bulbagarden.net/upload/8/8a/GrassIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#F8D030"> <a href="/wiki/Electric_(type)" title="Electric"><img alt="Electric" src="//cdn.bulbagarden.net/upload/f/f7/ElectricIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#F85888"> <a href="/wiki/Psychic_(type)" title="Psychic"><img alt="Psychic" src="//cdn.bulbagarden.net/upload/2/23/PsychicIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#98D8D8"> <a href="/wiki/Ice_(type)" title="Ice"><img alt="Ice" src="//cdn.bulbagarden.net/upload/7/70/IceIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#7038F8"> <a href="/wiki/Dragon_(type)" title="Dragon"><img alt="Dragon" src="//cdn.bulbagarden.net/upload/5/57/DragonIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#705848"> <a href="/wiki/Dark_(type)" title="Dark"><img alt="Dark" src="//cdn.bulbagarden.net/upload/e/e9/DarkIC.gif" width="32" height="14" /></a>
+</th>
+<th style="background:#EE99AC"> <a href="/wiki/Fairy_(type)" title="Fairy"><img alt="Fairy" src="//cdn.bulbagarden.net/upload/6/61/FairyIC.gif" width="32" height="14" /></a>
+</th></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th rowspan="18" style="background:#A44C4B"> <small>A<br />t<br />t<br />a<br />c<br />k<br />i<br />n<br />g<br /><br />t<br />y<br />p<br />e</small>
+</th>
+<th style="background:#A8A878"> <a href="/wiki/Normal_(type)" title="Normal"><img alt="Normal" src="//cdn.bulbagarden.net/upload/e/e4/NormalIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td style="background:#000; color:#FFF; font-size:90%"> 0×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#C03028"> <a href="/wiki/Fighting_(type)" title="Fighting"><img alt="Fighting" src="//cdn.bulbagarden.net/upload/8/8e/FightingIC.gif" width="32" height="14" /></a>
+</th>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#000; color:#FFF; font-size:90%"> 0×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#A890F0"> <a href="/wiki/Flying_(type)" title="Flying"><img alt="Flying" src="//cdn.bulbagarden.net/upload/7/73/FlyingIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#A040A0"> <a href="/wiki/Poison_(type)" title="Poison"><img alt="Poison" src="//cdn.bulbagarden.net/upload/7/71/PoisonIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#000; color:#FFF; font-size:90%"> 0×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#E0C068"> <a href="/wiki/Ground_(type)" title="Ground"><img alt="Ground" src="//cdn.bulbagarden.net/upload/d/d9/GroundIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#000; color:#FFF; font-size:90%"> 0×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#B8A038"> <a href="/wiki/Rock_(type)" title="Rock"><img alt="Rock" src="//cdn.bulbagarden.net/upload/1/15/RockIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#A8B820"> <a href="/wiki/Bug_(type)" title="Bug"><img alt="Bug" src="//cdn.bulbagarden.net/upload/2/2a/BugIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#705898"> <a href="/wiki/Ghost_(type)" title="Ghost"><img alt="Ghost" src="//cdn.bulbagarden.net/upload/4/48/GhostIC.gif" width="32" height="14" /></a>
+</th>
+<td style="background:#000; color:#FFF; font-size:90%"> 0×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#B8B8D0"> <a href="/wiki/Steel_(type)" title="Steel"><img alt="Steel" src="//cdn.bulbagarden.net/upload/6/69/SteelIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#F08030"> <a href="/wiki/Fire_(type)" title="Fire"><img alt="Fire" src="//cdn.bulbagarden.net/upload/d/d0/FireIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#6890F0"> <a href="/wiki/Water_(type)" title="Water"><img alt="Water" src="//cdn.bulbagarden.net/upload/c/cc/WaterIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#78C850"> <a href="/wiki/Grass_(type)" title="Grass"><img alt="Grass" src="//cdn.bulbagarden.net/upload/8/8a/GrassIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#F8D030"> <a href="/wiki/Electric_(type)" title="Electric"><img alt="Electric" src="//cdn.bulbagarden.net/upload/f/f7/ElectricIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#000; color:#FFF; font-size:90%"> 0×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#F85888"> <a href="/wiki/Psychic_(type)" title="Psychic"><img alt="Psychic" src="//cdn.bulbagarden.net/upload/2/23/PsychicIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#000; color:#FFF; font-size:90%"> 0×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#98D8D8"> <a href="/wiki/Ice_(type)" title="Ice"><img alt="Ice" src="//cdn.bulbagarden.net/upload/7/70/IceIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#7038F8"> <a href="/wiki/Dragon_(type)" title="Dragon"><img alt="Dragon" src="//cdn.bulbagarden.net/upload/5/57/DragonIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#000; color:#FFF; font-size:90%"> 0×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#705848"> <a href="/wiki/Dark_(type)" title="Dark"><img alt="Dark" src="//cdn.bulbagarden.net/upload/e/e9/DarkIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td></tr>
+<tr style="text-align:center; background:#FFF; font-size:90%">
+<th style="background:#EE99AC"> <a href="/wiki/Fairy_(type)" title="Fairy"><img alt="Fairy" src="//cdn.bulbagarden.net/upload/6/61/FairyIC.gif" width="32" height="14" /></a>
+</th>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td style="background:#F00; color:#FFF; font-size:90%"> ½×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td> 1×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td style="background:#090; color:#FFF; font-size:90%"> 2×
+</td>
+<td> 1×
+</td></tr>
+<tr>
+<td colspan="20" style="border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;; background:#999"> <small>These matchups are suitable for <a href="/wiki/Generation_VI" title="Generation VI"><span style="color:#000;">Generation VI</span></a>.</small>
+</td></tr></table>
+<p>In <a href="/wiki/Inverse_Battle" title="Inverse Battle">Inverse Battles</a>, a different type chart is used that essentially inverts the normal type chart, turning immunities and resistances into weaknesses, and weaknesses into resistances.
+</p>
+<h3><span class="mw-headline" id="Dual-type_damage_misinformation_glitch">Dual-type damage misinformation glitch</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/List_of_glitches_in_Generation_I#Dual-type_damage_misinformation" title="List of glitches in Generation I">List of glitches in Generation I → Dual-type damage misinformation</a></i></dd></dl>
+<p>In <a href="/wiki/Generation_I" title="Generation I">Generation I</a> only, if a damaging move is used on a Pokémon with two types such that one of its types is weak to the move and the other type resists the move, it will correctly receive neutral damage, but the incorrect message will be displayed on-screen. This does not occur in <a href="/wiki/Pok%C3%A9mon_Stadium_(English)" title="Pokémon Stadium (English)">Pokémon Stadium</a>.
+</p>
+<h2><span class="mw-headline" id="Type-affected_game_mechanics">Type-affected game mechanics</span></h2>
+<p>Prior to <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>, the <a href="/wiki/Damage_category" title="Damage category">category</a> of damaging moves only depends on the move's type (except for <a href="/wiki/Shadow_moves" class="mw-redirect" title="Shadow moves">Shadow moves</a>); for example, all <a href="/wiki/Normal_(type)" title="Normal (type)">Normal-type</a> damaging moves are <a href="/wiki/Physical_move" title="Physical move">physical moves</a> and all <a href="/wiki/Water_(type)" title="Water (type)">Water-type</a> damaging moves are <a href="/wiki/Special_move" title="Special move">special moves</a>. From <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> onward, each individual move has a <a href="/wiki/Damage_category" title="Damage category">damage category</a> that is independent of its type.
+</p><p>When the type of a move matches one of the types of the Pokémon using it, the attack power will be increased by 50%. This is referred to as <a href="/wiki/Same-type_attack_bonus" title="Same-type attack bonus">same-type attack bonus</a>, or STAB for short. As an example, an <a href="/wiki/Aron_(Pok%C3%A9mon)" title="Aron (Pokémon)">Aron</a> that knows the <a href="/wiki/Steel_(type)" title="Steel (type)">Steel-type</a> move <a href="/wiki/Metal_Claw_(move)" title="Metal Claw (move)">Metal Claw</a> will have the move's power increased by 50% because one of Aron's types is Steel; the power of <a href="/wiki/Cut_(move)" title="Cut (move)">Cut</a> would not be increased (because none of Aron's types is Normal).
+</p><p>Some types of field effects, <a href="/wiki/Ability" title="Ability">Abilities</a>, and <a href="/wiki/Held_item" title="Held item">held items</a> affect moves of a certain type. <a href="/wiki/Sunny_Day_(move)" title="Sunny Day (move)">Sunny Day</a>, for example, causes <a href="/wiki/Fire_(type)" title="Fire (type)">Fire-type</a> moves to increase in power, while <a href="/wiki/Levitate_(Ability)" title="Levitate (Ability)">Levitate</a> causes <a href="/wiki/Ground_(type)" title="Ground (type)">Ground-type</a> moves to not work on the Pokémon with this Ability. Likewise, each type has a <a href="/wiki/Type-enhancing_item" title="Type-enhancing item">specific held item</a> that can be given to a Pokémon that will power up one of the specific types by 20% (10% prior to Generation IV), such as the <a href="/wiki/Metal_Coat" title="Metal Coat">Metal Coat</a>, which powers up <a href="/wiki/Steel_(type)" title="Steel (type)">Steel-type</a> moves. 
+</p><p><a href="/wiki/Category:Moves_that_change_a_Pok%C3%A9mon%27s_type" title="Category:Moves that change a Pokémon's type">Some moves</a> can change the type of a Pokémon. For example, <a href="/wiki/Camouflage_(move)" title="Camouflage (move)">Camouflage</a> changes the user's type to a type corresponding to the battlefield terrain. Abilities can also change the type of a Pokémon. So far, the only such Abilities are <a href="/wiki/Color_Change_(Ability)" title="Color Change (Ability)">Color Change</a>, <a href="/wiki/Multitype_(Ability)" title="Multitype (Ability)">Multitype</a>, <a href="/wiki/Protean_(Ability)" title="Protean (Ability)">Protean</a>, and <a href="/wiki/RKS_System_(Ability)" title="RKS System (Ability)">RKS System</a>.
+</p><p>Additionally, the type of <a href="/wiki/Category:Moves_that_change_type" title="Category:Moves that change type">some moves</a> may depend on the circumstances they are used in; for example, <a href="/wiki/Weather_Ball_(move)" title="Weather Ball (move)">Weather Ball</a> may be Fire-, Water-, Ice-, Rock-, or Normal-type depending on the <a href="/wiki/Weather" title="Weather">weather</a> it is used in. Additionally, there are <a href="/wiki/Category:Abilities_that_can_modify_move_types" title="Category:Abilities that can modify move types">Abilities that can modify move types</a>, as well as two moves (<a href="/wiki/Electrify_(move)" title="Electrify (move)">Electrify</a> and <a href="/wiki/Ion_Deluge_(move)" title="Ion Deluge (move)">Ion Deluge</a>).
+</p>
+<h2><span class="mw-headline" id=".3F.3F.3F_type">??? type</span></h2>
+<dl><dd><i>Main article: <a href="/wiki/%3F%3F%3F_(type)" title="??? (type)">??? (type)</a></i></dd></dl>
+<p>The&#160;??? type is the only type to have been removed from the <a href="/wiki/Core_series" title="Core series">core series</a> games. The&#160;??? type only existed from <a href="/wiki/Generation_II" title="Generation II">Generation II</a> to <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>, and was primarily used in the core series as the type of the move <a href="/wiki/Curse_(move)" title="Curse (move)">Curse</a>. It was removed in <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, and Curse became a <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost-type</a> move. Any damaging moves given the&#160;??? type deal regular damage against all types, and any Pokémon given the&#160;??? type takes regular damage against all moves.
+</p>
+<h2><span class="mw-headline" id="Shadow">Shadow</span></h2>
+<p>While not generally regarded as an actual type, in <a href="/wiki/Pok%C3%A9mon_XD:_Gale_of_Darkness" title="Pokémon XD: Gale of Darkness">Pokémon XD</a>, <a href="/wiki/Shadow_move" title="Shadow move">Shadow moves</a> have their type listed as "------". <a href="/wiki/Shadow_Pok%C3%A9mon" title="Shadow Pokémon">Shadow Pokémon</a> can be considered to be of this type, but they still retain their regular typing as well. In <a href="/wiki/Pok%C3%A9mon_XD:_Gale_of_Darkness" title="Pokémon XD: Gale of Darkness">Pokémon XD</a>, all Shadow moves are not very effective against Shadow Pokémon and super effective against non-Shadow Pokémon.
+</p>
+<h2><span class="mw-headline" id="Typeless">Typeless</span></h2>
+<p>There are situations where Pokémon or moves behave as if they were typeless, unable to receive <a href="/wiki/Same-type_attack_bonus" title="Same-type attack bonus">STAB</a> and boosts from <a href="/wiki/Type-enhancing_item" title="Type-enhancing item">type-enhancing items</a> or <a href="/wiki/Category:Type-enhancing_Abilities" title="Category:Type-enhancing Abilities">Abilities</a>. Typeless Pokémon take regular damage from all moves, and typeless moves deal regular damage against all Pokémon.
+</p><p><a href="/wiki/Struggle_(move)" title="Struggle (move)">Struggle</a> acts typelessly from <a href="/wiki/Generation_II" title="Generation II">Generation II</a> onward. A pure <a href="/wiki/Fire_(type)" title="Fire (type)">Fire-type</a> Pokémon that uses <a href="/wiki/Burn_Up_(move)" title="Burn Up (move)">Burn Up</a> becomes typeless. The move <a href="/wiki/Revelation_Dance_(move)" title="Revelation Dance (move)">Revelation Dance</a> acts typelessly if used by a typeless user (in which case it does not receive <a href="/wiki/Same-type_attack_bonus" title="Same-type attack bonus">STAB</a>).
+</p><p>A typeless Pokémon has no types displayed on its battle summary.
+</p>
+<h2><span class="mw-headline" id="Glitch_types">Glitch types</span></h2>
+<dl><dd><i>Main article: <a href="/wiki/List_of_glitch_types" title="List of glitch types">List of glitch types</a></i></dd></dl>
+<p>There are several types which only appear through the use of glitches, such as on the types of <a href="/wiki/Glitch_Pok%C3%A9mon" title="Glitch Pokémon">glitch Pokémon</a>. Most famously this includes the <a href="/wiki/Bird_(type)" class="mw-redirect" title="Bird (type)">Bird</a> type, which was intentionally programmed into the code of the Generation I and II games but was not given to any real Pokémon. Other glitch types are the result of the game reading other data as if it were types. Like the&#160;??? type, all glitch types have no special effectiveness (they both inflict normal damage against all types and take normal damage from all types).
+</p>
+<h2><span class="mw-headline" id="In_other_games">In other games</span></h2>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Mystery_Dungeon_series">In the Pokémon Mystery Dungeon series</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Damage_modification_(Mystery_Dungeon)" title="Damage modification (Mystery Dungeon)">Damage modification (Mystery Dungeon)</a></i></dd></dl>
+<p>In the <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon_series" title="Pokémon Mystery Dungeon series">Pokémon Mystery Dungeon series</a>, the type effectiveness chart differs from contemporaneous core series games. Type effectiveness also differs among the series, as does whether effectiveness multipliers stack against dual-typed Pokémon. For example, in <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Red_Rescue_Team_and_Blue_Rescue_Team" title="Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team">Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team</a>, moves that are ineffective in the core series deal ½× damage instead, not very effective moves deal 0.7× damage instead, and multipliers stack against dual-typed Pokémon. In <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness" title="Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness">Explorers of Time and Explorers of Darkness</a>, moves that are ineffective in the core series deal ¼× damage, and multipliers typically do not stack. In <a href="/wiki/Pok%C3%A9mon_Super_Mystery_Dungeon" title="Pokémon Super Mystery Dungeon">Pokémon Super Mystery Dungeon</a>, moves that are ineffective in the core series are ineffective as well (0× damage).
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Ranger_series">In the Pokémon Ranger series</span></h3>
+<p>In the Pokémon Ranger series, each Pokémon has a group, equivalent to a type in the core series. The effectiveness of <a href="/wiki/Pok%C3%A9_Assist" title="Poké Assist">Poké Assists</a> on <a href="/wiki/Wild_Pok%C3%A9mon" title="Wild Pokémon">wild Pokémon</a> is dependent on the Pokémon's group.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Rumble_series">In the Pokémon Rumble series</span></h3>
+<p>In the <a href="/wiki/Pok%C3%A9mon_Rumble_series" title="Pokémon Rumble series">Pokémon Rumble series</a>, the type effectiveness chart differs from the equivalent type chart in contemporaneous core series games. Moves that are ineffective in the core series deal 0.6× damage instead, moves that would be not very effective against one or both of the target's types deal ~0.8× or ~0.7× damage, respectively, and moves that would be super effective against one or both of the target's types deal ~1.2× and ~1.4× damage, respectively. 
+</p>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Battrio">In Pokémon Battrio</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Type_(Battrio)" title="Type (Battrio)">Type (Battrio)</a></i></dd></dl>
+<p>Pokémon in <a href="/wiki/Pok%C3%A9mon_Battrio" title="Pokémon Battrio">Pokémon Battrio</a> all have one type in line with one of their types in the core games. Battrio also includes two unique types exclusively for <a href="/wiki/Arceus_(Pok%C3%A9mon)" title="Arceus (Pokémon)">Arceus</a>, the Full Plate and Eleven-Plate types.
+</p><p>Pokémon Battrio's type effectiveness chart is also unique, with different possible strengths for weaknesses or resistances. For example, while Grass-type Pokémon are weak to both Ice- and Fire-type moves, they are weaker to Fire-type moves than to Ice-type moves.
+</p><p>Players with a <a href="/wiki/Pok%C3%A9mon_Battrio#Memory_Keys" title="Pokémon Battrio">Memory Key</a> can also gain experience towards different types that will level up their <a href="/wiki/Type_(Battrio)#Type_Levels" title="Type (Battrio)">Type Levels</a>, granting Pokémon of that type a bonus in Attack or HP.
+</p>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Shuffle">In Pokémon Shuffle</span></h3>
+<dl><dd><i>Main article: <a href="/wiki/Pok%C3%A9mon_Shuffle#Type" title="Pokémon Shuffle">Pokémon Shuffle → Type</a></i></dd></dl>
+<p>Pokémon in <a href="/wiki/Pok%C3%A9mon_Shuffle" title="Pokémon Shuffle">Pokémon Shuffle</a> each only have one type. Pokémon Shuffle's type effectiveness chart is also slightly different than the contemporaneous Generation VI chart, with 0× effectivenesses turned into ½× effectiveness.
+</p>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_GO">In Pokémon GO</span></h3>
+<p>In the <a href="/wiki/Pok%C3%A9mon_GO" title="Pokémon GO">Pokémon GO</a>, the type effectiveness chart differs from the equivalent type chart in contemporaneous core series games. Moves that are ineffective in the core series deal 0.51× damage instead (0.8× prior to June 21, 2017), not very effective moves deal 0.714× damage (0.8× prior to June 21, 2017), and super effective moves deal 1.4× damage (1.25× prior to June 21, 2017). If the defending Pokémon is dual-typed, the modifier is calculated as the product of the modifiers for both of its types.
+</p>
+<h2><span class="mw-headline" id="In_the_TCG">In the TCG</span></h2>
+<dl><dd><i>Main article: <a href="/wiki/Type_(TCG)" title="Type (TCG)">Type (TCG)</a></i></dd></dl>
+<p>In the <a href="/wiki/Pok%C3%A9mon_Trading_Card_Game" title="Pokémon Trading Card Game">Pokémon Trading Card Game</a>, there are only eleven types. Type mechanics are generally different than in the core games, though they may preserve a similar spirit.
+</p>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #ddf; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #ccf; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #ddf; border-collapse:collapse">
+
+<tr style="background: #ddf">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 屬性 <i><span class="explain" title="Type">Suhksing</span></i>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 屬性 / 属性 <i><span class="explain" title="Type">Shǔxìng</span></i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:The_Czech_Republic_Flag.png" class="image"><img alt="The Czech Republic Flag.png" src="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/20px-The_Czech_Republic_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/30px-The_Czech_Republic_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/40px-The_Czech_Republic_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Czech_Republic" title="Pokémon in the Czech Republic">Czech</a>
+</td>
+<td> Typ
+</td></tr>
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Tyyppi
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Type
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Typ
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Hungary_Flag.png" class="image"><img alt="Hungary Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/20px-Hungary_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/30px-Hungary_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/40px-Hungary_Flag.png 2x" /></a> Hungarian
+</td>
+<td> Típus
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Tipo
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 타입 <i>Type</i>
+</td></tr>
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Typ
+</td></tr>
+
+<tr>
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> Tipo<br />Elemento<span class="explain" title="The Official Pokémon Handbook, Pokémon Club">*</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> Tipo
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Тип <i>Tip</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Tipo
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Typ<br />Sort<span class="explain" title="DP002">*</span><br />Elementklass<span class="explain" title="The Official Pokémon Handbook">*</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> Hệ
+</td></tr>
+<tr>
+<td colspan="3" style="background: #ddf">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li> <a href="/wiki/Same-type_attack_bonus" title="Same-type attack bonus">Same-type attack bonus</a></li>
+<li> <a href="/wiki/Type_expert" title="Type expert">Type expert</a></li>
+<li> <a href="/wiki/List_of_Pok%C3%A9mon_with_unique_type_combinations" title="List of Pokémon with unique type combinations">List of Pokémon with unique type combinations</a></li>
+<li> <a href="/wiki/List_of_type_combinations_by_abundance" title="List of type combinations by abundance">List of type combinations by abundance</a></li>
+<li> <a href="/wiki/Category:Moves_that_change_a_Pok%C3%A9mon%27s_type" title="Category:Moves that change a Pokémon's type">Category:Moves that change a Pokémon's type</a></li></ul>
+<p><br clear="all" />
+</p>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Games_logo.png" class="image"><img alt="Project Games logo.png" src="//cdn.bulbagarden.net/upload/thumb/5/56/Project_Games_logo.png/80px-Project_Games_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/5/56/Project_Games_logo.png/120px-Project_Games_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/56/Project_Games_logo.png/160px-Project_Games_logo.png 2x" /></a>
+</td>
+<td> This game mechanic article is part of <b><a href="/wiki/Bulbapedia:Project_Games" title="Bulbapedia:Project Games">Project Games</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on the <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">Pokémon games</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180131140514
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.333 seconds
+Preprocessor visited node count: 2760/1000000
+Preprocessor generated node count: 10039/1000000
+Post‐expand include size: 24680/2097152 bytes
+Template argument size: 5046/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  197.708      1 -total
+ 36.55%   72.268      1 Template:Types
+ 12.28%   24.284     36 Template:Ic
+  9.74%   19.256      1 Template:Langtable
+  2.98%    5.892     22 Template:Roundy
+  2.63%    5.197     19 Template:Tcolor
+  2.39%    4.723      5 Template:2t
+  2.30%    4.552     18 Template:T
+  2.18%    4.309     21 Template:M
+  2.08%    4.109     17 Template:Type
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:4406-0!*!0!!en!5!* and timestamp 20180131140514 and revision id 2701114
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Type&amp;oldid=2701114#Type_effectiveness">https://bulbapedia.bulbagarden.net/w/index.php?title=Type&amp;oldid=2701114#Type_effectiveness</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Types" title="Category:Types">Types</a></li><li><a href="/wiki/Category:Terminology" title="Category:Terminology">Terminology</a></li><li><a href="/wiki/Category:Game_mechanics" title="Category:Game mechanics">Game mechanics</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_world" title="Category:Pokémon world">Pokémon world</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Type" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Type" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Type&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Type&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Type" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Type" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Type" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Type" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Type&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Type&amp;oldid=2701114" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Type&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Typen" title="Typen – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Type" title="Type – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Tipo" title="Tipo – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%82%BF%E3%82%A4%E3%83%97" title="タイプ – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Typy" title="Typy – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E5%B1%9E%E6%80%A7" title="属性 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 12 October 2017, at 15:50.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Type&amp;mobileaction=toggle_view_mobile#Type_effectiveness" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.333","ppvisitednodes":{"value":2760,"limit":1000000},"ppgeneratednodes":{"value":10039,"limit":1000000},"postexpandincludesize":{"value":24680,"limit":2097152},"templateargumentsize":{"value":5046,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  197.708      1 -total"," 36.55%   72.268      1 Template:Types"," 12.28%   24.284     36 Template:Ic","  9.74%   19.256      1 Template:Langtable","  2.98%    5.892     22 Template:Roundy","  2.63%    5.197     19 Template:Tcolor","  2.39%    4.723      5 Template:2t","  2.30%    4.552     18 Template:T","  2.18%    4.309     21 Template:M","  2.08%    4.109     17 Template:Type"]},"cachereport":{"timestamp":"20180131140514","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

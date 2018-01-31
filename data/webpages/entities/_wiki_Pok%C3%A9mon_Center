@@ -1,0 +1,1901 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pokémon Center - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pokémon_Center","wgTitle":"Pokémon Center","wgCurRevisionId":2717020,"wgRevisionId":2717020,"wgArticleId":806,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing more information","Buildings","Pokémon world"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pokémon_Center","wgRelevantArticleId":806,"wgRequestId":"b77ed8afb926c39f74119e68","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Center"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Center"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pokémon_Center rootpage-Pokémon_Center skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Pokémon Center</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table align="center" style="background: #FAFFF4; border: 2px solid #E0C068; width: auto%; margin-left: auto; margin-right: auto; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="background:#EBD69D; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;;" width="60px" align="center"> <a href="/wiki/File:050Diglett.png" class="image"><img alt="050Diglett.png" src="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/50px-050Diglett.png" width="50" height="50" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/75px-050Diglett.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/100px-050Diglett.png 2x" /></a>
+</td>
+<td> <b>This article is incomplete.</b><br />Please feel free to edit this article to add missing information and complete it. <br /><small>Reason: Missing layout maps for Lavaridge Town Pokémon Center and needs a complete map for Generation V.</small>
+</td></tr></table>
+<hr />
+<dl><dd><i>If you were looking for the retail store chain, see <a href="/wiki/Pok%C3%A9mon_Center_(store)" title="Pokémon Center (store)">Pokémon Center (store)</a>.</i></dd></dl>
+<hr />
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Silver_Cave_entrance_HGSS.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/9/9e/Silver_Cave_entrance_HGSS.png/300px-Silver_Cave_entrance_HGSS.png" width="300" height="81" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/9/9e/Silver_Cave_entrance_HGSS.png/450px-Silver_Cave_entrance_HGSS.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/9e/Silver_Cave_entrance_HGSS.png/600px-Silver_Cave_entrance_HGSS.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Silver_Cave_entrance_HGSS.png" class="internal" title="Enlarge"></a></div>A rural Pokémon Center in <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a></div></div></div>
+<p>A <b>Pokémon Center</b> (Japanese: <b><span lang="ja" style="margin: 0px;">ポケモンセンター</span></b> <i>Pokémon Center</i>), also shortened to <b>PMC</b> in <a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon">Pokémon Sun and Moon</a> or  <b>Pokécen</b> or <b>Pokésen</b> (Japanese: <b><span lang="ja" style="margin: 0px;">ポケセン</span></b>) in Japan, is a type of building that provides regulatory services for <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Pokémon Trainers</a>. Pokémon Centers are found in most towns and cities of the <a href="/wiki/Pok%C3%A9mon_world" title="Pokémon world">Pokémon world</a>; every major city or town holds a Pokémon Center. Some Pokémon Centers can be found outside of towns next to large <a href="/wiki/Forest" title="Forest">forests</a> or <a href="/wiki/Cave" title="Cave">caves</a>. Pokémon Centers are built where many Trainers gather and the area becomes popular. This is to accommodate those Trainers in need and serve as a resting spot. The most common service the Pokémon Center offers is healing <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> free of charge.
+</p><p>In the <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">games</a>, Pokémon Centers consist of a healing station run by a <a href="/wiki/Pok%C3%A9mon_Center_Nurse" title="Pokémon Center Nurse">Pokémon Center Nurse</a>, a <a href="/wiki/PC" title="PC">PC</a>, a <a href="/wiki/Trade" title="Trade">trading</a> connection club, a <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battling</a> connection club (neither of which require wired connections as of <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Pokémon FireRed and LeafGreen</a>), and various <a href="/wiki/Non-player_character" title="Non-player character">NPCs</a> that vary upon location (in rural areas, no NPCs may be present). As of <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, salesmen from the <a href="/wiki/Pok%C3%A9_Mart" title="Poké Mart">Poké Mart</a> and the deliveryman (in Generation V and <a href="/wiki/Generation_VII" title="Generation VII">VII</a>) or delivery girl (in <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>) appear when the <a href="/wiki/Mystery_Gift" title="Mystery Gift">Mystery Gift</a> function is activated, due to its integration with the Pokémon Center. Mr. Medal also appears here in <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2">Pokémon Black 2 and White 2</a> when awarding the player any <a href="/wiki/List_of_Medals_in_Pok%C3%A9mon_Black_2_and_White_2" title="List of Medals in Pokémon Black 2 and White 2">Medals</a>. The connection clubs are absent in <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a> and are replaced with the <a href="/wiki/Player_Search_System" title="Player Search System">Player Search System</a>.
+</p><p><a href="/wiki/Fly_(move)" title="Fly (move)">Fly</a> brings the <a href="/wiki/Player_character" title="Player character">player</a> to the Pokémon Center in the town or city chosen, and <a href="/wiki/Teleport_(move)" title="Teleport (move)">Teleport</a> brings the player to the Pokémon Center they last visited (or to the Pokémon Center of the city or town they are currently in). Also, if defeated in battle, the player will appear at the Pokémon Center most recently visited (unless the player has not visited a Pokémon Center, in which case the player will appear outside his or her home).
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_the_games"><span class="tocnumber">1</span> <span class="toctext">In the games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Generation_I"><span class="tocnumber">1.1</span> <span class="toctext">Generation I</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Cable_Club"><span class="tocnumber">1.1.1</span> <span class="toctext">Cable Club</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-4"><a href="#Generation_II"><span class="tocnumber">1.2</span> <span class="toctext">Generation II</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Cable_Club_2"><span class="tocnumber">1.2.1</span> <span class="toctext">Cable Club</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Pok.C3.A9Com_Center"><span class="tocnumber">1.2.2</span> <span class="toctext">PokéCom Center</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Generation_III"><span class="tocnumber">1.3</span> <span class="toctext">Generation III</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Cable_Club_3"><span class="tocnumber">1.3.1</span> <span class="toctext">Cable Club</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Wireless_Club"><span class="tocnumber">1.3.2</span> <span class="toctext">Wireless Club</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Generation_IV"><span class="tocnumber">1.4</span> <span class="toctext">Generation IV</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Wireless_Club_2"><span class="tocnumber">1.4.1</span> <span class="toctext">Wireless Club</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Wi-Fi_Plaza"><span class="tocnumber">1.4.2</span> <span class="toctext">Wi-Fi Plaza</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Generation_V"><span class="tocnumber">1.5</span> <span class="toctext">Generation V</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Generation_VI"><span class="tocnumber">1.6</span> <span class="toctext">Generation VI</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Generation_VII"><span class="tocnumber">1.7</span> <span class="toctext">Generation VII</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Layout"><span class="tocnumber">1.8</span> <span class="toctext">Layout</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Exterior"><span class="tocnumber">1.8.1</span> <span class="toctext">Exterior</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Exterior_.28Japan.29"><span class="tocnumber">1.8.2</span> <span class="toctext">Exterior (Japan)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#In_the_anime"><span class="tocnumber">2</span> <span class="toctext">In the anime</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#In_the_main_series"><span class="tocnumber">2.1</span> <span class="toctext">In the main series</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Pok.C3.A9dex_entries"><span class="tocnumber">2.1.1</span> <span class="toctext">Pokédex entries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="#In_Pok.C3.A9mon_Origins"><span class="tocnumber">2.2</span> <span class="toctext">In Pokémon Origins</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#In_the_manga"><span class="tocnumber">3</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#In_the_Be_the_Best.21_Pok.C3.A9mon_B.2BW_manga"><span class="tocnumber">3.1</span> <span class="toctext">In the Be the Best! Pokémon B+W manga</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#In_the_movie_adaptations"><span class="tocnumber">3.2</span> <span class="toctext">In the movie adaptations</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">3.3</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#In_the_Pok.C3.A9mon_Pocket_Monsters_manga"><span class="tocnumber">3.4</span> <span class="toctext">In the Pokémon Pocket Monsters manga</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#In_the_TCG"><span class="tocnumber">4</span> <span class="toctext">In the TCG</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#In_the_TFG"><span class="tocnumber">5</span> <span class="toctext">In the TFG</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#In_other_languages"><span class="tocnumber">7</span> <span class="toctext">In other languages</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_the_games">In the games</span></h2>
+<p>Pokémon Centers are important buildings in the <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">games</a> and are found in most towns and cities, sometimes even on <a href="/wiki/Route" title="Route">routes</a>. Pokémon Centers are essential to <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a> as they provide many facilities and host most game mechanics. <a href="/wiki/Non-player_character" title="Non-player character">Non-player character</a> Trainers and their own <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> are often found hanging around in Pokémon Centers, offering general advice and information on the events in the town or area it is situated in. Though the setup of the Pokémon Centers has varied slightly throughout each <a href="/wiki/Generation" title="Generation">generation</a>, all Pokémon Centers have the same core functions:
+</p>
+<ul><li> A <a href="/wiki/Pok%C3%A9mon_Center_Nurse" title="Pokémon Center Nurse">Pokémon Center Nurse</a> heals all <a href="/wiki/Party" title="Party">party</a> Pokémon in a matter of seconds. This service heals all <a href="/wiki/Status_condition" title="Status condition">status conditions</a> and recharges <a href="/wiki/Statistic#HP" title="Statistic">HP</a> and <a href="/wiki/Power_Point" title="Power Point">PP</a> of all party Pokémon, free of charge. The nurse is located at the main counter just as the player enters the Pokémon Center.</li>
+<li> Pokémon Centers also host the Cable Club and the <a href="/wiki/Union_Room" title="Union Room">Union Room</a>, which facilitates multiplayer gameplay. Originally, linked players could only <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battle</a> and <a href="/wiki/Trade" title="Trade">trade</a> with one another, but in later generations, players can <a href="/wiki/Record_mixing" title="Record mixing">mix records</a><b><sup><a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions"><span style="color:#A00000;">R</span><span style="color:#0000A0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a></sup></b><b><sup><a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions"><span style="color:#AAAAFF;">D</span><span style="color:#FFAAAA;">P</span></a><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#B69E00;">HG</span><span style="color:#7D7D92;">SS</span></a></sup></b> and <a href="/wiki/Wi-Fi_Plaza" title="Wi-Fi Plaza">play games</a><b><sup><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#B69E00;">HG</span><span style="color:#7D7D92;">SS</span></a></sup></b> together.</li>
+<li> Trainers also have access to a <a href="/wiki/PC" title="PC">PC</a> so that they can change out their party. Players are able to deposit and withdraw Pokémon, along with ability to store and withdraw items and display their <a href="/wiki/Hall_of_Fame" title="Hall of Fame">Hall of Fame</a> details.</li></ul>
+<p>In the <a href="/wiki/Generation_I" title="Generation I">Generation I</a>, <a href="/wiki/Generation_II" title="Generation II">II</a> and <a href="/wiki/Generation_III" title="Generation III">III</a> games, <a href="/wiki/Save" title="Save">saving</a> inside a Pokémon Center is required to facilitate linking with console games such as <a href="/wiki/Pok%C3%A9mon_Stadium_(English)" title="Pokémon Stadium (English)">Pokémon Stadium</a> and <a href="/wiki/Pok%C3%A9mon_Colosseum" title="Pokémon Colosseum">Pokémon Colosseum</a>.
+</p><p>Prior to <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>, Pokémon Centers had slogans: in the Generation I, II, <a href="/wiki/Kanto" title="Kanto">Kanto</a>-based Generation III, and <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a>-based <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> games, it is "Heal Your Pokémon!"; in the <a href="/wiki/Hoenn" title="Hoenn">Hoenn</a>-based Generation III games, it is "Rejuvenate your tired partners!"
+</p><p>The <i>Pokémon Center</i> theme has remained essentially the same throughout the generations. It is notably different at <a href="/wiki/Time" title="Time">nighttime</a> in <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond, Pearl</a>, and <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a>. A rearrangement has also been used in <a href="/wiki/Super_Smash_Bros._Brawl" title="Super Smash Bros. Brawl">Super Smash Bros. Brawl</a>.
+</p>
+<h3><span class="mw-headline" id="Generation_I">Generation I</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:225px;"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_RBY.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/d/df/Pok%C3%A9mon_Center_inside_RBY.png" width="223" height="128" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_RBY.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games</div></div></div>
+<p>In the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games, a Pokémon Center consists of two counters on a single floor. The counter on the left has a <a href="/wiki/Pok%C3%A9mon_Center_Nurse" title="Pokémon Center Nurse">Pokémon Center Nurse</a> that will heal the <a href="/wiki/Player_character" title="Player character">player</a>'s <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a>. The counter on the right contains the Cable Club, which allows players to link with each other. Talking to the women at the desk will allow the player to enter the Cable Club. Furthest to the right is the <a href="/wiki/PC" title="PC">PC</a> to deposit and withdraw Pokémon or items. The Generation I games also include two of the few examples of a Pokémon Center that isn't in a town: the Pokémon Centers in <a href="/wiki/Kanto_Route_4" title="Kanto Route 4">Route 4</a>, outside <a href="/wiki/Mt._Moon" title="Mt. Moon">Mt. Moon</a>, and in <a href="/wiki/Kanto_Route_10" title="Kanto Route 10">Route 10</a>, outside the entrance to the <a href="/wiki/Rock_Tunnel" title="Rock Tunnel">Rock Tunnel</a>. Future <a href="/wiki/Generation" title="Generation">generations</a> employ rest houses that only offer healing services in similar areas.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version">Pokémon Yellow</a>, a <a href="/wiki/Chansey_(Pok%C3%A9mon)" title="Chansey (Pokémon)">Chansey</a> stands beside the nurse in every center. This is a reference to <a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a> in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a>.
+</p>
+<h4><span class="mw-headline" id="Cable_Club">Cable Club</span></h4>
+<p>Being the original link-up place, it is located at the far end of the Pokémon Center in <a href="/wiki/Generation_I" title="Generation I">Generation I</a> <a href="/wiki/Kanto" title="Kanto">Kanto</a>. <a href="/wiki/Player_character" title="Player character">Players</a> can link together to simply <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battle</a> each other one-on-one and <a href="/wiki/Trade" title="Trade">trade</a> <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> with each other. Two players linked by a <a href="/wiki/Game_Boy" title="Game Boy">Game Boy</a> <a href="/wiki/Game_Link_Cable" title="Game Link Cable">Game Link Cable</a> can enter the Cable Club. <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version">Pokémon Yellow</a> features an extended version of the Cable Club with the option to choose special battle rules or cups.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_II">Generation II</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:162px;"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/5/53/Pok%C3%A9mon_Center_inside_GSC.png" width="160" height="129" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_GSC.png" class="internal" title="Enlarge"></a></div>A regular Pokémon Center in the <a href="/wiki/Generation_II" title="Generation II">Generation II</a> games</div></div></div>
+<p>In the <a href="/wiki/Generation_II" title="Generation II">Generation II</a> games, to accommodate greater linking functionality, the Pokémon Centers of both <a href="/wiki/Kanto" title="Kanto">Kanto</a> and <a href="/wiki/Johto" title="Johto">Johto</a> expanded to two floors. On the first floor, there is the counter where a <a href="/wiki/Pok%C3%A9mon_Center_Nurse" title="Pokémon Center Nurse">Pokémon Center Nurse</a> heals the <a href="/wiki/Player_character" title="Player character">player</a>'s <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a>, as well as a <a href="/wiki/PC" title="PC">PC</a>. On the second floor resides the Cable Club and <a href="/wiki/Time_Capsule" title="Time Capsule">Time Capsule</a>.
+</p><p>In the Japanese versions and Korean versions of <a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions">Pokémon Gold and Silver</a>, the sign of <a href="/wiki/Johto" title="Johto">Johto</a>'s Pokémon Centers have a <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a> logo and the letters <i>PC</i> while <a href="/wiki/Kanto" title="Kanto">Kanto</a>'s use the same sign as that of the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games. In the localizations, the Generation I sign was used for both <a href="/wiki/Region" title="Region">regions</a>.
+</p>
+<h4><span class="mw-headline" id="Cable_Club_2">Cable Club</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:194px;"><a href="/wiki/File:Pokemon_Center_2F_Special_GS_SGB_JP_WST.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Pokemon_Center_2F_Special_GS_SGB_JP_WST.png/192px-Pokemon_Center_2F_Special_GS_SGB_JP_WST.png" width="192" height="168" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/e/ec/Pokemon_Center_2F_Special_GS_SGB_JP_WST.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pokemon_Center_2F_Special_GS_SGB_JP_WST.png" class="internal" title="Enlarge"></a></div>The Cable Club is located on the second floor, which is always colored pink when Japanese and Western Gold and Silver are played on a Super Game Boy</div></div></div>
+<p>Located upstairs in Pokémon Centers throughout <a href="/wiki/Johto" title="Johto">Johto</a> and <a href="/wiki/Kanto" title="Kanto">Kanto</a>, this Cable Club consists of three rooms. The Cable Club Trade Center facilitates <a href="/wiki/Trade" title="Trade">trading</a>, the Cable Club Colosseum allows <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battling</a>, and the Cable Club <a href="/wiki/Time_Capsule" title="Time Capsule">Time Capsule</a> provides a way to trade <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> with the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games. Because there were no female protagonists prior to <a href="/wiki/Kris_(game)" title="Kris (game)">Kris</a>'s introduction in <a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version">Pokémon Crystal</a>, a <a href="/wiki/Player_character" title="Player character">player</a> who has chosen Kris is temporarily swapped into the <a href="/wiki/Ethan_(game)" title="Ethan (game)">male player</a> sprite before linking with a <a href="/wiki/Generation_I" title="Generation I">Generation I</a> game or with <a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions">Pokémon Gold and Silver</a>; this is still the case for two Pokémon Crystal games linked with each other, despite the sprite data for the female choice being present.
+</p><p>Two players can enter the Cable Club with a <a href="/wiki/Game_Boy" title="Game Boy">Game Boy</a> or <a href="/wiki/Game_Boy_Color" title="Game Boy Color">Game Boy Color</a> <a href="/wiki/Game_Link_Cable" title="Game Link Cable">Game Link Cable</a>.
+</p>
+<h4><span class="mw-headline" id="Pok.C3.A9Com_Center">PokéCom Center</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Pok%C3%A9mon_Communication_Center" title="Pokémon Communication Center">Pokémon Communication Center</a></i></dd></dl>
+<p>Exclusively in the Japanese version of <a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version">Pokémon Crystal</a>, the <a href="/wiki/Pok%C3%A9mon_Communication_Center" title="Pokémon Communication Center">Pokémon Communication Center</a>, or PokéCom Center, replaces the regular Pokémon Center in <a href="/wiki/Goldenrod_City" title="Goldenrod City">Goldenrod City</a>, and takes use of the <a href="/wiki/Pok%C3%A9mon_Mobile_System_GB" title="Pokémon Mobile System GB">Pokémon Mobile System GB</a>. It is in essence a prototype for the <a href="/wiki/Global_Terminal" title="Global Terminal">Global Terminal</a>, justifying the placement of one in the city in <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_III">Generation III</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_RSE.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/2/23/Pok%C3%A9mon_Center_inside_RSE.png" width="240" height="160" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_RSE.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Pokémon Ruby, Sapphire</a>, and <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Emerald</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:258px;"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_FRLG.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/a/a3/Pok%C3%A9mon_Center_inside_FRLG.png" width="256" height="164" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_FRLG.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Pokémon FireRed and LeafGreen</a></div></div></div>
+<p>Pokémon Centers in the <a href="/wiki/Generation_III" title="Generation III">Generation III</a> games keep the two-floor setup, similar to the regular Pokémon Centers in the <a href="/wiki/Generation_II" title="Generation II">Generation II</a> games. The only difference is that the stairs to the second floor are larger and more noticeable, taking the shape of an escalator.
+</p><p>In <a href="/wiki/Orre" title="Orre">Orre</a>, there are only three official Pokémon Centers. They are located in <a href="/wiki/Phenac_City" title="Phenac City">Phenac City</a>, <a href="/wiki/Agate_Village" title="Agate Village">Agate Village</a>, and <a href="/wiki/Gateon_Port" title="Gateon Port">Gateon Port</a>. The Agate Village and Gateon Port Centers do not have facilities for linking with the <a href="/wiki/Generation_III" title="Generation III">Generation III</a> <a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a> games; however, all have unique appearances. Self-service healing machines, identical to ones staffed by a <a href="/wiki/Pok%C3%A9mon_Center_Nurse" title="Pokémon Center Nurse">nurse</a> in a Pokémon Center, appear scattered throughout Orre, generally next to a <a href="/wiki/PC" title="PC">PC</a>.
+</p>
+<h4><span class="mw-headline" id="Cable_Club_3">Cable Club</span></h4>
+<p>Similar to the Cable Club of the <a href="/wiki/Generation_II" title="Generation II">Generation II</a> games, Pokémon Centers in <a href="/wiki/Generation_III" title="Generation III">Generation III</a> <a href="/wiki/Kanto" title="Kanto">Kanto</a> and <a href="/wiki/Hoenn" title="Hoenn">Hoenn</a> have a Cable Club Colosseum and a Cable Club Trade Center. Now four <a href="/wiki/Player_character" title="Player character">players</a> can link with a <a href="/wiki/Game_Boy_Advance" title="Game Boy Advance">Game Boy Advance</a> <a href="/wiki/Game_Link_Cable" title="Game Link Cable">Game Link Cable</a> to <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battle</a> in a <a href="/wiki/Double_Battle" title="Double Battle">Double Battle</a>. A new feature was added to the Cable Club called the Cable Club Record Corner, which allows two to four <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a> to <a href="/wiki/Record_mixing" title="Record mixing">mix records</a>. Mixed Trainer data shows up on <a href="/wiki/Television" title="Television">television</a> shows on TVs found all across <a href="/wiki/Hoenn" title="Hoenn">Hoenn</a>. <a href="/wiki/Secret_Base" title="Secret Base">Secret Bases</a> are also copied over in the process.
+</p>
+<h4><span class="mw-headline" id="Wireless_Club">Wireless Club</span></h4>
+<p>In <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Pokémon FireRed and LeafGreen</a> and <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Pokémon Emerald</a>, the second floor of Pokémon Centers house a Wireless Club. The Wireless Club meets in the <a href="/wiki/Union_Room" title="Union Room">Union Room</a>, where up to 40 <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a> may (in groups of five) <a href="/wiki/Easy_chat_system" title="Easy chat system">talk</a> and <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battle</a>, as well as <a href="/wiki/Trade" title="Trade">trade</a> via a trading board. The Direct Corner's room has the standard Trade Center and Colosseum (as well as the Record Corner in Emerald), with the new <a href="/wiki/Berry_Crush" title="Berry Crush">Berry Crush</a> feature.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_IV">Generation IV</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:256px;"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_DPPt.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/1/14/Pok%C3%A9mon_Center_inside_DPPt.png" width="254" height="189" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_DPPt.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond, Pearl</a>, and <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:258px;"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_HGSS.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/5/50/Pok%C3%A9mon_Center_inside_HGSS.png" width="256" height="297" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_HGSS.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a></div></div></div>
+<p>In the <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> games, Pokémon Centers introduce a basement floor, which takes use of <a href="/wiki/Nintendo_Wi-Fi_Connection" title="Nintendo Wi-Fi Connection">Nintendo Wi-Fi Connection</a>. Opposite the ground floor's escalator, another escalator downstairs to the basement appears. While the second floor retains the same features from the <a href="/wiki/Generation_III" title="Generation III">Generation III</a> games, supporting up to four <a href="/wiki/Player_character" title="Player character">players</a> using the native wireless connection of the <a href="/wiki/Nintendo_DS" title="Nintendo DS">Nintendo DS</a>, the basement floor is where players can link up with others around the world using Nintendo Wi-Fi Connection. The ground floor, as always, is where a player can heal their <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> and use a <a href="/wiki/PC" title="PC">PC</a>. As of <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Pokémon Platinum</a>, players can also challenge other <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a> inside specific Pokémon Centers also in <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a> in <a href="/wiki/Olivine_City" title="Olivine City">Olivine City</a>.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>, the Pokémon Center's design receives a major overhaul. The second floor became a <a href="https://en.wikipedia.org/wiki/mezzanine" class="extiw" title="wp:mezzanine">mezzanine</a>, located above and directly behind the main desk, and two staircases were added on each side of the desk for access to it. The <a href="/wiki/PC" title="PC">PC</a> was moved to the corner of the desk. All functions remain the same. The <a href="/wiki/Player_character" title="Player character">player</a>'s <a href="/wiki/Walking_Pok%C3%A9mon" title="Walking Pokémon">walking Pokémon</a> will return to its <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a> while being healed. If the first <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> in the player's party <a href="/wiki/Fainting" title="Fainting">fainted</a> prior to healing, it will return to being the walking Pokémon as soon as it has been revived.
+</p><p>A healing machine similar to the ones found in the centers can be obtained from <a href="/wiki/The_Underground" title="The Underground">the Underground</a> in <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond, Pearl</a>, and <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a> and placed in a <a href="/wiki/Secret_Base" title="Secret Base">Secret Base</a>; however, it cannot heal <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a>.
+</p>
+<h4><span class="mw-headline" id="Wireless_Club_2">Wireless Club</span></h4>
+<p>Both <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a> and <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> <a href="/wiki/Johto" title="Johto">Johto</a> feature a wireless club just like <a href="/wiki/Hoenn" title="Hoenn">Hoenn</a> and <a href="/wiki/Generation_III" title="Generation III">Generation III</a> <a href="/wiki/Kanto" title="Kanto">Kanto</a>, where <a href="/wiki/Player_character" title="Player character">players</a> in a <a href="/wiki/Union_Room" title="Union Room">Union Room</a> can <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battle</a>, <a href="/wiki/Trade" title="Trade">trade</a>, <a href="/wiki/Record_mixing" title="Record mixing">mix records</a> and, in <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Pokémon Platinum</a> and <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>, spin <a href="/wiki/Pok%C3%A9mon_Egg" title="Pokémon Egg">Eggs</a>. However, the Pokémon Centers in these <a href="/wiki/Region" title="Region">regions</a> also have a basement, where the Wi-Fi Club is located, allowing players to connect to each other if they are registered on each other's <a href="/wiki/Pal_Pad" title="Pal Pad">Pal Pad</a>. Here they can battle and trade, and they can talk to each other through the built-in microphone of the <a href="/wiki/Nintendo_DS" title="Nintendo DS">Nintendo DS</a>, instead of using the <a href="/wiki/Easy_chat_system" title="Easy chat system">easy chat system</a> as in the Generation III games; however, the easy chat system is also supported.
+</p>
+<h4><span class="mw-headline" id="Wi-Fi_Plaza">Wi-Fi Plaza</span></h4>
+<dl><dd><i>Main article: <a href="/wiki/Wi-Fi_Plaza" title="Wi-Fi Plaza">Wi-Fi Plaza</a></i></dd></dl>
+<p>The Wi-Fi Plaza is an enhancement to the Wi-Fi Club in <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Pokémon Platinum</a> and <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a> and is located on the basement floor. <a href="/wiki/Player_character" title="Player character">Players</a> from around the world can enter a plaza to make <a href="/wiki/Poffin" title="Poffin">Poffins</a> and play minigames together via <a href="/wiki/Nintendo_Wi-Fi_Connection" title="Nintendo Wi-Fi Connection">Nintendo Wi-Fi Connection</a>. The player can walk around the plaza and communicate with other players there. A leap in multiplayer gameplay is introduced, allowing up to twenty players to enter the Wi-Fi Plaza at a time. The player may only spend a certain amount of time at the Wi-Fi Plaza each day.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_V">Generation V</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:259px;"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_BW.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/6/64/Pok%C3%A9mon_Center_inside_BW.png" width="257" height="193" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_BW.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions">Pokémon Black and White</a></div></div></div>
+<p>In the <a href="/wiki/Generation_V" title="Generation V">Generation V</a> games, the <a href="/wiki/Pok%C3%A9_Mart" title="Poké Mart">Poké Mart</a> has been merged with the Pokémon Center. This is similar to how the <a href="/wiki/Pok%C3%A9mon_League" title="Pokémon League">Pokémon League</a> lobbies of previous <a href="/wiki/Generation" title="Generation">generations</a> contain both a Poké Mart and a Pokémon Center. The <a href="/wiki/PC" title="PC">PCs</a> in this generation have a help function, which describes a wide variety of game-related topics.
+</p><p>As with <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>, the second floor is a <a href="https://en.wikipedia.org/wiki/mezzanine" class="extiw" title="wp:mezzanine">mezzanine</a> above and directly behind the main desk. All multiplayer features found on the second floor of Pokémon Centers in the <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> games, including the <a href="/wiki/Nintendo_Wi-Fi_Connection" title="Nintendo Wi-Fi Connection">Nintendo Wi-Fi Connection</a> features present in the basements, can be found here by talking to the attendant to the left and on the center, respectively. The attendant to the right allows <a href="/wiki/Player_character" title="Player character">players</a> to access the <a href="/wiki/Global_Trade_System" title="Global Trade System">Global Trade System</a> (GTS), as well as all the features from the <a href="/wiki/Global_Terminal" title="Global Terminal">Global Terminal</a>, such as playback of <a href="/wiki/Vs._Recorder" title="Vs. Recorder">recorded videos</a>. The <a href="/wiki/Global_Battle_Union" title="Global Battle Union">Global Battle Union</a> (GBU) can also be accessed here, allowing players to <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battle</a> random players via Nintendo Wi-Fi Connection. The <a href="/wiki/Global_Terminal#Geonet" title="Global Terminal">Geonet</a> can also be found on the second floor, allowing players to register their real-world location, as in the <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> games. All Pokémon Centers except the one in the <a href="/wiki/Pok%C3%A9mon_League_(Unova)" title="Pokémon League (Unova)">Pokémon League</a> have a second floor.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_VI">Generation VI</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Pok%C3%A9mon_Center_XY_Concept_artwork.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/2/27/Pok%C3%A9mon_Center_XY_Concept_artwork.png/250px-Pok%C3%A9mon_Center_XY_Concept_artwork.png" width="250" height="155" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/2/27/Pok%C3%A9mon_Center_XY_Concept_artwork.png/375px-Pok%C3%A9mon_Center_XY_Concept_artwork.png 1.5x, //cdn.bulbagarden.net/upload/thumb/2/27/Pok%C3%A9mon_Center_XY_Concept_artwork.png/500px-Pok%C3%A9mon_Center_XY_Concept_artwork.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_XY_Concept_artwork.png" class="internal" title="Enlarge"></a></div>Concept art depicting the internal layout of a Pokémon Center from <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">Pokémon X and Y</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Pok%C3%A9mon_Center_ORAS_model.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/d/d6/Pok%C3%A9mon_Center_ORAS_model.png/250px-Pok%C3%A9mon_Center_ORAS_model.png" width="250" height="134" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/d/d6/Pok%C3%A9mon_Center_ORAS_model.png/375px-Pok%C3%A9mon_Center_ORAS_model.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d6/Pok%C3%A9mon_Center_ORAS_model.png/500px-Pok%C3%A9mon_Center_ORAS_model.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_ORAS_model.png" class="internal" title="Enlarge"></a></div>The internal layout of a Pokémon Center from <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Pokémon Omega Ruby and Alpha Sapphire</a></div></div></div>
+<p>In Generation VI, the wireless and online features previously accessible in Pokémon Centers are now handled by the Player Search System. As a result, the Centers are much smaller, as there is no need for additional floors anymore.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">Pokémon X and Y</a>, the Pokémon Centers now consist of the traditional counter to heal the player's Pokémon, and two small rooms to the sides. The room located on the right of the counter houses the Poké Mart again, which is accessed by talking to an attendant. In certain towns, a second attendant who sells TMs, special types of Poké Balls, or other items is also present. The room to the left of the counter is a dressing room that allows the player to change clothes and register their favorite outfits.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Pokémon Omega Ruby and Alpha Sapphire</a>, the Pokémon Centers have a similar layout to the ground floor of the Pokémon Centers of the <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">original versions</a>.
+</p><p>If the player walks into a Pokémon Center on their <a href="/wiki/Birthday" title="Birthday">birthday</a> (as noted in the 3DS system), the nurse will wish them a happy birthday.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Generation_VII">Generation VII</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_SM.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/5/55/Pok%C3%A9mon_Center_inside_SM.png/250px-Pok%C3%A9mon_Center_inside_SM.png" width="250" height="150" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/5/55/Pok%C3%A9mon_Center_inside_SM.png/375px-Pok%C3%A9mon_Center_inside_SM.png 1.5x, //cdn.bulbagarden.net/upload/5/55/Pok%C3%A9mon_Center_inside_SM.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_inside_SM.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in <a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon">Pokémon Sun and Moon</a></div></div></div>
+<p>In Generation VII, Pokémon Centers consist of one large room. The nurse's counter is in the center of the building. On the right is a <a href="/wiki/Pok%C3%A9_Mart" title="Poké Mart">Poké Mart</a> counter, staffed by one or two attendants depending on the Pokémon Center. On the left is the <a href="/wiki/Pok%C3%A9mon_Center_Caf%C3%A9" title="Pokémon Center Café">Pokémon Center Café</a>, where players can purchase one of three drinks. Once per day, after buying a drink, the player will receive Poké Beans for use in <a href="/wiki/Pok%C3%A9mon_Refresh" title="Pokémon Refresh">Pokémon Refresh</a> and a <a href="/wiki/Status_condition_healing_item" title="Status condition healing item">status condition healing item</a> from another region, such as Casteliacones and Old Gateaux.
+<br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Layout">Layout</span></h3>
+<table align="center" style="background: #FAFFF4; border: 2px solid #E0C068; width: auto%; margin-left: auto; margin-right: auto; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="background:#EBD69D; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;;" width="60px" align="center"> <a href="/wiki/File:050Diglett.png" class="image"><img alt="050Diglett.png" src="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/50px-050Diglett.png" width="50" height="50" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/75px-050Diglett.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/100px-050Diglett.png 2x" /></a>
+</td>
+<td> <b>This section is incomplete.</b><br />Please feel free to edit this section to add missing information and complete it. <br /><small>Reason: picture for Kalos' Pokémon Center.</small>
+</td></tr></table>
+<h4><span class="mw-headline" id="Exterior">Exterior</span></h4>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_RB.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/7/77/Pok%C3%A9mon_Center_RB.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Red and Blue<br /><a href="/wiki/Kanto" title="Kanto">Kanto</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_Y.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/5/59/Pok%C3%A9mon_Center_Y.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Yellow<br /><a href="/wiki/Kanto" title="Kanto">Kanto</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Kanto_Pok%C3%A9mon_Center_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/7/7f/Kanto_Pok%C3%A9mon_Center_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Kanto" title="Kanto">Kanto</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/3/30/Pok%C3%A9mon_Center_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Cherrygrove_City" title="Cherrygrove City">Cherrygrove City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_2_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/d/d0/Pok%C3%A9mon_Center_2_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Violet_City" title="Violet City">Violet City</a> and <a href="/wiki/Route_32" class="mw-redirect" title="Route 32">Route 32</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_3_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/e/e2/Pok%C3%A9mon_Center_3_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Azalea_Town" title="Azalea Town">Azalea Town</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_4_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/7/78/Pok%C3%A9mon_Center_4_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Goldenrod_City" title="Goldenrod City">Goldenrod City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_5_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/a/a3/Pok%C3%A9mon_Center_5_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Ecruteak_City" title="Ecruteak City">Ecruteak City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_6_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/c/c5/Pok%C3%A9mon_Center_6_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Olivine_City" title="Olivine City">Olivine City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_7_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/7/7a/Pok%C3%A9mon_Center_7_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Cianwood_City" title="Cianwood City">Cianwood City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_8_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/9/99/Pok%C3%A9mon_Center_8_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Mahogany_Town" title="Mahogany Town">Mahogany Town</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_9_GSC.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/e/ed/Pok%C3%A9mon_Center_9_GSC.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Blackthorn_City" title="Blackthorn City">Blackthorn City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_RSE.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/e/e0/Pok%C3%A9mon_Center_RSE.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Ruby, Sapphire and Emerald<br /><a href="/wiki/Hoenn" title="Hoenn">Hoenn</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:22.5px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_FRLG.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/8/8a/Pok%C3%A9mon_Center_FRLG.png" width="120" height="105" /></a></div></div>
+			<div class="gallerytext">
+<p>FireRed and LeafGreen<br /><a href="/wiki/Kanto" title="Kanto">Kanto</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:27px auto;"><a href="/wiki/File:Netcenter.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/5/5c/Netcenter.png" width="120" height="96" /></a></div></div>
+			<div class="gallerytext">
+<p>FireRed and LeafGreen<br /><a href="/wiki/Pok%C3%A9mon_Network_Center" title="Pokémon Network Center">Pokémon Network Center</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:20px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_DPPt.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/a/a6/Pok%C3%A9mon_Center_DPPt.png" width="120" height="110" /></a></div></div>
+			<div class="gallerytext">
+<p>Diamond, Pearl and Platinum<br /><a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:18.5px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_HGSS.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/2/26/Pok%C3%A9mon_Center_HGSS.png" width="120" height="113" /></a></div></div>
+			<div class="gallerytext">
+<p>HeartGold and SoulSilver<br /><a href="/wiki/Kanto" title="Kanto">Kanto</a> and <a href="/wiki/Johto" title="Johto">Johto</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:18.5px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_2_HGSS.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/e/e3/Pok%C3%A9mon_Center_2_HGSS.png" width="120" height="113" /></a></div></div>
+			<div class="gallerytext">
+<p>HeartGold and SoulSilver<br /><a href="/wiki/Violet_City" title="Violet City">Violet City</a> and <a href="/wiki/Ecruteak_City" title="Ecruteak City">Ecruteak City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:18.5px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_BW_B2W2.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/2/23/Pok%C3%A9mon_Center_BW_B2W2.png/120px-Pok%C3%A9mon_Center_BW_B2W2.png" width="120" height="113" srcset="//cdn.bulbagarden.net/upload/2/23/Pok%C3%A9mon_Center_BW_B2W2.png 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>Black, White, Black 2 and White 2<br /><a href="/wiki/Unova" title="Unova">Unova</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_B2W2.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/c/c5/Pok%C3%A9mon_Center_B2W2.png/118px-Pok%C3%A9mon_Center_B2W2.png" width="118" height="120" srcset="//cdn.bulbagarden.net/upload/c/c5/Pok%C3%A9mon_Center_B2W2.png 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>Black 2 and White 2<br /><a href="/wiki/Victory_Road_(Black_2_and_White_2)" title="Victory Road (Black 2 and White 2)">Victory Road</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:21px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_ORAS.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/c/cf/Pok%C3%A9mon_Center_ORAS.png/120px-Pok%C3%A9mon_Center_ORAS.png" width="120" height="108" srcset="//cdn.bulbagarden.net/upload/c/cf/Pok%C3%A9mon_Center_ORAS.png 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>Omega Ruby and Alpha Sapphire<br /><a href="/wiki/Hoenn" title="Hoenn">Hoenn</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:25px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_SMUSUM.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/6/65/Pok%C3%A9mon_Center_SMUSUM.png/120px-Pok%C3%A9mon_Center_SMUSUM.png" width="120" height="100" srcset="//cdn.bulbagarden.net/upload/thumb/6/65/Pok%C3%A9mon_Center_SMUSUM.png/180px-Pok%C3%A9mon_Center_SMUSUM.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/65/Pok%C3%A9mon_Center_SMUSUM.png/240px-Pok%C3%A9mon_Center_SMUSUM.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Sun, Moon, Ultra Sun, and Ultra Moon<br /><a href="/wiki/Alola" title="Alola">Alola</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h4><span class="mw-headline" id="Exterior_.28Japan.29">Exterior (Japan)</span></h4>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_RG.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/c/cd/Pok%C3%A9mon_Center_RG.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Red and Green<br />Kanto
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_B_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/3/3d/Pok%C3%A9mon_Center_B_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Blue<br />Kanto
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_Y_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/a/a4/Pok%C3%A9mon_Center_Y_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Yellow<br />Kanto
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Kanto_Pok%C3%A9mon_Center_GSC_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/a/a0/Kanto_Pok%C3%A9mon_Center_GSC_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br />Kanto
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_GSC_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/1/16/Pok%C3%A9mon_Center_GSC_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Cherrygrove_City" title="Cherrygrove City">Cherrygrove City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_2_GSC_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/4/42/Pok%C3%A9mon_Center_2_GSC_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Violet_City" title="Violet City">Violet City</a> and <a href="/wiki/Route_32" class="mw-redirect" title="Route 32">Route 32</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_3_GSC_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/1/17/Pok%C3%A9mon_Center_3_GSC_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Azalea_Town" title="Azalea Town">Azalea Town</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_4_GS_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/f/fc/Pok%C3%A9mon_Center_4_GS_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold and Silver<br /><a href="/wiki/Goldenrod_City" title="Goldenrod City">Goldenrod City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a href="/wiki/File:Pok%C3%A9mon_Communication_Center.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/2/27/Pok%C3%A9mon_Communication_Center.png" width="120" height="80" /></a></div></div>
+			<div class="gallerytext">
+<p>Crystal<br /><a href="/wiki/Goldenrod_City" title="Goldenrod City">Goldenrod City</a> (<a href="/wiki/Pok%C3%A9mon_Communication_Center" title="Pokémon Communication Center">Pokémon Communication Center</a>)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_5_GSC_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/a/a5/Pok%C3%A9mon_Center_5_GSC_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Ecruteak_City" title="Ecruteak City">Ecruteak City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_6_GSC_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/1/13/Pok%C3%A9mon_Center_6_GSC_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Olivine_City" title="Olivine City">Olivine City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_7_GSC_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/a/a1/Pok%C3%A9mon_Center_7_GSC_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Cianwood_City" title="Cianwood City">Cianwood City</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_8_GSC_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/7/75/Pok%C3%A9mon_Center_8_GSC_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Mahogany_Town" title="Mahogany Town">Mahogany Town</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Pok%C3%A9mon_Center_9_GSC_JP.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/2/26/Pok%C3%A9mon_Center_9_GSC_JP.png" width="120" height="120" /></a></div></div>
+			<div class="gallerytext">
+<p>Gold, Silver and Crystal<br /><a href="/wiki/Blackthorn_City" title="Blackthorn City">Blackthorn City</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<h3><span class="mw-headline" id="In_the_main_series">In the main series</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Alola_Pok%C3%A9mon_Center.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/4d/Alola_Pok%C3%A9mon_Center.png/250px-Alola_Pok%C3%A9mon_Center.png" width="250" height="141" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/4/4d/Alola_Pok%C3%A9mon_Center.png/375px-Alola_Pok%C3%A9mon_Center.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/4d/Alola_Pok%C3%A9mon_Center.png/500px-Alola_Pok%C3%A9mon_Center.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Alola_Pok%C3%A9mon_Center.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in the anime</div></div></div>
+<p>Pokémon Centers in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a> are headed by a <a href="/wiki/Nurse_Joy" title="Nurse Joy">Nurse Joy</a>. The healing process takes place in real time, unlike in the <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">games</a>, so <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> and <a href="/wiki/Ash%27s_friends" title="Ash's friends">his friends</a> often have to wait until their <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> are fully healed. All Pokémon Centers are connected and, in times of crisis, all Pokémon can be <a href="/wiki/Pok%C3%A9mon_Storage_System" title="Pokémon Storage System">transferred</a> from one to another, as seen in <i><a href="/wiki/EP002" title="EP002">Pokémon Emergency!</a></i>. Pokémon Centers are considered an important service, as shown in <i><a href="/wiki/SS013" title="SS013">Celebi and Joy!</a></i> where, in the past, the residents of <a href="/wiki/Marion_Town" title="Marion Town">Marion Town</a> built a Pokémon Center as a community project.
+</p><p>Pokémon Centers are designed for <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a> so they can rest between <a href="/wiki/Pok%C3%A9mon_training" title="Pokémon training">activities</a>. Trainers use Pokémon Centers as gathering places, so they can share information about Pokémon. They also have access to video phones, <a href="/wiki/PC" title="PC">PCs</a>, <a href="/wiki/Trade_machine" title="Trade machine">trade machines</a>, and most offer free food and lodging. As a <a href="/wiki/Pok%C3%A9mon_journey" title="Pokémon journey">Pokémon journey</a> can take a long time, Pokémon Centers can be used as mailing destinations. A Trainer can arrange for their loved ones to send them packages, typically to the next Pokémon Center they are traveling to.
+</p><p>Inside a typical Pokémon Center, one can find a front desk, a lobby (sometimes with <a href="/wiki/Vending_machine" class="mw-redirect" title="Vending machine">vending machines</a>), a <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a> room, an Emergency Room with plenty of beds for injured Pokémon, a recovery room, a waiting room, rooms for lodging, and a cafeteria. A lobby may also have a large widescreen <a href="/wiki/Television" title="Television">TV</a> or several smaller TVs so Trainers can watch typically Pokémon-oriented shows, such as <i><a href="/wiki/Sinnoh_Now" title="Sinnoh Now">Sinnoh Now</a></i>, <a href="/wiki/Pok%C3%A9mon_Contest" title="Pokémon Contest">Pokémon Contest</a> broadcasts, and major competitions like the <a href="/wiki/Pok%C3%A9mon_League_Conference" title="Pokémon League Conference">Pokémon League Conference</a> and the <a href="/wiki/Grand_Festival" title="Grand Festival">Grand Festival</a> of each <a href="/wiki/Region" title="Region">region</a>. A typical sleeping room has a desk and chair and two sets of bunk beds to maximize space, and girls do not have to sleep in separate rooms from boys. At least one Pokémon Center was shown in <i><a href="/wiki/DP133" title="DP133">Uncrushing Defeat!</a></i> to have a small library with a PC (presumably connected to some network akin to the <a href="https://en.wikipedia.org/wiki/Internet" class="extiw" title="wp:Internet">Internet</a>), as an information room. It is unknown how these activities performed by a Pokémon Center are financed. On the outside, they come in all shapes and sizes, but usually have a rather large <i>P</i> somewhere and battlefields where Trainers can practice.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Pok%C3%A9mon_Center_battlefields.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/4f/Pok%C3%A9mon_Center_battlefields.png/300px-Pok%C3%A9mon_Center_battlefields.png" width="300" height="108" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/4/4f/Pok%C3%A9mon_Center_battlefields.png/450px-Pok%C3%A9mon_Center_battlefields.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/4f/Pok%C3%A9mon_Center_battlefields.png/600px-Pok%C3%A9mon_Center_battlefields.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_battlefields.png" class="internal" title="Enlarge"></a></div>Battlefields on the outside of a Pokémon Center</div></div></div>
+<p>As shown in <i><a href="/wiki/EP020" title="EP020">The Ghost of Maiden's Peak</a></i>, Pokémon Centers have a curfew for their residing Trainers. At 11:00 PM a metal screen is lowered down in front of the Pokémon Center's doorway, preventing Trainers from entering or leaving the Pokémon Center after curfew.
+</p><p>The resident Nurse Joy of the center is usually assisted by a certain type of Pokémon, usually one or various <a href="/wiki/Nurse_Joy%27s_Chansey" title="Nurse Joy's Chansey">Chansey</a> in <a href="/wiki/Kanto" title="Kanto">Kanto</a>, <a href="/wiki/Johto" title="Johto">Johto</a>, <a href="/wiki/Hoenn" title="Hoenn">Hoenn</a>, <a href="/wiki/Sinnoh" title="Sinnoh">Sinnoh</a>, and the <a href="/wiki/Orange_Archipelago" title="Orange Archipelago">Orange Archipelago</a>, <a href="/wiki/Nurse_Joy%27s_Audino" title="Nurse Joy's Audino">Audino</a> in <a href="/wiki/Unova" title="Unova">Unova</a> and the <a href="/wiki/Decolore_Islands" title="Decolore Islands">Decolore Islands</a>, <a href="/wiki/Nurse_Joy%27s_Wigglytuff" title="Nurse Joy's Wigglytuff">Wigglytuff</a> in <a href="/wiki/Kalos" title="Kalos">Kalos</a>, and <a href="/wiki/Nurse_Joy%27s_Blissey" title="Nurse Joy's Blissey">Blissey</a> and <a href="/wiki/Nurse_Joy%27s_Comfey" title="Nurse Joy's Comfey">Comfey</a> in <a href="/wiki/Alola" title="Alola">Alola</a>. There are some exceptions in certain Pokémon Centers regardless of region however, for example the Nurse Joy of Johto's <a href="/wiki/Ice_Path" title="Ice Path">Ice Path</a> was assisted by a <a href="/wiki/Jynx_(Pok%C3%A9mon)" title="Jynx (Pokémon)">Jynx</a>.
+</p><p><a href="/wiki/Professor_Oak" title="Professor Oak">Professor Oak</a> has also written senryū about Pokémon Centers in two of his lectures:
+</p>
+<ul><li> For <i><a href="/wiki/DP004" title="DP004">Dawn of a New Era!</a></i>, the <a href="/wiki/Professor_Oak%27s_Big_Pok%C3%A9mon_Encyclopedia" title="Professor Oak's Big Pokémon Encyclopedia">Professor Oak's Big Pokémon Encyclopedia</a> segment featured the senryū "When I want to meet Nurse Joy, Pokémon Center." (Japanese: 「ジョーイさん　あいたくなったら　ポケモンセンター」)</li>
+<li> For <i><a href="/wiki/BW008" title="BW008">Saving Darmanitan From the Bell!</a></i>, the <a href="/wiki/Professor_Oak%27s_Pok%C3%A9mon_Holo_Caster" title="Professor Oak's Pokémon Holo Caster">Professor Oak's Pokémon Holo Caster</a> segment featured the senryū "Nurse Joy, Pokémon Center, without a break." (Japanese: 「ジョーイさん　ポケモンセンター　やすみなし」)</li></ul>
+<h4><span class="mw-headline" id="Pok.C3.A9dex_entries">Pokédex entries</span></h4>
+<table width="100%" style="background: #F1912B; border: 3px solid #90BDDC; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;">
+
+<tr>
+<td width="100%" style="background: #F1912B; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em;">
+<table class="sortable" style="background: #F1912B; width:100%">
+
+<tr>
+<th width="75px"> <a href="/wiki/Bulbapedia:Epicode" title="Bulbapedia:Epicode"><span style="color:#000;">Episode</span></a>
+</th>
+<th width="85px"> <span style="color:#000;">Subject</span>
+</th>
+<th width="85px"> <span style="color:#000;">Source</span>
+</th>
+<th class="unsortable"> <span style="color:#000;">Entry</span>
+</th></tr>
+<tr align="center" style="background:#FFFFFF; width:100%">
+<td> <a href="/wiki/SM004" title="SM004">SM004</a>
+</td>
+<td> Pokémon Center
+</td>
+<td> Rotom Pokédex
+</td>
+<td> The Pokémon Center is where you can heal your Pokémon and restore its strength and treat any <a href="/wiki/Status_condition" title="Status condition">status conditions</a>.
+</td></tr></table>
+<table width="100%" style="background: #F1912B">
+
+<tr>
+<td width="100%" style="text-align:right; background: #90BDDC; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <small><b>This concludes the entries from the <i>Sun &amp; Moon</i> series.</b></small>
+</td></tr></table>
+</td></tr></table>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Origins">In Pokémon Origins</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Pok%C3%A9mon_Center_PO.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/f/ff/Pok%C3%A9mon_Center_PO.png/250px-Pok%C3%A9mon_Center_PO.png" width="250" height="141" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/f/ff/Pok%C3%A9mon_Center_PO.png/375px-Pok%C3%A9mon_Center_PO.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/ff/Pok%C3%A9mon_Center_PO.png/500px-Pok%C3%A9mon_Center_PO.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_PO.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in Pokémon Origins</div></div></div>
+<p>In <a href="/wiki/Pok%C3%A9mon_Origins" title="Pokémon Origins">Pokémon Origins</a>, Pokémon Centers are headed by a Nurse. The healing process takes place in real time, unlike in the games, which would often make <a href="/wiki/Red_(Origins)" title="Red (Origins)">Red</a> wait until his Pokémon were fully healed before leaving. Pokémon Centers can also be used as social gathering places where Trainers can share information with other people. Additionally, Trainers have access to video phones and PCs within the Pokémon Center.
+<br clear="all" />
+</p>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Pok%C3%A9mon_Center_PBW.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/2/2d/Pok%C3%A9mon_Center_PBW.png/200px-Pok%C3%A9mon_Center_PBW.png" width="200" height="93" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/2/2d/Pok%C3%A9mon_Center_PBW.png/300px-Pok%C3%A9mon_Center_PBW.png 1.5x, //cdn.bulbagarden.net/upload/thumb/2/2d/Pok%C3%A9mon_Center_PBW.png/400px-Pok%C3%A9mon_Center_PBW.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_PBW.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in Be the Best! Pokémon B+W</div></div></div>
+<h3><span class="mw-headline" id="In_the_Be_the_Best.21_Pok.C3.A9mon_B.2BW_manga">In the Be the Best! Pokémon B+W manga</span></h3>
+<p>A Pokémon Center appeared in <i><a href="/wiki/PBW7" title="PBW7">Victini - A New Friend!</a></i>. <a href="/wiki/Monta" title="Monta">Monta</a> received a <a href="/wiki/Victini_(Pok%C3%A9mon)" title="Victini (Pokémon)">Victini</a> from a deliveryman there.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Deliveryman_PBW.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/c/cd/Deliveryman_PBW.png/53px-Deliveryman_PBW.png" width="53" height="120" srcset="//cdn.bulbagarden.net/upload/thumb/c/cd/Deliveryman_PBW.png/80px-Deliveryman_PBW.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/cd/Deliveryman_PBW.png/106px-Deliveryman_PBW.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Deliveryman
+</p>
+			</div>
+		</div></li>
+</ul>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Dahara_City_Pok%C3%A9mon_Center_M18_manga.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/1/17/Dahara_City_Pok%C3%A9mon_Center_M18_manga.png/200px-Dahara_City_Pok%C3%A9mon_Center_M18_manga.png" width="200" height="74" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/1/17/Dahara_City_Pok%C3%A9mon_Center_M18_manga.png/300px-Dahara_City_Pok%C3%A9mon_Center_M18_manga.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/17/Dahara_City_Pok%C3%A9mon_Center_M18_manga.png/400px-Dahara_City_Pok%C3%A9mon_Center_M18_manga.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dahara_City_Pok%C3%A9mon_Center_M18_manga.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in Dahara City in <i><a href="/wiki/Hoopa_and_the_Clash_of_Ages_(manga)" title="Hoopa and the Clash of Ages (manga)">Hoopa and the Clash of Ages</a></i></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Pok%C3%A9mon_Center_PM.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/3/39/Pok%C3%A9mon_Center_PM.png/200px-Pok%C3%A9mon_Center_PM.png" width="200" height="258" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/3/39/Pok%C3%A9mon_Center_PM.png/300px-Pok%C3%A9mon_Center_PM.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/39/Pok%C3%A9mon_Center_PM.png/400px-Pok%C3%A9mon_Center_PM.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_Center_PM.png" class="internal" title="Enlarge"></a></div>A Pokémon Center in Pokémon Pocket Monsters</div></div></div>
+<h3><span class="mw-headline" id="In_the_movie_adaptations">In the movie adaptations</span></h3>
+<p>A Pokémon Center located in <a href="/wiki/Dahara_City" title="Dahara City">Dahara City</a> appeared in <i><a href="/wiki/Hoopa_and_the_Clash_of_Ages_(manga)" title="Hoopa and the Clash of Ages (manga)">Hoopa and the Clash of Ages</a></i>.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<p>One of the Pokémon Centers first appeared in <i><a href="/wiki/PS004" title="PS004">Wanted: Pikachu!</a></i>.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Pocket_Monsters_manga">In the Pokémon Pocket Monsters manga</span></h3>
+<p>One of the Pokémon Centers first appeared in <i><a href="/wiki/PM002" title="PM002">Big Battle in the Viridian Forest!!</a></i>. Another one appeared in <i><a href="/wiki/PM006" title="PM006">Great Success in the Mountains or the Seas!?</a></i> and <a href="/wiki/PMDP15" title="PMDP15">PMDP15</a>.
+</p>
+<h2><span class="mw-headline" id="In_the_TCG">In the TCG</span></h2>
+<p>The following is a list of cards named <b>Pokémon Center</b>.
+</p>
+<table class="roundy" style="margin:auto; background: #90E183; border: 3px solid #5E9255;">
+
+<tr>
+<th colspan="8" style="background: transparent; color: #000;"> <span id="Pok.C3.A9mon_Center"></span>Pokémon Center<br /><small>Cards listed with a <i>blue</i> background are only legal to use in the current <a href="/wiki/Expanded_format_(TCG)" title="Expanded format (TCG)"><span style="color:#000;">Expanded format</span></a>.</small><br /><small>Cards listed with a <i>silver</i> background are legal to use in both the current <a href="/wiki/Standard_format_(TCG)" title="Standard format (TCG)"><span style="color:#000;">Standard</span></a> and <a href="/wiki/Expanded_format_(TCG)" title="Expanded format (TCG)"><span style="color:#000;">Expanded formats</span></a>.</small>
+</th></tr>
+<tr style="vertical-align:bottom; background: #B7EBAE; color: #000;">
+<th> Card
+</th>
+<th> Type
+</th>
+<th> <span style="line-height:8px;"><small>English</small></span><br />Expansion
+</th>
+<th> Rarity
+</th>
+<th> #
+</th>
+<th> <span style="line-height:8px;"><small>Japanese</small></span><br />Expansion
+</th>
+<th> Rarity
+</th>
+<th> #
+</th></tr>
+<tr style="background:#FFFFFF;">
+<td rowspan="5"> <a href="/wiki/Pok%C3%A9mon_Center_(Base_Set_85)" title="Pokémon Center (Base Set 85)">Pokémon Center</a>
+</td>
+<th rowspan="5" style="background:#FFE955"> T
+</th>
+<td> <a href="/wiki/Base_Set_(TCG)" title="Base Set (TCG)">Base Set</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" width="13" height="12" /></a>
+</td>
+<td> 85/102
+</td>
+<td> <a href="/wiki/Expansion_Pack_(TCG)" class="mw-redirect" title="Expansion Pack (TCG)">Expansion Pack</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" width="13" height="12" /></a>
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+
+<tr style="background:#FFFFFF;">
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td> <a href="/wiki/Nivi_City_Gym_(TCG)" title="Nivi City Gym (TCG)">Nivi City Gym</a>
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+<tr style="background:#FFFFFF;">
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td> <a href="/wiki/Yamabuki_City_Gym_(TCG)" title="Yamabuki City Gym (TCG)">Yamabuki City Gym</a>
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+<tr style="background:#FFFFFF;">
+<td> <a href="/wiki/Base_Set_2_(TCG)" title="Base Set 2 (TCG)">Base Set 2</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" width="13" height="12" /></a>
+</td>
+<td> 114/130
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+<tr style="background:#FFFFFF;">
+<td> <a href="/wiki/Wizards_Black_Star_Promos_(TCG)" title="Wizards Black Star Promos (TCG)">Wizards Black Star Promos</a>
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td> 40
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+
+
+<tr style="background:#FFFFFF;">
+<td rowspan="1"> <a href="/wiki/Night_Pok%C3%A9mon_Center_(Diamond_%26_Pearl_108)" title="Night Pokémon Center (Diamond &amp; Pearl 108)">Night Pokémon Center</a>
+</td>
+<th rowspan="1" style="background:#FFE955"> T
+</th>
+<td> <a href="/wiki/Diamond_%26_Pearl_(TCG)" title="Diamond &amp; Pearl (TCG)">Diamond &amp; Pearl</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" width="13" height="12" /></a>
+</td>
+<td> 108/130
+</td>
+<td> <a href="/wiki/Space-Time_Creation_(TCG)" class="mw-redirect" title="Space-Time Creation (TCG)">Space-Time Creation</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" width="13" height="12" /></a>
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+
+
+
+<tr style="background:#FFFFFF;">
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_Center_(Base_Set_85)" title="Pokémon Center (Base Set 85)">Pokémon Center</a>
+</td>
+<th rowspan="2" style="background:#90E183"> St
+</th>
+<td> <a href="/wiki/Next_Destinies_(TCG)" title="Next Destinies (TCG)">Next Destinies</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Uncommon.png" class="image" title="Uncommon"><img alt="Uncommon" src="//cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" width="13" height="12" /></a>
+</td>
+<td> 90/99
+</td>
+<td> <a href="/wiki/Hail_Blizzard_(TCG)" class="mw-redirect" title="Hail Blizzard (TCG)">Hail Blizzard</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_U.png" class="image" title="U"><img alt="U" src="//cdn.bulbagarden.net/upload/a/a3/Rarity_U.png" width="23" height="19" /></a>
+</td>
+<td> 051/052
+</td></tr>
+
+<tr style="background:#FFFFFF;">
+<td style="background:#B7EBAE"> &#160;
+</td>
+<td style="text-align:center; background:#B7EBAE"> &#160;
+</td>
+<td style="background:#B7EBAE"> &#160;
+</td>
+<td> <a href="/wiki/BW-P_Promotional_cards_(TCG)" title="BW-P Promotional cards (TCG)">BW-P Promotional cards</a>
+</td>
+<td style="text-align:center; background:#B7EBAE"> &#160;
+</td>
+<td> 190/BW-P
+</td></tr>
+
+
+<tr>
+<th colspan="8" class="roundybottom" style="background: #90E183; line-height:4px;"> &#160;
+</th></tr></table><br clear="all" />
+<h2><span class="mw-headline" id="In_the_TFG">In the TFG</span></h2>
+<p>The playmat in the <a href="/wiki/Pok%C3%A9mon_Trading_Figure_Game" title="Pokémon Trading Figure Game">Pokémon Trading Figure Game</a> has a Pokémon Center space, which Pokémon are sent to if they lose a battle.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:162px;"><a href="/wiki/File:Kanto_Safari_Zone_Rest_House_RBY_unused_Pokemon_Center_signpost.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/d/dd/Kanto_Safari_Zone_Rest_House_RBY_unused_Pokemon_Center_signpost.png" width="160" height="144" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Kanto_Safari_Zone_Rest_House_RBY_unused_Pokemon_Center_signpost.png" class="internal" title="Enlarge"></a></div>The unused Pokémon Center signpost for the Safari Zone Rest Houses</div></div></div>
+<ul><li> In <a href="/wiki/Capsule_Monsters" title="Capsule Monsters">Capsule Monsters</a>, <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a> restored their monsters' health by staying at inns and hotels, which provided healing devices in rooms.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> This might explain the similarities between Pokémon Centers and the Celadon Hotel in the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games.
+<ul><li> The Rest Houses in the Eastern side of Center Area along with the ones in Area 2 and Area 3 of the <a href="/wiki/Kanto_Safari_Zone" title="Kanto Safari Zone">Safari Zone</a> in the <a href="/wiki/Generation_I" title="Generation I">Generation I</a> games also have leftovers of Pokémon Center design: in the Japanese <a href="/wiki/Pok%C3%A9mon_Red_and_Green_Versions" title="Pokémon Red and Green Versions">Pokémon Red, Green</a>, and <a href="/wiki/Pok%C3%A9mon_Blue_Version_(Japanese)" title="Pokémon Blue Version (Japanese)">Blue</a>, the houses trigger hidden text in the same coordinates as the couch guy at Pokémon Centers, while inaccessible <a href="/wiki/PC" title="PC">PCs</a> are placed outside the boundaries of the map but in the same coordinates as PCs in Pokémon Centers (the PCs are also in the Western <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions">Pokémon Red and Blue</a>; both texts and PCs, including the invisible Celadon Hotel PC, were completely removed in Japanese and Western <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version">Pokémon Yellow</a>). Additionally, the tileset data of the Safari Zone maps includes tiles with the Pokémon Center signpost for use in the Rest Houses, without any text. Unlike Pokémon Centers, however, which store the player's current location in memory so that <a href="/wiki/Teleport_(move)" title="Teleport (move)">Teleport</a>, <a href="/wiki/Dig_(move)" title="Dig (move)">Dig</a>, or <a href="/wiki/Escape_Rope" title="Escape Rope">Escape Ropes</a> return the player to the last location with a Pokémon Center available, the Safari Zone's Rest Houses are intentionally programmed to prevent this behavior so that the player does not cheat the Safari Game.</li></ul></li>
+<li> The Pokémon Center in <a href="/wiki/Po_Town" title="Po Town">Po Town</a> is the only one in the core series where healing one's Pokémon is not free of charge, as the <a href="/wiki/Team_Skull_Grunt_(Trainer_class)" title="Team Skull Grunt (Trainer class)">Team Skull Grunt</a> behind the desk will charge the player <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>10.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #B03010; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #E84828; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #B03010; border-collapse:collapse">
+
+<tr style="background: #B03010">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 寶可夢中心 <i><span class="explain" title="Pokémon Center">Pokémon Jūngsām</span></i> <span class="explain" title="Games">*</span><br />小精靈中心 <i><span class="explain" title="Pokémon Center">Síujīnglìhng Jūngsām</span></i> <span class="explain" title="Anime and manga">*</span>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 寶可夢中心 / 宝可梦中心 <i><span class="explain" title="Pokémon Center">Pokémon Zhōngxīn</span></i> <span class="explain" title="Taiwan (since Sun and Moon) and Mainland China (since 2010)">*</span><br />神奇寶貝中心 / 神奇宝贝中心 <i><span class="explain" title="Pokémon Center">Shénqí Bǎobèi Zhōngxīn</span></i> <span class="explain" title="Taiwan (prior to Sun and Moon) and mainland China (2000-2010)">*</span>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:The_Czech_Republic_Flag.png" class="image"><img alt="The Czech Republic Flag.png" src="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/20px-The_Czech_Republic_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/30px-The_Czech_Republic_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/40px-The_Czech_Republic_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Czech_Republic" title="Pokémon in the Czech Republic">Czech</a>
+</td>
+<td> Pokémon Centrum
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> Pokémon-center<span class="explain" title="Danish version of The Official Pokémon Handbook">*</span>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Pokémon Center<span class="explain" title="season 1 only">*</span><br />Pokémon-keskus<span class="explain" title="later seasons and manga">*</span>
+</td></tr>
+
+<tr>
+<td rowspan="2"> French
+</td>
+<td> <a href="/wiki/File:Canada_Flag.png" class="image"><img alt="Canada Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/20px-Canada_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/30px-Canada_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/40px-Canada_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Canada" title="Pokémon in Canada">Canada</a>
+</td>
+<td> Pokémon Center<span class="explain" title="Diamond manual">*</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_France" title="Pokémon in France">Europe</a>
+</td>
+<td> Centre Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Pokémon-Center
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Hungary_Flag.png" class="image"><img alt="Hungary Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/20px-Hungary_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/30px-Hungary_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/40px-Hungary_Flag.png 2x" /></a> Hungarian
+</td>
+<td> Pokémon központban
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Iceland_Flag.png" class="image"><img alt="Iceland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/18/Iceland_Flag.png/20px-Iceland_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/1/18/Iceland_Flag.png/30px-Iceland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/18/Iceland_Flag.png/40px-Iceland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Iceland" title="Pokémon in Iceland">Icelandic</a>
+</td>
+<td> Pokémon-miðstöð
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Indonesia_Flag.png" class="image"><img alt="Indonesia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/b/b0/Indonesia_Flag.png/20px-Indonesia_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/b/b0/Indonesia_Flag.png/30px-Indonesia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b0/Indonesia_Flag.png/40px-Indonesia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Indonesia" title="Pokémon in Indonesia">Indonesian</a>
+</td>
+<td> Pusat Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Centro Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 포켓몬센터 <i>Pokémon Center</i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Pokémon Center<br />Pokémonsenter<br />Poké Center<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Centrum Pokémon
+</td></tr>
+
+<tr>
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> Centro Pokémon (anime, <a href="/wiki/Diamond_%26_Pearl_(TCG)" title="Diamond &amp; Pearl (TCG)">Diamond &amp; Pearl</a>, manga, Pokémon Club)<br />Centro de Pokémon (<a href="/wiki/Next_Destinies_(TCG)" title="Next Destinies (TCG)">Next Destinies</a>)
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> Centro Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Romania_Flag.png" class="image"><img alt="Romania Flag.png" src="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/20px-Romania_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/30px-Romania_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/40px-Romania_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Romania" title="Pokémon in Romania">Romanian</a>
+</td>
+<td> Centru Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Центр Покемонов <i>Tsentr Pokémonov</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Centro Pokémon
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Pokémon Center<span class="explain" title="Best Wishes series - present, the English word, not inflected">*</span><br />Pokémoncenter<span class="explain" title="Original series - Diamond and Pearl series, a Swedish word, fully inflected">*</span>
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Thailand_Flag.png" class="image"><img alt="Thailand Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/20px-Thailand_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/30px-Thailand_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/40px-Thailand_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Thailand" title="Pokémon in Thailand">Thai</a>
+</td>
+<td> โปเกมอนเซ็นเตอร์ <i>Pokémon Center</i>
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Turkey_Flag.png" class="image"><img alt="Turkey Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/20px-Turkey_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/30px-Turkey_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/0a/Turkey_Flag.png/40px-Turkey_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Turkey" title="Pokémon in Turkey">Turkish</a>
+</td>
+<td> Pokémon Merkezi
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> Trung tâm Pokémon
+</td></tr>
+<tr>
+<td colspan="3" style="background: #B03010">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li> <a href="/wiki/Pok%C3%A9_Mart" title="Poké Mart">Poké Mart</a></li>
+<li> <a href="http://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Centers" class="extiw" title="a:Category:Pokémon Centers">Images on the Bulbagarden Archives</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.glitterberri.com/pokemon-red-blue/early-concept-art/8/">GlitterBerri's Game Translations&#160;» Early Concept Art</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20000619140034/http://www.pokemon.no:80/ordliste.htm">Glossary on Pokemon.no (archived)</a></span>
+</li>
+</ol></div></div>
+<p><br clear="all" />
+</p>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Locations_logo.png" class="image"><img alt="Project Locations logo.png" src="//cdn.bulbagarden.net/upload/thumb/5/51/Project_Locations_logo.png/80px-Project_Locations_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/5/51/Project_Locations_logo.png/120px-Project_Locations_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/51/Project_Locations_logo.png/160px-Project_Locations_logo.png 2x" /></a>
+</td>
+<td> This article is part of <b><a href="/wiki/Bulbapedia:Project_Locations" title="Bulbapedia:Project Locations">Project Locations</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on every location in the Pokémon world.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180130182236
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.308 seconds
+Real time usage: 0.758 seconds
+Preprocessor visited node count: 4197/1000000
+Preprocessor generated node count: 31194/1000000
+Post‐expand include size: 33273/2097152 bytes
+Template argument size: 10493/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  300.314      1 -total
+ 20.85%   62.605      3 Template:Cardlist/entry
+  6.91%   20.755      1 Template:Langtable
+  5.80%   17.419      1 Template:Animedexheader
+  4.58%   13.767      1 Template:Cardlist/header
+  3.07%    9.231      4 Template:Colorschemedark
+  2.38%    7.149      2 Template:Incomplete
+  2.37%    7.110     27 Template:Game
+  2.27%    6.812      1 Template:Animedexfooter/Pokémon
+  1.77%    5.302      2 Template:Colorschemelight
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:806-0!*!0!!en!5!* and timestamp 20180130182235 and revision id 2717020
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Pokémon_Center&amp;oldid=2717020">https://bulbapedia.bulbagarden.net/w/index.php?title=Pokémon_Center&amp;oldid=2717020</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Articles_needing_more_information" title="Category:Articles needing more information">Articles needing more information</a></li><li><a href="/wiki/Category:Buildings" title="Category:Buildings">Buildings</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_world" title="Category:Pokémon world">Pokémon world</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Pok%C3%A9mon_Center" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Pok%C3%A9mon_Center" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Pok%C3%A9mon_Center&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Pok%C3%A9mon_Center&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pok%C3%A9mon+Center" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pok%C3%A9mon+Center" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pok%C3%A9mon_Center" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pok%C3%A9mon_Center" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Pok%C3%A9mon_Center&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Pok%C3%A9mon_Center&amp;oldid=2717020" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Pok%C3%A9mon_Center&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Pok%C3%A9mon-Center" title="Pokémon-Center – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Centre_Pok%C3%A9mon" title="Centre Pokémon – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Centro_Pok%C3%A9mon" title="Centro Pokémon – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC" title="ポケモンセンター – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Centrum_Pokemon" title="Centrum Pokemon – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%B8%AD%E5%BF%83" title="宝可梦中心 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 9 December 2017, at 00:57.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Pok%C3%A9mon_Center&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.758","ppvisitednodes":{"value":4197,"limit":1000000},"ppgeneratednodes":{"value":31194,"limit":1000000},"postexpandincludesize":{"value":33273,"limit":2097152},"templateargumentsize":{"value":10493,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  300.314      1 -total"," 20.85%   62.605      3 Template:Cardlist/entry","  6.91%   20.755      1 Template:Langtable","  5.80%   17.419      1 Template:Animedexheader","  4.58%   13.767      1 Template:Cardlist/header","  3.07%    9.231      4 Template:Colorschemedark","  2.38%    7.149      2 Template:Incomplete","  2.37%    7.110     27 Template:Game","  2.27%    6.812      1 Template:Animedexfooter/Pokémon","  1.77%    5.302      2 Template:Colorschemelight"]},"cachereport":{"timestamp":"20180130182236","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

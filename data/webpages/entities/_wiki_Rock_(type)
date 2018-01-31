@@ -1,0 +1,3180 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Rock (type) - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rock_(type)","wgTitle":"Rock (type)","wgCurRevisionId":2730470,"wgRevisionId":2730470,"wgArticleId":1154,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Types"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rock_(type)","wgRelevantArticleId":1154,"wgRequestId":"bdacc508c7ac5c9685ffb998","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Rock_(type)"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Rock_(type)"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rock_type rootpage-Rock_type skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Rock (type)</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="roundy" style="float:right; width: 150px; text-align:center; background:#FFF; border: 2px solid #C92112; margin-left: 5px; margin-bottom: 5px">
+<tr>
+<th colspan="7"> <a href="/wiki/Type" title="Type"><span style="color:#000;">Types</span></a>
+</th></tr>
+<tr>
+<td rowspan="10" width="2%">
+</td>
+<td width="21%">
+</td>
+<td width="21%">
+</td>
+<td rowspan="10" width="2%">
+</td>
+<td width="21%">
+</td>
+<td width="21%">
+</td>
+<td rowspan="10" width="2%">
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#A8A878; border: 1px solid #6D6D4E"> <a href="/wiki/Normal_(type)" title="Normal (type)"><span style="color:#FFF;">Normal</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#F08030; border: 1px solid #9C531F"> <a href="/wiki/Fire_(type)" title="Fire (type)"><span style="color:#FFF;">Fire</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#C03028; border: 1px solid #7D1F1A"> <a href="/wiki/Fighting_(type)" title="Fighting (type)"><span style="color:#FFF;">Fighting</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#6890F0; border: 1px solid #445E9C"> <a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF;">Water</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#A890F0; border: 1px solid #6D5E9C"> <a href="/wiki/Flying_(type)" title="Flying (type)"><span style="color:#FFF;">Flying</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#78C850; border: 1px solid #4E8234"> <a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color:#FFF;">Grass</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#A040A0; border: 1px solid #682A68"> <a href="/wiki/Poison_(type)" title="Poison (type)"><span style="color:#FFF;">Poison</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Electric_(type)" title="Electric (type)"><span style="color:#FFF;">Electric</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#E0C068; border: 1px solid #927D44"> <a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF;">Ground</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#F85888; border: 1px solid #A13959"> <a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color:#FFF;">Psychic</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#B8A038; border: 2px solid #D1C17D"> <a class="mw-selflink selflink"><span style="color:#FFF;">Rock</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#98D8D8; border: 1px solid #638D8D"> <a href="/wiki/Ice_(type)" title="Ice (type)"><span style="color:#FFF;">Ice</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#A8B820; border: 1px solid #6D7815"> <a href="/wiki/Bug_(type)" title="Bug (type)"><span style="color:#FFF;">Bug</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#7038F8; border: 1px solid #4924A1"> <a href="/wiki/Dragon_(type)" title="Dragon (type)"><span style="color:#FFF;">Dragon</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#705898; border: 1px solid #493963"> <a href="/wiki/Ghost_(type)" title="Ghost (type)"><span style="color:#FFF;">Ghost</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#705848; border: 1px solid #49392F"> <a href="/wiki/Dark_(type)" title="Dark (type)"><span style="color:#FFF;">Dark</span></a>
+</td></tr>
+<tr>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#B8B8D0; border: 1px solid #787887"> <a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color:#FFF;">Steel</span></a>
+</td>
+<td colspan="2" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#EE99AC; border: 1px solid #9B6470"> <a href="/wiki/Fairy_(type)" title="Fairy (type)"><span style="color:#FFF;">Fairy</span></a>
+</td></tr>
+<tr>
+<td colspan="7">
+</td></tr>
+<tr>
+<td colspan="2">
+</td>
+<td colspan="3" style="border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; background:#68A090; border: 1px solid #44685E"> <a href="/wiki/%3F%3F%3F_(type)" title="??? (type)"><span style="color:#FFF;">???</span></a>
+</td>
+<td colspan="2">
+</td></tr></table>
+<p>The <b>Rock type</b> (Japanese: <b>いわタイプ</b> <i>Rock type</i>) is one of the eighteen <a href="/wiki/Type" title="Type">types</a>. Notable Trainers who specialize in Rock-type Pokémon are <a href="/wiki/Brock" title="Brock">Brock</a> of <a href="/wiki/Pewter_City" title="Pewter City">Pewter City</a>, <a href="/wiki/Roxanne" title="Roxanne">Roxanne</a> of <a href="/wiki/Rustboro_City" title="Rustboro City">Rustboro City</a>, <a href="/wiki/Roark" title="Roark">Roark</a> of <a href="/wiki/Oreburgh_City" title="Oreburgh City">Oreburgh City</a>, <a href="/wiki/Grant" title="Grant">Grant</a> of <a href="/wiki/Cyllage_City" title="Cyllage City">Cyllage City</a>, and <a href="/wiki/Olivia" title="Olivia">Olivia</a> of the <a href="/wiki/Elite_Four#Alola_Elite_Four" title="Elite Four">Alola Elite Four</a>. <a href="/wiki/Jasmine" title="Jasmine">Jasmine</a> is also stated to have trained Rock types in the past. Prior to <a href="/wiki/Generation_IV#Advances_in_gameplay" title="Generation IV">changes in Generation IV</a>, all damaging Rock-type moves were <a href="/wiki/Physical_move" title="Physical move">physical</a>, but they may now also be <a href="/wiki/Special_move" title="Special move">special</a> depending on the attack.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Statistical_averages"><span class="tocnumber">1</span> <span class="toctext">Statistical averages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Overall"><span class="tocnumber">1.1</span> <span class="toctext">Overall</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Fully_evolved"><span class="tocnumber">1.2</span> <span class="toctext">Fully evolved</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Battle_properties"><span class="tocnumber">2</span> <span class="toctext">Battle properties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Generation_I"><span class="tocnumber">2.1</span> <span class="toctext">Generation I</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Generation_II_onwards"><span class="tocnumber">2.2</span> <span class="toctext">Generation II onwards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Characteristics"><span class="tocnumber">3</span> <span class="toctext">Characteristics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Defense"><span class="tocnumber">3.1</span> <span class="toctext">Defense</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Offense"><span class="tocnumber">3.2</span> <span class="toctext">Offense</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Contest_properties"><span class="tocnumber">3.3</span> <span class="toctext">Contest properties</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Pok.C3.A9mon"><span class="tocnumber">4</span> <span class="toctext">Pokémon</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Pure_Rock-type_Pok.C3.A9mon"><span class="tocnumber">4.1</span> <span class="toctext">Pure Rock-type Pokémon</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Half_Rock-type_Pok.C3.A9mon"><span class="tocnumber">4.2</span> <span class="toctext">Half Rock-type Pokémon</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Primary_Rock-type_Pok.C3.A9mon"><span class="tocnumber">4.2.1</span> <span class="toctext">Primary Rock-type Pokémon</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Secondary_Rock-type_Pok.C3.A9mon"><span class="tocnumber">4.2.2</span> <span class="toctext">Secondary Rock-type Pokémon</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Moves"><span class="tocnumber">5</span> <span class="toctext">Moves</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Abilities"><span class="tocnumber">6</span> <span class="toctext">Abilities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Interacting_with_the_Rock_type"><span class="tocnumber">6.1</span> <span class="toctext">Interacting with the Rock type</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Exclusive_Abilities"><span class="tocnumber">6.2</span> <span class="toctext">Exclusive Abilities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#In_the_TCG"><span class="tocnumber">7</span> <span class="toctext">In the TCG</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Trivia"><span class="tocnumber">8</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#In_other_languages"><span class="tocnumber">9</span> <span class="toctext">In other languages</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Statistical_averages">Statistical averages</span></h2>
+<h3><span class="mw-headline" id="Overall">Overall</span></h3>
+<table style="float:left; background: #B8A038; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #786824;">
+
+<tr>
+<th style="background: #D1C17D; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Stat
+</th></tr>
+<tr style="background: #FF5959;">
+<td>
+<table style="background: #FF0000; border: 1px solid #A60000;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #FF5959; width: 65px;"> HP:
+</th>
+<th style="background: #FF5959; width: 40px;"> 67.13
+</th>
+<td style="width: 67.13px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #F5AC78;">
+<td>
+<table style="background: #F08030; border: 1px solid #9C531F;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #F5AC78; width: 65px;"> Attack:
+</th>
+<th style="background: #F5AC78; width: 40px;"> 90.67
+</th>
+<td style="width: 90.67px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #FAE078;">
+<td>
+<table style="background: #F8D030; border: 1px solid #A1871F;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #FAE078; width: 65px;"> Defense:
+</th>
+<th style="background: #FAE078; width: 40px;"> 103.78
+</th>
+<td style="width: 103.78px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #9DB7F5;">
+<td>
+<table style="background: #6890F0; border: 1px solid #445E9C;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #9DB7F5; width: 65px;"> Sp.Atk:
+</th>
+<th style="background: #9DB7F5; width: 40px;"> 60.75
+</th>
+<td style="width: 60.75px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #A7DB8D;">
+<td>
+<table style="background: #78C850; border: 1px solid #4E8234;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #A7DB8D; width: 65px;"> Sp.Def:
+</th>
+<th style="background: #A7DB8D; width: 40px;"> 73.16
+</th>
+<td style="width: 73.16px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #FA92B2;">
+<td>
+<table style="background: #F85888; border: 1px solid #A13959;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #FA92B2; width: 65px;"> Speed:
+</th>
+<th style="background: #FA92B2; width: 40px;"> 53.75
+</th>
+<td style="width: 53.75px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #D1C17D;">
+<td>
+<table width="100%" style="background: #B8A038; border: 1px solid #786824;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #D1C17D; width: 65px;"> Total:
+</th>
+<th style="background: #D1C17D; width: 40px;"> 449.24
+</th>
+<td width="255px" style="background: #D1C17D; border-left: solid 1px #786824;">
+</td></tr></table>
+</td></tr>
+<tr>
+<th style="background: #D1C17D; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;">
+</th></tr></table>
+<p><br clear="all" />
+</p>
+<h3><span class="mw-headline" id="Fully_evolved">Fully evolved</span></h3>
+<table style="float:left; background: #B8A038; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #786824;">
+
+<tr>
+<th style="background: #D1C17D; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Stat
+</th></tr>
+<tr style="background: #FF5959;">
+<td>
+<table style="background: #FF0000; border: 1px solid #A60000;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #FF5959; width: 65px;"> HP:
+</th>
+<th style="background: #FF5959; width: 40px;"> 76.90
+</th>
+<td style="width: 76.90px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #F5AC78;">
+<td>
+<table style="background: #F08030; border: 1px solid #9C531F;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #F5AC78; width: 65px;"> Attack:
+</th>
+<th style="background: #F5AC78; width: 40px;"> 100.23
+</th>
+<td style="width: 100.23px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #FAE078;">
+<td>
+<table style="background: #F8D030; border: 1px solid #A1871F;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #FAE078; width: 65px;"> Defense:
+</th>
+<th style="background: #FAE078; width: 40px;"> 113.49
+</th>
+<td style="width: 113.49px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #9DB7F5;">
+<td>
+<table style="background: #6890F0; border: 1px solid #445E9C;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #9DB7F5; width: 65px;"> Sp.Atk:
+</th>
+<th style="background: #9DB7F5; width: 40px;"> 71.41
+</th>
+<td style="width: 71.41px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #A7DB8D;">
+<td>
+<table style="background: #78C850; border: 1px solid #4E8234;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #A7DB8D; width: 65px;"> Sp.Def:
+</th>
+<th style="background: #A7DB8D; width: 40px;"> 90.72
+</th>
+<td style="width: 90.72px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #FA92B2;">
+<td>
+<table style="background: #F85888; border: 1px solid #A13959;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #FA92B2; width: 65px;"> Speed:
+</th>
+<th style="background: #FA92B2; width: 40px;"> 63.90
+</th>
+<td style="width: 63.90px;">
+</td></tr></table>
+</td></tr>
+<tr style="background: #D1C17D;">
+<td>
+<table width="100%" style="background: #B8A038; border: 1px solid #786824;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #D1C17D; width: 65px;"> Total:
+</th>
+<th style="background: #D1C17D; width: 40px;"> 517.65
+</th>
+<td width="255px" style="background: #D1C17D; border-left: solid 1px #786824;">
+</td></tr></table>
+</td></tr>
+<tr>
+<th style="background: #D1C17D; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;">
+</th></tr></table>
+<p><br clear="all" />
+</p>
+<h2><span class="mw-headline" id="Battle_properties">Battle properties</span></h2>
+<h3><span class="mw-headline" id="Generation_I">Generation I</span></h3>
+<table align="left" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #786824; background:#B8A038; margin-right: 5px; margin-bottom: 5px;">
+
+<tr>
+<th colspan="2" style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px; background:#A44C4B"> <span class="explain" title="Rock-type moves">Offensive</span>
+</th>
+<th> <a href="/wiki/Rock_(type)" title="Rock"><img alt="Rock" src="//cdn.bulbagarden.net/upload/c/ce/RockIC_Big.png" width="48" height="16" /></a>
+</th>
+<th colspan="2" style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px; background:#4C4BA4"> <span class="explain" title="Rock-type Pokémon">Defensive</span>
+</th></tr>
+<tr>
+<th style="background:#A44C4B"> Power
+</th>
+<th style="background:#A44C4B"> Types
+</th>
+<td rowspan="4"> &#160;
+</td>
+<th style="background:#4C4BA4"> Power
+</th>
+<th style="background:#4C4BA4"> Types
+</th></tr>
+<tr align="center">
+<th style="background:#009900; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type moves weaken" style="color: #FFFFFF">2×</span>
+</th>
+<td style="background:#D1C17D;"> <a href="/wiki/Bug_(type)" title="Bug"><img alt="Bug" src="//cdn.bulbagarden.net/upload/c/c8/BugIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Fire_(type)" title="Fire"><img alt="Fire" src="//cdn.bulbagarden.net/upload/2/26/FireIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Flying_(type)" title="Flying"><img alt="Flying" src="//cdn.bulbagarden.net/upload/c/cb/FlyingIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Ice_(type)" title="Ice"><img alt="Ice" src="//cdn.bulbagarden.net/upload/6/6f/IceIC_Big.png" width="48" height="16" /></a>
+</td>
+<th style="background:#FF0000; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type Pokémon resist" style="color: #FFFFFF">½×</span>
+</th>
+<td style="background:#D1C17D;"> <a href="/wiki/Fire_(type)" title="Fire"><img alt="Fire" src="//cdn.bulbagarden.net/upload/2/26/FireIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Flying_(type)" title="Flying"><img alt="Flying" src="//cdn.bulbagarden.net/upload/c/cb/FlyingIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Normal_(type)" title="Normal"><img alt="Normal" src="//cdn.bulbagarden.net/upload/3/39/NormalIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Poison_(type)" title="Poison"><img alt="Poison" src="//cdn.bulbagarden.net/upload/3/3d/PoisonIC_Big.png" width="48" height="16" /></a>
+</td></tr>
+<tr align="center">
+<th style="background:#FF0000; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type moves are resisted by" style="color: #FFFFFF">½×</span>
+</th>
+<td style="background:#D1C17D;"> <a href="/wiki/Fighting_(type)" title="Fighting"><img alt="Fighting" src="//cdn.bulbagarden.net/upload/6/67/FightingIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Ground_(type)" title="Ground"><img alt="Ground" src="//cdn.bulbagarden.net/upload/8/8f/GroundIC_Big.png" width="48" height="16" /></a>
+</td>
+<th style="background:#009900; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type Pokémon are weak to" style="color: #FFFFFF">2×</span>
+</th>
+<td style="background:#D1C17D;"> <a href="/wiki/Fighting_(type)" title="Fighting"><img alt="Fighting" src="//cdn.bulbagarden.net/upload/6/67/FightingIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Grass_(type)" title="Grass"><img alt="Grass" src="//cdn.bulbagarden.net/upload/7/74/GrassIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Ground_(type)" title="Ground"><img alt="Ground" src="//cdn.bulbagarden.net/upload/8/8f/GroundIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Water_(type)" title="Water"><img alt="Water" src="//cdn.bulbagarden.net/upload/5/56/WaterIC_Big.png" width="48" height="16" /></a>
+</td></tr>
+<tr align="center">
+<th style="border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; background:#000000; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type moves do not affect" style="color: #FFFFFF">0×</span>
+</th>
+<td style="background:#D1C17D;"> None
+</td>
+<th style="background:#000000; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type Pokémon are unaffected by" style="color: #FFFFFF">0×</span>
+</th>
+<td style="border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px; background:#D1C17D;"> None
+</td></tr></table><br clear="left" />
+<h3><span class="mw-headline" id="Generation_II_onwards">Generation II onwards</span></h3>
+<p>Rock-type Pokémon are immune to damage from the <a href="/wiki/Sandstorm_(weather_condition)" title="Sandstorm (weather condition)">sandstorm</a> weather condition.
+</p><p>Starting in <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>, Rock-type Pokémon have their <a href="/wiki/Statistic#Special_Defense" title="Statistic">Special Defense</a> boosted by 50% during a sandstorm.
+</p>
+<table align="left" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; border: 3px solid #786824; background:#B8A038; margin-right: 5px; margin-bottom: 5px;">
+
+<tr>
+<th colspan="2" style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px; background:#A44C4B"> <span class="explain" title="Rock-type moves">Offensive</span>
+</th>
+<th> <a href="/wiki/Rock_(type)" title="Rock"><img alt="Rock" src="//cdn.bulbagarden.net/upload/c/ce/RockIC_Big.png" width="48" height="16" /></a>
+</th>
+<th colspan="2" style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px; background:#4C4BA4"> <span class="explain" title="Rock-type Pokémon">Defensive</span>
+</th></tr>
+<tr>
+<th style="background:#A44C4B"> Power
+</th>
+<th style="background:#A44C4B"> Types
+</th>
+<td rowspan="4"> &#160;
+</td>
+<th style="background:#4C4BA4"> Power
+</th>
+<th style="background:#4C4BA4"> Types
+</th></tr>
+<tr align="center">
+<th style="background:#009900; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type moves weaken" style="color: #FFFFFF">2×</span>
+</th>
+<td style="background:#D1C17D;"> <a href="/wiki/Bug_(type)" title="Bug"><img alt="Bug" src="//cdn.bulbagarden.net/upload/c/c8/BugIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Fire_(type)" title="Fire"><img alt="Fire" src="//cdn.bulbagarden.net/upload/2/26/FireIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Flying_(type)" title="Flying"><img alt="Flying" src="//cdn.bulbagarden.net/upload/c/cb/FlyingIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Ice_(type)" title="Ice"><img alt="Ice" src="//cdn.bulbagarden.net/upload/6/6f/IceIC_Big.png" width="48" height="16" /></a>
+</td>
+<th style="background:#FF0000; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type Pokémon resist" style="color: #FFFFFF">½×</span>
+</th>
+<td style="background:#D1C17D;"> <a href="/wiki/Fire_(type)" title="Fire"><img alt="Fire" src="//cdn.bulbagarden.net/upload/2/26/FireIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Flying_(type)" title="Flying"><img alt="Flying" src="//cdn.bulbagarden.net/upload/c/cb/FlyingIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Normal_(type)" title="Normal"><img alt="Normal" src="//cdn.bulbagarden.net/upload/3/39/NormalIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Poison_(type)" title="Poison"><img alt="Poison" src="//cdn.bulbagarden.net/upload/3/3d/PoisonIC_Big.png" width="48" height="16" /></a>
+</td></tr>
+<tr align="center">
+<th style="background:#FF0000; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type moves are resisted by" style="color: #FFFFFF">½×</span>
+</th>
+<td style="background:#D1C17D;"> <a href="/wiki/Fighting_(type)" title="Fighting"><img alt="Fighting" src="//cdn.bulbagarden.net/upload/6/67/FightingIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Ground_(type)" title="Ground"><img alt="Ground" src="//cdn.bulbagarden.net/upload/8/8f/GroundIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Steel_(type)" title="Steel"><img alt="Steel" src="//cdn.bulbagarden.net/upload/d/d4/SteelIC_Big.png" width="48" height="16" /></a>
+</td>
+<th style="background:#009900; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type Pokémon are weak to" style="color: #FFFFFF">2×</span>
+</th>
+<td style="background:#D1C17D;"> <a href="/wiki/Fighting_(type)" title="Fighting"><img alt="Fighting" src="//cdn.bulbagarden.net/upload/6/67/FightingIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Grass_(type)" title="Grass"><img alt="Grass" src="//cdn.bulbagarden.net/upload/7/74/GrassIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Ground_(type)" title="Ground"><img alt="Ground" src="//cdn.bulbagarden.net/upload/8/8f/GroundIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Steel_(type)" title="Steel"><img alt="Steel" src="//cdn.bulbagarden.net/upload/d/d4/SteelIC_Big.png" width="48" height="16" /></a><br /><a href="/wiki/Water_(type)" title="Water"><img alt="Water" src="//cdn.bulbagarden.net/upload/5/56/WaterIC_Big.png" width="48" height="16" /></a>
+</td></tr>
+<tr align="center">
+<th style="border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; background:#000000; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type moves do not affect" style="color: #FFFFFF">0×</span>
+</th>
+<td style="background:#D1C17D;"> None
+</td>
+<th style="background:#000000; font-size:24px; line-height:28px;"> <span class="explain" title="Rock-type Pokémon are unaffected by" style="color: #FFFFFF">0×</span>
+</th>
+<td style="border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px; background:#D1C17D;"> None
+</td></tr></table><br clear="left" />
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span></h2>
+<h3><span class="mw-headline" id="Defense">Defense</span></h3>
+<p>The Rock type is rather risky defensively. Tied with <a href="/wiki/Grass_(type)" title="Grass (type)">Grass</a>, Rock types have the most weaknesses of any type, with five. The fact that Rock-types on average have mediocre <a href="/wiki/Statistic#Special_Defense" title="Statistic">Special Defense</a> makes it harder to survive against its weakness to Grass- and <a href="/wiki/Water_(type)" title="Water (type)">Water-type</a> moves, which are typically Special in nature. Double weaknesses among Rock types are very common, particularly to the <a href="/wiki/Fighting_(type)" title="Fighting (type)">Fighting</a> type. Their typically low <a href="/wiki/Statistic#Speed" title="Statistic">Speed</a> stat also makes it harder for them to outspeed sweepers.
+</p><p>However, as Rock types have an overall high <a href="/wiki/Statistic#Defense" title="Statistic">Defense</a>, this allows them to take physical hits and stay on the field as long as they need to. Rock-types have key resistances to <a href="/wiki/Fire_(type)" title="Fire (type)">Fire</a> and <a href="/wiki/Flying_(type)" title="Flying (type)">Flying</a> moves, and the type is one of only three that resists <a href="/wiki/Normal_(type)" title="Normal (type)">Normal</a>, the other two being <a href="/wiki/Steel_(type)" title="Steel (type)">Steel</a> and <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost</a>, with Ghost types being completely immune to Normal attacks.
+</p><p>Since <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>, the Special Defense of a Rock-type Pokémon is increased by 50% during a <a href="/wiki/Sandstorm_(weather_condition)" title="Sandstorm (weather condition)">sandstorm</a>, in addition to being immune to the damage caused by it. Furthermore, the Ability <a href="/wiki/Sand_Stream_(Ability)" title="Sand Stream (Ability)">Sand Stream</a> is used due to its previously common Ability that changes weather. Moreover, most Rock types can learn <a href="/wiki/Stealth_Rock_(move)" title="Stealth Rock (move)">Stealth Rock</a>, an <a href="/wiki/List_of_moves_that_cause_entry_hazards" title="List of moves that cause entry hazards">entry hazard</a> moves that damage opposing switch-in Pokémon based on the type effectiveness against Rock.
+</p>
+<h3><span class="mw-headline" id="Offense">Offense</span></h3>
+<p>Rock is one of the best types offensively. Rock types can deal <a href="/wiki/Super-effective" class="mw-redirect" title="Super-effective">super-effective</a> damage to several common offensive types: <a href="/wiki/Fire_(type)" title="Fire (type)">Fire</a>, <a href="/wiki/Ice_(type)" title="Ice (type)">Ice</a>, and <a href="/wiki/Flying_(type)" title="Flying (type)">Flying</a>, as well as <a href="/wiki/Bug_(type)" title="Bug (type)">Bug</a>. Being resisted by only three of the eighteen types (<a href="/wiki/Fighting_(type)" title="Fighting (type)">Fighting</a>, <a href="/wiki/Ground_(type)" title="Ground (type)">Ground</a>, and <a href="/wiki/Steel_(type)" title="Steel (type)">Steel</a>), and the fact that only a few Pokémon have a double resistance to Rock, keeps its moves relatively effective. As Pokémon of the three types that resist Rock typically can learn Rock-type moves, this proves a quite versatile combination. Double weaknesses to Rock are relatively common, mostly due to many Pokémon which have Flying as a secondary type. In particular, Rock pairs well with Ground, since very few Pokémon naturally resist this combination, and most Rock-types can learn <a href="/wiki/Earthquake_(move)" title="Earthquake (move)">Earthquake</a> to this end.
+</p><p>The biggest drawback of Rock-type moves is the large percentage of moves which have less than 100% <a href="/wiki/Accuracy" title="Accuracy">accuracy</a>; in particular, the commonly used <a href="/wiki/Rock_Slide_(move)" title="Rock Slide (move)">Rock Slide</a> and <a href="/wiki/Stone_Edge_(move)" title="Stone Edge (move)">Stone Edge</a>. Most Rock-types are physical attackers, but the few special attackers among them must contend with the extreme scarcity of special Rock-type attacks, as there are only two such moves, <a href="/wiki/AncientPower_(move)" class="mw-redirect" title="AncientPower (move)">AncientPower</a> and <a href="/wiki/Power_Gem_(move)" title="Power Gem (move)">Power Gem</a>. As Rock types typically have low <a href="/wiki/Statistic#Speed" title="Statistic">Speed</a>, they may deal a significant amount of damage with acceptable drawbacks due to the learning of <a href="/wiki/Head_Smash_(move)" title="Head Smash (move)">Head Smash</a>, while fast Rock types lack of this devastating move. Overall, Rock is a powerful offensive type when paired with moves of other types for coverage and accuracy.
+</p><p>Rock-type Pokémon, on average, have the lowest Speed of all Pokémon and of fully evolved Pokémon.
+</p>
+<h3><span class="mw-headline" id="Contest_properties">Contest properties</span></h3>
+<p>In <a href="/wiki/Pok%C3%A9mon_Contest" title="Pokémon Contest">Contests</a>, Rock-type moves are typically <a href="/wiki/Tough_(condition)" title="Tough (condition)">Tough</a> moves.
+</p>
+<h2><span class="mw-headline" id="Pok.C3.A9mon">Pokémon</span></h2>
+<p>As of Generation VII, there are 60 Rock-type Pokémon or 7.4% of all Pokémon, making it the 9th rarest type.
+</p>
+<h3><span class="mw-headline" id="Pure_Rock-type_Pok.C3.A9mon">Pure Rock-type Pokémon</span></h3>
+<table class="roundy" style="margin:auto; background:#D1C17D; border:5px solid #B8A038">
+
+<tr>
+<td>
+<table border="1" width="100%" class="sortable" style="margin:auto; background:#FFF; border:1px solid #D1C17D; border-collapse:collapse">
+
+
+<tr style="background:#D1C17D">
+<th> #
+</th>
+<th>
+</th>
+<th> Name
+</th></tr>
+<tr>
+<td>185
+</td>
+<td><a href="/wiki/Sudowoodo_(Pok%C3%A9mon)" title="Sudowoodo"><img alt="Sudowoodo" src="//cdn.bulbagarden.net/upload/3/3b/185MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Sudowoodo_(Pok%C3%A9mon)" title="Sudowoodo (Pokémon)">Sudowoodo</a>
+</td></tr>
+<tr>
+<td>299
+</td>
+<td><a href="/wiki/Nosepass_(Pok%C3%A9mon)" title="Nosepass"><img alt="Nosepass" src="//cdn.bulbagarden.net/upload/a/a6/299MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Nosepass_(Pok%C3%A9mon)" title="Nosepass (Pokémon)">Nosepass</a>
+</td></tr>
+<tr>
+<td>377
+</td>
+<td><a href="/wiki/Regirock_(Pok%C3%A9mon)" title="Regirock"><img alt="Regirock" src="//cdn.bulbagarden.net/upload/6/6c/377MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Regirock_(Pok%C3%A9mon)" title="Regirock (Pokémon)">Regirock</a>
+</td></tr>
+<tr>
+<td>408
+</td>
+<td><a href="/wiki/Cranidos_(Pok%C3%A9mon)" title="Cranidos"><img alt="Cranidos" src="//cdn.bulbagarden.net/upload/9/98/408MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Cranidos_(Pok%C3%A9mon)" title="Cranidos (Pokémon)">Cranidos</a>
+</td></tr>
+<tr>
+<td>409
+</td>
+<td><a href="/wiki/Rampardos_(Pok%C3%A9mon)" title="Rampardos"><img alt="Rampardos" src="//cdn.bulbagarden.net/upload/9/91/409MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Rampardos_(Pok%C3%A9mon)" title="Rampardos (Pokémon)">Rampardos</a>
+</td></tr>
+<tr>
+<td>438
+</td>
+<td><a href="/wiki/Bonsly_(Pok%C3%A9mon)" title="Bonsly"><img alt="Bonsly" src="//cdn.bulbagarden.net/upload/7/7a/438MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Bonsly_(Pok%C3%A9mon)" title="Bonsly (Pokémon)">Bonsly</a>
+</td></tr>
+<tr>
+<td>524
+</td>
+<td><a href="/wiki/Roggenrola_(Pok%C3%A9mon)" title="Roggenrola"><img alt="Roggenrola" src="//cdn.bulbagarden.net/upload/6/62/524MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Roggenrola_(Pok%C3%A9mon)" title="Roggenrola (Pokémon)">Roggenrola</a>
+</td></tr>
+<tr>
+<td>525
+</td>
+<td><a href="/wiki/Boldore_(Pok%C3%A9mon)" title="Boldore"><img alt="Boldore" src="//cdn.bulbagarden.net/upload/2/25/525MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Boldore_(Pok%C3%A9mon)" title="Boldore (Pokémon)">Boldore</a>
+</td></tr>
+<tr>
+<td>526
+</td>
+<td><a href="/wiki/Gigalith_(Pok%C3%A9mon)" title="Gigalith"><img alt="Gigalith" src="//cdn.bulbagarden.net/upload/5/53/526MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Gigalith_(Pok%C3%A9mon)" title="Gigalith (Pokémon)">Gigalith</a>
+</td></tr>
+<tr>
+<td>744
+</td>
+<td><a href="/wiki/Rockruff_(Pok%C3%A9mon)" title="Rockruff"><img alt="Rockruff" src="//cdn.bulbagarden.net/upload/f/f8/744MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Rockruff_(Pok%C3%A9mon)" title="Rockruff (Pokémon)">Rockruff</a>
+</td></tr>
+<tr>
+<td rowspan="3">745
+</td>
+<td><a href="/wiki/Lycanroc_(Pok%C3%A9mon)" title="Lycanroc"><img alt="Lycanroc" src="//cdn.bulbagarden.net/upload/b/b3/745MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Lycanroc_(Pok%C3%A9mon)" title="Lycanroc (Pokémon)">Lycanroc</a><br /><small><a href="/wiki/List_of_Pok%C3%A9mon_with_form_differences#Lycanroc" title="List of Pokémon with form differences">Midday Form</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lycanroc_(Pok%C3%A9mon)" title="Lycanroc"><img alt="Lycanroc" src="//cdn.bulbagarden.net/upload/f/fa/745MnMS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Lycanroc_(Pok%C3%A9mon)" title="Lycanroc (Pokémon)">Lycanroc</a><br /><small><a href="/wiki/List_of_Pok%C3%A9mon_with_form_differences#Lycanroc" title="List of Pokémon with form differences">Midnight Form</a></small>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lycanroc_(Pok%C3%A9mon)" title="Lycanroc"><img alt="Lycanroc" src="//cdn.bulbagarden.net/upload/9/9a/745DMS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Lycanroc_(Pok%C3%A9mon)" title="Lycanroc (Pokémon)">Lycanroc</a><br /><small><a href="/wiki/List_of_Pok%C3%A9mon_with_form_differences#Lycanroc" title="List of Pokémon with form differences">Dusk Form</a></small>
+</td></tr></table>
+</td></tr></table>
+<h3><span class="mw-headline" id="Half_Rock-type_Pok.C3.A9mon">Half Rock-type Pokémon</span></h3>
+<h4><span class="mw-headline" id="Primary_Rock-type_Pok.C3.A9mon">Primary Rock-type Pokémon</span></h4>
+<table class="roundy" style="margin:auto; background:#D1C17D; border:5px solid #B8A038">
+
+<tr>
+<td>
+<table border="1" width="100%" class="sortable" style="margin:auto; background:#FFF; border:1px solid #D1C17D; border-collapse:collapse">
+
+<tr style="background:#D1C17D">
+<th> #
+</th>
+<th>
+</th>
+<th> Name
+</th>
+<th> Type 1
+</th>
+<th> Type 2
+</th></tr>
+<tr>
+<td rowspan="2">074
+</td>
+<td><a href="/wiki/Geodude_(Pok%C3%A9mon)" title="Geodude"><img alt="Geodude" src="//cdn.bulbagarden.net/upload/0/04/074MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Geodude_(Pok%C3%A9mon)" title="Geodude (Pokémon)">Geodude</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#E0C068"><a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF">Ground</span></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Geodude_(Pok%C3%A9mon)" title="Geodude"><img alt="Geodude" src="//cdn.bulbagarden.net/upload/d/d8/074AMS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Geodude_(Pok%C3%A9mon)" title="Geodude (Pokémon)">Geodude</a><br /><small><a href="/wiki/Regional_variant" title="Regional variant">Alola Form</a></small>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#F8D030"><a href="/wiki/Electric_(type)" title="Electric (type)"><span style="color:#FFF">Electric</span></a>
+</td></tr>
+<tr>
+<td rowspan="2">075
+</td>
+<td><a href="/wiki/Graveler_(Pok%C3%A9mon)" title="Graveler"><img alt="Graveler" src="//cdn.bulbagarden.net/upload/5/5c/075MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Graveler_(Pok%C3%A9mon)" title="Graveler (Pokémon)">Graveler</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#E0C068"><a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF">Ground</span></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Graveler_(Pok%C3%A9mon)" title="Graveler"><img alt="Graveler" src="//cdn.bulbagarden.net/upload/4/41/075AMS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Graveler_(Pok%C3%A9mon)" title="Graveler (Pokémon)">Graveler</a><br /><small><a href="/wiki/Regional_variant" title="Regional variant">Alola Form</a></small>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#F8D030"><a href="/wiki/Electric_(type)" title="Electric (type)"><span style="color:#FFF">Electric</span></a>
+</td></tr>
+<tr>
+<td rowspan="2">076
+</td>
+<td><a href="/wiki/Golem_(Pok%C3%A9mon)" title="Golem"><img alt="Golem" src="//cdn.bulbagarden.net/upload/3/34/076MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Golem_(Pok%C3%A9mon)" title="Golem (Pokémon)">Golem</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#E0C068"><a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF">Ground</span></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Golem_(Pok%C3%A9mon)" title="Golem"><img alt="Golem" src="//cdn.bulbagarden.net/upload/0/0c/076AMS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Golem_(Pok%C3%A9mon)" title="Golem (Pokémon)">Golem</a><br /><small><a href="/wiki/Regional_variant" title="Regional variant">Alola Form</a></small>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#F8D030"><a href="/wiki/Electric_(type)" title="Electric (type)"><span style="color:#FFF">Electric</span></a>
+</td></tr>
+<tr>
+<td>095
+</td>
+<td><a href="/wiki/Onix_(Pok%C3%A9mon)" title="Onix"><img alt="Onix" src="//cdn.bulbagarden.net/upload/c/cd/095MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Onix_(Pok%C3%A9mon)" title="Onix (Pokémon)">Onix</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#E0C068"><a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF">Ground</span></a>
+</td></tr>
+<tr>
+<td>138
+</td>
+<td><a href="/wiki/Omanyte_(Pok%C3%A9mon)" title="Omanyte"><img alt="Omanyte" src="//cdn.bulbagarden.net/upload/9/97/138MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Omanyte_(Pok%C3%A9mon)" title="Omanyte (Pokémon)">Omanyte</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td></tr>
+<tr>
+<td>139
+</td>
+<td><a href="/wiki/Omastar_(Pok%C3%A9mon)" title="Omastar"><img alt="Omastar" src="//cdn.bulbagarden.net/upload/2/2a/139MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Omastar_(Pok%C3%A9mon)" title="Omastar (Pokémon)">Omastar</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td></tr>
+<tr>
+<td>140
+</td>
+<td><a href="/wiki/Kabuto_(Pok%C3%A9mon)" title="Kabuto"><img alt="Kabuto" src="//cdn.bulbagarden.net/upload/1/1e/140MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Kabuto_(Pok%C3%A9mon)" title="Kabuto (Pokémon)">Kabuto</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td></tr>
+<tr>
+<td>141
+</td>
+<td><a href="/wiki/Kabutops_(Pok%C3%A9mon)" title="Kabutops"><img alt="Kabutops" src="//cdn.bulbagarden.net/upload/0/08/141MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Kabutops_(Pok%C3%A9mon)" title="Kabutops (Pokémon)">Kabutops</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td></tr>
+<tr>
+<td rowspan="2">142
+</td>
+<td><a href="/wiki/Aerodactyl_(Pok%C3%A9mon)" title="Aerodactyl"><img alt="Aerodactyl" src="//cdn.bulbagarden.net/upload/d/d1/142MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Aerodactyl_(Pok%C3%A9mon)" title="Aerodactyl (Pokémon)">Aerodactyl</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#A890F0"><a href="/wiki/Flying_(type)" title="Flying (type)"><span style="color:#FFF">Flying</span></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Aerodactyl_(Pok%C3%A9mon)" title="Aerodactyl"><img alt="Aerodactyl" src="//cdn.bulbagarden.net/upload/c/c4/142MMS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Aerodactyl_(Pok%C3%A9mon)" title="Aerodactyl (Pokémon)">Mega Aerodactyl</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#A890F0"><a href="/wiki/Flying_(type)" title="Flying (type)"><span style="color:#FFF">Flying</span></a>
+</td></tr>
+<tr>
+<td>246
+</td>
+<td><a href="/wiki/Larvitar_(Pok%C3%A9mon)" title="Larvitar"><img alt="Larvitar" src="//cdn.bulbagarden.net/upload/8/85/246MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Larvitar_(Pok%C3%A9mon)" title="Larvitar (Pokémon)">Larvitar</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#E0C068"><a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF">Ground</span></a>
+</td></tr>
+<tr>
+<td>247
+</td>
+<td><a href="/wiki/Pupitar_(Pok%C3%A9mon)" title="Pupitar"><img alt="Pupitar" src="//cdn.bulbagarden.net/upload/f/f9/247MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Pupitar_(Pok%C3%A9mon)" title="Pupitar (Pokémon)">Pupitar</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#E0C068"><a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF">Ground</span></a>
+</td></tr>
+<tr>
+<td rowspan="2">248
+</td>
+<td><a href="/wiki/Tyranitar_(Pok%C3%A9mon)" title="Tyranitar"><img alt="Tyranitar" src="//cdn.bulbagarden.net/upload/0/0f/248MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Tyranitar_(Pok%C3%A9mon)" title="Tyranitar (Pokémon)">Tyranitar</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#705848"><a href="/wiki/Dark_(type)" title="Dark (type)"><span style="color:#FFF">Dark</span></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tyranitar_(Pok%C3%A9mon)" title="Tyranitar"><img alt="Tyranitar" src="//cdn.bulbagarden.net/upload/5/59/248MMS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Tyranitar_(Pok%C3%A9mon)" title="Tyranitar (Pokémon)">Mega Tyranitar</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#705848"><a href="/wiki/Dark_(type)" title="Dark (type)"><span style="color:#FFF">Dark</span></a>
+</td></tr>
+<tr>
+<td>337
+</td>
+<td><a href="/wiki/Lunatone_(Pok%C3%A9mon)" title="Lunatone"><img alt="Lunatone" src="//cdn.bulbagarden.net/upload/d/d5/337MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Lunatone_(Pok%C3%A9mon)" title="Lunatone (Pokémon)">Lunatone</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#F85888"><a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color:#FFF">Psychic</span></a>
+</td></tr>
+<tr>
+<td>338
+</td>
+<td><a href="/wiki/Solrock_(Pok%C3%A9mon)" title="Solrock"><img alt="Solrock" src="//cdn.bulbagarden.net/upload/1/1e/338MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Solrock_(Pok%C3%A9mon)" title="Solrock (Pokémon)">Solrock</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#F85888"><a href="/wiki/Psychic_(type)" title="Psychic (type)"><span style="color:#FFF">Psychic</span></a>
+</td></tr>
+<tr>
+<td>345
+</td>
+<td><a href="/wiki/Lileep_(Pok%C3%A9mon)" title="Lileep"><img alt="Lileep" src="//cdn.bulbagarden.net/upload/8/88/345MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Lileep_(Pok%C3%A9mon)" title="Lileep (Pokémon)">Lileep</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#78C850"><a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color:#FFF">Grass</span></a>
+</td></tr>
+<tr>
+<td>346
+</td>
+<td><a href="/wiki/Cradily_(Pok%C3%A9mon)" title="Cradily"><img alt="Cradily" src="//cdn.bulbagarden.net/upload/1/16/346MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Cradily_(Pok%C3%A9mon)" title="Cradily (Pokémon)">Cradily</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#78C850"><a href="/wiki/Grass_(type)" title="Grass (type)"><span style="color:#FFF">Grass</span></a>
+</td></tr>
+<tr>
+<td>347
+</td>
+<td><a href="/wiki/Anorith_(Pok%C3%A9mon)" title="Anorith"><img alt="Anorith" src="//cdn.bulbagarden.net/upload/b/b2/347MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Anorith_(Pok%C3%A9mon)" title="Anorith (Pokémon)">Anorith</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#A8B820"><a href="/wiki/Bug_(type)" title="Bug (type)"><span style="color:#FFF">Bug</span></a>
+</td></tr>
+<tr>
+<td>348
+</td>
+<td><a href="/wiki/Armaldo_(Pok%C3%A9mon)" title="Armaldo"><img alt="Armaldo" src="//cdn.bulbagarden.net/upload/6/69/348MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Armaldo_(Pok%C3%A9mon)" title="Armaldo (Pokémon)">Armaldo</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#A8B820"><a href="/wiki/Bug_(type)" title="Bug (type)"><span style="color:#FFF">Bug</span></a>
+</td></tr>
+<tr>
+<td>410
+</td>
+<td><a href="/wiki/Shieldon_(Pok%C3%A9mon)" title="Shieldon"><img alt="Shieldon" src="//cdn.bulbagarden.net/upload/9/9e/410MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Shieldon_(Pok%C3%A9mon)" title="Shieldon (Pokémon)">Shieldon</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#B8B8D0"><a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color:#FFF">Steel</span></a>
+</td></tr>
+<tr>
+<td>411
+</td>
+<td><a href="/wiki/Bastiodon_(Pok%C3%A9mon)" title="Bastiodon"><img alt="Bastiodon" src="//cdn.bulbagarden.net/upload/e/ef/411MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Bastiodon_(Pok%C3%A9mon)" title="Bastiodon (Pokémon)">Bastiodon</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#B8B8D0"><a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color:#FFF">Steel</span></a>
+</td></tr>
+<tr>
+<td>476
+</td>
+<td><a href="/wiki/Probopass_(Pok%C3%A9mon)" title="Probopass"><img alt="Probopass" src="//cdn.bulbagarden.net/upload/a/aa/476MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Probopass_(Pok%C3%A9mon)" title="Probopass (Pokémon)">Probopass</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#B8B8D0"><a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color:#FFF">Steel</span></a>
+</td></tr>
+<tr>
+<td>566
+</td>
+<td><a href="/wiki/Archen_(Pok%C3%A9mon)" title="Archen"><img alt="Archen" src="//cdn.bulbagarden.net/upload/8/8a/566MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Archen_(Pok%C3%A9mon)" title="Archen (Pokémon)">Archen</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#A890F0"><a href="/wiki/Flying_(type)" title="Flying (type)"><span style="color:#FFF">Flying</span></a>
+</td></tr>
+<tr>
+<td>567
+</td>
+<td><a href="/wiki/Archeops_(Pok%C3%A9mon)" title="Archeops"><img alt="Archeops" src="//cdn.bulbagarden.net/upload/a/a9/567MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Archeops_(Pok%C3%A9mon)" title="Archeops (Pokémon)">Archeops</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#A890F0"><a href="/wiki/Flying_(type)" title="Flying (type)"><span style="color:#FFF">Flying</span></a>
+</td></tr>
+<tr>
+<td>639
+</td>
+<td><a href="/wiki/Terrakion_(Pok%C3%A9mon)" title="Terrakion"><img alt="Terrakion" src="//cdn.bulbagarden.net/upload/5/5d/639MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Terrakion_(Pok%C3%A9mon)" title="Terrakion (Pokémon)">Terrakion</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#C03028"><a href="/wiki/Fighting_(type)" title="Fighting (type)"><span style="color:#FFF">Fighting</span></a>
+</td></tr>
+<tr>
+<td>688
+</td>
+<td><a href="/wiki/Binacle_(Pok%C3%A9mon)" title="Binacle"><img alt="Binacle" src="//cdn.bulbagarden.net/upload/7/77/688MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Binacle_(Pok%C3%A9mon)" title="Binacle (Pokémon)">Binacle</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td></tr>
+<tr>
+<td>689
+</td>
+<td><a href="/wiki/Barbaracle_(Pok%C3%A9mon)" title="Barbaracle"><img alt="Barbaracle" src="//cdn.bulbagarden.net/upload/a/aa/689MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Barbaracle_(Pok%C3%A9mon)" title="Barbaracle (Pokémon)">Barbaracle</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td></tr>
+<tr>
+<td>696
+</td>
+<td><a href="/wiki/Tyrunt_(Pok%C3%A9mon)" title="Tyrunt"><img alt="Tyrunt" src="//cdn.bulbagarden.net/upload/c/c1/696MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Tyrunt_(Pok%C3%A9mon)" title="Tyrunt (Pokémon)">Tyrunt</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#7038F8"><a href="/wiki/Dragon_(type)" title="Dragon (type)"><span style="color:#FFF">Dragon</span></a>
+</td></tr>
+<tr>
+<td>697
+</td>
+<td><a href="/wiki/Tyrantrum_(Pok%C3%A9mon)" title="Tyrantrum"><img alt="Tyrantrum" src="//cdn.bulbagarden.net/upload/2/29/697MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Tyrantrum_(Pok%C3%A9mon)" title="Tyrantrum (Pokémon)">Tyrantrum</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#7038F8"><a href="/wiki/Dragon_(type)" title="Dragon (type)"><span style="color:#FFF">Dragon</span></a>
+</td></tr>
+<tr>
+<td>698
+</td>
+<td><a href="/wiki/Amaura_(Pok%C3%A9mon)" title="Amaura"><img alt="Amaura" src="//cdn.bulbagarden.net/upload/a/a4/698MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Amaura_(Pok%C3%A9mon)" title="Amaura (Pokémon)">Amaura</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#98D8D8"><a href="/wiki/Ice_(type)" title="Ice (type)"><span style="color:#FFF">Ice</span></a>
+</td></tr>
+<tr>
+<td>699
+</td>
+<td><a href="/wiki/Aurorus_(Pok%C3%A9mon)" title="Aurorus"><img alt="Aurorus" src="//cdn.bulbagarden.net/upload/8/8e/699MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Aurorus_(Pok%C3%A9mon)" title="Aurorus (Pokémon)">Aurorus</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#98D8D8"><a href="/wiki/Ice_(type)" title="Ice (type)"><span style="color:#FFF">Ice</span></a>
+</td></tr>
+<tr>
+<td>703
+</td>
+<td><a href="/wiki/Carbink_(Pok%C3%A9mon)" title="Carbink"><img alt="Carbink" src="//cdn.bulbagarden.net/upload/5/5b/703MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Carbink_(Pok%C3%A9mon)" title="Carbink (Pokémon)">Carbink</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#EE99AC"><a href="/wiki/Fairy_(type)" title="Fairy (type)"><span style="color:#FFF">Fairy</span></a>
+</td></tr>
+<tr>
+<td rowspan="2">719
+</td>
+<td><a href="/wiki/Diancie_(Pok%C3%A9mon)" title="Diancie"><img alt="Diancie" src="//cdn.bulbagarden.net/upload/5/53/719MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Diancie_(Pok%C3%A9mon)" title="Diancie (Pokémon)">Diancie</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#EE99AC"><a href="/wiki/Fairy_(type)" title="Fairy (type)"><span style="color:#FFF">Fairy</span></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Diancie_(Pok%C3%A9mon)" title="Diancie"><img alt="Diancie" src="//cdn.bulbagarden.net/upload/a/ae/719MMS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Diancie_(Pok%C3%A9mon)" title="Diancie (Pokémon)">Mega Diancie</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#EE99AC"><a href="/wiki/Fairy_(type)" title="Fairy (type)"><span style="color:#FFF">Fairy</span></a>
+</td></tr>
+<tr>
+<td>774
+</td>
+<td><a href="/wiki/Minior_(Pok%C3%A9mon)" title="Minior"><img alt="Minior" src="//cdn.bulbagarden.net/upload/d/d6/774MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Minior_(Pok%C3%A9mon)" title="Minior (Pokémon)">Minior</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#A890F0"><a href="/wiki/Flying_(type)" title="Flying (type)"><span style="color:#FFF">Flying</span></a>
+</td></tr>
+<tr>
+<td>793
+</td>
+<td><a href="/wiki/Nihilego_(Pok%C3%A9mon)" title="Nihilego"><img alt="Nihilego" src="//cdn.bulbagarden.net/upload/f/f0/793MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Nihilego_(Pok%C3%A9mon)" title="Nihilego (Pokémon)">Nihilego</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#A040A0"><a href="/wiki/Poison_(type)" title="Poison (type)"><span style="color:#FFF">Poison</span></a>
+</td></tr>
+<tr>
+<td>805
+</td>
+<td><a href="/wiki/Stakataka_(Pok%C3%A9mon)" title="Stakataka"><img alt="Stakataka" src="//cdn.bulbagarden.net/upload/5/55/805MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Stakataka_(Pok%C3%A9mon)" title="Stakataka (Pokémon)">Stakataka</a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td>
+<td style="text-align:center; background:#B8B8D0"><a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color:#FFF">Steel</span></a>
+</td></tr></table>
+</td></tr></table>
+<h4><span class="mw-headline" id="Secondary_Rock-type_Pok.C3.A9mon">Secondary Rock-type Pokémon</span></h4>
+<table class="roundy" style="margin:auto; background:#D1C17D; border:5px solid #B8A038">
+
+<tr>
+<td>
+<table border="1" width="100%" class="sortable" style="margin:auto; background:#FFF; border:1px solid #D1C17D; border-collapse:collapse">
+
+<tr style="background:#D1C17D">
+<th> #
+</th>
+<th>
+</th>
+<th> Name
+</th>
+<th> Type 1
+</th>
+<th> Type 2
+</th></tr>
+<tr>
+<td>111
+</td>
+<td><a href="/wiki/Rhyhorn_(Pok%C3%A9mon)" title="Rhyhorn"><img alt="Rhyhorn" src="//cdn.bulbagarden.net/upload/6/67/111MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Rhyhorn_(Pok%C3%A9mon)" title="Rhyhorn (Pokémon)">Rhyhorn</a>
+</td>
+<td style="text-align:center; background:#E0C068"><a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF">Ground</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>112
+</td>
+<td><a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon"><img alt="Rhydon" src="//cdn.bulbagarden.net/upload/c/ce/112MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon (Pokémon)">Rhydon</a>
+</td>
+<td style="text-align:center; background:#E0C068"><a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF">Ground</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>213
+</td>
+<td><a href="/wiki/Shuckle_(Pok%C3%A9mon)" title="Shuckle"><img alt="Shuckle" src="//cdn.bulbagarden.net/upload/0/0a/213MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Shuckle_(Pok%C3%A9mon)" title="Shuckle (Pokémon)">Shuckle</a>
+</td>
+<td style="text-align:center; background:#A8B820"><a href="/wiki/Bug_(type)" title="Bug (type)"><span style="color:#FFF">Bug</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>219
+</td>
+<td><a href="/wiki/Magcargo_(Pok%C3%A9mon)" title="Magcargo"><img alt="Magcargo" src="//cdn.bulbagarden.net/upload/6/6b/219MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Magcargo_(Pok%C3%A9mon)" title="Magcargo (Pokémon)">Magcargo</a>
+</td>
+<td style="text-align:center; background:#F08030"><a href="/wiki/Fire_(type)" title="Fire (type)"><span style="color:#FFF">Fire</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>222
+</td>
+<td><a href="/wiki/Corsola_(Pok%C3%A9mon)" title="Corsola"><img alt="Corsola" src="//cdn.bulbagarden.net/upload/9/97/222MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Corsola_(Pok%C3%A9mon)" title="Corsola (Pokémon)">Corsola</a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>304
+</td>
+<td><a href="/wiki/Aron_(Pok%C3%A9mon)" title="Aron"><img alt="Aron" src="//cdn.bulbagarden.net/upload/c/c5/304MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Aron_(Pok%C3%A9mon)" title="Aron (Pokémon)">Aron</a>
+</td>
+<td style="text-align:center; background:#B8B8D0"><a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color:#FFF">Steel</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>305
+</td>
+<td><a href="/wiki/Lairon_(Pok%C3%A9mon)" title="Lairon"><img alt="Lairon" src="//cdn.bulbagarden.net/upload/3/3e/305MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Lairon_(Pok%C3%A9mon)" title="Lairon (Pokémon)">Lairon</a>
+</td>
+<td style="text-align:center; background:#B8B8D0"><a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color:#FFF">Steel</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>306
+</td>
+<td><a href="/wiki/Aggron_(Pok%C3%A9mon)" title="Aggron"><img alt="Aggron" src="//cdn.bulbagarden.net/upload/d/d5/306MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Aggron_(Pok%C3%A9mon)" title="Aggron (Pokémon)">Aggron</a>
+</td>
+<td style="text-align:center; background:#B8B8D0"><a href="/wiki/Steel_(type)" title="Steel (type)"><span style="color:#FFF">Steel</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>369
+</td>
+<td><a href="/wiki/Relicanth_(Pok%C3%A9mon)" title="Relicanth"><img alt="Relicanth" src="//cdn.bulbagarden.net/upload/6/6a/369MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Relicanth_(Pok%C3%A9mon)" title="Relicanth (Pokémon)">Relicanth</a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>464
+</td>
+<td><a href="/wiki/Rhyperior_(Pok%C3%A9mon)" title="Rhyperior"><img alt="Rhyperior" src="//cdn.bulbagarden.net/upload/e/e9/464MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Rhyperior_(Pok%C3%A9mon)" title="Rhyperior (Pokémon)">Rhyperior</a>
+</td>
+<td style="text-align:center; background:#E0C068"><a href="/wiki/Ground_(type)" title="Ground (type)"><span style="color:#FFF">Ground</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>557
+</td>
+<td><a href="/wiki/Dwebble_(Pok%C3%A9mon)" title="Dwebble"><img alt="Dwebble" src="//cdn.bulbagarden.net/upload/9/9e/557MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Dwebble_(Pok%C3%A9mon)" title="Dwebble (Pokémon)">Dwebble</a>
+</td>
+<td style="text-align:center; background:#A8B820"><a href="/wiki/Bug_(type)" title="Bug (type)"><span style="color:#FFF">Bug</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>558
+</td>
+<td><a href="/wiki/Crustle_(Pok%C3%A9mon)" title="Crustle"><img alt="Crustle" src="//cdn.bulbagarden.net/upload/e/e3/558MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Crustle_(Pok%C3%A9mon)" title="Crustle (Pokémon)">Crustle</a>
+</td>
+<td style="text-align:center; background:#A8B820"><a href="/wiki/Bug_(type)" title="Bug (type)"><span style="color:#FFF">Bug</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>564
+</td>
+<td><a href="/wiki/Tirtouga_(Pok%C3%A9mon)" title="Tirtouga"><img alt="Tirtouga" src="//cdn.bulbagarden.net/upload/f/f7/564MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Tirtouga_(Pok%C3%A9mon)" title="Tirtouga (Pokémon)">Tirtouga</a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr>
+<tr>
+<td>565
+</td>
+<td><a href="/wiki/Carracosta_(Pok%C3%A9mon)" title="Carracosta"><img alt="Carracosta" src="//cdn.bulbagarden.net/upload/a/a3/565MS.png" width="40" height="40" /></a>
+</td>
+<td><a href="/wiki/Carracosta_(Pok%C3%A9mon)" title="Carracosta (Pokémon)">Carracosta</a>
+</td>
+<td style="text-align:center; background:#6890F0"><a href="/wiki/Water_(type)" title="Water (type)"><span style="color:#FFF">Water</span></a>
+</td>
+<td style="text-align:center; background:#B8A038"><a class="mw-selflink selflink"><span style="color:#FFF">Rock</span></a>
+</td></tr></table>
+</td></tr></table>
+<h2><span class="mw-headline" id="Moves">Moves</span></h2>
+<table width="100%" class="roundy sortable" style="text-align:center; background:#B8A038; border: 2px solid #786824">
+
+<tr>
+<th style="background-color:#D1C17D; border-top-left-radius: 8px; -moz-border-radius-topleft: 8px; -webkit-border-top-left-radius: 8px; -khtml-border-top-left-radius: 8px; -icab-border-top-left-radius: 8px; -o-border-top-left-radius: 8px;"> Gen
+</th>
+<th style="background-color:#D1C17D"> Move
+</th>
+<th style="background-color:#D1C17D"> Category
+</th>
+<th style="background-color:#D1C17D"> Contest
+</th>
+<th style="background-color:#D1C17D"> Power
+</th>
+<th style="background-color:#D1C17D"> Accuracy
+</th>
+<th style="background-color:#D1C17D"> PP
+</th>
+<th style="background-color:#D1C17D"> Target
+</th>
+<th style="background-color:#D1C17D; border-top-right-radius: 8px; -moz-border-radius-topright: 8px; -webkit-border-top-right-radius: 8px; -khtml-border-top-right-radius: 8px; -icab-border-top-right-radius: 8px; -o-border-top-right-radius: 8px;" class="unsortable"> Description
+</th></tr>
+
+
+<tr>
+<th width="30px" style="background:#DC5A40; border: 1px solid #8F3B2A"> <b>VII</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Accelerock_(move)" title="Accelerock (move)"><span style="color:#000">Accelerock</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#111111; border: 1px solid #000">
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">040</span><span class="sorttext">40</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">100</span><span class="sorttext">100</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">20</span><span class="sorttext">20 <small>(max 32)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user smashes into the target at high speed. This move always goes first.
+</td></tr>
+<tr>
+<th width="30px" style="background:#CAC02E; border: 1px solid #837D1E"> <b>II</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Ancient_Power_(move)" title="Ancient Power (move)"><span style="color:#000">Ancient Power</span></a>
+</td>
+<td width="80px" style="background:#4F5870; border: 1px solid #333948"> <a href="/wiki/Special_move" title="Special move"><span style="color:#FFFFFF">Special</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">060</span><span class="sorttext">60</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">100</span><span class="sorttext">100</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">05</span><span class="sorttext">5 <small>(max 8)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user attacks with a prehistoric power. This may also raise all the user's stats at once.
+</td></tr>
+<tr>
+<th width="30px" style="background:#DC5A40; border: 1px solid #8F3B2A"> <b>VII</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Continental_Crush_(move)" title="Continental Crush (move)"><span style="color:#000">Continental Crush</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#111111; border: 1px solid #000">
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">01</span><span class="sorttext">1 <small>(max 1)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user summons a huge rock mountain using its Z-Power and drops it onto the target with full force. The power varies, depending on the original move.
+</td></tr>
+<tr>
+<th width="30px" style="background:#DC5A40; border: 1px solid #8F3B2A"> <b>VII</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Continental_Crush_(move)" title="Continental Crush (move)"><span style="color:#000">Continental Crush</span></a>
+</td>
+<td width="80px" style="background:#4F5870; border: 1px solid #333948"> <a href="/wiki/Special_move" title="Special move"><span style="color:#FFFFFF">Special</span></a>
+</td>
+<td width="80px" style="background:#111111; border: 1px solid #000">
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">01</span><span class="sorttext">1 <small>(max 1)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user summons a huge rock mountain using its Z-Power and drops it onto the target with full force. The power varies, depending on the original move.
+</td></tr>
+<tr>
+<th width="30px" style="background:#CB0B4F; border: 1px solid #840733"> <b>VI</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Diamond_Storm_(move)" title="Diamond Storm (move)"><span style="color:#000">Diamond Storm</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#6890F0; border: 1px solid #445E9C"> <a href="/wiki/Beautiful_(condition)" title="Beautiful (condition)"><span style="color:#FFF">Beautiful</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">100</span><span class="sorttext">100</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">095</span><span class="sorttext">95</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">05</span><span class="sorttext">5 <small>(max 8)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>All adjacent foes</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply raise the user's Defense stat.
+</td></tr>
+<tr>
+<th width="30px" style="background:#9072A3; border: 1px solid #5E4A6A"> <b>IV</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Head_Smash_(move)" title="Head Smash (move)"><span style="color:#000">Head Smash</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">150</span><span class="sorttext">150</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">080</span><span class="sorttext">80</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">05</span><span class="sorttext">5 <small>(max 8)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.
+</td></tr>
+<tr>
+<th width="30px" style="background:#9072A3; border: 1px solid #5E4A6A"> <b>IV</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Power_Gem_(move)" title="Power Gem (move)"><span style="color:#000">Power Gem</span></a>
+</td>
+<td width="80px" style="background:#4F5870; border: 1px solid #333948"> <a href="/wiki/Special_move" title="Special move"><span style="color:#FFFFFF">Special</span></a>
+</td>
+<td width="80px" style="background:#6890F0; border: 1px solid #445E9C"> <a href="/wiki/Beautiful_(condition)" title="Beautiful (condition)"><span style="color:#FFF">Beautiful</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">080</span><span class="sorttext">80</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">100</span><span class="sorttext">100</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">20</span><span class="sorttext">20 <small>(max 32)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user attacks with a ray of light that sparkles as if it were made of gemstones.
+</td></tr>
+<tr>
+<th width="30px" style="background:#67C1AB; border: 1px solid #437E6F"> <b>III</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Rock_Blast_(move)" title="Rock Blast (move)"><span style="color:#000">Rock Blast</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">025</span><span class="sorttext">25</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">090</span><span class="sorttext">90</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">10</span><span class="sorttext">10 <small>(max 16)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user hurls hard rocks at the target. Two to five rocks are launched in a row.
+</td></tr>
+<tr>
+<th width="30px" style="background:#9072A3; border: 1px solid #5E4A6A"> <b>IV</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Rock_Polish_(move)" title="Rock Polish (move)"><span style="color:#000">Rock Polish</span></a>
+</td>
+<td width="80px" style="background:#8C888C; border: 1px solid #5b585b"> <a href="/wiki/Status_move" title="Status move"><span style="color:#F7F7F7">Status</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">20</span><span class="sorttext">20 <small>(max 32)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Self</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user polishes its body to reduce drag. This can sharply raise the Speed stat.
+</td></tr>
+<tr>
+<th width="30px" style="background:#80BB1D; border: 1px solid #537A13"> <b>I</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Rock_Slide_(move)" title="Rock Slide (move)"><span style="color:#000">Rock Slide</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">075</span><span class="sorttext">75</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">090</span><span class="sorttext">90</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">10</span><span class="sorttext">10 <small>(max 16)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>All adjacent foes</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.
+</td></tr>
+<tr>
+<th width="30px" style="background:#80BB1D; border: 1px solid #537A13"> <b>I</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Rock_Throw_(move)" title="Rock Throw (move)"><span style="color:#000">Rock Throw</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">050</span><span class="sorttext">50</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">090</span><span class="sorttext">90</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">15</span><span class="sorttext">15 <small>(max 24)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user picks up and throws a small rock at the target to attack.
+</td></tr>
+<tr>
+<th width="30px" style="background:#67C1AB; border: 1px solid #437E6F"> <b>III</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Rock_Tomb_(move)" title="Rock Tomb (move)"><span style="color:#000">Rock Tomb</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#78C850; border: 1px solid #4E8234"> <a href="/wiki/Clever_(condition)" title="Clever (condition)"><span style="color:#FFF">Clever</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">060</span><span class="sorttext">60</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">095</span><span class="sorttext">95</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">15</span><span class="sorttext">15 <small>(max 24)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement.
+</td></tr>
+<tr>
+<th width="30px" style="background:#9072A3; border: 1px solid #5E4A6A"> <b>IV</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Rock_Wrecker_(move)" title="Rock Wrecker (move)"><span style="color:#000">Rock Wrecker</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">150</span><span class="sorttext">150</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">090</span><span class="sorttext">90</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">05</span><span class="sorttext">5 <small>(max 8)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user launches a huge boulder at the target to attack. The user can't move on the next turn.
+</td></tr>
+<tr>
+<th width="30px" style="background:#CAC02E; border: 1px solid #837D1E"> <b>II</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Rollout_(move)" title="Rollout (move)"><span style="color:#000">Rollout</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#F85888; border: 1px solid #A13959"> <a href="/wiki/Cute_(condition)" title="Cute (condition)"><span style="color:#FFF">Cute</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">030</span><span class="sorttext">30</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">090</span><span class="sorttext">90</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">20</span><span class="sorttext">20 <small>(max 32)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user continually rolls into the target over five turns. It becomes more powerful each time it hits.
+</td></tr>
+<tr>
+<th width="30px" style="background:#CAC02E; border: 1px solid #837D1E"> <b>II</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Sandstorm_(move)" title="Sandstorm (move)"><span style="color:#000">Sandstorm</span></a>
+</td>
+<td width="80px" style="background:#8C888C; border: 1px solid #5b585b"> <a href="/wiki/Status_move" title="Status move"><span style="color:#F7F7F7">Status</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">10</span><span class="sorttext">10 <small>(max 16)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>All Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.
+</td></tr>
+<tr>
+<th width="30px" style="background:#6BAECE; border: 1px solid #467186"> <b>V</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Smack_Down_(move)" title="Smack Down (move)"><span style="color:#000">Smack Down</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">050</span><span class="sorttext">50</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">100</span><span class="sorttext">100</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">15</span><span class="sorttext">15 <small>(max 24)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit.
+</td></tr>
+<tr>
+<th width="30px" style="background:#DC5A40; border: 1px solid #8F3B2A"> <b>VII</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Splintered_Stormshards_(move)" title="Splintered Stormshards (move)"><span style="color:#000">Splintered Stormshards</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#111111; border: 1px solid #000">
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">190</span><span class="sorttext">190</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">01</span><span class="sorttext">1 <small>(max 1)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> After obtaining Z-Power, the user, Lycanroc, attacks the target with full force. This move negates the effect on the battlefield.
+</td></tr>
+<tr>
+<th width="30px" style="background:#9072A3; border: 1px solid #5E4A6A"> <b>IV</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Stealth_Rock_(move)" title="Stealth Rock (move)"><span style="color:#000">Stealth Rock</span></a>
+</td>
+<td width="80px" style="background:#8C888C; border: 1px solid #5b585b"> <a href="/wiki/Status_move" title="Status move"><span style="color:#F7F7F7">Status</span></a>
+</td>
+<td width="80px" style="background:#F08030; border: 1px solid #9C531F"> <a href="/wiki/Cool_(condition)" title="Cool (condition)"><span style="color:#FFF">Cool</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">20</span><span class="sorttext">20 <small>(max 32)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>All foes</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.
+</td></tr>
+<tr>
+<th width="30px" style="background:#9072A3; border: 1px solid #5E4A6A"> <b>IV</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Stone_Edge_(move)" title="Stone Edge (move)"><span style="color:#000">Stone Edge</span></a>
+</td>
+<td width="80px" style="background:#C92112; border: 1px solid #82150b"> <a href="/wiki/Physical_move" title="Physical move"><span style="color:#F67A1A">Physical</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">100</span><span class="sorttext">100</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">080</span><span class="sorttext">80</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">05</span><span class="sorttext">5 <small>(max 8)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>Any adjacent Pokémon</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user stabs the target from below with sharpened stones. Critical hits land more easily.
+</td></tr>
+<tr>
+<th width="30px" style="background:#6BAECE; border: 1px solid #467186"> <b>V</b>
+</th>
+<td width="100px" style="background:#FFF; border: 1px solid #D8D8D8"> <a href="/wiki/Wide_Guard_(move)" title="Wide Guard (move)"><span style="color:#000">Wide Guard</span></a>
+</td>
+<td width="80px" style="background:#8C888C; border: 1px solid #5b585b"> <a href="/wiki/Status_move" title="Status move"><span style="color:#F7F7F7">Status</span></a>
+</td>
+<td width="80px" style="background:#F8D030; border: 1px solid #A1871F"> <a href="/wiki/Tough_(condition)" title="Tough (condition)"><span style="color:#FFF">Tough</span></a>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>
+</td>
+<td width="50px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">000</span><span class="sorttext">—</span>%
+</td>
+<td width="70px" style="background:#FFF; border: 1px solid #D8D8D8"> <span style="display:none" class="sortkey">10</span><span class="sorttext">10 <small>(max 16)</small></span>
+</td>
+<td width="150px" style="background:#FFF; border: 1px solid #D8D8D8">
+<table width="100%" style="background:#FFF; border-collapse:collapse">
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td colspan="3" style="line-height:10px"> <small>All allies</small>
+</td></tr></table>
+</td>
+<td style="text-align:left; background:#FFF; border: 1px solid #D8D8D8"> The user and its allies are protected from wide-ranging attacks for one turn.
+</td></tr>
+<tr class="unsortable">
+<th colspan="9" style="background:#D1C17D; border-bottom-left-radius: 8px; -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-left-radius: 8px; -khtml-border-bottom-left-radius: 8px; -icab-border-bottom-left-radius: 8px; -o-border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; -moz-border-radius-bottomright: 8px; -webkit-border-bottom-right-radius: 8px; -khtml-border-bottom-right-radius: 8px; -icab-border-bottom-right-radius: 8px; -o-border-bottom-right-radius: 8px;"> <small>All details are accurate to Generation VII games. For details that have changed between generations, please see an individual move's page. Target data assumes user is in the lower left.</small>
+</th></tr></table>
+<h2><span class="mw-headline" id="Abilities">Abilities</span></h2>
+<h3><span class="mw-headline" id="Interacting_with_the_Rock_type">Interacting with the Rock type</span></h3>
+<p>A Pokémon with <a href="/wiki/Color_Change_(Ability)" title="Color Change (Ability)">Color Change</a>, <a href="/wiki/Protean_(Ability)" title="Protean (Ability)">Protean</a>, <a href="/wiki/Imposter_(Ability)" title="Imposter (Ability)">Imposter</a>, <a href="/wiki/RKS_System_(Ability)" title="RKS System (Ability)">RKS System</a>, or <a href="/wiki/Multitype_(Ability)" title="Multitype (Ability)">Multitype</a> will become a Rock-type Pokémon if (respectively) it is hit with a Rock-type move, uses a Rock-type move, is sent out against a Rock-type opponent, is holding a <a href="/wiki/Rock_Memory" title="Rock Memory">Rock Memory</a>, or is holding a <a href="/wiki/Stone_Plate" title="Stone Plate">Stone Plate</a> or <a href="/wiki/Rockium_Z" title="Rockium Z">Rockium Z</a>.
+</p>
+<table width="70%" class="roundy sortable" style="margin:auto; text-align:center; background:#B8A038; border:2px solid #786824">
+
+<tr>
+<th style="background:#D1C17D; border-top-left-radius: 8px; -moz-border-radius-topleft: 8px; -webkit-border-top-left-radius: 8px; -khtml-border-top-left-radius: 8px; -icab-border-top-left-radius: 8px; -o-border-top-left-radius: 8px;"> Gen
+</th>
+<th style="background:#D1C17D"> Ability
+</th>
+<th style="background:#D1C17D; border-top-right-radius: 8px; -moz-border-radius-topright: 8px; -webkit-border-top-right-radius: 8px; -khtml-border-top-right-radius: 8px; -icab-border-top-right-radius: 8px; -o-border-top-right-radius: 8px;" class="unsortable"> Description
+</th></tr>
+<tr>
+<th width="30px" style="background:#6BAECE; border:1px solid #467186"> V
+</th>
+<td width="100px" style="background:#FFF; border:1px solid #D8D8D8"> <a href="/wiki/Sand_Force_(Ability)" title="Sand Force (Ability)"><span style="color:#000;">Sand Force</span></a>
+</td>
+<td style="background:#FFF; border:1px solid #D8D8D8; text-align:left"> Strengthens Rock, Ground, and Steel moves to 1.3× their power during a sandstorm.
+</td></tr>
+<tr>
+<th colspan="3" style="background:#D1C17D; border-bottom-left-radius: 8px; -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-left-radius: 8px; -khtml-border-bottom-left-radius: 8px; -icab-border-bottom-left-radius: 8px; -o-border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; -moz-border-radius-bottomright: 8px; -webkit-border-bottom-right-radius: 8px; -khtml-border-bottom-right-radius: 8px; -icab-border-bottom-right-radius: 8px; -o-border-bottom-right-radius: 8px;"><small>All details are accurate to Generation VI games. For details that have changed between generations, please see an individual Ability's page.</small>
+</th></tr></table>
+<h3><span class="mw-headline" id="Exclusive_Abilities">Exclusive Abilities</span></h3>
+<p>Currently, no Abilities are exclusive to Rock types. This does not include <a href="/wiki/Signature_Ability" title="Signature Ability">signature Abilities</a>.
+</p>
+<h2><span class="mw-headline" id="In_the_TCG">In the TCG</span></h2>
+<dl><dd><i>Main article: <a href="/wiki/Fighting_(TCG)" title="Fighting (TCG)">Fighting (TCG)</a></i></dd></dl>
+<p>Due to the decreased amount of types in the TCG, Rock-type Pokémon are generally listed as <a href="/wiki/Fighting_(type)" title="Fighting (type)">Fighting-type</a> Pokémon.
+</p><p>Fighting-type Pokémon in the TCG are generally weak to <a href="/wiki/Grass_(TCG)" title="Grass (TCG)">Grass</a> and <a href="/wiki/Water_(TCG)" title="Water (TCG)">Water</a> with no resistances. Fighting-type Pokémon are strong against <a href="/wiki/Colorless_(TCG)" title="Colorless (TCG)">Colorless</a>, <a href="/wiki/Darkness_(TCG)" title="Darkness (TCG)">Darkness</a> and <a href="/wiki/Lightning_(TCG)" title="Lightning (TCG)">Lightning</a> Pokémon, whilst some <a href="/wiki/Colorless_(TCG)" title="Colorless (TCG)">Colorless</a> and <a href="/wiki/Psychic_(TCG)" title="Psychic (TCG)">Psychic</a> Pokémon can resist the Fighting type.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> <a href="/wiki/Generation_III" title="Generation III">Generation III</a> introduced the most Rock-type Pokémon of any Generation, with 12, and <a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a> introduced the fewest Rock-type Pokémon, with five.</li>
+<li> <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> introduced the most Rock-type moves of any Generation, with six, and Generation VI introduced the fewest Rock-type moves, with only <a href="/wiki/Diamond_Storm_(move)" title="Diamond Storm (move)">one</a>.</li>
+<li> In the first season of the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a> and during much of <a href="/wiki/Generation_I" title="Generation I">Generation I</a>, the Rock type was often wrongly assumed to be unaffected by <a href="/wiki/Electric_(type)" title="Electric (type)">Electric-type</a> attacks. This was likely due to the fact that at the time, most Rock-type Pokémon were part Ground-type and thus immune to Electric-type moves. However, the only non-Ground Rock-type Pokémon around at the time (the then five <a href="/wiki/Fossil" title="Fossil">Fossil</a> Pokémon) were actually weak to them.</li>
+<li> The Rock type is tied with the <a href="/wiki/Grass_(type)" title="Grass (type)">Grass</a> type for the largest number of weaknesses when unpaired, with five. However, a combination of the two types (Rock/Grass) would only have four weaknesses.
+<ul><li> Rock moves are super effective against four of the five types <a href="/wiki/Grass_(type)" title="Grass (type)">Grass</a> is weak to, with <a href="/wiki/Poison_(type)" title="Poison (type)">Poison</a> being the exception.</li></ul></li>
+<li> Every known <a href="/wiki/Fossil" title="Fossil">Fossil</a> Pokémon is part or solely Rock-type. This is most likely due to the placement of real fossils in rock formations, as well as the process by which fossils are created.</li>
+<li> <a href="/wiki/Generation_V" title="Generation V">Generation V</a> is the only generation that does not have a Rock-type Gym.</li>
+<li> <a href="/wiki/Johto" title="Johto">Johto</a>'s <a href="/wiki/Olivine_Gym" title="Olivine Gym">Olivine Gym</a> was a Rock type Gym before the <a href="/wiki/Steel_(type)" title="Steel (type)">Steel</a> type was discovered.</li>
+<li> The Rock type has the fewest <a href="/wiki/Special_move" title="Special move">special moves</a> of all types, with three.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #B8A038; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #D1C17D; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #B8A038; border-collapse:collapse">
+
+<tr style="background: #B8A038">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Japan_Flag.png" class="image"><img alt="Japan Flag.png" src="//cdn.bulbagarden.net/upload/thumb/3/37/Japan_Flag.png/20px-Japan_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/3/37/Japan_Flag.png/30px-Japan_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/37/Japan_Flag.png/40px-Japan_Flag.png 2x" /></a> Japanese
+</td>
+<td> いわ (岩) <i>Iwa</i>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 岩石 <i><span class="explain" title="Rock">Ngàahmsehk</span></i><br />石頭 <i><span class="explain" title="Rock">Sehktàuh</span></i> <span class="explain" title="EP005">*</span>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 岩石 <i><span class="explain" title="Rock">Yánshí</span></i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:The_Czech_Republic_Flag.png" class="image"><img alt="The Czech Republic Flag.png" src="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/20px-The_Czech_Republic_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/30px-The_Czech_Republic_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/40px-The_Czech_Republic_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Czech_Republic" title="Pokémon in the Czech Republic">Czech</a>
+</td>
+<td> Kamenný
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> Sten
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:The_Netherlands_Flag.png" class="image"><img alt="The Netherlands Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/20px-The_Netherlands_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/30px-The_Netherlands_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/40px-The_Netherlands_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Netherlands" title="Pokémon in the Netherlands">Dutch</a>
+</td>
+<td> Steen
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Kivi
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Roche
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Gestein
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Greece_Flag.png" class="image"><img alt="Greece Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fd/Greece_Flag.png/20px-Greece_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fd/Greece_Flag.png/30px-Greece_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fd/Greece_Flag.png/40px-Greece_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Greece" title="Pokémon in Greece">Greek</a>
+</td>
+<td> Πέτρας <i>Pétras</i>
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Israel_Flag.png" class="image"><img alt="Israel Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/20px-Israel_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/30px-Israel_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/40px-Israel_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Israel" title="Pokémon in Israel">Hebrew</a>
+</td>
+<td> סלע <i>Sela</i>
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:India_Flag.png" class="image"><img alt="India Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/20px-India_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/30px-India_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/40px-India_Flag.png 2x" /></a>  <a href="/wiki/Pok%C3%A9mon_in_South_Asia" title="Pokémon in South Asia">Hindi</a>
+</td>
+<td> पथरीले <i>Pathreele</i>
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Hungary_Flag.png" class="image"><img alt="Hungary Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/20px-Hungary_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/30px-Hungary_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/40px-Hungary_Flag.png 2x" /></a> Hungarian
+</td>
+<td> Szikla
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Indonesia_Flag.png" class="image"><img alt="Indonesia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/b/b0/Indonesia_Flag.png/20px-Indonesia_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/b/b0/Indonesia_Flag.png/30px-Indonesia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/b0/Indonesia_Flag.png/40px-Indonesia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Indonesia" title="Pokémon in Indonesia">Indonesian</a>
+</td>
+<td> Batu
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Roccia
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 바위 <i>Bawi</i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Stein
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Kamienny
+</td></tr>
+
+<tr>
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> Pedra<br />Mineral<br />Rocha
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> Pedra
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Romania_Flag.png" class="image"><img alt="Romania Flag.png" src="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/20px-Romania_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/30px-Romania_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/40px-Romania_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Romania" title="Pokémon in Romania">Romanian</a>
+</td>
+<td> Piatră
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Камень <i>Kamen'</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Roca
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Sten
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Thailand_Flag.png" class="image"><img alt="Thailand Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/20px-Thailand_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/30px-Thailand_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/40px-Thailand_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Thailand" title="Pokémon in Thailand">Thai</a>
+</td>
+<td> หิน <i>H̄in</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> Đá
+</td></tr>
+<tr>
+<td colspan="3" style="background: #B8A038">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+
+<!-- 
+NewPP limit report
+Cached time: 20180131043627
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.560 seconds
+Real time usage: 1.177 seconds
+Preprocessor visited node count: 9157/1000000
+Preprocessor generated node count: 21774/1000000
+Post‐expand include size: 104839/2097152 bytes
+Template argument size: 15081/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  601.124      1 -total
+ 30.81%  185.235     20 Template:Movelist/battle
+ 21.12%  126.957      1 Template:Types
+ 10.94%   65.758      2 Template:BaseStatNoCat
+  7.97%   47.883      2 Template:Typebattle
+  4.82%   28.951    110 Template:Typetable
+  3.89%   23.392     68 Template:MSP
+  3.70%   22.262      1 Template:Langtable
+  2.13%   12.828     68 Template:P
+  1.24%    7.457     24 Template:Roundy
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:1154-0!*!0!!en!5!* and timestamp 20180131043625 and revision id 2730470
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Rock_(type)&amp;oldid=2730470">https://bulbapedia.bulbagarden.net/w/index.php?title=Rock_(type)&amp;oldid=2730470</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Types" title="Category:Types">Types</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Rock_(type)" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Rock_(type)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Rock_(type)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Rock_(type)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rock+%28type%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rock+%28type%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Rock_(type)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Rock_(type)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Rock_(type)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Rock_(type)&amp;oldid=2730470" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Rock_(type)&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Gestein" title="Gestein – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Roche" title="Roche – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Roccia_(tipo)" title="Roccia (tipo) – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%81%84%E3%82%8F" title="いわ – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Kamie%C5%84_(typ)" title="Kamień (typ) – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E5%B2%A9%E7%9F%B3%EF%BC%88%E5%B1%9E%E6%80%A7%EF%BC%89" title="岩石（属性） – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 15 January 2018, at 22:48.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Rock_(type)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.560","walltime":"1.177","ppvisitednodes":{"value":9157,"limit":1000000},"ppgeneratednodes":{"value":21774,"limit":1000000},"postexpandincludesize":{"value":104839,"limit":2097152},"templateargumentsize":{"value":15081,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  601.124      1 -total"," 30.81%  185.235     20 Template:Movelist/battle"," 21.12%  126.957      1 Template:Types"," 10.94%   65.758      2 Template:BaseStatNoCat","  7.97%   47.883      2 Template:Typebattle","  4.82%   28.951    110 Template:Typetable","  3.89%   23.392     68 Template:MSP","  3.70%   22.262      1 Template:Langtable","  2.13%   12.828     68 Template:P","  1.24%    7.457     24 Template:Roundy"]},"cachereport":{"timestamp":"20180131043627","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

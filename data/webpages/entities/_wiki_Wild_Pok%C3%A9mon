@@ -1,0 +1,1413 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wild Pokémon - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wild_Pokémon","wgTitle":"Wild Pokémon","wgCurRevisionId":2717307,"wgRevisionId":2717307,"wgArticleId":10622,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing more information","Terminology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wild_Pokémon","wgRelevantArticleId":10622,"wgRequestId":"9af883e52609685fa4d764c5","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/2/24/XY_Prerelease_wild_Pikachu.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Wild_Pok%C3%A9mon"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Wild_Pok%C3%A9mon"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wild_Pokémon rootpage-Wild_Pokémon skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Wild Pokémon</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:XY_Prerelease_wild_Pikachu.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/2/24/XY_Prerelease_wild_Pikachu.png/220px-XY_Prerelease_wild_Pikachu.png" width="220" height="131" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/2/24/XY_Prerelease_wild_Pikachu.png/330px-XY_Prerelease_wild_Pikachu.png 1.5x, //cdn.bulbagarden.net/upload/thumb/2/24/XY_Prerelease_wild_Pikachu.png/440px-XY_Prerelease_wild_Pikachu.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:XY_Prerelease_wild_Pikachu.png" class="internal" title="Enlarge"></a></div>A wild <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> appears in <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">Pokémon X and Y</a></div></div></div>
+<p><b>Wild Pokémon</b> (Japanese: <b><span class="explain" title="やせい">野生</span>ポケモン</b> <i>wild Pokémon</i>) are any <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> that are not currently owned by a <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Pokémon Trainer</a>. They are encountered in most parts of the Pokémon world, most commonly outside of cities and towns, often in <a href="/wiki/Tall_grass" title="Tall grass">tall grass</a>, in <a href="/wiki/Cave" title="Cave">caves</a>, or on water. Typically, a Trainer will attempt to capture a wild Pokémon with a <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a> but it is also common for a Trainer to <a href="/wiki/Escape" title="Escape">run</a> from a Pokémon they are not interested in. There are many instances of wild Pokémon being used for assistance without being caught, such as <a href="/wiki/Pok%C3%A9mon_Ranger_(Ranger_series)" title="Pokémon Ranger (Ranger series)">Pokémon Rangers</a> using them to perform a task by directing them with a <a href="/wiki/Capture_Styler" title="Capture Styler">Capture Styler</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_the_games"><span class="tocnumber">1</span> <span class="toctext">In the games</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#In_the_anime"><span class="tocnumber">2</span> <span class="toctext">In the anime</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Pok.C3.A9dex_entries"><span class="tocnumber">2.1</span> <span class="toctext">Pokédex entries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#In_the_manga"><span class="tocnumber">3</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">3.1</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#In_other_languages"><span class="tocnumber">4</span> <span class="toctext">In other languages</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_the_games">In the games</span></h2>
+<table align="center" style="background: #FAFFF4; border: 2px solid #E0C068; width: auto%; margin-left: auto; margin-right: auto; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="background:#EBD69D; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;;" width="60px" align="center"> <a href="/wiki/File:050Diglett.png" class="image"><img alt="050Diglett.png" src="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/50px-050Diglett.png" width="50" height="50" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/75px-050Diglett.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/100px-050Diglett.png 2x" /></a>
+</td>
+<td> <b>This section is incomplete.</b><br />Please feel free to edit this section to add missing information and complete it. <br /><small>Reason: Any missing variants of the message.</small>
+</td></tr></table><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:SM_Wild_battle.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/0/0e/SM_Wild_battle.png/300px-SM_Wild_battle.png" width="300" height="180" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/0/0e/SM_Wild_battle.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:SM_Wild_battle.png" class="internal" title="Enlarge"></a></div>A battle against a wild Pokémon in <a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon">Pokémon Sun and Moon</a></div></div></div>
+<p>In the games, wild Pokémon will appear to the player in a variety of locations, most often when the player is walking through <a href="/wiki/Tall_grass" title="Tall grass">tall grass</a>, but also within <a href="/wiki/Cave" title="Cave">caves</a>, abandoned buildings, or when <a href="/wiki/Surf_(move)" title="Surf (move)">surfing</a> on water. <a href="/wiki/Fishing" title="Fishing">Fishing</a>, <a href="/wiki/Rock_Smash_(move)" title="Rock Smash (move)">smashing rocks</a>, <a href="/wiki/Headbutt_(move)" title="Headbutt (move)">headbutting</a> small trees, using <a href="/wiki/Sweet_Scent_(move)" title="Sweet Scent (move)">Sweet Scent</a>, and slathering <a href="/wiki/Honey" title="Honey">honey</a> on certain trees may also initiate battles with wild Pokémon. Additionally, wild Pokémon sometimes hide within objects such as TVs, trash cans, and roadside bushes, and can be encountered by <a href="/wiki/Phenomenon" title="Phenomenon">phenomena</a> or <a href="/wiki/Ambush_encounter" title="Ambush encounter">ambush encounters</a>. Depending on the location, the Pokémon may be different species, and are typically at higher <a href="/wiki/Level" title="Level">levels</a> in areas only accessible later in the game.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:257px;"><a href="/wiki/File:Wild_double_battle_BW.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/2/23/Wild_double_battle_BW.png" width="255" height="189" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wild_double_battle_BW.png" class="internal" title="Enlarge"></a></div>A wild Double Battle in <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions">Pokémon Black and White</a></div></div></div>
+<p>When encountered, a wild Pokémon's moveset will generally consist of the most recent four moves its species would know by leveling-up; that is to say, a level 8 <a href="/wiki/Yanma_(Pok%C3%A9mon)" title="Yanma (Pokémon)">Yanma</a> will know <a href="/wiki/Tackle_(move)" title="Tackle (move)">Tackle</a>, <a href="/wiki/Foresight_(move)" title="Foresight (move)">Foresight</a>, and <a href="/wiki/Quick_Attack_(move)" title="Quick Attack (move)">Quick Attack</a> when encountered in the wild in <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Pokémon Platinum</a>, while one encountered at level 19 will have Quick Attack, <a href="/wiki/Double_Team_(move)" title="Double Team (move)">Double Team</a>, <a href="/wiki/Sonic_Boom_(move)" title="Sonic Boom (move)">Sonic Boom</a>, and <a href="/wiki/Detect_(move)" title="Detect (move)">Detect</a>. This is true even for evolved species, such as <a href="/wiki/Raichu_(Pok%C3%A9mon)" title="Raichu (Pokémon)">Raichu</a>, which, if it were able to be encountered in the wild in Pokémon Platinum, would always know <a href="/wiki/Thunder_Shock_(move)" title="Thunder Shock (move)">Thunder Shock</a>, <a href="/wiki/Tail_Whip_(move)" title="Tail Whip (move)">Tail Whip</a>, <a href="/wiki/Quick_Attack_(move)" title="Quick Attack (move)">Quick Attack</a>, and <a href="/wiki/Thunderbolt_(move)" title="Thunderbolt (move)">Thunderbolt</a>.
+</p><p>There are several ways to alter the wild Pokémon encounter rate. One of these, introduced in Generation I, is the use of <a href="/wiki/Repel" title="Repel">Repel</a>, which will avoid encounters with any Pokémon of a lower level than the <a href="/wiki/Party" title="Party">party</a>'s lead Pokémon. The <a href="/wiki/Cleanse_Tag" title="Cleanse Tag">Cleanse Tag</a> was introduced in <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, which lowers the encounter rate. Pokémon March and Pokémon Lullaby in <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, played on the <a href="/wiki/Pok%C3%A9gear" title="Pokégear">Pokégear</a>, will raise or lower the encounter rate respectively, while <a href="/wiki/Category:Abilities_that_affect_appearance_of_wild_Pok%C3%A9mon" title="Category:Abilities that affect appearance of wild Pokémon">certain Abilities</a> do the same since <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Emerald</a>. The White and Black <a href="/wiki/Flute" title="Flute">Flutes</a> can be used for this in <a href="/wiki/Generation_III" title="Generation III">Generation III</a> and <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>. In <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, two types of <a href="/wiki/Entralink#List_of_Pass_Powers" title="Entralink">Pass Powers</a> (Encounter Power ↑ and Encounter Power ↓ ) take over this function, while in <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>, two <a href="/wiki/O-Power" title="O-Power">O-Powers</a> (Encounter Power and Stealth Power) inherit the same properties.
+</p><p>In some instances, two wild Pokémon will appear at once. From Generation IV onward, if the player is accompanied by another Pokémon Trainer they can encounter <a href="/wiki/Double_Battle" title="Double Battle">Double Battles</a> in the wild. In Generation V, there is the chance of two Pokémon appearing at once in <a href="/wiki/Tall_grass#Dark_grass" title="Tall grass">dark grass</a>. In <a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a>, a wild Pokémon can <a href="/wiki/SOS_Battle" title="SOS Battle">call for an ally</a>, turning the battle into a 2-on-1 scenario. In all instances, one of the Pokémon will have to be defeated before the other can be caught.
+</p><p>If all the Pokémon in the player's <a href="/wiki/Party" title="Party">party</a> <a href="/wiki/Fainting" title="Fainting">faints</a>, the player will <a href="/wiki/Prize_money" title="Prize money">drop some money in panic</a>.
+</p><p>There are times when the usual <i><span class="explain" title="&quot;Wild &#91;Pokémon] appeared!&quot; before Pokémon XD: Gale of Darkness">A wild &lt;Pokémon&gt; appeared!</span></i> will be replaced by another message:
+</p>
+<table class="roundy" align="center" style="border: 3px solid #88a; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; padding: 1px;">
+
+<tr>
+<th style="background:#88a; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px;"> Game
+</th>
+<th style="background:#88a"> Situation
+</th>
+<th style="background:#88a; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px;"> Message
+</th></tr>
+<tr>
+<td> All <a href="/wiki/Generation_I" title="Generation I">Generation I</a> and II games
+</td>
+<td> when a wild Pokémon is fished out
+</td>
+<td> <i>The hooked &lt;Pokémon&gt; attacked!</i>
+</td></tr>
+<tr>
+<td> All <a href="/wiki/Generation_II" title="Generation II">Generation II</a> games
+</td>
+<td> when a wild Pokémon is encountered using <a href="/wiki/Headbutt_(move)" title="Headbutt (move)">Headbutt</a>
+</td>
+<td> <i>&lt;Pokémon&gt; fell out of the tree!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_XD:_Gale_of_Darkness" title="Pokémon XD: Gale of Darkness">XD: Gale of Darkness</a>
+</td>
+<td> Pokémon in <a href="/wiki/Battle_Bingo" title="Battle Bingo">Battle Bingo</a>
+</td>
+<td> <i>Oh! &lt;Pokémon&gt; appeared!</i>
+</td></tr>
+<tr>
+<td> All <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> games
+</td>
+<td> wild Double Battle when with a <a href="/wiki/Stat_Trainers" title="Stat Trainers">stat trainer</a>
+</td>
+<td> <i>A wild &lt;Pokémon&gt; and &lt;Pokémon&gt; appeared!</i>
+</td></tr>
+<tr>
+<td> All <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> games
+</td>
+<td> encountering a Pokémon in <a href="/wiki/Pal_Park" title="Pal Park">Pal Park</a>
+</td>
+<td> <i>Wow! &lt;Pokémon's OT&gt;'s &lt;Pokémon's nickname&gt; is drawing close!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Diamond and Pearl</a>
+</td>
+<td> battle against <a href="/wiki/Starly_(Pok%C3%A9mon)" title="Starly (Pokémon)">Starly</a> immediately after picking the <a href="/wiki/Starter_Pok%C3%A9mon" title="Starter Pokémon">starter Pokémon</a>
+</td>
+<td> <i>Whoa! A wild Starly came charging!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Diamond and Pearl</a>
+</td>
+<td> when checking out a shaking <a href="/wiki/Honey" title="Honey">Honey</a> tree
+</td>
+<td> <i>A wild &lt;Pokémon&gt; appeared from the tree you slathered with Honey!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a>
+</td>
+<td> battle against <a href="/wiki/Giratina_(Pok%C3%A9mon)" title="Giratina (Pokémon)">Giratina</a> in the <a href="/wiki/Distortion_World" title="Distortion World">Distortion World</a>
+</td>
+<td> <i>The Distortion World's Giratina appeared!</i>
+</td></tr>
+<tr>
+<td> All <a href="/wiki/Generation_V" title="Generation V">Generation V</a> games
+</td>
+<td> wild Double Battle initiated by dark grass or with a partner NPC
+</td>
+<td> <i>Oh! A wild &lt;Pokémon&gt; and &lt;Pokémon&gt; appeared!</i>
+</td></tr>
+<tr>
+<td> All <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, <a href="/wiki/Generation_VI" title="Generation VI">VI</a>, and <a href="/wiki/Generation_VII" title="Generation VII">VII</a> games
+</td>
+<td> battle against a non-roaming <a href="/wiki/Legendary_Pok%C3%A9mon" title="Legendary Pokémon">Legendary</a> or <a href="/wiki/Mythical_Pok%C3%A9mon" title="Mythical Pokémon">Mythical Pokémon</a>, <a href="/wiki/Volcarona_(Pok%C3%A9mon)" title="Volcarona (Pokémon)">Volcarona</a> in <a href="/wiki/Relic_Castle" title="Relic Castle">Relic Castle</a>, disguised <a href="/wiki/Zoroark_(Pok%C3%A9mon)" title="Zoroark (Pokémon)">Zoroark</a> in <a href="/wiki/Lostlorn_Forest" title="Lostlorn Forest">Lostlorn Forest</a>, or <a href="/wiki/Ultra_Beast" title="Ultra Beast">Ultra Beast</a> that is registered in the Pokédex
+</td>
+<td> <i>&lt;Pokémon&gt; appeared!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2">Black&#160;2 and White&#160;2</a>
+</td>
+<td> encountering one of <a href="/wiki/N%27s_Pok%C3%A9mon" title="N's Pokémon">N's Pokémon</a>
+</td>
+<td> <i>A wild &lt;Pokémon&gt; appeared?!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">X and Y</a>
+</td>
+<td> Routes <a href="/wiki/Kalos_Route_9" title="Kalos Route 9">9</a> and <a href="/wiki/Kalos_Route_17" title="Kalos Route 17">17</a>
+</td>
+<td> <i>Whoa! The &lt;Pokémon&gt; you stepped on attacked!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">X and Y</a>
+</td>
+<td> walking into a shadow in caves
+</td>
+<td> <i>Whoa! A wild &lt;Pokémon&gt; swooped down from above!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">X and Y</a>
+</td>
+<td> walking into a shadow next to a tree in the outdoor part of <a href="/wiki/Victory_Road_(Kalos)" title="Victory Road (Kalos)">Victory Road</a>
+</td>
+<td> <i>Whoa! A wild &lt;Pokémon&gt; dived out of the sky!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">X and Y</a>
+</td>
+<td> encountering a Pokémon by interacting with a trash can
+</td>
+<td> <i>Whoa! A wild &lt;Pokémon&gt; leaped out of the trash can!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">X and Y</a>
+</td>
+<td> bushes on Routes <a href="/wiki/Kalos_Route_6" title="Kalos Route 6">6</a> and <a href="/wiki/Kalos_Route_18" title="Kalos Route 18">18</a>
+</td>
+<td> <i>Whoa! A wild &lt;Pokémon&gt; leaped out of the tall grass!</i>
+</td></tr>
+<tr>
+<td> All <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a> and <a href="/wiki/Generation_VII" title="Generation VII">VII</a> games
+</td>
+<td> during the catching demonstration
+</td>
+<td> <i>Oh! A wild &lt;Pokémon&gt; appeared!</i>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">X and Y</a>
+</td>
+<td> roaming <a href="/wiki/Legendary_birds#Pok.C3.A9mon_X_and_Y" title="Legendary birds">Articuno, Zapdos or Moltres</a>
+</td>
+<td> <i>Oh! A wild &lt;Pokémon&gt; appeared!</i>
+</td></tr>
+<tr>
+<td> All <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a> games
+</td>
+<td> <a href="/wiki/Horde_Encounter" title="Horde Encounter">Horde Encounters</a>
+</td>
+<td> <i>Whoa! A horde of &lt;Pokémon&gt; appeared!</i>
+</td></tr>
+<tr>
+<td> All <a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a> games
+</td>
+<td> <a href="/wiki/Totem_Pok%C3%A9mon" title="Totem Pokémon">Totem Pokémon</a>
+</td>
+<td> <i>You are challenged by Totem &lt;Pokémon&gt;!</i>
+</td></tr>
+<tr>
+<td> All <a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a> games
+</td>
+<td> encountering an <a href="/wiki/Ultra_Beast" title="Ultra Beast">Ultra Beast</a> (before registering it in the Pokédex)
+</td>
+<td> <i>??? appeared!</i>
+</td></tr></table>
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Bidoof_group_anime.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/81/Bidoof_group_anime.png/300px-Bidoof_group_anime.png" width="300" height="115" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/8/81/Bidoof_group_anime.png/450px-Bidoof_group_anime.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/81/Bidoof_group_anime.png/600px-Bidoof_group_anime.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bidoof_group_anime.png" class="internal" title="Enlarge"></a></div>A group of wild <a href="/wiki/Bidoof_(Pok%C3%A9mon)" title="Bidoof (Pokémon)">Bidoof</a> in the anime</div></div></div>
+<p>Typically, wild Pokémon are not a central feature of the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a>, which focuses mostly on the Pokémon belonging to <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>, <a href="/wiki/Ash%27s_friends" title="Ash's friends">his friends</a>, and other Trainers he encounters. Most of the Pokémon belonging to the group were shown in the wild at some point, but are usually <a href="/wiki/Caught_Pok%C3%A9mon" title="Caught Pokémon">caught</a> at a later point in the same episode, most often at the end. Despite this, there have been several <a href="/wiki/Recurring_wild_Pok%C3%A9mon_in_the_anime" title="Recurring wild Pokémon in the anime">recurring wild Pokémon</a> who appear over a length of time and are not caught. Of all of these Pokémon, an <a href="/wiki/Ash%27s_Aipom" class="mw-redirect" title="Ash's Aipom">Aipom</a>, a <a href="/wiki/Ash%27s_Gible" title="Ash's Gible">Gible</a>, a <a href="/wiki/Ash%27s_Krokorok" class="mw-redirect" title="Ash's Krokorok">Krokorok</a>, a <a href="/wiki/Ash%27s_Froakie" class="mw-redirect" title="Ash's Froakie">Froakie</a>, a <a href="/wiki/Clemont%27s_Dedenne" title="Clemont's Dedenne">Dedenne</a>, and a <a href="/wiki/Ash%27s_Rockruff" class="mw-redirect" title="Ash's Rockruff">Rockruff</a> went on to be caught several episodes after they appeared. As demonstrated in a number of occasions, <a href="/wiki/Meowth_(Team_Rocket)" title="Meowth (Team Rocket)">Meowth</a> is also a wild Pokémon.
+</p><p>There are, however, numerous examples of wild Pokémon being featured in the anime in debut episodes that introduce their species, such as Clefairy in <i><a href="/wiki/EP006" title="EP006">Clefairy and the Moon Stone</a></i> and Sudowoodo in <i><a href="/wiki/EP162" title="EP162">Type Casting</a></i>.
+</p><p>In the <a href="/wiki/EP001" title="EP001">first anime episode</a>, Ash's Pokédex states that wild Pokémon tend to be jealous of human-trained Pokémon, this being one of the reasons that the <a href="/wiki/Ash%27s_Fearow#In_the_anime" title="Ash's Fearow">Spearow</a> Ash hit with a rock attacked <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Pikachu</a> instead.
+</p>
+<h3><span class="mw-headline" id="Pok.C3.A9dex_entries">Pokédex entries</span></h3>
+<table width="100%" style="background: #FFAAAA; border: 3px solid #AAFFAA; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;">
+
+<tr>
+<td width="100%" style="background: #FFAAAA; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em;">
+<table class="sortable" style="background: #FFAAAA; width:100%">
+
+<tr>
+<th width="75px"> <a href="/wiki/Bulbapedia:Epicode" title="Bulbapedia:Epicode"><span style="color:#000;">Episode</span></a>
+</th>
+<th width="85px"> <span style="color:#000;">Subject</span>
+</th>
+<th width="85px"> <span style="color:#000;">Source</span>
+</th>
+<th class="unsortable"> <span style="color:#000;">Entry</span>
+</th></tr>
+<tr align="center" style="background:#FFFFFF; width:100%">
+<td> <a href="/wiki/EP001" title="EP001">EP001</a>
+</td>
+<td> Wild Pokémon
+</td>
+<td> Ash's Pokédex
+</td>
+<td> Wild Pokémon tend to be jealous of human-trained Pokémon.
+</td></tr></table>
+<table width="100%" style="background: #FFAAAA">
+
+<tr>
+<td width="100%" style="text-align:right; background: #AAFFAA; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <small><b>This concludes the entries from the original series.</b></small>
+</td></tr></table>
+</td></tr></table>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<p>As Pokédexes prior to the arcs in <a href="/wiki/Hoenn" title="Hoenn">Hoenn</a> typically needed the Pokémon to be captured in order for data to be gained, capturing wild Pokémon has been a long-standing point for every <a href="/wiki/Pok%C3%A9dex_Holder" class="mw-redirect" title="Pokédex Holder">Pokédex Holder</a> save <a href="/wiki/Gold_(Adventures)" title="Gold (Adventures)">Gold</a> and <a href="/wiki/Silver_(Adventures)" title="Silver (Adventures)">Silver</a> until the <a href="/wiki/Ruby_%26_Sapphire_chapter_(Adventures)" title="Ruby &amp; Sapphire chapter (Adventures)"><i>Ruby &amp; Sapphire</i> chapter</a>. The first wild  Pokémon to be captured was a wild <a href="/wiki/Nidorino_(Pok%C3%A9mon)" title="Nidorino (Pokémon)">Nidorino</a> by <a href="/wiki/Red_(Adventures)" title="Red (Adventures)">Red</a>, and even legendary Pokémon were seen as soon as the first round, though the one in question (a <a href="/wiki/Mew_(Pok%C3%A9mon)" title="Mew (Pokémon)">Mew</a> appearing near <a href="/wiki/Pallet_Town" title="Pallet Town">Pallet Town</a>) was not captured. Pokémon that have been released, unlike in the games, do sometimes appear in the wild and can be re-caught or controlled by another Trainer, such as <a href="/wiki/Emerald%27s_Sceptile" title="Emerald's Sceptile">Emerald's Sceptile</a> and <a href="/wiki/Mewtwo_(Adventures)" title="Mewtwo (Adventures)">Mewtwo</a>, and again unlike in the games, where identical Trainer ID means that high-level Pokémon can be controlled by its Trainer, several Pokémon such as <a href="/wiki/Pika" title="Pika">Pika</a> and <a href="/wiki/Pearl_(Adventures)#Zeller" title="Pearl (Adventures)">Zeller</a> were disobedient and likely to even attack its Trainer on a whim.
+</p>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #78C850; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #4E8234; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #78C850; border-collapse:collapse">
+
+<tr style="background: #78C850">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 野生寶可夢 <i><span class="explain" title="Wild Pokémon">Yéhsāang Pokémon</span></i>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 野生寶可夢 / 野生宝可梦 <i><span class="explain" title="Wild Pokémon">Yěshēng Pokémon</span></i>
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> Vild Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:The_Netherlands_Flag.png" class="image"><img alt="The Netherlands Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/20px-The_Netherlands_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/30px-The_Netherlands_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/40px-The_Netherlands_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Netherlands" title="Pokémon in the Netherlands">Dutch</a>
+</td>
+<td> Wild Pokémon
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Villi Pokémon
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Pokémon sauvage
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Wildes Pokémon
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Pokémon selvatico
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 야생 포켓몬 <i><span class="explain" title="Wild Pokémon">Yasaeng Pokémon</span></i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Vill Pokémon
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Dzikie Pokémony
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazilian Portuguese</a>
+</td>
+<td> Pokémon selvagem
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Дикий покемон <i>Dikiy Pokémon</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Pokémon salvaje
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Vild Pokémon
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> Pokémon hoang dã
+</td></tr>
+<tr>
+<td colspan="3" style="background: #78C850">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+
+<!-- 
+NewPP limit report
+Cached time: 20180130184104
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.136 seconds
+Real time usage: 0.338 seconds
+Preprocessor visited node count: 1400/1000000
+Preprocessor generated node count: 8252/1000000
+Post‐expand include size: 13020/2097152 bytes
+Template argument size: 3325/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  194.566      1 -total
+ 20.92%   40.702      1 Template:Langtable
+  8.93%   17.375      1 Template:Animedexheader
+  6.23%   12.129      1 Template:Incomplete
+  4.83%    9.405      1 Template:Chap
+  4.29%    8.340      1 Template:Animedexfooter/Pokémon
+  3.84%    7.478      7 Template:AP
+  3.70%    7.199      1 Template:TP
+  2.93%    5.709      1 Template:MTR
+  2.85%    5.552     15 Template:Pmin
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:10622-0!*!0!!en!5!* and timestamp 20180130184104 and revision id 2717307
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Wild_Pokémon&amp;oldid=2717307">https://bulbapedia.bulbagarden.net/w/index.php?title=Wild_Pokémon&amp;oldid=2717307</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Articles_needing_more_information" title="Category:Articles needing more information">Articles needing more information</a></li><li><a href="/wiki/Category:Terminology" title="Category:Terminology">Terminology</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Wild_Pok%C3%A9mon" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Wild_Pok%C3%A9mon" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Wild_Pok%C3%A9mon&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Wild_Pok%C3%A9mon&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wild+Pok%C3%A9mon" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wild+Pok%C3%A9mon" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wild_Pok%C3%A9mon" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wild_Pok%C3%A9mon" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Wild_Pok%C3%A9mon&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Wild_Pok%C3%A9mon&amp;oldid=2717307" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Wild_Pok%C3%A9mon&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Pok%C3%A9mon_sauvage" title="Pokémon sauvage – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Pok%C3%A9mon_selvatico" title="Pokémon selvatico – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E9%87%8E%E7%94%9F%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3" title="野生ポケモン – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Dzikie_Pok%C3%A9mony" title="Dzikie Pokémony – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E9%87%8E%E7%94%9F%E5%AE%9D%E5%8F%AF%E6%A2%A6" title="野生宝可梦 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 12 December 2017, at 15:32.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Wild_Pok%C3%A9mon&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.338","ppvisitednodes":{"value":1400,"limit":1000000},"ppgeneratednodes":{"value":8252,"limit":1000000},"postexpandincludesize":{"value":13020,"limit":2097152},"templateargumentsize":{"value":3325,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  194.566      1 -total"," 20.92%   40.702      1 Template:Langtable","  8.93%   17.375      1 Template:Animedexheader","  6.23%   12.129      1 Template:Incomplete","  4.83%    9.405      1 Template:Chap","  4.29%    8.340      1 Template:Animedexfooter/Pokémon","  3.84%    7.478      7 Template:AP","  3.70%    7.199      1 Template:TP","  2.93%    5.709      1 Template:MTR","  2.85%    5.552     15 Template:Pmin"]},"cachereport":{"timestamp":"20180130184104","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

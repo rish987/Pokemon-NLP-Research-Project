@@ -14,7 +14,7 @@ URL_PREFIX = 'https://bulbapedia.bulbagarden.net/wiki/EP';
 EP_NUMBER_FORMAT = "%03d";
 
 # data folder webpages
-WEBPAGE_DEST = '../data/webpages/';
+EP_WEBPAGE_DEST = '../data/webpages/episodes/';
 
 # go through all of the episodes
 for i in range(1, NUM_EPS + 1):
@@ -27,5 +27,5 @@ for i in range(1, NUM_EPS + 1):
         html = response.read();
 
         # write the file out to data folder
-        with open(WEBPAGE_DEST + (EP_NUMBER_FORMAT % i), 'w') as file:
+        with open(EP_WEBPAGE_DEST + (EP_NUMBER_FORMAT % i), 'w') as file:
           file.write(html.decode('UTF-8'));

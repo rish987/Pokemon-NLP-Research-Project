@@ -1,0 +1,1502 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>EP022 - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"EP022","wgTitle":"EP022","wgCurRevisionId":2724898,"wgRevisionId":2724898,"wgArticleId":6146,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Original series episodes","Episodes written by Junki Takegami","Episodes storyboarded and directed by Osamu Inoue","Episodes storyboarded by Osamu Inoue","Episodes directed by Osamu Inoue","Episodes animated by Hiroshi Sakai","Episodes with Gym battles","Episodes focusing on Ash","Episodes in which Ash loses a Gym Battle"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"EP022","wgRelevantArticleId":6146,"wgRequestId":"43a6cfdd943722b34c032327","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/b/be/EP022.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/EP022"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/EP022"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-EP022 rootpage-EP022 skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">EP022</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="background: #FFAAAA; width: 100%; margin: 5px; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; border: 2px solid #FFAAAA;">
+
+<tr>
+<td width="35%" style="background: #AAFFAA; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<table style="text-align:right; background: #AAFFAA; width:100%; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<tr>
+<td style="text-align:right;"> <a href="/wiki/EP021" title="EP021"><span style="color:#000;">&#8592;</span></a>
+</td>
+<td style="text-align:right;"> <a href="/wiki/EP021" title="EP021"><span style="color:#000;">EP021
+: <i>Bye Bye Butterfree</i></span></a>
+</td></tr></table>
+</td>
+<td style="background: #AAFFAA">
+<table style="background: #AAFFAA; width:100%;">
+<tr>
+<td style="text-align:center;"> <a href="/wiki/List_of_original_series_episodes" title="List of original series episodes"><span style="color:#000;">Original series</span></a>
+</td></tr></table>
+</td>
+<td width="35%" style="background: #AAFFAA; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<table style="background: #AAFFAA; width:100%; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<tr>
+<td> <a href="/wiki/EP023" title="EP023"><span style="color:#000;">EP023
+: <i>The Tower of Terror</i></span></a>
+</td>
+<td> <a href="/wiki/EP023" title="EP023"><span style="color:#000;">&#8594;</span></a>
+</td></tr></table>
+</td></tr></table>
+<table class="roundy" style="float:right; background: #FFAAAA; width: 25%; margin-left: 5px; margin-bottom: 5px">
+
+<tr>
+<td style="text-align:center; color:#000"> <b><big><i>Abra and the Psychic Showdown</i></big></b>
+<table class="roundy" style="margin:auto; background: #FFAAAA">
+<tr>
+<td style="background: #FFF"> <a href="/wiki/File:EP022.png" class="image"><img alt="EP022.png" src="//cdn.bulbagarden.net/upload/thumb/b/be/EP022.png/200px-EP022.png" width="200" height="150" srcset="//cdn.bulbagarden.net/upload/thumb/b/be/EP022.png/300px-EP022.png 1.5x, //cdn.bulbagarden.net/upload/thumb/b/be/EP022.png/400px-EP022.png 2x" /></a>
+</td></tr></table>
+</td></tr>
+<tr>
+<td>
+<table class="roundy" style="margin:auto; background: #FFAAAA; width: 200px; text-align:center; font-size:90%">
+<tr>
+<td class="roundy" width="25%" style="background: #FFAAAA"> &#160;
+</td>
+<td>
+</td>
+<td class="roundy" width="25%" style="background: #AAFFAA"> EP022
+</td>
+<td>
+</td>
+<td class="roundy" width="25%" style="background: #FFAAAA;"> &#160;
+</td></tr></table>
+<table class="roundy" style="margin:auto; background: #FFF; text-align:center">
+<tr>
+<td> <small><b><span lang="ja">ケーシィ！ちょうのうりょくたいけつ！</span></b><br /><i>Casey! Psychic Showdown!</i></small>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#AAFFAA"> <div style="text-align:center"><b>First broadcast</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> Japan
+</th>
+<td> August 26, 1997
+</td></tr>
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa"> United States
+</th>
+<td style="border-top: 1px solid #aaa"> October 6, 1998
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#AAFFAA"> <div style="text-align:center"><b>English themes</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> <a href="/wiki/List_of_English_opening_themes" title="List of English opening themes"><span style="color:#000;">Opening</span></a>
+</th>
+<td> <a href="/wiki/Pok%C3%A9mon_Theme" title="Pokémon Theme">Pokémon Theme</a>
+</td></tr>
+<tr style="display:none">
+<th style="text-align:right; border-top: 1px solid #aaa" width="100px"> Ending
+</th>
+<td style="border-top: 1px solid #aaa">
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#AAFFAA"> <div style="text-align:center"><b>Japanese themes</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> <a href="/wiki/List_of_Japanese_opening_themes" title="List of Japanese opening themes"><span style="color:#000;">Opening</span></a>
+</th>
+<td> <span lang="ja"><a href="/wiki/Aim_to_Be_a_Pok%C3%A9mon_Master" title="Aim to Be a Pokémon Master">めざせポケモンマスター</a></span>
+</td></tr>
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa"> <a href="/wiki/List_of_Japanese_ending_themes" title="List of Japanese ending themes"><span style="color:#000;">Ending</span></a>
+</th>
+<td style="border-top: 1px solid #aaa"> <span lang="ja"><a href="/wiki/One_Hundred_Fifty-One" title="One Hundred Fifty-One">ひゃくごじゅういち</a></span>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" style="background:#AAFFAA"> <div style="text-align:center"><b>Credits</b></div>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<th style="text-align:right" width="100px"> Animation
+</th>
+<td> Team Ota
+</td></tr>
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Screenplay
+</th>
+<td style="border-top: 1px solid #aaa"> 武上純希 <i><small><a href="/wiki/Junki_Takegami" title="Junki Takegami">Junki Takegami</a></small></i>
+</td></tr>
+
+
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Storyboard
+</th>
+<td style="border-top: 1px solid #aaa"> 井上修 <i><small>Osamu Inoue</small></i>
+</td></tr>
+
+
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Assistant director
+</th>
+<td style="border-top: 1px solid #aaa"> 井上修 <i><small>Osamu Inoue</small></i>
+</td></tr>
+
+
+<tr>
+<th style="text-align:right; border-top: 1px solid #aaa" rowspan="1"> Animation director
+</th>
+<td style="border-top: 1px solid #aaa"> 酒井啓史 <i><small>Hiroshi Sakai</small></i>
+</td></tr>
+
+
+<tr>
+<th colspan="2" style="text-align:center; border-top: 1px solid #aaa"> <a href="/wiki/Anime_staff_by_episode_(EP021-EP030)#EP022" title="Anime staff by episode (EP021-EP030)">Additional credits</a>
+</th></tr></table>
+</td></tr>
+<tr>
+<td>
+<table class="roundy" style="background: #FFF; width: 100%">
+<tr>
+<td style="font-size:90%">
+<ul><li><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.filb.de/anime/pm/022">Screenshots on Filb.de</a></span></li></ul>
+</td></tr></table>
+</td></tr></table>
+<p><b>Abra and the Psychic Showdown</b> (Japanese: <b>ケーシィ！ちょうのうりょくたいけつ！</b> <i><span class="explain" title="Abra">Casey</span>! Psychic Showdown!</i>) is the 22nd episode of the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">Pokémon anime</a>. It was first broadcast in Japan on August 26, 1997 and in the United States on October 6, 1998.
+</p>
+<table style="border: 1px solid #272727; background: #a0a0a0; margin-left: auto; margin-right: auto; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #525252; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;"> <a href="/wiki/File:Ani201ODEX.png" class="image" title="201"><img alt="201" src="//cdn.bulbagarden.net/upload/c/c4/Ani201ODEX.png" width="32" height="32" /></a>
+</th>
+<td style="text-align:center; padding: 0 10px 0 10px;"> <b><a href="/wiki/Bulbapedia:Spoiler_warning" title="Bulbapedia:Spoiler warning"><span style="color: #272727">Spoiler warning:</span></a></b> this article may contain major plot or ending details.
+</td>
+<th style="background: #525252; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;"> <a href="/wiki/File:Ani201ODEX.png" class="image" title="201"><img alt="201" src="//cdn.bulbagarden.net/upload/c/c4/Ani201ODEX.png" width="32" height="32" /></a>
+</th></tr></table>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Blurb"><span class="tocnumber">1</span> <span class="toctext">Blurb</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Plot"><span class="tocnumber">2</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Major_events"><span class="tocnumber">3</span> <span class="toctext">Major events</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Debuts"><span class="tocnumber">3.1</span> <span class="toctext">Debuts</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Humans"><span class="tocnumber">3.1.1</span> <span class="toctext">Humans</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Pok.C3.A9mon_debuts"><span class="tocnumber">3.1.2</span> <span class="toctext">Pokémon debuts</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Characters"><span class="tocnumber">4</span> <span class="toctext">Characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Humans_2"><span class="tocnumber">4.1</span> <span class="toctext">Humans</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Pok.C3.A9mon"><span class="tocnumber">4.2</span> <span class="toctext">Pokémon</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Errors"><span class="tocnumber">5.1</span> <span class="toctext">Errors</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Dub_edits"><span class="tocnumber">5.2</span> <span class="toctext">Dub edits</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#In_other_languages"><span class="tocnumber">6</span> <span class="toctext">In other languages</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Blurb">Blurb</span></h2>
+<p><i>The party finally arrives in Saffron City where a young girl manages a gym of Pokémon using her psychic powers. If Ash defeats this particular Gym Leader, Ash can earn a gold badge. Gathering all their strength, Ash and Pikachu challenge her. She happily accepts, but adds the strange condition that if Ash loses, they must become her friend. The official gym battle begins, but Pikachu is helpless against the young girl's Pokémon, Abra. To make matters worse, Abra evolves in the middle of the match, turning into the more powerful, Kadabra. Employing even stronger psychic powers against Pikachu, Saffron City's Gym Leader defeats Ash. As this strange story unravels, Ash encounters a mysterious man who seems to be the key to solving the puzzle to this young girl's disturbing power.</i>
+</p>
+<h2><span class="mw-headline" id="Plot">Plot</span></h2>
+<p>The scene opens focusing on a silhouette of a <a href="/wiki/Sabrina" title="Sabrina">woman</a>, holding a visible little girl. In the woman's eyes, she sees <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> and <a href="/wiki/Ash%27s_friends" title="Ash's friends">his friends</a> making their way towards <a href="/wiki/Saffron_City" title="Saffron City">Saffron City</a>. However, Ash and his friends appear lost and Ash blows up on <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a> for her lack of directions, starting a full-scale argument among the group. They stop arguing when they spot a little girl giggle nearby bouncing a ball. She runs off as Ash follows. The forest gives way to a massive cliff drop-off and Ash plummets, but he calls out <a href="/wiki/Ash%27s_Bulbasaur" title="Ash's Bulbasaur">Bulbasaur</a> to save him with <a href="/wiki/Vine_Whip_(move)" title="Vine Whip (move)">Vine Whip</a>. The Pokémon pulls him up to safety as they notice that the girl has disappeared. However, they spot Saffron City in the distance and Ash is excited for his upcoming <a href="/wiki/Gym" title="Gym">Gym</a> <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battle</a>.
+</p><p>As they enter the city, <a href="/wiki/Jessie" title="Jessie">Jessie</a> and <a href="/wiki/James" title="James">James</a>, disguised as Hawaiian women, kiss Ash and put leis on him. They say that Ash and his friends are the one-millionth, one millionth and first, one millionth and second, and one millionth and third visitors to the city and they take them to a skyscraper for a prize. When they get there, James grabs <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Pikachu</a> with rubber gloves and Jessie pushes the three onto a warp tile, sending them to an isolated room with no exit. They find out that they were set up as a television screen drops down. When <a href="/wiki/Team_Rocket_trio" title="Team Rocket trio">Team Rocket</a> removes the <a href="/wiki/List_of_Team_Rocket%27s_disguises" title="List of Team Rocket's disguises">disguise</a>, Ash freaks out at that they both kissed him. Team Rocket recites their <a href="/wiki/Team_Rocket_mottos" title="Team Rocket mottos">motto</a>, but Ash and his friends ignore Team Rocket. They show Pikachu bound up and Ash orders them to give Pikachu back. The monitor cuts off, but Team Rocket did not cut the link. As Jessie and James work to fix it, <a href="/wiki/Meowth_(Team_Rocket)" title="Meowth (Team Rocket)">Meowth</a> points to the little girl that got inside, the same one Ash saw earlier. She emits a blue aura, freezing Jessie and James, unable to move. The girl takes Pikachu and teleports into the same room with Ash, giving Pikachu back. Ash thanks her, but the girl glows again and points to Ash and his friends, teleporting them.
+</p><p>When Ash and his friends reappear, they find themselves in front of the <a href="/wiki/Saffron_Gym" title="Saffron Gym">Saffron Gym</a>. <a href="/wiki/Sabrina%27s_father" title="Sabrina's father">A man</a> runs up behind them and informs them where they are, suggesting that they avoid the Gym and runs off. Ash ignores the warning and heads inside, intending to win the <a href="/wiki/Badge#Marsh_Badge" title="Badge">Marsh Badge</a>. They go inside, finding it empty at first. They run into a door and look inside, finding several people in the room practicing telekinetic powers. A man confronts them and Ash asks for a match against Sabrina. When Misty asks what the people in the room were doing, he demonstrates by holding up a spoon and bending it a little by telekinesis. Ash shows off by bending the spoon completely by force, prompting the others to turn away embarrassed. The man leads them to the arena and bows down in front of a gate, asking Sabrina to come out. The little girl appears, her eyes glowing red, using telekinetic force to send the man running. Ash asks for his official match from Sabrina and the little girl agrees. She agrees if Ash and his friends play with her if he loses. The gate opens as the little girl is revealed to be sitting on the real Sabrina's lap. The doors close, sealing them in.
+</p><p>Sabrina and the little girl move over telekinetically as the arena lights up. The little girl tosses a <a href="/wiki/Pok%C3%A9_Ball#Pok.C3.A9_Ball" title="Poké Ball">Poké Ball</a>, sending out <a href="/wiki/Sabrina%27s_Kadabra" title="Sabrina's Kadabra">Abra</a> while Ash sends Pikachu. Pikachu acts aggressive but notices Abra is <a href="/wiki/Sleep_(status_condition)" title="Sleep (status condition)">sleeping</a>. Pikachu bounces around Abra, but it is sound asleep. Ash checks his <a href="/wiki/Pok%C3%A9dex" title="Pokédex">Pokédex</a> and it says that Abra sleeps eighteen hours a day but can employ telekinesis while asleep. Pikachu fires off a <a href="/wiki/ThunderShock_(move)" class="mw-redirect" title="ThunderShock (move)">ThunderShock</a>, but Abra wakes up and uses <a href="/wiki/Teleport_(move)" title="Teleport (move)">Teleport</a> to dodge and get behind Pikachu. Abra suddenly <a href="/wiki/Evolution" title="Evolution">evolves</a> into <a href="/wiki/Sabrina%27s_Kadabra" title="Sabrina's Kadabra">Kadabra</a>. Ash checks his Pokédex again. He thinks that it is unfair due to it being a one on one match, but evolving during the match does not count as using two Pokémon. Ash orders Pikachu to fill the stadium with lightning to negate Kadabra's teleportation. Pikachu launches several bolts of electricity into the ceiling, pooling it into a massive blast and sending it down towards Kadabra. It uses <a href="/wiki/Confusion_(move)" title="Confusion (move)">Confusion</a> to coalesce the attack and send it back to Pikachu as a dragon, causing serious damage. It uses <a href="/wiki/Psychic_(move)" title="Psychic (move)">Psychic</a> to control Pikachu's body, forcing him to get up and dance. Kadabra suddenly sends Pikachu up towards the ceiling and back down, repeating the attack several times before Ash decides to forfeit the match.
+</p><p>Since he lost, he has to fulfill the request of being the little girl's friend. She employs telekinesis to teleport them to another area. They reappear in a deserted town. They check the nearest house and find it empty. However, there is a set table complete with cake. Ash checks around as <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a> samples the cake. When he bites into it, he finds it to be a plastic fake. Ash enters the bathroom and sees a woman in the bathtub. He turns away, but Pikachu points to the mirror, noticing that the figure is really a doll. Misty and Brock realize that they are in a dollhouse. The place rumbles as the house roof comes away, showing a giant Sabrina and the little girl towering above them. She slams her hand into the dollhouse as they run away, noticing that they were shrunk by telekinesis and are in her toy box. The little girl laughs uncontrollably as Ash and his friends run into a picture frame, showing the little girl and her parents. With nowhere to run, the little girl approaches, dribbling a ball and rolling it towards Ash and company. The man they ran into earlier appears and uses teleportation to get them out.
+</p><p>Ash and company reappear in Saffron as the man orders them to leave, mentioning that Sabrina is very dangerous. Ash is not willing to leave without the Badge and thinks that he just needs to attack faster to beat Sabrina. The man's eyes glow red as he employs telekinesis on Ash, dropping his pants and forcing him to dance which makes Misty cover her eyes. The man laughs as he stops the telekinesis. Ash pulls up his pants unabashed and charges forward and asks to be taught telekinesis, but the man pushes him back, mentioning that a person must be born with it. Ash is still determined and steps forward as the man forces him to the ground. Ash gets back up as the man continues to use telekinesis to push Ash to the ground. He continues to crawl forward, shocking the man as he asks for help. It convinces the man to tell Ash that <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost</a> Pokémon can beat Sabrina, found in <a href="/wiki/Lavender_Town" title="Lavender Town">Lavender Town</a>. The man teleports away as his friends help Ash up. Ash decides to go to Lavender Town as the man reappears nearby and mentions that he may be able to help Sabrina. Ash and his friends press on to Lavender Town. Meanwhile, Meowth drags Jessie and James, still frozen, as they follow.
+</p>
+<h2><span class="mw-headline" id="Major_events">Major events</span></h2>
+<ul><li> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> and <a href="/wiki/Ash%27s_friends" title="Ash's friends">his friends</a> reach <a href="/wiki/Saffron_City" title="Saffron City">Saffron City</a> and meet <a href="/wiki/Sabrina" title="Sabrina">Sabrina</a>, the <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic-type</a> <a href="/wiki/Gym_Leader" title="Gym Leader">Gym Leader</a>.</li>
+<li> Sabrina's <a href="/wiki/Abra_(Pok%C3%A9mon)" title="Abra (Pokémon)">Abra</a> evolves into <a href="/wiki/Sabrina%27s_Kadabra" title="Sabrina's Kadabra">Kadabra</a>.</li>
+<li> <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Ash's Pikachu</a> is revealed to know <a href="/wiki/Thunder_(move)" title="Thunder (move)">Thunder</a>.</li>
+<li> Ash <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battles</a> Sabrina but loses by forfeit.</li>
+<li> Ash heads to <a href="/wiki/Lavender_Town" title="Lavender Town">Lavender Town</a> to catch a <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost</a> Pokémon so he could be stronger against Sabrina's Kadabra.</li></ul>
+<dl><dd><i>For a list of all major events in the anime, please see the <a href="/wiki/Timeline_of_events_in_the_anime" title="Timeline of events in the anime">timeline of events</a>.</i></dd></dl>
+<h3><span class="mw-headline" id="Debuts">Debuts</span></h3>
+<h4><span class="mw-headline" id="Humans">Humans</span></h4>
+<ul><li> <a href="/wiki/Sabrina" title="Sabrina">Sabrina</a></li>
+<li> <a href="/wiki/Sabrina%27s_father" title="Sabrina's father">Sabrina's father</a></li></ul>
+<h4><span class="mw-headline" id="Pok.C3.A9mon_debuts">Pokémon debuts</span></h4>
+<ul><li> <a href="/wiki/Abra_(Pok%C3%A9mon)" title="Abra (Pokémon)">Abra</a> (<a href="/wiki/Sabrina%27s_Kadabra" title="Sabrina's Kadabra">Sabrina's</a>)</li>
+<li> <a href="/wiki/Kadabra_(Pok%C3%A9mon)" title="Kadabra (Pokémon)">Kadabra</a> (<a href="/wiki/Sabrina%27s_Kadabra" title="Sabrina's Kadabra">Sabrina's</a>)</li></ul>
+<h2><span class="mw-headline" id="Characters">Characters</span></h2>
+<h3><span class="mw-headline" id="Humans_2">Humans</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Dare_da_EP022.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/6/67/Dare_da_EP022.png/200px-Dare_da_EP022.png" width="200" height="150" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/6/67/Dare_da_EP022.png/300px-Dare_da_EP022.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/67/Dare_da_EP022.png/400px-Dare_da_EP022.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dare_da_EP022.png" class="internal" title="Enlarge"></a></div><span class="explain" title="Who&#39;s That Pokémon?">Dare da?</span></div></div></div>
+<ul><li> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a></li>
+<li> <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a></li>
+<li> <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a></li>
+<li> <a href="/wiki/Jessie" title="Jessie">Jessie</a></li>
+<li> <a href="/wiki/James" title="James">James</a></li>
+<li> <a href="/wiki/Sabrina" title="Sabrina">Sabrina</a></li>
+<li> <a href="/wiki/Sabrina%27s_father" title="Sabrina's father">Sabrina's father</a></li>
+<li> <a href="/wiki/Psychic_(Trainer_class)" title="Psychic (Trainer class)">Psychics</a></li></ul>
+<h3><span class="mw-headline" id="Pok.C3.A9mon">Pokémon</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:203px;"><a href="/wiki/File:WTP_EP022.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/5/57/WTP_EP022.png/201px-WTP_EP022.png" width="201" height="154" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/WTP_EP022.png/302px-WTP_EP022.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/WTP_EP022.png/402px-WTP_EP022.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:WTP_EP022.png" class="internal" title="Enlarge"></a></div>Who's That Pokémon?</div></div></div>
+<p><a href="/wiki/Who%27s_That_Pok%C3%A9mon%3F" title="Who's That Pokémon?">Who's That Pokémon?</a>: <a href="/wiki/Abra_(Pok%C3%A9mon)" title="Abra (Pokémon)">Abra</a>
+</p>
+<ul><li> <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> (<a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Ash's</a>)</li>
+<li> <a href="/wiki/Meowth_(Pok%C3%A9mon)" title="Meowth (Pokémon)">Meowth</a> (<a href="/wiki/Meowth_(Team_Rocket)" title="Meowth (Team Rocket)">Team Rocket</a>)</li>
+<li> <a href="/wiki/Bulbasaur_(Pok%C3%A9mon)" title="Bulbasaur (Pokémon)">Bulbasaur</a> (<a href="/wiki/Ash%27s_Bulbasaur" title="Ash's Bulbasaur">Ash's</a>)</li>
+<li> <a href="/wiki/Abra_(Pok%C3%A9mon)" title="Abra (Pokémon)">Abra</a> (<a href="/wiki/Sabrina%27s_Kadabra" title="Sabrina's Kadabra">Sabrina's</a>; evolves; debut)</li>
+<li> <a href="/wiki/Kadabra_(Pok%C3%A9mon)" title="Kadabra (Pokémon)">Kadabra</a> (<a href="/wiki/Sabrina%27s_Kadabra" title="Sabrina's Kadabra">Sabrina's</a>; newly evolved; debut)</li></ul>
+<p><br clear="all" />
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> During this episode, it is stated that <a href="/wiki/Ghost_(type)" title="Ghost (type)">Ghost</a> types are strong against <a href="/wiki/Psychic_(type)" title="Psychic (type)">Psychic</a> types, when, during <a href="/wiki/Generation_I" title="Generation I">Generation I</a>, the generation of this episode's airing, Psychic types were actually <i>immune</i> to Ghost-type moves.
+<ul><li> This was more likely a mistake of the game than the anime however, as the official Nintendo strategy guide states that Psychic-type Pokémon take extra damage from Ghost-type Pokémon, and in Pokémon Red and Blue, a Trainer in the Saffron Gym mentions that Psychic-type Pokémon "only fear Bugs and Ghosts". (Pokémon Yellow amends this dialogue to say they "only fear Bugs.")</li></ul></li>
+<li> This is the first episode in which Ash challenges a Gym Leader and doesn't get the Gym Badge later in the same episode.</li>
+<li> Ash and his friends finding themselves in a dollhouse may be a reference to the <a href="https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)" class="extiw" title="wp:The Twilight Zone (1959 TV series)">The Twilight Zone</a> episode <a href="https://en.wikipedia.org/wiki/Stopover_in_a_Quiet_Town" class="extiw" title="wp:Stopover in a Quiet Town">Stopover in a Quiet Town</a>.</li>
+<li> When Pikachu fills the stadium with lightning to negate Abra's teleportation, the 'striking' sound effect is from <a href="https://en.wikipedia.org/wiki/Back_to_the_Future" class="extiw" title="wp:Back to the Future">Back to the Future</a> when the DeLorean travels through time.</li>
+<li> This is the only anime episode to date to feature a <a href="/wiki/Warp_tile" title="Warp tile">warp tile</a>.</li>
+<li> The book <i><a href="/wiki/Night_in_the_Haunted_Tower" title="Night in the Haunted Tower">Night in the Haunted Tower</a></i> is partially based on this episode.</li>
+<li> This episode is featured on <i>Volume 7: Psychic</i> of <a href="/wiki/Pok%C3%A9mon_Elements" title="Pokémon Elements">Pokémon Elements</a>.</li></ul>
+<h3><span class="mw-headline" id="Errors">Errors</span></h3>
+<ul><li> Sabrina's dad states that only Ghost-type Pokémon can beat Psychic Pokémon. However, even in Generation I, Psychic types were only weak to Bug-type moves.</li>
+<li> The Pokédex claims that Kadabra is the Psychic Pokémon, not the Psi Pokémon.</li>
+<li> At the end of the episode, the dirt path vanishes between shots.</li></ul>
+<h3><span class="mw-headline" id="Dub_edits">Dub edits</span></h3>
+<ul><li> <a href="/wiki/Pok%C3%A9Rap" class="mw-redirect" title="PokéRap">PokéRap</a>: Day 2</li>
+<li> The scene where Team Rocket say their motto on the big screen, as well as the scene where Ash and his friends comment about it getting cancelled soon, was only in the dub.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table class="expandable" style="float:left; background: #AFA; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #FAA">
+
+<tr>
+<th style="padding:3px" colspan="2"> Language
+</th>
+<th style="padding:3px"> Title
+</th></tr>
+
+
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:The_Arab_world_Flag.png" class="image"><img alt="The Arab world Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/85/The_Arab_world_Flag.png/20px-The_Arab_world_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/85/The_Arab_world_Flag.png/30px-The_Arab_world_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/85/The_Arab_world_Flag.png/40px-The_Arab_world_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Arab_world" title="Pokémon in the Arab world">Arabic</a>
+</td>
+<td> <span class="explain" title="The Effect of the Psychic Power">التأثير بالطاقه الذهنيه</span>
+</td></tr>
+
+
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China"><span class="explain" title="Taiwan and mainland China">Mandarin Chinese</span></a>
+</td>
+<td> <span class="explain" title="Abra, Psychic Battle">凱西，超能力大決鬥 / 凯西，超能力大决斗</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:The_Czech_Republic_Flag.png" class="image"><img alt="The Czech Republic Flag.png" src="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/20px-The_Czech_Republic_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/30px-The_Czech_Republic_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/6e/The_Czech_Republic_Flag.png/40px-The_Czech_Republic_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Czech_Republic" title="Pokémon in the Czech Republic">Czech</a>
+</td>
+<td> <span class="explain" title="Abra and the battle full of magic">Abra a zápas plný kouzel</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> <span class="explain" title="Abra And The Psychic Showdown">Abra Og Det Telepatiske Opgør</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:The_Netherlands_Flag.png" class="image"><img alt="The Netherlands Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/20px-The_Netherlands_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/30px-The_Netherlands_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/40px-The_Netherlands_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Netherlands" title="Pokémon in the Netherlands">Dutch</a>
+</td>
+<td> <span class="explain" title="Abra and the Exceptional Showdown">Abra en de Uitzonderlijke Krachtmeting</span>
+</td></tr>
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> <span class="explain" title="Abra and the supernatural powers">Abra ja yliluonnolliset voimat</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td rowspan="2"> French
+</td>
+<td> <a href="/wiki/File:Canada_Flag.png" class="image"><img alt="Canada Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/20px-Canada_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/30px-Canada_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/40px-Canada_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Canada" title="Pokémon in Canada">Canada</a>
+</td>
+<td> <span class="explain" title="Telekinesis gets involved">Télékinése s'en mêle</span>
+</td></tr>
+<tr style="background: #FFF">
+<td> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_France" title="Pokémon in France">Europe</a>
+</td>
+<td> <span class="explain" title="When telekinesis is interfered">Quand la télékinésie s'en mêle</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> <span class="explain" title="Abra and the Psychic-duel">Abra und das Psycho-Duell</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Israel_Flag.png" class="image"><img alt="Israel Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/20px-Israel_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/30px-Israel_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Israel_Flag.png/40px-Israel_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Israel" title="Pokémon in Israel">Hebrew</a>
+</td>
+<td> סברינה והפוקימון העל חושי <span class="explain" title="Sabrina and the Psychic Pokémon">Sabrina vehaPokémon ha'al-chushi</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:India_Flag.png" class="image"><img alt="India Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/20px-India_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/30px-India_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/04/India_Flag.png/40px-India_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Asia" title="Pokémon in South Asia">Hindi</a>
+</td>
+<td> Abra और मानसिक फाइट <span class="explain" title="Abra And a Mental/Psychic Fight"><i>Abra aur Mansik fight!</i></span> <span class="explain" title="CN dub">*</span><br />Abra और सायकिक फाइट <span class="explain" title="Abra And a Psychic Fight"><i>Abra aur Psychic fight</i></span> <span class="explain" title="Hungama dub">*</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Hungary_Flag.png" class="image"><img alt="Hungary Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/20px-Hungary_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/30px-Hungary_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fe/Hungary_Flag.png/40px-Hungary_Flag.png 2x" /></a> Hungarian
+</td>
+<td> <span class="explain" title="Abra and the Big Power Trial">Abra és a nagy erőpróba</span>
+</td></tr>
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> <span class="explain" title="Sabrina">Sabrina</span><span class="explain" title="Original 2000 dub">*</span> <br /> <span class="explain" title="Abra and the psychic powers">Abra e i poteri psichici</span><span class="explain" title="2014 K2 TV dub">*</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 강적! 초능력 포켓몬 <span class="explain" title="Threat! Psychic Pokémon">gangjeog! choneunglyeog pokétmon</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> <span class="explain" title="Abra and the telepathic showdown">Abra og det telepatiske oppgjør</span>
+</td></tr>
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> <span class="explain" title="Abra and psychical knockout">Abra i psychiczny nokaut</span>
+</td></tr>
+
+<tr style="background: #FFF">
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> <span class="explain" title="Abra and the Show of Paranormals">Abra e o Show de Paranormais</span>
+</td></tr>
+<tr style="background: #FFF">
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> <span class="explain" title="Abra and the Psychic Showdown">Abra e o Espectáculo Psíquico</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Romania_Flag.png" class="image"><img alt="Romania Flag.png" src="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/20px-Romania_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/30px-Romania_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/42/Romania_Flag.png/40px-Romania_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Romania" title="Pokémon in Romania">Romanian</a>
+</td>
+<td> <span class="explain" title="Abra and the Psychic Showdown">Abra și Confruntarea Psihică</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> <span class="explain" title="Abra and the Psychic Attack">Абра и психическая атака</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Serbia_Flag.png" class="image"><img alt="Serbia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/aa/Serbia_Flag.png/20px-Serbia_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/a/aa/Serbia_Flag.png/30px-Serbia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/aa/Serbia_Flag.png/40px-Serbia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Serbia" title="Pokémon in Serbia">Serbian</a>
+</td>
+<td> <span class="explain" title="Abra and the Psychic Showdown">Абра и психички окршај</span>
+</td></tr>
+
+
+
+<tr style="background: #FFF">
+<td rowspan="2"> Spanish
+</td>
+<td> <a href="/wiki/File:CELAC_Flag.png" class="image"><img alt="CELAC Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/20px-CELAC_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/30px-CELAC_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/40px-CELAC_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Latin_America" title="Pokémon in Latin America">Latin America</a>
+</td>
+<td> <span class="explain" title="Abra and the psychic duel!">¡Abra y el duelo psíquico!</span>
+</td></tr>
+<tr style="background: #FFF">
+<td> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spain" title="Pokémon in Spain">Spain</a>
+</td>
+<td> <span class="explain" title="Abra and the psychic showdown">Abra y el enfrentamiento psíquico</span>
+</td></tr>
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> <span class="explain" title="The supernatural Sabrina">Den övernaturliga Sabrina</span><span class="explain" title="Pokémon TV, spoken title">*</span><br /><span class="explain" title="Abra and the duel of brains">Abra och hjärnduellen</span><span class="explain" title="VHS release">*</span>
+</td></tr>
+
+
+
+
+
+
+<tr style="background: #FFF">
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> <span class="explain" title="Abra, Psychic Battle">Đại quyết đấu siêu năng lực với Casey</span>
+</td></tr>
+<tr>
+<td colspan="3" style="background: #AFA">
+</td></tr></table><br clear="left" />
+<p><br clear="all" />
+</p>
+<table style="background: #FFAAAA; width: 100%; margin: 5px; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; border: 2px solid #FFAAAA;">
+
+<tr>
+<td width="35%" style="background: #AAFFAA; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<table style="text-align:right; background: #AAFFAA; width:100%; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-bottom-left-radius: 15px; -moz-border-radius-bottomleft: 15px; -webkit-border-bottom-left-radius: 15px; -khtml-border-bottom-left-radius: 15px; -icab-border-bottom-left-radius: 15px; -o-border-bottom-left-radius: 15px;">
+<tr>
+<td style="text-align:right;"> <a href="/wiki/EP021" title="EP021"><span style="color:#000;">&#8592;</span></a>
+</td>
+<td style="text-align:right;"> <a href="/wiki/EP021" title="EP021"><span style="color:#000;">EP021
+: <i>Bye Bye Butterfree</i></span></a>
+</td></tr></table>
+</td>
+<td style="background: #AAFFAA">
+<table style="background: #AAFFAA; width:100%;">
+<tr>
+<td style="text-align:center;"> <a href="/wiki/List_of_original_series_episodes" title="List of original series episodes"><span style="color:#000;">Original series</span></a>
+</td></tr></table>
+</td>
+<td width="35%" style="background: #AAFFAA; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<table style="background: #AAFFAA; width:100%; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; border-bottom-right-radius: 15px; -moz-border-radius-bottomright: 15px; -webkit-border-bottom-right-radius: 15px; -khtml-border-bottom-right-radius: 15px; -icab-border-bottom-right-radius: 15px; -o-border-bottom-right-radius: 15px;">
+<tr>
+<td> <a href="/wiki/EP023" title="EP023"><span style="color:#000;">EP023
+: <i>The Tower of Terror</i></span></a>
+</td>
+<td> <a href="/wiki/EP023" title="EP023"><span style="color:#000;">&#8594;</span></a>
+</td></tr></table>
+</td></tr></table>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Anime_logo.png" class="image"><img alt="Project Anime logo.png" src="//cdn.bulbagarden.net/upload/thumb/c/c3/Project_Anime_logo.png/80px-Project_Anime_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/c/c3/Project_Anime_logo.png/120px-Project_Anime_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c3/Project_Anime_logo.png/160px-Project_Anime_logo.png 2x" /></a>
+</td>
+<td> This episode article is part of <b><a href="/wiki/Bulbapedia:Project_Anime" title="Bulbapedia:Project Anime">Project Anime</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that covers all aspects of the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">Pokémon anime</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180130153647
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.296 seconds
+Preprocessor visited node count: 2391/1000000
+Preprocessor generated node count: 11903/1000000
+Post‐expand include size: 40629/2097152 bytes
+Template argument size: 12047/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  132.029      1 -total
+ 26.61%   35.130      1 Template:Epilang
+ 19.80%   26.147      2 Template:EpicodePrevNext
+ 14.94%   19.722      1 Template:EpisodeInfobox
+  4.67%    6.166     17 Template:Colorschemelight
+  4.49%    5.924     37 Template:Tt
+  4.26%    5.624      4 Template:R
+  3.87%    5.105     24 Template:Flag
+  3.44%    4.544     24 Template:Pmin
+  3.25%    4.291      9 Template:Colorschemedark
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:6146-0!*!0!!en!5!* and timestamp 20180130153646 and revision id 2724898
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=EP022&amp;oldid=2724898">https://bulbapedia.bulbagarden.net/w/index.php?title=EP022&amp;oldid=2724898</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Original_series_episodes" title="Category:Original series episodes">Original series episodes</a></li><li><a href="/wiki/Category:Episodes_written_by_Junki_Takegami" title="Category:Episodes written by Junki Takegami">Episodes written by Junki Takegami</a></li><li><a href="/wiki/Category:Episodes_storyboarded_and_directed_by_Osamu_Inoue" title="Category:Episodes storyboarded and directed by Osamu Inoue">Episodes storyboarded and directed by Osamu Inoue</a></li><li><a href="/wiki/Category:Episodes_storyboarded_by_Osamu_Inoue" title="Category:Episodes storyboarded by Osamu Inoue">Episodes storyboarded by Osamu Inoue</a></li><li><a href="/wiki/Category:Episodes_directed_by_Osamu_Inoue" title="Category:Episodes directed by Osamu Inoue">Episodes directed by Osamu Inoue</a></li><li><a href="/wiki/Category:Episodes_animated_by_Hiroshi_Sakai" title="Category:Episodes animated by Hiroshi Sakai">Episodes animated by Hiroshi Sakai</a></li><li><a href="/wiki/Category:Episodes_with_Gym_battles" title="Category:Episodes with Gym battles">Episodes with Gym battles</a></li><li><a href="/wiki/Category:Episodes_focusing_on_Ash" title="Category:Episodes focusing on Ash">Episodes focusing on Ash</a></li><li><a href="/wiki/Category:Episodes_in_which_Ash_loses_a_Gym_Battle" title="Category:Episodes in which Ash loses a Gym Battle">Episodes in which Ash loses a Gym Battle</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/EP022" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:EP022" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=EP022&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=EP022&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=EP022" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=EP022" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/EP022" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/EP022" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=EP022&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=EP022&amp;oldid=2724898" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=EP022&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Abra_und_das_Psycho-Duell" title="Abra und das Psycho-Duell – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/EP022" title="EP022 – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/EP022" title="EP022 – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E7%84%A1%E5%8D%B0%E7%B7%A8%E7%AC%AC22%E8%A9%B1" title="無印編第22話 – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/EP022" title="EP022 – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/EP022" title="EP022 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 8 January 2018, at 15:09.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=EP022&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.296","ppvisitednodes":{"value":2391,"limit":1000000},"ppgeneratednodes":{"value":11903,"limit":1000000},"postexpandincludesize":{"value":40629,"limit":2097152},"templateargumentsize":{"value":12047,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  132.029      1 -total"," 26.61%   35.130      1 Template:Epilang"," 19.80%   26.147      2 Template:EpicodePrevNext"," 14.94%   19.722      1 Template:EpisodeInfobox","  4.67%    6.166     17 Template:Colorschemelight","  4.49%    5.924     37 Template:Tt","  4.26%    5.624      4 Template:R","  3.87%    5.105     24 Template:Flag","  3.44%    4.544     24 Template:Pmin","  3.25%    4.291      9 Template:Colorschemedark"]},"cachereport":{"timestamp":"20180130153647","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

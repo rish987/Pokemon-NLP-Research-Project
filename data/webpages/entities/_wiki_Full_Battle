@@ -1,0 +1,2029 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Full Battle - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Full_Battle","wgTitle":"Full Battle","wgCurRevisionId":2654708,"wgRevisionId":2654708,"wgArticleId":5006,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pokémon world","Terminology","Game mechanics","Battle variations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Full_Battle","wgRelevantArticleId":5006,"wgRequestId":"4cf48708cec9f0f30d878757","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/thumb/a/ae/Red_Hall_of_Fame_PO.png/1200px-Red_Hall_of_Fame_PO.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Full_Battle"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Full_Battle"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Full_Battle rootpage-Full_Battle skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Full Battle</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:272px;"><a href="/wiki/File:Red_Hall_of_Fame_PO.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/a/ae/Red_Hall_of_Fame_PO.png/270px-Red_Hall_of_Fame_PO.png" width="270" height="152" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/a/ae/Red_Hall_of_Fame_PO.png/405px-Red_Hall_of_Fame_PO.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/ae/Red_Hall_of_Fame_PO.png/540px-Red_Hall_of_Fame_PO.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Red_Hall_of_Fame_PO.png" class="internal" title="Enlarge"></a></div>The team <a href="/wiki/Red_(Origins)" title="Red (Origins)">Red</a> used in his Full Battle against <a href="/wiki/Blue_(Origins)" title="Blue (Origins)">Blue</a></div></div></div>
+<p>A <b>Full Battle</b> (Japanese: <b>フルバトル</b> <i>Full Battle</i>), also known as a <b>six-on-six battle</b>, is a <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">Pokémon battle</a> in which both <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a> use a full <a href="/wiki/Party" title="Party">party</a> of six <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a>. The first Trainer to completely <a href="/wiki/Fainting" title="Fainting">knock out</a> all of the opposing Trainer's Pokémon wins the battle.
+</p><p>These battles are rare, both in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a> and the <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">games</a>. Typically, Trainers will use fewer than the full six, usually one to three.
+</p>
+<table style="border: 1px solid #272727; background: #a0a0a0; margin-left: auto; margin-right: auto; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;" cellspacing="0" cellpadding="0">
+<tr>
+<th style="background: #525252; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;"> <a href="/wiki/File:Ani201ODEX.png" class="image" title="201"><img alt="201" src="//cdn.bulbagarden.net/upload/c/c4/Ani201ODEX.png" width="32" height="32" /></a>
+</th>
+<td style="text-align:center; padding: 0 10px 0 10px;"> <b><a href="/wiki/Bulbapedia:Spoiler_warning" title="Bulbapedia:Spoiler warning"><span style="color: #272727">Spoiler warning:</span></a></b> this article may contain major plot or ending details.
+</td>
+<th style="background: #525252; border-radius: 60px; -moz-border-radius: 60px; -webkit-border-radius: 60px; -khtml-border-radius: 60px; -icab-border-radius: 60px; -o-border-radius: 60px;"> <a href="/wiki/File:Ani201ODEX.png" class="image" title="201"><img alt="201" src="//cdn.bulbagarden.net/upload/c/c4/Ani201ODEX.png" width="32" height="32" /></a>
+</th></tr></table>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_the_anime"><span class="tocnumber">1</span> <span class="toctext">In the anime</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#In_the_main_series"><span class="tocnumber">1.1</span> <span class="toctext">In the main series</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Original_series"><span class="tocnumber">1.1.1</span> <span class="toctext">Original series</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Advanced_Generation_series"><span class="tocnumber">1.1.2</span> <span class="toctext"><i>Advanced Generation</i> series</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Diamond_.26_Pearl_series"><span class="tocnumber">1.1.3</span> <span class="toctext"><i>Diamond &amp; Pearl</i> series</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Best_Wishes_series"><span class="tocnumber">1.1.4</span> <span class="toctext"><i>Best Wishes</i> series</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#XY_series"><span class="tocnumber">1.1.5</span> <span class="toctext"><i>XY</i> series</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#In_Pok.C3.A9mon_Origins"><span class="tocnumber">1.2</span> <span class="toctext">In Pokémon Origins</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#In_the_games"><span class="tocnumber">2</span> <span class="toctext">In the games</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Trivia"><span class="tocnumber">3</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#In_other_languages"><span class="tocnumber">4</span> <span class="toctext">In other languages</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<p>Most Trainers declare a specific number of Pokémon to be used in a battle.  This number is very rarely the full six. The most notable Trainer to do so is <a href="/wiki/Drake_(Orange_League)" title="Drake (Orange League)">Drake</a>, the <a href="/wiki/Orange_Crew_Supreme_Gym_Leader" title="Orange Crew Supreme Gym Leader">Orange Crew Supreme Gym Leader</a> in the <a href="/wiki/Orange_League" title="Orange League">Orange League</a>. Battles in the final rounds of each <a href="/wiki/Region" title="Region">region</a>'s <a href="/wiki/Pok%C3%A9mon_League_Conference" title="Pokémon League Conference">League Conference</a> are usually Full Battles as well.
+</p>
+<h3><span class="mw-headline" id="In_the_main_series">In the main series</span></h3>
+<h4><span class="mw-headline" id="Original_series"><a href="/wiki/Original_series" title="Original series">Original series</a></span></h4>
+<table class="roundy" style="margin:auto; text-align:center; background:#AAFFAA; border: 3px solid #FFAAAA">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/EP080" title="EP080">EP080</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ritchie" title="Ritchie">Ritchie</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Zippo" title="004"><img alt="004" src="//cdn.bulbagarden.net/upload/b/bb/004MS.png" width="40" height="40" /></a></span><a href="/wiki/Butterfree_(Pok%C3%A9mon)" title="Butterfree"><img alt="Butterfree" src="//cdn.bulbagarden.net/upload/1/14/012MS.png" width="40" height="40" /></a>(<a href="/wiki/Spearow_(Pok%C3%A9mon)" title="Spearow"><img alt="Spearow" src="//cdn.bulbagarden.net/upload/5/5b/021MS.png" width="40" height="40" /></a>or<a href="/wiki/Tentacool_(Pok%C3%A9mon)" title="Tentacool"><img alt="Tentacool" src="//cdn.bulbagarden.net/upload/4/42/072MS.png" width="40" height="40" /></a>)<a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Sparky" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Assunta" title="Assunta">Assunta</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon"><img alt="Rhydon" src="//cdn.bulbagarden.net/upload/c/ce/112MS.png" width="40" height="40" /></a><a href="/wiki/Venomoth_(Pok%C3%A9mon)" title="Venomoth"><img alt="Venomoth" src="//cdn.bulbagarden.net/upload/3/31/049MS.png" width="40" height="40" /></a>(<a href="/wiki/Spearow_(Pok%C3%A9mon)" title="Spearow"><img alt="Spearow" src="//cdn.bulbagarden.net/upload/5/5b/021MS.png" width="40" height="40" /></a>or<a href="/wiki/Tentacool_(Pok%C3%A9mon)" title="Tentacool"><img alt="Tentacool" src="//cdn.bulbagarden.net/upload/4/42/072MS.png" width="40" height="40" /></a>)<a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/Ivysaur_(Pok%C3%A9mon)" title="Ivysaur"><img alt="Ivysaur" src="//cdn.bulbagarden.net/upload/6/6b/002MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#FFBB55; border: 3px solid #FFDDAA">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episodes
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/EP111" title="EP111">EP111</a><br /><a href="/wiki/EP112" title="EP112">EP112</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Squirtle" title="007"><img alt="007" src="//cdn.bulbagarden.net/upload/9/92/007MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Tauros" title="128"><img alt="128" src="//cdn.bulbagarden.net/upload/9/95/128MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Lapras" title="131"><img alt="131" src="//cdn.bulbagarden.net/upload/4/4b/131MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Bulbasaur" title="001"><img alt="001" src="//cdn.bulbagarden.net/upload/e/ec/001MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Charizard" title="006"><img alt="006" src="//cdn.bulbagarden.net/upload/0/01/006MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Drake_(Orange_League)" title="Drake (Orange League)">Drake</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ditto_(Pok%C3%A9mon)" title="Ditto"><img alt="Ditto" src="//cdn.bulbagarden.net/upload/5/53/132MS.png" width="40" height="40" /></a><a href="/wiki/Onix_(Pok%C3%A9mon)" title="Onix"><img alt="Onix" src="//cdn.bulbagarden.net/upload/c/cd/095MS.png" width="40" height="40" /></a><a href="/wiki/Gengar_(Pok%C3%A9mon)" title="Gengar"><img alt="Gengar" src="//cdn.bulbagarden.net/upload/a/a4/094MS.png" width="40" height="40" /></a><a href="/wiki/Venusaur_(Pok%C3%A9mon)" title="Venusaur"><img alt="Venusaur" src="//cdn.bulbagarden.net/upload/d/df/003MS.png" width="40" height="40" /></a><a href="/wiki/Electabuzz_(Pok%C3%A9mon)" title="Electabuzz"><img alt="Electabuzz" src="//cdn.bulbagarden.net/upload/7/72/125MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Drake%27s_Dragonite" title="149"><img alt="149" src="//cdn.bulbagarden.net/upload/c/cc/149MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#DDDDDD; border: 3px solid #FFCB49">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Movie
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/M03" title="M03">M03</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Totodile" title="158"><img alt="158" src="//cdn.bulbagarden.net/upload/f/f5/158MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Bayleef" title="152"><img alt="152" src="//cdn.bulbagarden.net/upload/7/79/152MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Noctowl" title="164s"><img alt="164s" src="//cdn.bulbagarden.net/upload/5/5f/164sMS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Bulbasaur" title="001"><img alt="001" src="//cdn.bulbagarden.net/upload/e/ec/001MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Cyndaquil" title="155"><img alt="155" src="//cdn.bulbagarden.net/upload/3/39/155MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Lisa_(M03)" title="Lisa (M03)">Lisa</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Granbull_(Pok%C3%A9mon)" title="Granbull"><img alt="Granbull" src="//cdn.bulbagarden.net/upload/c/cd/210MS.png" width="40" height="40" /></a><a href="/wiki/Girafarig_(Pok%C3%A9mon)" title="Girafarig"><img alt="Girafarig" src="//cdn.bulbagarden.net/upload/6/6a/203MS.png" width="40" height="40" /></a><a href="/wiki/Aipom_(Pok%C3%A9mon)" title="Aipom"><img alt="Aipom" src="//cdn.bulbagarden.net/upload/0/00/190MS.png" width="40" height="40" /></a><a href="/wiki/Butterfree_(Pok%C3%A9mon)" title="Butterfree"><img alt="Butterfree" src="//cdn.bulbagarden.net/upload/1/14/012MS.png" width="40" height="40" /></a><a href="/wiki/Mankey_(Pok%C3%A9mon)" title="Mankey"><img alt="Mankey" src="//cdn.bulbagarden.net/upload/a/ad/056MS.png" width="40" height="40" /></a><a href="/wiki/Quagsire_(Pok%C3%A9mon)" title="Quagsire"><img alt="Quagsire" src="//cdn.bulbagarden.net/upload/8/8b/195MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#DDDDDD; border: 3px solid #FFCB49">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episodes
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/EP269" title="EP269">EP269</a><br /><a href="/wiki/EP270" title="EP270">EP270</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Tauros" title="128"><img alt="128" src="//cdn.bulbagarden.net/upload/9/95/128MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Heracross" title="214"><img alt="214" src="//cdn.bulbagarden.net/upload/4/4c/214MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Muk" title="089"><img alt="089" src="//cdn.bulbagarden.net/upload/b/b4/089MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Bayleef" title="153"><img alt="153" src="//cdn.bulbagarden.net/upload/3/31/153MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Snorlax" title="143"><img alt="143" src="//cdn.bulbagarden.net/upload/d/d6/143MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Charizard" title="006"><img alt="006" src="//cdn.bulbagarden.net/upload/0/01/006MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Gary_Oak" title="Gary Oak">Gary</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Nidoqueen_(Pok%C3%A9mon)" title="Nidoqueen"><img alt="Nidoqueen" src="//cdn.bulbagarden.net/upload/3/31/031MS.png" width="40" height="40" /></a><a href="/wiki/Magmar_(Pok%C3%A9mon)" title="Magmar"><img alt="Magmar" src="//cdn.bulbagarden.net/upload/e/e7/126MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Gary%27s_Blastoise" title="009"><img alt="009" src="//cdn.bulbagarden.net/upload/c/cb/009MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Gary%27s_Arcanine" title="059"><img alt="059" src="//cdn.bulbagarden.net/upload/3/35/059MS.png" width="40" height="40" /></a></span><a href="/wiki/Scizor_(Pok%C3%A9mon)" title="Scizor"><img alt="Scizor" src="//cdn.bulbagarden.net/upload/f/f2/212MS.png" width="40" height="40" /></a><a href="/wiki/Golem_(Pok%C3%A9mon)" title="Golem"><img alt="Golem" src="//cdn.bulbagarden.net/upload/3/34/076MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#DDDDDD; border: 3px solid #FFCB49">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episodes
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/EP270" title="EP270">EP270</a><br /><a href="/wiki/EP271" title="EP271">EP271</a><br /><a href="/wiki/EP272" title="EP272">EP272</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Totodile" title="158"><img alt="158" src="//cdn.bulbagarden.net/upload/f/f5/158MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Snorlax" title="143"><img alt="143" src="//cdn.bulbagarden.net/upload/d/d6/143MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Noctowl" title="164s"><img alt="164s" src="//cdn.bulbagarden.net/upload/5/5f/164sMS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Bayleef" title="153"><img alt="153" src="//cdn.bulbagarden.net/upload/3/31/153MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Charizard" title="006"><img alt="006" src="//cdn.bulbagarden.net/upload/0/01/006MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Harrison_(Johto)" title="Harrison (Johto)">Harrison</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Kecleon_(Pok%C3%A9mon)" title="Kecleon"><img alt="Kecleon" src="//cdn.bulbagarden.net/upload/3/39/352MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Harrison%27s_Sneasel" title="215"><img alt="215" src="//cdn.bulbagarden.net/upload/6/67/215MS.png" width="40" height="40" /></a></span><a href="/wiki/Hypno_(Pok%C3%A9mon)" title="Hypno"><img alt="Hypno" src="//cdn.bulbagarden.net/upload/9/98/097MS.png" width="40" height="40" /></a><a href="/wiki/Steelix_(Pok%C3%A9mon)" title="Steelix"><img alt="Steelix" src="//cdn.bulbagarden.net/upload/b/bf/208MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Harrison%27s_Houndoom" title="229"><img alt="229" src="//cdn.bulbagarden.net/upload/6/6b/229MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Harrison%27s_Blaziken" title="257"><img alt="257" src="//cdn.bulbagarden.net/upload/3/3e/257MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#DDDDDD; border: 3px solid #FFCB49">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/EP272" title="EP272">EP272</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Harrison_(Johto)" title="Harrison (Johto)">Harrison</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Harrison%27s_Houndoom" title="229"><img alt="229" src="//cdn.bulbagarden.net/upload/6/6b/229MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Jon_Dickson" title="Jon Dickson">Jon</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/Rhyhorn_(Pok%C3%A9mon)" title="Rhyhorn"><img alt="Rhyhorn" src="//cdn.bulbagarden.net/upload/6/67/111MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#DDDDDD; border: 3px solid #FFCB49">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/EP272" title="EP272">EP272</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Jon_Dickson" title="Jon Dickson">Jon</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/Rapidash_(Pok%C3%A9mon)" title="Rapidash"><img alt="Rapidash" src="//cdn.bulbagarden.net/upload/6/66/078MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> Unnamed<br />Trainer
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon"><img alt="Rhydon" src="//cdn.bulbagarden.net/upload/c/ce/112MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<h4><span class="mw-headline" id="Advanced_Generation_series"><a href="/wiki/Advanced_Generation_series" title="Advanced Generation series"><i>Advanced Generation</i> series</a></span></h4>
+<table class="roundy" style="margin:auto; text-align:center; background:#9999FF; border: 3px solid #FF7777">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> <span style="color:#000068;">Episodes</span>
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/AG128" title="AG128">AG128</a><br /><a href="/wiki/AG129" title="AG129">AG129</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Torkoal" title="324"><img alt="324" src="//cdn.bulbagarden.net/upload/3/39/324MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Glalie" title="362"><img alt="362" src="//cdn.bulbagarden.net/upload/d/d0/362MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Corphish" title="341"><img alt="341" src="//cdn.bulbagarden.net/upload/5/5a/341MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Swellow" title="277"><img alt="277" src="//cdn.bulbagarden.net/upload/1/1a/277MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Sceptile" title="253"><img alt="253" src="//cdn.bulbagarden.net/upload/a/a5/253MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Katie_(Hoenn)" title="Katie (Hoenn)">Katie</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Venomoth_(Pok%C3%A9mon)" title="Venomoth"><img alt="Venomoth" src="//cdn.bulbagarden.net/upload/3/31/049MS.png" width="40" height="40" /></a><a href="/wiki/Golduck_(Pok%C3%A9mon)" title="Golduck"><img alt="Golduck" src="//cdn.bulbagarden.net/upload/6/64/055MS.png" width="40" height="40" /></a><a href="/wiki/Dugtrio_(Pok%C3%A9mon)" title="Dugtrio"><img alt="Dugtrio" src="//cdn.bulbagarden.net/upload/8/86/051MS.png" width="40" height="40" /></a><a href="/wiki/Misdreavus_(Pok%C3%A9mon)" title="Misdreavus"><img alt="Misdreavus" src="//cdn.bulbagarden.net/upload/8/89/200MS.png" width="40" height="40" /></a><a href="/wiki/Scizor_(Pok%C3%A9mon)" title="Scizor"><img alt="Scizor" src="//cdn.bulbagarden.net/upload/f/f2/212MS.png" width="40" height="40" /></a><a href="/wiki/Walrein_(Pok%C3%A9mon)" title="Walrein"><img alt="Walrein" src="//cdn.bulbagarden.net/upload/6/66/365MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#9999FF; border: 3px solid #FF7777">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/AG129" title="AG129">AG129</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Morrison" title="Morrison">Morrison</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Morrison%27s_Metang" title="375"><img alt="375" src="//cdn.bulbagarden.net/upload/2/22/375MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> Unnamed<br />Trainer
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/Machoke_(Pok%C3%A9mon)" title="Machoke"><img alt="Machoke" src="//cdn.bulbagarden.net/upload/1/1e/068MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#9999FF; border: 3px solid #FF7777">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/AG129" title="AG129">AG129</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Tyson_(Hoenn)" title="Tyson (Hoenn)">Tyson</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Tyson%27s_Meowth" title="052"><img alt="052" src="//cdn.bulbagarden.net/upload/5/50/052MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> Unnamed<br />Trainer
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon"><img alt="Rhydon" src="//cdn.bulbagarden.net/upload/c/ce/112MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#9999FF; border: 3px solid #FF7777">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> <span style="color:#000068;">Episodes</span>
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/AG129" title="AG129">AG129</a><br /><a href="/wiki/AG130" title="AG130">AG130</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Corphish" title="341"><img alt="341" src="//cdn.bulbagarden.net/upload/5/5a/341MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Torkoal" title="324"><img alt="324" src="//cdn.bulbagarden.net/upload/3/39/324MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Sceptile" title="253"><img alt="253" src="//cdn.bulbagarden.net/upload/a/a5/253MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Swellow" title="277"><img alt="277" src="//cdn.bulbagarden.net/upload/1/1a/277MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Glalie" title="362"><img alt="362" src="//cdn.bulbagarden.net/upload/d/d0/362MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Morrison" title="Morrison">Morrison</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Girafarig_(Pok%C3%A9mon)" title="Girafarig"><img alt="Girafarig" src="//cdn.bulbagarden.net/upload/6/6a/203MS.png" width="40" height="40" /></a><a href="/wiki/Growlithe_(Pok%C3%A9mon)" title="Growlithe"><img alt="Growlithe" src="//cdn.bulbagarden.net/upload/6/69/058MS.png" width="40" height="40" /></a><a href="/wiki/Swampert_(Pok%C3%A9mon)" title="Swampert"><img alt="Swampert" src="//cdn.bulbagarden.net/upload/a/a6/260MS.png" width="40" height="40" /></a><a href="/wiki/Steelix_(Pok%C3%A9mon)" title="Steelix"><img alt="Steelix" src="//cdn.bulbagarden.net/upload/b/bf/208MS.png" width="40" height="40" /></a><a href="/wiki/Gligar_(Pok%C3%A9mon)" title="Gligar"><img alt="Gligar" src="//cdn.bulbagarden.net/upload/6/67/207MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Morrison%27s_Metang" title="375"><img alt="375" src="//cdn.bulbagarden.net/upload/2/22/375MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#9999FF; border: 3px solid #FF7777">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/AG130" title="AG130">AG130</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Tyson_(Hoenn)" title="Tyson (Hoenn)">Tyson</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/Sceptile_(Pok%C3%A9mon)" title="Sceptile"><img alt="Sceptile" src="//cdn.bulbagarden.net/upload/f/ff/254MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> Unnamed<br />Trainer
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon"><img alt="Rhydon" src="//cdn.bulbagarden.net/upload/c/ce/112MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#9999FF; border: 3px solid #FF7777">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episodes
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/AG130" title="AG130">AG130</a><br /><a href="/wiki/AG131" title="AG131">AG131</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Glalie" title="362"><img alt="362" src="//cdn.bulbagarden.net/upload/d/d0/362MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Torkoal" title="324"><img alt="324" src="//cdn.bulbagarden.net/upload/3/39/324MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Corphish" title="341"><img alt="341" src="//cdn.bulbagarden.net/upload/5/5a/341MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Swellow" title="277"><img alt="277" src="//cdn.bulbagarden.net/upload/1/1a/277MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Sceptile" title="253"><img alt="253" src="//cdn.bulbagarden.net/upload/a/a5/253MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Tyson_(Hoenn)" title="Tyson (Hoenn)">Tyson</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Sceptile_(Pok%C3%A9mon)" title="Sceptile"><img alt="Sceptile" src="//cdn.bulbagarden.net/upload/f/ff/254MS.png" width="40" height="40" /></a><a href="/wiki/Shiftry_(Pok%C3%A9mon)" title="Shiftry"><img alt="Shiftry" src="//cdn.bulbagarden.net/upload/3/34/275MS.png" width="40" height="40" /></a><a href="/wiki/Hariyama_(Pok%C3%A9mon)" title="Hariyama"><img alt="Hariyama" src="//cdn.bulbagarden.net/upload/d/dd/297MS.png" width="40" height="40" /></a><a href="/wiki/Donphan_(Pok%C3%A9mon)" title="Donphan"><img alt="Donphan" src="//cdn.bulbagarden.net/upload/2/2c/232MS.png" width="40" height="40" /></a><a href="/wiki/Metagross_(Pok%C3%A9mon)" title="Metagross"><img alt="Metagross" src="//cdn.bulbagarden.net/upload/2/2d/376MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Tyson%27s_Meowth" title="052"><img alt="052" src="//cdn.bulbagarden.net/upload/5/50/052MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table><br clear="all" />
+<h4><span class="mw-headline" id="Diamond_.26_Pearl_series"><a href="/wiki/Diamond_%26_Pearl_series" title="Diamond &amp; Pearl series"><i>Diamond &amp; Pearl</i> series</a></span></h4>
+<table class="roundy" style="margin:auto; text-align:center; background:#FFCCCC; border: 3px solid #AAAAFF">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/DP040" title="DP040">DP040</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Paul" title="Paul">Paul</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Infernape" title="390"><img alt="390" src="//cdn.bulbagarden.net/upload/9/93/390MS.png" width="40" height="40" /></a></span><a href="/wiki/Weavile_(Pok%C3%A9mon)" title="Weavile"><img alt="Weavile" src="//cdn.bulbagarden.net/upload/9/96/461MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Paul%27s_Honchkrow" title="198"><img alt="198" src="//cdn.bulbagarden.net/upload/7/71/198MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Paul%27s_Torterra" title="389"><img alt="389" src="//cdn.bulbagarden.net/upload/1/1f/389MS.png" width="40" height="40" /></a></span><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Forfeit
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Cynthia" title="Cynthia">Cynthia</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Cynthia%27s_Garchomp" title="445"><img alt="445" src="//cdn.bulbagarden.net/upload/6/63/445MS.png" width="40" height="40" /></a></span><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#FFCCCC; border: 3px solid #AAAAFF">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/DP128" title="DP128">DP128</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Paul" title="Paul">Paul</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Paul%27s_Magmortar" title="126"><img alt="126" src="//cdn.bulbagarden.net/upload/e/e7/126MS.png" width="40" height="40" /></a></span><a href="/wiki/Hariyama_(Pok%C3%A9mon)" title="Hariyama"><img alt="Hariyama" src="//cdn.bulbagarden.net/upload/d/dd/297MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Paul%27s_Electivire" title="125"><img alt="125" src="//cdn.bulbagarden.net/upload/7/72/125MS.png" width="40" height="40" /></a></span><a href="/wiki/Nidoking_(Pok%C3%A9mon)" title="Nidoking"><img alt="Nidoking" src="//cdn.bulbagarden.net/upload/1/18/034MS.png" width="40" height="40" /></a><a href="/wiki/Lairon_(Pok%C3%A9mon)" title="Lairon"><img alt="Lairon" src="//cdn.bulbagarden.net/upload/3/3e/305MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Paul%27s_Ursaring" title="217"><img alt="217" src="//cdn.bulbagarden.net/upload/5/50/217MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Pyramid_King_Brandon" title="Pyramid King Brandon">Brandon</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Brandon%27s_legendary_titans#Regirock" title="377"><img alt="377" src="//cdn.bulbagarden.net/upload/6/6c/377MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Brandon%27s_legendary_titans#Registeel" title="379"><img alt="379" src="//cdn.bulbagarden.net/upload/2/2e/379MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Brandon%27s_legendary_titans#Regice" title="378"><img alt="378" src="//cdn.bulbagarden.net/upload/9/99/378MS.png" width="40" height="40" /></a></span><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#FFCCCC; border: 3px solid #AAAAFF">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episodes
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/DP131" title="DP131">DP131</a><br /><a href="/wiki/DP132" title="DP132">DP132</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Buizel" title="418"><img alt="418" src="//cdn.bulbagarden.net/upload/7/7c/418MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Gliscor" title="472"><img alt="472" src="//cdn.bulbagarden.net/upload/a/ad/472MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Staraptor" title="398"><img alt="398" src="//cdn.bulbagarden.net/upload/5/5f/398MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Torterra" title="388"><img alt="388" src="//cdn.bulbagarden.net/upload/4/40/388MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Infernape" title="391"><img alt="391" src="//cdn.bulbagarden.net/upload/7/70/391MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Paul" title="Paul">Paul</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Paul%27s_Torterra" title="389"><img alt="389" src="//cdn.bulbagarden.net/upload/1/1f/389MS.png" width="40" height="40" /></a></span><a href="/wiki/Weavile_(Pok%C3%A9mon)" title="Weavile"><img alt="Weavile" src="//cdn.bulbagarden.net/upload/9/96/461MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Paul%27s_Electivire" title="125"><img alt="125" src="//cdn.bulbagarden.net/upload/7/72/125MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Paul%27s_Honchkrow" title="430"><img alt="430" src="//cdn.bulbagarden.net/upload/c/c0/430MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Paul%27s_Magmortar" title="467"><img alt="467" src="//cdn.bulbagarden.net/upload/4/4e/467MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Paul%27s_Ursaring" title="217"><img alt="217" src="//cdn.bulbagarden.net/upload/5/50/217MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#FFCCCC; border: 3px solid #AAAAFF">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episodes
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/DP186" title="DP186">DP186</a><br /><a href="/wiki/DP187" title="DP187">DP187</a><br /><a href="/wiki/DP188" title="DP188">DP188</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Infernape" title="392"><img alt="392" src="//cdn.bulbagarden.net/upload/f/f5/392MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Staraptor" title="398"><img alt="398" src="//cdn.bulbagarden.net/upload/5/5f/398MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Buizel" title="418"><img alt="418" src="//cdn.bulbagarden.net/upload/7/7c/418MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Torterra" title="389"><img alt="389" src="//cdn.bulbagarden.net/upload/1/1f/389MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Gliscor" title="472"><img alt="472" src="//cdn.bulbagarden.net/upload/a/ad/472MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Paul" title="Paul">Paul</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Aggron_(Pok%C3%A9mon)" title="Aggron"><img alt="Aggron" src="//cdn.bulbagarden.net/upload/d/d5/306MS.png" width="40" height="40" /></a><a href="/wiki/Gastrodon_(Pok%C3%A9mon)" title="Gastrodon"><img alt="Gastrodon" src="//cdn.bulbagarden.net/upload/6/69/423EMS.png" width="40" height="40" /></a><a href="/wiki/Drapion_(Pok%C3%A9mon)" title="Drapion"><img alt="Drapion" src="//cdn.bulbagarden.net/upload/9/96/452MS.png" width="40" height="40" /></a><a href="/wiki/Ninjask_(Pok%C3%A9mon)" title="Ninjask"><img alt="Ninjask" src="//cdn.bulbagarden.net/upload/5/54/291MS.png" width="40" height="40" /></a><a href="/wiki/Froslass_(Pok%C3%A9mon)" title="Froslass"><img alt="Froslass" src="//cdn.bulbagarden.net/upload/8/8f/478MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Paul%27s_Electivire" title="466"><img alt="466" src="//cdn.bulbagarden.net/upload/5/53/466MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#FFCCCC; border: 3px solid #AAAAFF">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/DP189" title="DP189">DP189</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Heracross" title="214"><img alt="214" src="//cdn.bulbagarden.net/upload/4/4c/214MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Torkoal" title="324"><img alt="324" src="//cdn.bulbagarden.net/upload/3/39/324MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Gible" title="443"><img alt="443" src="//cdn.bulbagarden.net/upload/7/7c/443MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Sceptile" title="254"><img alt="254" src="//cdn.bulbagarden.net/upload/f/ff/254MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Swellow" title="277"><img alt="277" src="//cdn.bulbagarden.net/upload/1/1a/277MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Tobias_(Sinnoh)" title="Tobias (Sinnoh)">Tobias</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Darkrai_(Pok%C3%A9mon)" title="Darkrai"><img alt="Darkrai" src="//cdn.bulbagarden.net/upload/a/a7/491MS.png" width="40" height="40" /></a><a href="/wiki/Latios_(Pok%C3%A9mon)" title="Latios"><img alt="Latios" src="//cdn.bulbagarden.net/upload/a/a4/381MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#FFCCCC; border: 3px solid #AAAAFF">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/DP189" title="DP189">DP189</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Tobias_(Sinnoh)" title="Tobias (Sinnoh)">Tobias</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Darkrai_(Pok%C3%A9mon)" title="Darkrai"><img alt="Darkrai" src="//cdn.bulbagarden.net/upload/a/a7/491MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> Unnamed<br />Trainer
+</td>
+<td style="background:#FFF"> <a href="/wiki/Granbull_(Pok%C3%A9mon)" title="Granbull"><img alt="Granbull" src="//cdn.bulbagarden.net/upload/c/cd/210MS.png" width="40" height="40" /></a><a href="/wiki/Empoleon_(Pok%C3%A9mon)" title="Empoleon"><img alt="Empoleon" src="//cdn.bulbagarden.net/upload/f/ff/395MS.png" width="40" height="40" /></a><a href="/wiki/Magnezone_(Pok%C3%A9mon)" title="Magnezone"><img alt="Magnezone" src="//cdn.bulbagarden.net/upload/2/26/462MS.png" width="40" height="40" /></a><a href="/wiki/Zangoose_(Pok%C3%A9mon)" title="Zangoose"><img alt="Zangoose" src="//cdn.bulbagarden.net/upload/2/2c/335MS.png" width="40" height="40" /></a><a href="/wiki/Mismagius_(Pok%C3%A9mon)" title="Mismagius"><img alt="Mismagius" src="//cdn.bulbagarden.net/upload/4/47/429MS.png" width="40" height="40" /></a><a href="/wiki/Magmortar_(Pok%C3%A9mon)" title="Magmortar"><img alt="Magmortar" src="//cdn.bulbagarden.net/upload/4/4e/467MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<h4><span class="mw-headline" id="Best_Wishes_series"><a href="/wiki/Best_Wishes_series" title="Best Wishes series"><i>Best Wishes</i> series</a></span></h4>
+<table class="roundy" style="margin:auto; text-align:center; background:#E3CED0; border: 3px solid #424B50">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episodes
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/BW106" title="BW106">BW106</a><br /><a href="/wiki/BW107" title="BW107">BW107</a><br /><a href="/wiki/BW108" title="BW108">BW108</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Boldore" title="525"><img alt="525" src="//cdn.bulbagarden.net/upload/2/25/525MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Oshawott" title="501"><img alt="501" src="//cdn.bulbagarden.net/upload/c/cb/501MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Pignite" title="499"><img alt="499" src="//cdn.bulbagarden.net/upload/2/29/499MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Unfezant" title="521F"><img alt="521F" src="//cdn.bulbagarden.net/upload/e/e4/521FMS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Snivy" title="495"><img alt="495" src="//cdn.bulbagarden.net/upload/2/23/495MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Cameron_(Unova)" title="Cameron (Unova)">Cameron</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Hydreigon_(Pok%C3%A9mon)" title="Hydreigon"><img alt="Hydreigon" src="//cdn.bulbagarden.net/upload/8/83/635MS.png" width="40" height="40" /></a><a href="/wiki/Ferrothorn_(Pok%C3%A9mon)" title="Ferrothorn"><img alt="Ferrothorn" src="//cdn.bulbagarden.net/upload/9/9e/598MS.png" width="40" height="40" /></a><a href="/wiki/Samurott_(Pok%C3%A9mon)" title="Samurott"><img alt="Samurott" src="//cdn.bulbagarden.net/upload/9/99/503MS.png" width="40" height="40" /></a><a href="/wiki/Swanna_(Pok%C3%A9mon)" title="Swanna"><img alt="Swanna" src="//cdn.bulbagarden.net/upload/e/e8/581MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Cameron%27s_Lucario" title="448"><img alt="448" src="//cdn.bulbagarden.net/upload/b/be/448MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table>
+<p><br clear="all" />
+</p>
+<table class="roundy" style="margin:auto; text-align:center; background:#E3CED0; border: 3px solid #424B50">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/BW108" title="BW108">BW108</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Dino" title="Dino">Dino</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Darmanitan_(Pok%C3%A9mon)" title="Darmanitan"><img alt="Darmanitan" src="//cdn.bulbagarden.net/upload/5/52/555MS.png" width="40" height="40" /></a><a href="/wiki/Mandibuzz_(Pok%C3%A9mon)" title="Mandibuzz"><img alt="Mandibuzz" src="//cdn.bulbagarden.net/upload/f/f7/630MS.png" width="40" height="40" /></a><a href="/wiki/Cofagrigus_(Pok%C3%A9mon)" title="Cofagrigus"><img alt="Cofagrigus" src="//cdn.bulbagarden.net/upload/9/9b/563MS.png" width="40" height="40" /></a><a href="/wiki/Leavanny_(Pok%C3%A9mon)" title="Leavanny"><img alt="Leavanny" src="//cdn.bulbagarden.net/upload/2/2d/542MS.png" width="40" height="40" /></a><a href="/wiki/Galvantula_(Pok%C3%A9mon)" title="Galvantula"><img alt="Galvantula" src="//cdn.bulbagarden.net/upload/c/c4/596MS.png" width="40" height="40" /></a><a href="/wiki/Druddigon_(Pok%C3%A9mon)" title="Druddigon"><img alt="Druddigon" src="//cdn.bulbagarden.net/upload/5/53/621MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Katharine" title="Katharine">Katharine</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#E3CED0; border: 3px solid #424B50">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/BW108" title="BW108">BW108</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ramone" title="Ramone">Ramone</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Lilligant_(Pok%C3%A9mon)" title="Lilligant"><img alt="Lilligant" src="//cdn.bulbagarden.net/upload/d/d1/549MS.png" width="40" height="40" /></a><a href="/wiki/Stoutland_(Pok%C3%A9mon)" title="Stoutland"><img alt="Stoutland" src="//cdn.bulbagarden.net/upload/0/0f/508MS.png" width="40" height="40" /></a><a href="/wiki/Beartic_(Pok%C3%A9mon)" title="Beartic"><img alt="Beartic" src="//cdn.bulbagarden.net/upload/f/f9/614MS.png" width="40" height="40" /></a><a href="/wiki/Durant_(Pok%C3%A9mon)" title="Durant"><img alt="Durant" src="//cdn.bulbagarden.net/upload/a/a4/632MS.png" width="40" height="40" /></a><a href="/wiki/Seismitoad_(Pok%C3%A9mon)" title="Seismitoad"><img alt="Seismitoad" src="//cdn.bulbagarden.net/upload/9/95/537MS.png" width="40" height="40" /></a><a href="/wiki/Chandelure_(Pok%C3%A9mon)" title="Chandelure"><img alt="Chandelure" src="//cdn.bulbagarden.net/upload/3/39/609MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Antonio" title="Antonio">Antonio</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#E3CED0; border: 3px solid #424B50">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/BW108" title="BW108">BW108</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Virgil" title="Virgil">Virgil</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Vaporeon_(Pok%C3%A9mon)" title="Vaporeon"><img alt="Vaporeon" src="//cdn.bulbagarden.net/upload/b/be/134MS.png" width="40" height="40" /></a><a href="/wiki/Flareon_(Pok%C3%A9mon)" title="Flareon"><img alt="Flareon" src="//cdn.bulbagarden.net/upload/3/30/136MS.png" width="40" height="40" /></a><a href="/wiki/Jolteon_(Pok%C3%A9mon)" title="Jolteon"><img alt="Jolteon" src="//cdn.bulbagarden.net/upload/1/16/135MS.png" width="40" height="40" /></a><a href="/wiki/Leafeon_(Pok%C3%A9mon)" title="Leafeon"><img alt="Leafeon" src="//cdn.bulbagarden.net/upload/1/12/470MS.png" width="40" height="40" /></a><a href="/wiki/Glaceon_(Pok%C3%A9mon)" title="Glaceon"><img alt="Glaceon" src="//cdn.bulbagarden.net/upload/b/bb/471MS.png" width="40" height="40" /></a><a href="/wiki/Eevee_(Pok%C3%A9mon)" title="Eevee"><img alt="Eevee" src="//cdn.bulbagarden.net/upload/d/de/133MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Russet" title="Russet">Russet</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table><br clear="all" />
+<table class="roundy" style="margin:auto; text-align:center; background:#E3CED0; border: 3px solid #424B50">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/BW108" title="BW108">BW108</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Cameron_(Unova)" title="Cameron (Unova)">Cameron</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Samurott_(Pok%C3%A9mon)" title="Samurott"><img alt="Samurott" src="//cdn.bulbagarden.net/upload/9/99/503MS.png" width="40" height="40" /></a><a href="/wiki/Ferrothorn_(Pok%C3%A9mon)" title="Ferrothorn"><img alt="Ferrothorn" src="//cdn.bulbagarden.net/upload/9/9e/598MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Cameron%27s_Lucario" title="448"><img alt="448" src="//cdn.bulbagarden.net/upload/b/be/448MS.png" width="40" height="40" /></a></span><a href="/wiki/Hydreigon_(Pok%C3%A9mon)" title="Hydreigon"><img alt="Hydreigon" src="//cdn.bulbagarden.net/upload/8/83/635MS.png" width="40" height="40" /></a><a href="/wiki/Swanna_(Pok%C3%A9mon)" title="Swanna"><img alt="Swanna" src="//cdn.bulbagarden.net/upload/e/e8/581MS.png" width="40" height="40" /></a><a href="/wiki/Watchog_(Pok%C3%A9mon)" title="Watchog"><img alt="Watchog" src="//cdn.bulbagarden.net/upload/9/9b/505MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Virgil" title="Virgil">Virgil</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Jolteon_(Pok%C3%A9mon)" title="Jolteon"><img alt="Jolteon" src="//cdn.bulbagarden.net/upload/1/16/135MS.png" width="40" height="40" /></a><a href="/wiki/Leafeon_(Pok%C3%A9mon)" title="Leafeon"><img alt="Leafeon" src="//cdn.bulbagarden.net/upload/1/12/470MS.png" width="40" height="40" /></a><a href="/wiki/Umbreon_(Pok%C3%A9mon)" title="Umbreon"><img alt="Umbreon" src="//cdn.bulbagarden.net/upload/7/76/197MS.png" width="40" height="40" /></a><a href="/wiki/Espeon_(Pok%C3%A9mon)" title="Espeon"><img alt="Espeon" src="//cdn.bulbagarden.net/upload/a/a7/196MS.png" width="40" height="40" /></a><a href="/wiki/Flareon_(Pok%C3%A9mon)" title="Flareon"><img alt="Flareon" src="//cdn.bulbagarden.net/upload/3/30/136MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table>
+<p><br clear="all" />
+</p>
+<table class="roundy" style="margin:auto; text-align:center; background:#E3CED0; border: 3px solid #424B50">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/BW108" title="BW108">BW108</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Dino" title="Dino">Dino</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Chandelure_(Pok%C3%A9mon)" title="Chandelure"><img alt="Chandelure" src="//cdn.bulbagarden.net/upload/3/39/609MS.png" width="40" height="40" /></a><a href="/wiki/Gigalith_(Pok%C3%A9mon)" title="Gigalith"><img alt="Gigalith" src="//cdn.bulbagarden.net/upload/5/53/526MS.png" width="40" height="40" /></a><a href="/wiki/Seismitoad_(Pok%C3%A9mon)" title="Seismitoad"><img alt="Seismitoad" src="//cdn.bulbagarden.net/upload/9/95/537MS.png" width="40" height="40" /></a><a href="/wiki/Heatmor_(Pok%C3%A9mon)" title="Heatmor"><img alt="Heatmor" src="//cdn.bulbagarden.net/upload/e/e2/631MS.png" width="40" height="40" /></a><a href="/wiki/Mandibuzz_(Pok%C3%A9mon)" title="Mandibuzz"><img alt="Mandibuzz" src="//cdn.bulbagarden.net/upload/f/f7/630MS.png" width="40" height="40" /></a><a href="/wiki/Druddigon_(Pok%C3%A9mon)" title="Druddigon"><img alt="Druddigon" src="//cdn.bulbagarden.net/upload/5/53/621MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Virgil" title="Virgil">Virgil</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Jolteon_(Pok%C3%A9mon)" title="Jolteon"><img alt="Jolteon" src="//cdn.bulbagarden.net/upload/1/16/135MS.png" width="40" height="40" /></a><a href="/wiki/Leafeon_(Pok%C3%A9mon)" title="Leafeon"><img alt="Leafeon" src="//cdn.bulbagarden.net/upload/1/12/470MS.png" width="40" height="40" /></a><a href="/wiki/Umbreon_(Pok%C3%A9mon)" title="Umbreon"><img alt="Umbreon" src="//cdn.bulbagarden.net/upload/7/76/197MS.png" width="40" height="40" /></a><a href="/wiki/Eevee_(Pok%C3%A9mon)" title="Eevee"><img alt="Eevee" src="//cdn.bulbagarden.net/upload/d/de/133MS.png" width="40" height="40" /></a><a href="/wiki/Espeon_(Pok%C3%A9mon)" title="Espeon"><img alt="Espeon" src="//cdn.bulbagarden.net/upload/a/a7/196MS.png" width="40" height="40" /></a><a href="/wiki/Flareon_(Pok%C3%A9mon)" title="Flareon"><img alt="Flareon" src="//cdn.bulbagarden.net/upload/3/30/136MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table>
+<h4><span class="mw-headline" id="XY_series"><a href="/wiki/XY_series" title="XY series"><i>XY</i> series</a></span></h4>
+<table class="roundy" style="margin:auto; text-align:center; background:#C4E673; border: 3px solid #78C850">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/XY127" title="XY127">XY127</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Alain" title="Alain">Alain</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Metagross_(Pok%C3%A9mon)" title="Metagross"><img alt="Metagross" src="//cdn.bulbagarden.net/upload/2/2d/376MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Alain%27s_Charizard" title="006MX"><img alt="006MX" src="//cdn.bulbagarden.net/upload/f/ff/006MXMS.png" width="40" height="40" /></a></span><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a><a href="/wiki/File:000MS.png" class="image"><img alt="000MS.png" src="//cdn.bulbagarden.net/upload/a/ab/000MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Remo" title="Remo">Remo</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Granbull_(Pok%C3%A9mon)" title="Granbull"><img alt="Granbull" src="//cdn.bulbagarden.net/upload/c/cd/210MS.png" width="40" height="40" /></a><a href="/wiki/Bouffalant_(Pok%C3%A9mon)" title="Bouffalant"><img alt="Bouffalant" src="//cdn.bulbagarden.net/upload/0/01/626MS.png" width="40" height="40" /></a><a href="/wiki/Pelipper_(Pok%C3%A9mon)" title="Pelipper"><img alt="Pelipper" src="//cdn.bulbagarden.net/upload/9/96/279MS.png" width="40" height="40" /></a><a href="/wiki/Gurdurr_(Pok%C3%A9mon)" title="Gurdurr"><img alt="Gurdurr" src="//cdn.bulbagarden.net/upload/2/2d/533MS.png" width="40" height="40" /></a><a href="/wiki/Rhyperior_(Pok%C3%A9mon)" title="Rhyperior"><img alt="Rhyperior" src="//cdn.bulbagarden.net/upload/e/e9/464MS.png" width="40" height="40" /></a><a href="/wiki/Garchomp_(Pok%C3%A9mon)" title="Garchomp"><img alt="Garchomp" src="//cdn.bulbagarden.net/upload/7/7f/445MMS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table>
+<p><br clear="all" />
+</p>
+<table class="roundy" style="margin:auto; text-align:center; background:#C4E673; border: 3px solid #78C850">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episodes
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/XY127" title="XY127">XY127</a><br /><a href="/wiki/XY128" title="XY128">XY128</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Hawlucha" title="701"><img alt="701" src="//cdn.bulbagarden.net/upload/0/04/701MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Talonflame" title="663"><img alt="663" src="//cdn.bulbagarden.net/upload/8/81/663MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Noivern" title="715"><img alt="715" src="//cdn.bulbagarden.net/upload/4/4f/715MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Goodra" title="706"><img alt="706" src="//cdn.bulbagarden.net/upload/3/3c/706MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Greninja" title="658A"><img alt="658A" src="//cdn.bulbagarden.net/upload/f/f1/658AMS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Sawyer" title="Sawyer">Sawyer</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Slaking_(Pok%C3%A9mon)" title="Slaking"><img alt="Slaking" src="//cdn.bulbagarden.net/upload/0/0d/289MS.png" width="40" height="40" /></a><a href="/wiki/Clawitzer_(Pok%C3%A9mon)" title="Clawitzer"><img alt="Clawitzer" src="//cdn.bulbagarden.net/upload/d/d8/693MS.png" width="40" height="40" /></a><a href="/wiki/Aegislash_(Pok%C3%A9mon)" title="Aegislash"><img alt="Aegislash" src="//cdn.bulbagarden.net/upload/3/37/681MS.png" width="40" height="40" /></a><a href="/wiki/Salamence_(Pok%C3%A9mon)" title="Salamence"><img alt="Salamence" src="//cdn.bulbagarden.net/upload/8/8c/373MS.png" width="40" height="40" /></a><a href="/wiki/Slurpuff_(Pok%C3%A9mon)" title="Slurpuff"><img alt="Slurpuff" src="//cdn.bulbagarden.net/upload/c/cd/685MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Sawyer%27s_Sceptile" title="254M"><img alt="254M" src="//cdn.bulbagarden.net/upload/2/27/254MMS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table>
+<p><br clear="all" />
+</p>
+<table class="roundy" style="margin:auto; text-align:center; background:#C4E673; border: 3px solid #78C850">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episodes
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/XY130" title="XY130">XY130</a><br /><a href="/wiki/XY131" title="XY131">XY131</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>
+</td>
+<td style="background:#FFF"> <span class="plainlinks"><a href="/wiki/Ash%27s_Pikachu" title="025"><img alt="025" src="//cdn.bulbagarden.net/upload/0/0f/025MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Noivern" title="715"><img alt="715" src="//cdn.bulbagarden.net/upload/4/4f/715MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Hawlucha" title="701"><img alt="701" src="//cdn.bulbagarden.net/upload/0/04/701MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Talonflame" title="663"><img alt="663" src="//cdn.bulbagarden.net/upload/8/81/663MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Goodra" title="706"><img alt="706" src="//cdn.bulbagarden.net/upload/3/3c/706MS.png" width="40" height="40" /></a></span><span class="plainlinks"><a href="/wiki/Ash%27s_Greninja" title="658A"><img alt="658A" src="//cdn.bulbagarden.net/upload/f/f1/658AMS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Loss
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Alain" title="Alain">Alain</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Tyranitar_(Pok%C3%A9mon)" title="Tyranitar"><img alt="Tyranitar" src="//cdn.bulbagarden.net/upload/0/0f/248MS.png" width="40" height="40" /></a><a href="/wiki/Weavile_(Pok%C3%A9mon)" title="Weavile"><img alt="Weavile" src="//cdn.bulbagarden.net/upload/9/96/461MS.png" width="40" height="40" /></a><a href="/wiki/Bisharp_(Pok%C3%A9mon)" title="Bisharp"><img alt="Bisharp" src="//cdn.bulbagarden.net/upload/3/3e/625MS.png" width="40" height="40" /></a><a href="/wiki/Unfezant_(Pok%C3%A9mon)" title="Unfezant"><img alt="Unfezant" src="//cdn.bulbagarden.net/upload/a/a9/521MS.png" width="40" height="40" /></a><a href="/wiki/Metagross_(Pok%C3%A9mon)" title="Metagross"><img alt="Metagross" src="//cdn.bulbagarden.net/upload/2/2d/376MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Alain%27s_Charizard" title="006MX"><img alt="006MX" src="//cdn.bulbagarden.net/upload/f/ff/006MXMS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Win
+</td></tr></table>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Origins">In <a href="/wiki/Pok%C3%A9mon_Origins" title="Pokémon Origins">Pokémon Origins</a></span></h3>
+<table class="roundy" style="margin:auto; text-align:center; background:#AAFFAA; border: 3px solid #FFAAAA">
+
+<tr>
+<th style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px;"> Episode
+</th>
+<th> <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer"><span style="color:#000;">Trainer</span></a>
+</th>
+<th> Pokémon
+</th>
+<th style="border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;"> Result
+</th></tr>
+<tr>
+<td rowspan="2" style="background:#FFF; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px;"> <a href="/wiki/PO04" title="PO04">PO04</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Red_(Origins)" title="Red (Origins)">Red</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Jolteon_(Pok%C3%A9mon)" title="Jolteon"><img alt="Jolteon" src="//cdn.bulbagarden.net/upload/1/16/135MS.png" width="40" height="40" /></a><a href="/wiki/Scyther_(Pok%C3%A9mon)" title="Scyther"><img alt="Scyther" src="//cdn.bulbagarden.net/upload/5/54/123MS.png" width="40" height="40" /></a><a href="/wiki/Lapras_(Pok%C3%A9mon)" title="Lapras"><img alt="Lapras" src="//cdn.bulbagarden.net/upload/4/4b/131MS.png" width="40" height="40" /></a><a href="/wiki/Dodrio_(Pok%C3%A9mon)" title="Dodrio"><img alt="Dodrio" src="//cdn.bulbagarden.net/upload/1/19/085MS.png" width="40" height="40" /></a><a href="/wiki/Persian_(Pok%C3%A9mon)" title="Persian"><img alt="Persian" src="//cdn.bulbagarden.net/upload/a/a7/053MS.png" width="40" height="40" /></a><span class="plainlinks"><a href="/wiki/Red%27s_Charizard" title="006"><img alt="006" src="//cdn.bulbagarden.net/upload/0/01/006MS.png" width="40" height="40" /></a></span>
+</td>
+<td style="background:#FFF"> Win
+</td></tr>
+<tr>
+<td style="background:#FFF"> <a href="/wiki/Blue_(Origins)" title="Blue (Origins)">Blue</a>
+</td>
+<td style="background:#FFF"> <a href="/wiki/Pidgeot_(Pok%C3%A9mon)" title="Pidgeot"><img alt="Pidgeot" src="//cdn.bulbagarden.net/upload/6/68/018MS.png" width="40" height="40" /></a><a href="/wiki/Alakazam_(Pok%C3%A9mon)" title="Alakazam"><img alt="Alakazam" src="//cdn.bulbagarden.net/upload/c/ca/065MS.png" width="40" height="40" /></a><a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon"><img alt="Rhydon" src="//cdn.bulbagarden.net/upload/c/ce/112MS.png" width="40" height="40" /></a><a href="/wiki/Arcanine_(Pok%C3%A9mon)" title="Arcanine"><img alt="Arcanine" src="//cdn.bulbagarden.net/upload/3/35/059MS.png" width="40" height="40" /></a><a href="/wiki/Exeggutor_(Pok%C3%A9mon)" title="Exeggutor"><img alt="Exeggutor" src="//cdn.bulbagarden.net/upload/d/db/103MS.png" width="40" height="40" /></a><a href="/wiki/Blastoise_(Pok%C3%A9mon)" title="Blastoise"><img alt="Blastoise" src="//cdn.bulbagarden.net/upload/c/cb/009MS.png" width="40" height="40" /></a>
+</td>
+<td style="background:#FFF; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> Loss
+</td></tr></table>
+<h2><span class="mw-headline" id="In_the_games">In the games</span></h2>
+<p>Unlike the anime, the games allow two Trainers to use different numbers of Pokémon. While the player can have six Pokémon in the <a href="/wiki/Party" title="Party">party</a> at a time, many <a href="/wiki/Non-player_character" title="Non-player character">NPCs</a> faced will not. Generally only <a href="/wiki/Rival" title="Rival">rivals</a> and <a href="/wiki/Pok%C3%A9mon_Champion" title="Pokémon Champion">Champions</a> have a full team during the main storyline, while <a href="/wiki/Gym_Leader" title="Gym Leader">Gym Leaders</a> and members of the <a href="/wiki/Elite_Four" title="Elite Four">Elite Four</a> may also have a full team in rematches. <a href="/wiki/Red_(game)" title="Red (game)">Red</a> also has a full team on the player's first match against him in <a href="/wiki/Generation_II" title="Generation II">Generations II</a> and <a href="/wiki/Generation_IV" title="Generation IV">IV</a>. Some <a href="/wiki/Pok%C3%A9mon_Breeder_(Trainer_class)" title="Pokémon Breeder (Trainer class)">Pokémon Breeders</a> maintain a full team, although their Pokémon usually have lower levels than other Trainers' Pokémon in the area. Most main series games have at least one <a href="/wiki/Fisherman_(Trainer_class)" title="Fisherman (Trainer class)">Fisherman</a> with a party of six <a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="Magikarp (Pokémon)">Magikarp</a>. The non-<a href="/wiki/Experience" title="Experience">XP</a> earning battles in <a href="/wiki/Category:Battle_areas" title="Category:Battle areas">battle areas</a> also have full battles. Only on rare occasions do other Trainers have a full team.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> The <a href="/wiki/Diamond_%26_Pearl_series" title="Diamond &amp; Pearl series"><i>Diamond &amp; Pearl</i> series</a> is the only series in which a Full Battle took place outside of the Pokémon League, excluding <a href="/wiki/Pok%C3%A9mon_movie" title="Pokémon movie">movies</a>.</li>
+<li> The <a href="/wiki/Best_Wishes_series" title="Best Wishes series"><i>Best Wishes</i> series</a> is the only series which did not feature a proper Full Battle. Only small parts of the battles between Cameron and Virgil and Virgil and Dino were shown. Though all of Ash's battle was shown, it was only a six-on-five battle.</li>
+<li> Ash's battle against Gary in the <a href="/wiki/Silver_Conference" title="Silver Conference">Silver Conference</a> is his only known Full Battle where he didn't use <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Pikachu</a>.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #F08030; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #9C531F; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #F08030; border-collapse:collapse">
+
+<tr style="background: #F08030">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 全體對戰 <i><span class="explain" title="Full Battle">Chyùhntái Deuijin</span></i>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 全面對戰 / 全面对战 <i><span class="explain" title="Full Battle">Quánmiàn Duìzhàn</span></i>
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> Totalekamp<span class="explain" title="XY series">*</span><br />Totalkamp<span class="explain" title="Diamond and Pearl series">*</span>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Täysottelu
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Lotta Totale
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 풀배틀 <i>Full Battle</i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Seks mot seks kamp
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Pełna bitwa
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazilian Portuguese</a>
+</td>
+<td> Batalha Total
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Полный битва шесть на шесть<span class="explain" title="Black and White series, XY series">*</span><br />Битва шесть на шесть <i>Bitva shest na shest</i><span class="explain" title="DP186-DP189">*</span>
+</td></tr>
+
+
+
+
+<tr>
+<td rowspan="2"> Spanish
+</td>
+<td> <a href="/wiki/File:CELAC_Flag.png" class="image"><img alt="CELAC Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/20px-CELAC_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/30px-CELAC_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ea/CELAC_Flag.png/40px-CELAC_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Latin_America" title="Pokémon in Latin America">Latin America</a>
+</td>
+<td> Batalla completa
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spain" title="Pokémon in Spain">Spain</a>
+</td>
+<td> Combate Total
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Totalstrid<br />Total Strid<span class="explain" title="Pokémon TV description for DP131 and DP186">*</span>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="background: #F08030">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<p><br clear="all" />
+</p>
+<table class="toccolours" cellspacing="2" style="margin:auto; border: 3px solid #88a; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
+
+<tr>
+<th colspan="2" style="background: #ccf; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; padding: 2px 15px;"> <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">Pokémon battle</a> variations
+</th></tr>
+<tr style="text-align:center; font-size:90%;">
+<td> <a href="/wiki/Double_Battle" title="Double Battle">Double Battle</a> • <a href="/wiki/Multi_Battle" title="Multi Battle">Multi Battle</a> • <a href="/wiki/Triple_Battle" title="Triple Battle">Triple Battle</a> • <a href="/wiki/Rotation_Battle" title="Rotation Battle">Rotation Battle</a> • <a href="/wiki/Horde_Encounter" title="Horde Encounter">Horde Encounter</a> • <a href="/wiki/Battle_Royal" title="Battle Royal">Battle Royal</a><br /><a class="mw-selflink selflink">Full Battle</a> • <a href="/wiki/Contest_Battle" title="Contest Battle">Contest Battle</a> • <a href="/wiki/Wonder_Launcher" title="Wonder Launcher">Launcher Battle</a> • <a href="/wiki/Sky_Battle" title="Sky Battle">Sky Battle</a> • <a href="/wiki/Inverse_Battle" title="Inverse Battle">Inverse Battle</a> • <a href="/wiki/SOS_Battle" title="SOS Battle">SOS Battle</a><br /><a href="/wiki/Template:Battlemode" title="Template:Battlemode">Battle modes</a>
+</td></tr></table>
+<p><br />
+</p>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Games_logo.png" class="image"><img alt="Project Games logo.png" src="//cdn.bulbagarden.net/upload/thumb/5/56/Project_Games_logo.png/80px-Project_Games_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/5/56/Project_Games_logo.png/120px-Project_Games_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/56/Project_Games_logo.png/160px-Project_Games_logo.png 2x" /></a>
+</td>
+<td> This game mechanic article is part of <b><a href="/wiki/Bulbapedia:Project_Games" title="Bulbapedia:Project Games">Project Games</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on the <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">Pokémon games</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180131084537
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.644 seconds
+Real time usage: 1.589 seconds
+Preprocessor visited node count: 6639/1000000
+Preprocessor generated node count: 18857/1000000
+Post‐expand include size: 54884/2097152 bytes
+Template argument size: 11158/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  374.418      1 -total
+  9.12%   34.145     29 Template:Colorschemelight
+  8.38%   31.385     29 Template:Colorschemedark
+  8.35%   31.257      1 Template:Langtable
+  7.29%   27.297    140 Template:MSP
+  6.89%   25.781    113 Template:MS
+  3.16%   11.830      1 Template:Spoilers
+  2.89%   10.833     29 Template:Roundybr
+  2.80%   10.493     29 Template:Roundybl
+  2.73%   10.235     29 Template:Roundytl
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:5006-0!*!0!!en!5!* and timestamp 20180131084535 and revision id 2654708
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Full_Battle&amp;oldid=2654708">https://bulbapedia.bulbagarden.net/w/index.php?title=Full_Battle&amp;oldid=2654708</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Pok%C3%A9mon_world" title="Category:Pokémon world">Pokémon world</a></li><li><a href="/wiki/Category:Terminology" title="Category:Terminology">Terminology</a></li><li><a href="/wiki/Category:Game_mechanics" title="Category:Game mechanics">Game mechanics</a></li><li><a href="/wiki/Category:Battle_variations" title="Category:Battle variations">Battle variations</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Full_Battle" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Full_Battle" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Full_Battle&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Full_Battle&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Full+Battle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Full+Battle" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Full_Battle" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Full_Battle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Full_Battle&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Full_Battle&amp;oldid=2654708" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Full_Battle&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Lotta_Totale" title="Lotta Totale – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Pe%C5%82na_bitwa" title="Pełna bitwa – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E5%85%A8%E9%9D%A2%E5%AF%B9%E6%88%98" title="全面对战 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 12 June 2017, at 16:19.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Full_Battle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.644","walltime":"1.589","ppvisitednodes":{"value":6639,"limit":1000000},"ppgeneratednodes":{"value":18857,"limit":1000000},"postexpandincludesize":{"value":54884,"limit":2097152},"templateargumentsize":{"value":11158,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  374.418      1 -total","  9.12%   34.145     29 Template:Colorschemelight","  8.38%   31.385     29 Template:Colorschemedark","  8.35%   31.257      1 Template:Langtable","  7.29%   27.297    140 Template:MSP","  6.89%   25.781    113 Template:MS","  3.16%   11.830      1 Template:Spoilers","  2.89%   10.833     29 Template:Roundybr","  2.80%   10.493     29 Template:Roundybl","  2.73%   10.235     29 Template:Roundytl"]},"cachereport":{"timestamp":"20180131084537","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

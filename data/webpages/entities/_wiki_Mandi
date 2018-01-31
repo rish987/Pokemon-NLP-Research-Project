@@ -1,0 +1,1349 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mandi - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mandi","wgTitle":"Mandi","wgCurRevisionId":2635984,"wgRevisionId":2635984,"wgArticleId":9658,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing more information","Characters with an unknown Japanese voice actor","Characters with an unknown English voice actor","Anime characters","Kanto characters of the day","Magicians","Male characters"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mandi","wgRelevantArticleId":9658,"wgRequestId":"87affcde76f71f8ab75daca4","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/a/ae/Mandi.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Mandi"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Mandi"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mandi rootpage-Mandi skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Mandi</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><dl><dd><i>If you were looking for the recurring character in </i><a href="/wiki/AG151" title="AG151">Weekend Warrior</a><i> and </i><a href="/wiki/AG181" title="AG181">Thinning the Hoard!</a><i>, see <a href="/wiki/Mandy_(AG151)" title="Mandy (AG151)">Mandy (AG151)</a>.</i></dd></dl>
+<hr />
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Mandi.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/a/ae/Mandi.png/250px-Mandi.png" width="250" height="191" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/a/ae/Mandi.png/375px-Mandi.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/ae/Mandi.png/500px-Mandi.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Mandi.png" class="internal" title="Enlarge"></a></div>Mandi</div></div></div>
+<p>The Astounding <b>Mandi</b> (Japanese: <b>コーム</b> <i>Kōmu</i>), spelled <b>Mandy</b> in <i><a href="/wiki/Extreme_Pok%C3%A9mon:_The_Guide_for_the_Ultimate_Fan" title="Extreme Pokémon: The Guide for the Ultimate Fan">Extreme Pokémon: The Guide for the Ultimate Fan</a></i>, was <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>'s first opponent in the <a href="/wiki/Indigo_Plateau_Conference" title="Indigo Plateau Conference">Indigo Plateau Conference</a>.
+</p><p>He is a <a href="/wiki/Character_of_the_day" title="Character of the day">character of the day</a> who appeared in <i><a href="/wiki/EP075" title="EP075">Round One - Begin!</a></i>. Mandi was confident that Ash was going to be an easy opponent for the first round; however, due to his enormously over-inflated ego, he underestimated his opponent and had all three of his Pokémon taken out by <a href="/wiki/Ash%27s_Krabby" class="mw-redirect" title="Ash's Krabby">Krabby</a>, who <a href="/wiki/Evolution" title="Evolution">evolved</a> into <a href="/wiki/Ash%27s_Kingler" title="Ash's Kingler">Kingler</a> during the <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">battle</a>.
+</p><p>He is a very popular <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainer</a> who has many fans. One reason for his popularity is probably that he can perform magic tricks—for example, he made a group of <a href="/wiki/Pidgey_(Pok%C3%A9mon)" title="Pidgey (Pokémon)">Pidgey</a> appear from nowhere.
+</p><p>His design basis is in the <a href="/wiki/Juggler_(Trainer_class)" title="Juggler (Trainer class)">Juggler</a> Trainer class, though his hairstyle is considerably different from them.
+</p><p>He reappeared in a flashback in <i><a href="/wiki/EP080" title="EP080">Friends to the End</a></i> and appeared in <i><a href="/wiki/The_Rivals" title="The Rivals">The Rivals</a></i>, the second anime opening.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Pok.C3.A9mon"><span class="tocnumber">1</span> <span class="toctext">Pokémon</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Achievements"><span class="tocnumber">2</span> <span class="toctext">Achievements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Pok.C3.A9mon_League"><span class="tocnumber">2.1</span> <span class="toctext">Pokémon League</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Voice_actors"><span class="tocnumber">3</span> <span class="toctext">Voice actors</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Pok.C3.A9mon">Pokémon</span></h2>
+<table style="margin:auto; background: #FAFFF4; border: 2px solid #78C850; width: 75%; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="text-align:center; background:#A7DB8D; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px; font-size: 400%"> の
+</td>
+<td><br /><b>This article is missing information on this character's Japanese voice actor and English voice actor.</b><br />You can help by adding this information.<br /><br />
+</td></tr></table>
+<hr />
+<p>This is a listing of Mandi's known Pokémon:
+</p>
+<table align="left" width="100%" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; background: #A8A878; border: 3px solid #6D5E9C;">
+
+<tr>
+<td colspan="2" rowspan="2" width="25%" align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;"> <a href="/wiki/File:Mandi_Pidgey.png" class="image" title="Mandi&#39;s Pidgey"><img alt="Mandi&#39;s Pidgey" src="//cdn.bulbagarden.net/upload/thumb/5/57/Mandi_Pidgey.png/200px-Mandi_Pidgey.png" width="200" height="152" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/Mandi_Pidgey.png/300px-Mandi_Pidgey.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/Mandi_Pidgey.png/400px-Mandi_Pidgey.png 2x" /></a>
+</td>
+<td> <big><big><center><b>   <span id="Pidgey"></span>Pidgey (multiple) </b></center></big></big>
+</td></tr>
+<tr>
+<td rowspan="5" align="left" width="75%" style="background:#FFFFFF; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; padding: 4px"> Mandi used these multiple <a href="/wiki/Pidgey_(Pok%C3%A9mon)" title="Pidgey (Pokémon)">Pidgey</a> while he was performing magic tricks before his battle.
+<p>None of Pidgey's moves are known.
+</p>
+</td></tr>
+<tr>
+<th style="background: #C6B7F5; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; width: 9%" align="right"> Debut
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <i><a href="/wiki/EP075" title="EP075">Round One - Begin!</a></i>
+</td></tr>
+</table>
+<div style="clear: left;"></div>
+<table align="left" width="100%" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; background: #78C850; border: 3px solid #A13959;">
+
+<tr>
+<td colspan="2" rowspan="2" width="25%" align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;"> <a href="/wiki/File:Mandi_Exeggutor.png" class="image" title="Mandi&#39;s Exeggutor"><img alt="Mandi&#39;s Exeggutor" src="//cdn.bulbagarden.net/upload/thumb/3/32/Mandi_Exeggutor.png/200px-Mandi_Exeggutor.png" width="200" height="153" srcset="//cdn.bulbagarden.net/upload/thumb/3/32/Mandi_Exeggutor.png/300px-Mandi_Exeggutor.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/32/Mandi_Exeggutor.png/400px-Mandi_Exeggutor.png 2x" /></a>
+</td>
+<td> <big><big><center><b>   <span id="Exeggutor"></span>Exeggutor </b></center></big></big>
+</td></tr>
+<tr>
+<td rowspan="5" align="left" width="75%" style="background:#FFFFFF; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; padding: 4px"> Mandi used his <a href="/wiki/Exeggutor_(Pok%C3%A9mon)" title="Exeggutor (Pokémon)">Exeggutor</a> as his first Pokémon during his battle against <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>, while Ash chose to use his <a href="/wiki/Ash%27s_Krabby" class="mw-redirect" title="Ash's Krabby">Krabby</a>. Exeggutor first attacked with Psywave, forcing Krabby into the water. Exeggutor then used its Psychic attack to turn the watery arena into a giant whirlpool, trapping Krabby in the vortex. Exeggutor then launched a barrage of Egg Bombs to the vortex, producing a Wall of Water to keep Ash from recalling it. However, Krabby eventually managed to get out of the vortex and grabbed Exeggutor's leaves with <a href="/wiki/Vice_Grip_(move)" title="Vice Grip (move)">Vice Grip</a>, causing it so much pain that it became unable to attack and commence Mandi's order for using Hypnosis. Krabby then used <a href="/wiki/Leer_(move)" title="Leer (move)">Leer</a> at Exeggutor and finished it off with <a href="/wiki/Stomp_(move)" title="Stomp (move)">Stomp</a>. It reappeared in flashbacks in <i><a href="/wiki/EP076" title="EP076">Fire and Ice</a></i> and <i><a href="/wiki/EP080" title="EP080">Friends to the End</a></i>.
+<p>Exeggutor's known moves are <a href="/wiki/Psywave_(move)" title="Psywave (move)">Psywave</a>, <a href="/wiki/Psychic_(move)" title="Psychic (move)">Psychic</a>, <a href="/wiki/Egg_Bomb_(move)" title="Egg Bomb (move)">Egg Bomb</a>, and <a href="/wiki/Hypnosis_(move)" title="Hypnosis (move)">Hypnosis</a><span class="explain" title="Mandi called for the attack, but Exeggutor couldn&#39;t execute it.">*</span>.
+</p>
+</td></tr>
+<tr>
+<th style="background: #FA92B2; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; width: 9%" align="right"> Debut
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <i><a href="/wiki/EP075" title="EP075">Round One - Begin!</a></i>
+</td></tr>
+<tr>
+<th align="center" colspan="2"> Voice actors
+</th></tr>
+<tr>
+<th style="background: #FA92B2; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;" align="right"> Japanese
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;">
+</td></tr>
+<tr>
+<th style="background: #FA92B2; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;" align="right"> English
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <a href="/wiki/Eric_Stuart" title="Eric Stuart">Eric Stuart</a>
+</td></tr></table>
+<div style="clear: left;"></div>
+<table align="left" width="100%" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; background: #6890F0; border: 3px solid #445E9C;">
+
+<tr>
+<td colspan="2" rowspan="2" width="25%" align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;"> <a href="/wiki/File:Mandi_Seadra.png" class="image" title="Mandi&#39;s Seadra"><img alt="Mandi&#39;s Seadra" src="//cdn.bulbagarden.net/upload/thumb/6/66/Mandi_Seadra.png/200px-Mandi_Seadra.png" width="200" height="153" srcset="//cdn.bulbagarden.net/upload/thumb/6/66/Mandi_Seadra.png/300px-Mandi_Seadra.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/66/Mandi_Seadra.png/400px-Mandi_Seadra.png 2x" /></a>
+</td>
+<td> <big><big><center><b>   <span id="Seadra"></span>Seadra </b></center></big></big>
+</td></tr>
+<tr>
+<td rowspan="5" align="left" width="75%" style="background:#FFFFFF; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; padding: 4px"> Mandi chose to send out his <a href="/wiki/Seadra_(Pok%C3%A9mon)" title="Seadra (Pokémon)">Seadra</a> as his second Pokémon in his battle against Ash. Ash's Krabby had just evolved into <a href="/wiki/Kingler_(Pok%C3%A9mon)" title="Kingler (Pokémon)">Kingler</a>, but Mandi stood calm and told his Dragon Pokémon to use Agility. With its Agility, Seadra was easily able to dodge all of Kingler's <a href="/wiki/Water_Gun_(move)" title="Water Gun (move)">Water Guns</a> and some of its <a href="/wiki/Bubble_(move)" title="Bubble (move)">Bubbles</a>, but it eventually got hit by a wide-spreading Bubble foam. The hit caused Seadra to fly into the air, and Kingler finished it off with <a href="/wiki/Crabhammer_(move)" title="Crabhammer (move)">Crabhammer</a>. It reappeared in a flashback in <i><a href="/wiki/EP076" title="EP076">Fire and Ice</a></i>.
+<p>Seadra's only known move is <a href="/wiki/Agility_(move)" title="Agility (move)">Agility</a>.
+</p>
+</td></tr>
+<tr>
+<th style="background: #9DB7F5; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; width: 9%" align="right"> Debut
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <i><a href="/wiki/EP075" title="EP075">Round One - Begin!</a></i>
+</td></tr>
+</table>
+<div style="clear: left;"></div>
+<table align="left" width="100%" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; background: #A040A0; border: 3px solid #6D5E9C;">
+
+<tr>
+<td colspan="2" rowspan="2" width="25%" align="center" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px;"> <a href="/wiki/File:Mandi_Golbat.png" class="image" title="Mandi&#39;s Golbat"><img alt="Mandi&#39;s Golbat" src="//cdn.bulbagarden.net/upload/thumb/3/34/Mandi_Golbat.png/200px-Mandi_Golbat.png" width="200" height="152" srcset="//cdn.bulbagarden.net/upload/thumb/3/34/Mandi_Golbat.png/300px-Mandi_Golbat.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/34/Mandi_Golbat.png/400px-Mandi_Golbat.png 2x" /></a>
+</td>
+<td> <big><big><center><b>   <span id="Golbat"></span>Golbat </b></center></big></big>
+</td></tr>
+<tr>
+<td rowspan="5" align="left" width="75%" style="background:#FFFFFF; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; -icab-border-radius: 10px; -o-border-radius: 10px; padding: 4px"> Mandi send out his <a href="/wiki/Golbat_(Pok%C3%A9mon)" title="Golbat (Pokémon)">Golbat</a> as his final Pokémon against Ash's Kingler. Ash told Kingler to dive underwater while Mandi commanded his Bat Pokémon to use Take Down. Kingler attempted to grab Golbat with Vice Grip, but Golbat evaded the attack by using Double Team. Golbat then launched a Razor Wind attack, hurting Kingler badly. Mandi was about to finish Kingler with Mega Drain, but Kingler launched a strong <a href="/wiki/Hyper_Beam_(move)" title="Hyper Beam (move)">Hyper Beam</a> at Golbat, knocking it out. It reappeared in flashbacks in <i><a href="/wiki/EP076" title="EP076">Fire and Ice</a></i> and <i><a href="/wiki/EP080" title="EP080">Friends to the End</a></i>. It was also seen in <i><a href="/wiki/The_Rivals" title="The Rivals">The Rivals</a></i>.
+<p>Golbat's known moves are <a href="/wiki/Take_Down_(move)" title="Take Down (move)">Take Down</a>, <a href="/wiki/Double_Team_(move)" title="Double Team (move)">Double Team</a>, <a href="/wiki/Razor_Wind_(move)" title="Razor Wind (move)">Razor Wind</a>, and <a href="/wiki/Mega_Drain_(move)" title="Mega Drain (move)">Mega Drain</a>.
+</p>
+</td></tr>
+<tr>
+<th style="background: #C6B7F5; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; width: 9%" align="right"> Debut
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <i><a href="/wiki/EP075" title="EP075">Round One - Begin!</a></i>
+</td></tr>
+<tr>
+<th align="center" colspan="2"> Voice actors
+</th></tr>
+<tr>
+<th style="background: #C6B7F5; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;" align="right"> Japanese
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <a href="/wiki/Shin%27ichir%C5%8D_Miki" title="Shin'ichirō Miki">Shin'ichirō Miki</a>
+</td></tr>
+<tr>
+<th style="background: #C6B7F5; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px;" align="right"> English
+</th>
+<td style="background: #FFFFFF; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px;"> <a href="/wiki/Shin%27ichir%C5%8D_Miki" title="Shin'ichirō Miki">Shin'ichirō Miki</a>
+</td></tr></table>
+<div style="clear: left;"></div>
+<h2><span class="mw-headline" id="Achievements">Achievements</span></h2>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_League">Pokémon League</span></h3>
+<p>Mandi has competed in the following <a href="/wiki/Pok%C3%A9mon_League_Conference" title="Pokémon League Conference">Pokémon League Conferences</a>:
+</p>
+<ul><li> <a href="/wiki/Indigo_Plateau_Conference" title="Indigo Plateau Conference">Indigo Plateau Conference</a> - Top 256 (<i><a href="/wiki/EP075" title="EP075">Round One - Begin!</a></i>)</li></ul>
+<h2><span class="mw-headline" id="Voice_actors">Voice actors</span></h2>
+<table class="roundy" align="left" style="background: #A8A878; border: 3px solid #C6C6A7;">
+
+<tr>
+<td>
+<table class="collapsible" width="100%" align="center" style="background: #A8A878;">
+
+<tr style="background: #A8A878;">
+<th colspan="2"> Language
+</th>
+<th> Voice actor
+</th></tr>
+<tr style="background:#FFF;">
+<td colspan="2"> Japanese
+</td>
+<td> 緑川 光 <i>Hikaru Midorikawa</i>
+</td></tr>
+<tr style="background:#FFF;">
+<td colspan="2"> English
+</td>
+<td> <a href="/wiki/Ted_Lewis" title="Ted Lewis">Ted Lewis</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+<tr style="background:#FFF;">
+<td colspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Peter Pihlström
+</td></tr>
+
+
+
+<tr style="background:#FFF;">
+<td colspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Israel" title="Pokémon in Israel">Hebrew</a>
+</td>
+<td> יובל סגל <i>Yuval Segal</i>
+</td></tr>
+
+
+
+
+
+
+<tr style="background:#FFF;">
+<td colspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Erik Skøld
+</td></tr>
+<tr style="background:#FFF;">
+<td colspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Robert Ostolski
+</td></tr>
+<tr style="background:#FFF;">
+<td colspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazilian Portuguese</a>
+</td>
+<td> Marcelo Campos
+</td></tr>
+
+
+
+
+<tr style="background:#FFF;">
+<td rowspan="2"> Spanish
+</td>
+<td> <a href="/wiki/Pok%C3%A9mon_in_Latin_America" title="Pokémon in Latin America">Latin America</a>
+</td>
+<td> Benjamín Rivera
+</td></tr>
+<tr style="background:#FFF;">
+<td> <a href="/wiki/Pok%C3%A9mon_in_Spain" title="Pokémon in Spain">Spain</a>
+</td>
+<td> Cholo Moratalla
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="background: #A8A878;">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> Mandi's nickname "The Astounding Mandi" is a reference to the real life magician <a href="https://en.wikipedia.org/wiki/James_Randi" class="extiw" title="wp:James Randi">James Randi</a>, whose stage-name was "The Amazing Randi".</li>
+<li> Two of his Pokémon he used against Ash, <a href="/wiki/Seadra_(Pok%C3%A9mon)" title="Seadra (Pokémon)">Seadra</a> and <a href="/wiki/Golbat_(Pok%C3%A9mon)" title="Golbat (Pokémon)">Golbat</a>, received new third-stage <a href="/wiki/Evolution" title="Evolution">evolutions</a> in the <a href="/wiki/Generation_II" title="Generation II">following generation</a>.</li></ul>
+<p><br clear="all" />
+</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="background: #dcdce7; border: 1px solid #dcdce7; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
+
+<tr>
+<td style="background: #bebed1; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; padding: 2px;">
+<table class="toccolours" align="center" cellspacing="0" cellpadding="5" style="text-align: center; line-height: 19px; border: 3px solid #88a; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; padding: 0px;">
+
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" style="background-color: transparent;">
+
+<tr>
+<th colspan="2" style="padding-bottom: 1px; padding-left: 20px; padding-right: 20px;"> <div style="background: #ccf; border-top-left-radius: 15px; -moz-border-radius-topleft: 15px; -webkit-border-top-left-radius: 15px; -khtml-border-top-left-radius: 15px; -icab-border-top-left-radius: 15px; -o-border-top-left-radius: 15px; border-top-right-radius: 15px; -moz-border-radius-topright: 15px; -webkit-border-top-right-radius: 15px; -khtml-border-top-right-radius: 15px; -icab-border-top-right-radius: 15px; -o-border-top-right-radius: 15px; padding: 2px 15px;"><a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Trainers</a> in <a href="/wiki/Pok%C3%A9mon_League_Conference" title="Pokémon League Conference">League Conferences</a></div>
+</th></tr>
+<tr style="font-size: 90%;">
+<th style="background: #ddf; border-top-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -o-border-top-left-radius: 10px; padding: 2px 15px;"> <a href="/wiki/Indigo_Plateau_Conference" title="Indigo Plateau Conference">Indigo Plateau Conference</a>:
+</th>
+<td style="background: #e6e6ff; border-top-right-radius: 10px; -moz-border-radius-topright: 10px; -webkit-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -o-border-top-right-radius: 10px; padding: 2px 10px;"> <a class="mw-selflink selflink">Mandi</a> • <a href="/wiki/Pete_Pebbleman" title="Pete Pebbleman">Pete</a> • <a href="/wiki/Gary_Oak" title="Gary Oak">Gary</a> • <a href="/wiki/Jeanette_Fisher" title="Jeanette Fisher">Jeanette</a> • <a href="/wiki/Melissa" title="Melissa">Melissa</a> • <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> • <a href="/wiki/Ritchie" title="Ritchie">Ritchie</a> • <a href="/wiki/Assunta" title="Assunta">Assunta</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%;">
+<th style="background: #ddf; padding: 2px 15px;"> <a href="/wiki/Silver_Conference" title="Silver Conference">Silver Conference</a>:
+</th>
+<td style="background: #e6e6ff; padding: 2px 10px;"> <a href="/wiki/Darren" title="Darren">Darren</a> • <a href="/wiki/Salvador" title="Salvador">Salvador</a> • <a href="/wiki/Vincent" title="Vincent">Jackson</a> • <a href="/wiki/Macy" title="Macy">Macy</a> • <a href="/wiki/Gary_Oak" title="Gary Oak">Gary</a> • <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> • <a href="/wiki/Harrison_(Johto)" title="Harrison (Johto)">Harrison</a> • <a href="/wiki/Jon_Dickson" title="Jon Dickson">Jon</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%;">
+<th style="background: #ddf; padding: 2px 15px;"> <a href="/wiki/Ever_Grande_Conference" title="Ever Grande Conference">Ever Grande Conference</a>:
+</th>
+<td style="background: #e6e6ff; padding: 2px 10px;">  <a href="/wiki/Jump_(AG126)" title="Jump (AG126)">Jump</a> • <a href="/wiki/Vivica" title="Vivica">Vivica</a> • <a href="/wiki/Gilbert_(AG126)" title="Gilbert (AG126)">Gilbert</a> • <a href="/wiki/Gavin" title="Gavin">Gavin</a> • <a href="/wiki/Dominick" title="Dominick">Dominick</a> • <a href="/wiki/Clark" title="Clark">Clark</a><br /><a href="/wiki/Johnny" title="Johnny">Johnny</a> • <a href="/wiki/Katie_(Hoenn)" title="Katie (Hoenn)">Katie</a> • <a href="/wiki/Morrison" title="Morrison">Morrison</a> • <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> • <a href="/wiki/Tyson_(Hoenn)" title="Tyson (Hoenn)">Tyson</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%;">
+<th style="background: #ddf; padding: 2px 15px;"> <a href="/wiki/Lily_of_the_Valley_Conference" title="Lily of the Valley Conference">Lily of the Valley Conference</a>:
+</th>
+<td style="background: #e6e6ff; padding: 2px 10px;"> <a href="/wiki/Jeffrey" title="Jeffrey">Jeffrey</a> • <a href="/wiki/Nando" title="Nando">Nando</a> • <a href="/wiki/Barry_(anime)" title="Barry (anime)">Barry</a> • <a href="/wiki/Conway" title="Conway">Conway</a> • <a href="/wiki/Paul" title="Paul">Paul</a> • <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> • <a href="/wiki/Tobias_(Sinnoh)" title="Tobias (Sinnoh)">Tobias</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%;">
+<th style="background: #ddf; padding: 2px 15px;"> <a href="/wiki/Vertress_Conference" title="Vertress Conference">Vertress Conference</a>:
+</th>
+<td style="background: #e6e6ff; padding: 2px 10px;"> <a href="/wiki/Radley" title="Radley">Radley</a> • <a href="/wiki/Mikael" title="Mikael">Mikael</a> • <a href="/wiki/Ultimo" title="Ultimo">Ultimo</a> • <a href="/wiki/Kendrick" title="Kendrick">Kendrick</a> • <a href="/wiki/Trip" title="Trip">Trip</a> • <a href="/wiki/Bianca_(anime)" title="Bianca (anime)">Bianca</a> • <a href="/wiki/Emmanuel" title="Emmanuel">Emmanuel</a> <br /> <a href="/wiki/Geraldo" title="Geraldo">Geraldo</a> • <a href="/wiki/Stephan" title="Stephan">Stephan</a> • <a href="/wiki/Flora" title="Flora">Flora</a> • <a href="/wiki/Kenton" title="Kenton">Kenton</a> • <a href="/wiki/Manning" title="Manning">Manning</a> • <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> <br /> <a href="/wiki/Katharine" title="Katharine">Katharine</a> • <a href="/wiki/Antonio" title="Antonio">Antonio</a> • <a href="/wiki/Russet" title="Russet">Russet</a> • <a href="/wiki/Ramone" title="Ramone">Ramone</a> • <a href="/wiki/Cameron_(Unova)" title="Cameron (Unova)">Cameron</a> • <a href="/wiki/Dino" title="Dino">Dino</a> • <a href="/wiki/Virgil" title="Virgil">Virgil</a>
+</td></tr>
+<tr>
+<td colspan="2" height="1">
+</td></tr>
+<tr style="font-size: 90%;">
+<th style="background: #ddf; border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; padding: 2px 15px;"> <a href="/wiki/Lumiose_Conference" title="Lumiose Conference">Lumiose Conference</a>:
+</th>
+<td style="background: #e6e6ff; border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px; padding: 2px 10px;"> <a href="/wiki/Trevor_(anime)" title="Trevor (anime)">Trevor</a> • <a href="/wiki/Titus" title="Titus">Titus</a> • <a href="/wiki/Astrid" title="Astrid">Astrid</a> • <a href="/wiki/Tierno_(anime)" title="Tierno (anime)">Tierno</a> • <a href="/wiki/Remo" title="Remo">Remo</a> • <a href="/wiki/Sawyer" title="Sawyer">Sawyer</a> • <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> • <a href="/wiki/Alain" title="Alain">Alain</a>
+</td></tr></table>
+</td></tr></table>
+</td></tr></table><br />
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_COD_logo.png" class="image"><img alt="Project COD logo.png" src="//cdn.bulbagarden.net/upload/thumb/3/32/Project_COD_logo.png/80px-Project_COD_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/3/32/Project_COD_logo.png/120px-Project_COD_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/32/Project_COD_logo.png/160px-Project_COD_logo.png 2x" /></a>
+</td>
+<td> This article is part of <b><a href="/wiki/Bulbapedia:Project_COD" title="Bulbapedia:Project COD">Project COD</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on each <a href="/wiki/Character_of_the_day" title="Character of the day">one-time character</a> of the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">Pokémon anime</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180131123720
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.084 seconds
+Real time usage: 0.230 seconds
+Preprocessor visited node count: 1562/1000000
+Preprocessor generated node count: 7444/1000000
+Post‐expand include size: 46001/2097152 bytes
+Template argument size: 6027/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   93.596      1 -total
+ 42.68%   39.948      4 Template:TrainerPoké
+ 22.58%   21.138      1 Template:Leaguetrainers
+ 11.46%   10.727      1 Template:Vatable
+  7.23%    6.765      1 Template:MissingInfo
+  4.67%    4.375     19 Template:Roundy
+  3.66%    3.427      8 Template:Roundyright
+  3.64%    3.404      8 Template:Roundyleft
+  3.35%    3.140      1 Template:Project_COD_notice
+  3.10%    2.901     16 Template:M
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:9658-0!*!0!!en!5!* and timestamp 20180131123720 and revision id 2635984
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Mandi&amp;oldid=2635984">https://bulbapedia.bulbagarden.net/w/index.php?title=Mandi&amp;oldid=2635984</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Articles_needing_more_information" title="Category:Articles needing more information">Articles needing more information</a></li><li><a href="/wiki/Category:Characters_with_an_unknown_Japanese_voice_actor" title="Category:Characters with an unknown Japanese voice actor">Characters with an unknown Japanese voice actor</a></li><li><a href="/wiki/Category:Characters_with_an_unknown_English_voice_actor" title="Category:Characters with an unknown English voice actor">Characters with an unknown English voice actor</a></li><li><a href="/wiki/Category:Anime_characters" title="Category:Anime characters">Anime characters</a></li><li><a href="/wiki/Category:Kanto_characters_of_the_day" title="Category:Kanto characters of the day">Kanto characters of the day</a></li><li><a href="/wiki/Category:Magicians" title="Category:Magicians">Magicians</a></li><li><a href="/wiki/Category:Male_characters" title="Category:Male characters">Male characters</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Mandi" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Mandi" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Mandi&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Mandi&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mandi" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mandi" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mandi" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mandi" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Mandi&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Mandi&amp;oldid=2635984" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Mandi&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Ring_frei_zur_Runde_1#Mandi" title="Ring frei zur Runde 1 – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Marc_(%C3%A9pisode_75)" title="Marc (épisode 75) – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Mandi" title="Mandi – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%82%B3%E3%83%BC%E3%83%A0" title="コーム – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 4 May 2017, at 14:59.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Mandi&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.230","ppvisitednodes":{"value":1562,"limit":1000000},"ppgeneratednodes":{"value":7444,"limit":1000000},"postexpandincludesize":{"value":46001,"limit":2097152},"templateargumentsize":{"value":6027,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%   93.596      1 -total"," 42.68%   39.948      4 Template:TrainerPoké"," 22.58%   21.138      1 Template:Leaguetrainers"," 11.46%   10.727      1 Template:Vatable","  7.23%    6.765      1 Template:MissingInfo","  4.67%    4.375     19 Template:Roundy","  3.66%    3.427      8 Template:Roundyright","  3.64%    3.404      8 Template:Roundyleft","  3.35%    3.140      1 Template:Project_COD_notice","  3.10%    2.901     16 Template:M"]},"cachereport":{"timestamp":"20180131123720","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

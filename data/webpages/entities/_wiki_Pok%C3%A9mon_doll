@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pokémon doll - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pokémon_doll","wgTitle":"Pokémon doll","wgCurRevisionId":2731609,"wgRevisionId":2731609,"wgArticleId":11532,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing more information","Pokémon world","Items","Decorations","Goods"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pokémon_doll","wgRelevantArticleId":11532,"wgRequestId":"0d0f7c4096aacfe7d6b409d8","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/thumb/c/c3/Pok%C3%A9mon_dolls_anime.png/1200px-Pok%C3%A9mon_dolls_anime.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_doll"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_doll"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pokémon_doll rootpage-Pokémon_doll skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Pokémon doll</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table align="center" style="background: #FAFFF4; border: 2px solid #E0C068; width: auto%; margin-left: auto; margin-right: auto; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="background:#EBD69D; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;;" width="60px" align="center"> <a href="/wiki/File:050Diglett.png" class="image"><img alt="050Diglett.png" src="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/50px-050Diglett.png" width="50" height="50" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/75px-050Diglett.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/100px-050Diglett.png 2x" /></a>
+</td>
+<td> <b>This article is incomplete.</b><br />Please feel free to edit this article to add missing information and complete it. <br /><small>Reason: Missing Japanese name and other languages section.</small>
+</td></tr></table>
+<hr />
+<dl><dd><i>This article is about game decoration. For the <a href="/wiki/Escape_item" title="Escape item">escape item</a>, see <a href="/wiki/Pok%C3%A9_Doll" title="Poké Doll">Poké Doll</a>. For the plush toy line, see <a href="/wiki/Pok%C3%A9_Doll_(plush)" title="Poké Doll (plush)">Poké Doll (plush)</a>.</i></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Pok%C3%A9mon_dolls_anime.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/c/c3/Pok%C3%A9mon_dolls_anime.png/250px-Pok%C3%A9mon_dolls_anime.png" width="250" height="141" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/c/c3/Pok%C3%A9mon_dolls_anime.png/375px-Pok%C3%A9mon_dolls_anime.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c3/Pok%C3%A9mon_dolls_anime.png/500px-Pok%C3%A9mon_dolls_anime.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pok%C3%A9mon_dolls_anime.png" class="internal" title="Enlarge"></a></div>Pokémon dolls in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a></div></div></div>
+<p>A <b>Pokémon doll</b> is a sort of <a href="/wiki/Decoration" title="Decoration">decoration</a> used in the Pokémon games.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Generation_I"><span class="tocnumber">1</span> <span class="toctext">Generation I</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Generation_II"><span class="tocnumber">2</span> <span class="toctext">Generation II</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#List_of_dolls"><span class="tocnumber">2.1</span> <span class="toctext">List of dolls</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Generation_III"><span class="tocnumber">3</span> <span class="toctext">Generation III</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#List_of_dolls_2"><span class="tocnumber">3.1</span> <span class="toctext">List of dolls</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Regi_dolls"><span class="tocnumber">3.1.1</span> <span class="toctext">Regi dolls</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Generation_IV"><span class="tocnumber">4</span> <span class="toctext">Generation IV</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#List_of_dolls_3"><span class="tocnumber">4.1</span> <span class="toctext">List of dolls</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Generation_V"><span class="tocnumber">5</span> <span class="toctext">Generation V</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Generation_VI"><span class="tocnumber">6</span> <span class="toctext">Generation VI</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#List_of_dolls_4"><span class="tocnumber">6.1</span> <span class="toctext">List of dolls</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Pok.C3.A9mon_Mystery_Dungeon"><span class="tocnumber">7</span> <span class="toctext">Pokémon Mystery Dungeon</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#List_of_Figures"><span class="tocnumber">7.1</span> <span class="toctext">List of Figures</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#In_the_anime"><span class="tocnumber">8</span> <span class="toctext">In the anime</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#In_the_manga"><span class="tocnumber">9</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">9.1</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Generation_I"><a href="/wiki/Generation_I" title="Generation I">Generation I</a></span></h2>
+<p>In the first Generation games, decorations were not featured. Despite this, Pokémon dolls could be found decorating the <a href="/wiki/Copycat_(character)" title="Copycat (character)">Copycat</a>'s room in <a href="/wiki/Saffron_City" title="Saffron City">Saffron City</a>. When talked to, the doll would turn to the <a href="/wiki/Player_character" title="Player character">player</a> and this message would appear: "This is a rare <span class="sc">Pokémon</span>! Huh? It's only a doll!"
+</p>
+<h2><span class="mw-headline" id="Generation_II"><a href="/wiki/Generation_II" title="Generation II">Generation II</a></span></h2>
+<p>In the second Generation games, dolls became available as a decoration for the bedroom. In these games, sometimes the player character's mother will buy dolls for his or her room with saved up money, but the most common way to receive them is with <a href="/wiki/Mystery_Gift" title="Mystery Gift">Mystery Gift</a>.
+</p><p>One feature of <a href="/wiki/Pok%C3%A9mon_Stadium_2" title="Pokémon Stadium 2">Pokémon Stadium 2</a> allows players to view their entire room and its decorations, including any dolls, in 3-D.
+</p>
+<h3><span class="mw-headline" id="List_of_dolls">List of dolls</span></h3>
+<table border="0" cellpadding="5" style="border-collapse:collapse;">
+<tr><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Bulbasaur_II.png" class="image"><img alt="Doll Bulbasaur II.png" src="//cdn.bulbagarden.net/upload/3/37/Doll_Bulbasaur_II.png" width="16" height="16" /></a> <a href="/wiki/Bulbasaur_(Pok%C3%A9mon)" title="Bulbasaur (Pokémon)">Bulbasaur</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Charmander_II.png" class="image"><img alt="Doll Charmander II.png" src="//cdn.bulbagarden.net/upload/c/cc/Doll_Charmander_II.png" width="16" height="16" /></a> <a href="/wiki/Charmander_(Pok%C3%A9mon)" title="Charmander (Pokémon)">Charmander</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Clefairy_II.png" class="image"><img alt="Doll Clefairy II.png" src="//cdn.bulbagarden.net/upload/e/e1/Doll_Clefairy_II.png" width="16" height="16" /></a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Diglett_II.png" class="image"><img alt="Doll Diglett II.png" src="//cdn.bulbagarden.net/upload/1/11/Doll_Diglett_II.png" width="16" height="16" /></a> <a href="/wiki/Diglett_(Pok%C3%A9mon)" title="Diglett (Pokémon)">Diglett</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Gengar_II.png" class="image"><img alt="Doll Gengar II.png" src="//cdn.bulbagarden.net/upload/d/d7/Doll_Gengar_II.png" width="16" height="16" /></a> <a href="/wiki/Gengar_(Pok%C3%A9mon)" title="Gengar (Pokémon)">Gengar</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Geodude_II.png" class="image"><img alt="Doll Geodude II.png" src="//cdn.bulbagarden.net/upload/b/b5/Doll_Geodude_II.png" width="16" height="16" /></a> <a href="/wiki/Geodude_(Pok%C3%A9mon)" title="Geodude (Pokémon)">Geodude</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Grimer_II.png" class="image"><img alt="Doll Grimer II.png" src="//cdn.bulbagarden.net/upload/3/34/Doll_Grimer_II.png" width="16" height="16" /></a> <a href="/wiki/Grimer_(Pok%C3%A9mon)" title="Grimer (Pokémon)">Grimer</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Jigglypuff_II.png" class="image"><img alt="Doll Jigglypuff II.png" src="//cdn.bulbagarden.net/upload/d/db/Doll_Jigglypuff_II.png" width="16" height="16" /></a> <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Machop_II.png" class="image"><img alt="Doll Machop II.png" src="//cdn.bulbagarden.net/upload/c/ce/Doll_Machop_II.png" width="16" height="16" /></a> <a href="/wiki/Machop_(Pok%C3%A9mon)" title="Machop (Pokémon)">Machop</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Magikarp_II.png" class="image"><img alt="Doll Magikarp II.png" src="//cdn.bulbagarden.net/upload/7/7c/Doll_Magikarp_II.png" width="16" height="16" /></a> <a href="/wiki/Magikarp_(Pok%C3%A9mon)" title="Magikarp (Pokémon)">Magikarp</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Oddish_II.png" class="image"><img alt="Doll Oddish II.png" src="//cdn.bulbagarden.net/upload/7/7b/Doll_Oddish_II.png" width="16" height="16" /></a> <a href="/wiki/Oddish_(Pok%C3%A9mon)" title="Oddish (Pokémon)">Oddish</a> Doll</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Pikachu_II.png" class="image"><img alt="Doll Pikachu II.png" src="//cdn.bulbagarden.net/upload/3/30/Doll_Pikachu_II.png" width="16" height="16" /></a> <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Poliwag_II.png" class="image"><img alt="Doll Poliwag II.png" src="//cdn.bulbagarden.net/upload/3/3b/Doll_Poliwag_II.png" width="16" height="16" /></a> <a href="/wiki/Poliwag_(Pok%C3%A9mon)" title="Poliwag (Pokémon)">Poliwag</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Shellder_II.png" class="image"><img alt="Doll Shellder II.png" src="//cdn.bulbagarden.net/upload/8/80/Doll_Shellder_II.png" width="16" height="16" /></a> <a href="/wiki/Shellder_(Pok%C3%A9mon)" title="Shellder (Pokémon)">Shellder</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Squirtle_II.png" class="image"><img alt="Doll Squirtle II.png" src="//cdn.bulbagarden.net/upload/1/1c/Doll_Squirtle_II.png" width="16" height="16" /></a> <a href="/wiki/Squirtle_(Pok%C3%A9mon)" title="Squirtle (Pokémon)">Squirtle</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Staryu_II.png" class="image"><img alt="Doll Staryu II.png" src="//cdn.bulbagarden.net/upload/2/22/Doll_Staryu_II.png" width="16" height="16" /></a> <a href="/wiki/Staryu_(Pok%C3%A9mon)" title="Staryu (Pokémon)">Staryu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Surf_Pikachu_II.png" class="image"><img alt="Doll Surf Pikachu II.png" src="//cdn.bulbagarden.net/upload/0/0a/Doll_Surf_Pikachu_II.png" width="16" height="16" /></a> <a href="/wiki/Surf_(move)" title="Surf (move)">Surf</a> <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Tentacool_II.png" class="image"><img alt="Doll Tentacool II.png" src="//cdn.bulbagarden.net/upload/d/d9/Doll_Tentacool_II.png" width="16" height="16" /></a> <a href="/wiki/Tentacool_(Pok%C3%A9mon)" title="Tentacool (Pokémon)">Tentacool</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Unown_II.png" class="image"><img alt="Doll Unown II.png" src="//cdn.bulbagarden.net/upload/0/01/Doll_Unown_II.png" width="16" height="16" /></a> <a href="/wiki/Unown_(Pok%C3%A9mon)" title="Unown (Pokémon)">Unown</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Voltorb_II.png" class="image"><img alt="Doll Voltorb II.png" src="//cdn.bulbagarden.net/upload/8/89/Doll_Voltorb_II.png" width="16" height="16" /></a> <a href="/wiki/Voltorb_(Pok%C3%A9mon)" title="Voltorb (Pokémon)">Voltorb</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Weedle_II.png" class="image"><img alt="Doll Weedle II.png" src="//cdn.bulbagarden.net/upload/e/e3/Doll_Weedle_II.png" width="16" height="16" /></a> <a href="/wiki/Weedle_(Pok%C3%A9mon)" title="Weedle (Pokémon)">Weedle</a> Doll</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Big_Lapras_II.png" class="image"><img alt="Doll Big Lapras II.png" src="//cdn.bulbagarden.net/upload/5/51/Doll_Big_Lapras_II.png" width="32" height="32" /></a> Big <a href="/wiki/Lapras_(Pok%C3%A9mon)" title="Lapras (Pokémon)">Lapras</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Big_Onix_II.png" class="image"><img alt="Doll Big Onix II.png" src="//cdn.bulbagarden.net/upload/0/0c/Doll_Big_Onix_II.png" width="32" height="32" /></a> Big <a href="/wiki/Onix_(Pok%C3%A9mon)" title="Onix (Pokémon)">Onix</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Big_Snorlax_II.png" class="image"><img alt="Doll Big Snorlax II.png" src="//cdn.bulbagarden.net/upload/d/d4/Doll_Big_Snorlax_II.png" width="32" height="32" /></a> Big <a href="/wiki/Snorlax_(Pok%C3%A9mon)" title="Snorlax (Pokémon)">Snorlax</a> Doll</li></ul>
+</td></tr>
+</table>
+<h2><span class="mw-headline" id="Generation_III"><a href="/wiki/Generation_III" title="Generation III">Generation III</a></span></h2>
+<p>In the third Generation games, dolls can be used to decorate a <a href="/wiki/Secret_Base" title="Secret Base">Secret Base</a>, and can be either bought in various locations, such as at the marketplace in <a href="/wiki/Slateport_City" title="Slateport City">Slateport City</a>, at the <a href="/wiki/Lilycove_Department_Store" title="Lilycove Department Store">Lilycove Department Store</a>, with coins at the <a href="/wiki/Mauville_Game_Corner" title="Mauville Game Corner">Mauville Game Corner</a> or with Battle Points at the <a href="/wiki/Battle_Frontier_(Generation_III)" title="Battle Frontier (Generation III)">Battle Frontier</a>. <a href="/wiki/Lanette" title="Lanette">Lanette</a> will also give one in exchange for keeping her messy house a secret. A girl in <a href="/wiki/Sootopolis_City" title="Sootopolis City">Sootopolis City</a> will also give the player one. All dolls must be placed on a <a href="/wiki/Desk" title="Desk">desk</a>, a <a href="/wiki/Mat" title="Mat">mat</a>, or a certain kind of <a href="/wiki/Ornament" title="Ornament">ornament</a>.
+</p><p>Dolls are not available in <a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">Pokémon FireRed and LeafGreen</a>, particularly because there are no Secret Bases in FireRed and LeafGreen. However, <a href="/wiki/Lorelei" title="Lorelei">Lorelei</a>'s house contains a number of dolls, since she collects them.
+</p>
+<h3><span class="mw-headline" id="List_of_dolls_2">List of dolls</span></h3>
+<table border="0" cellpadding="5" style="border-collapse:collapse;">
+<tr><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Azurill_III.png" class="image"><img alt="Doll Azurill III.png" src="//cdn.bulbagarden.net/upload/a/ac/Doll_Azurill_III.png" width="16" height="16" /></a> <a href="/wiki/Azurill_(Pok%C3%A9mon)" title="Azurill (Pokémon)">Azurill</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Baltoy_III.png" class="image"><img alt="Doll Baltoy III.png" src="//cdn.bulbagarden.net/upload/6/69/Doll_Baltoy_III.png" width="16" height="16" /></a> <a href="/wiki/Baltoy_(Pok%C3%A9mon)" title="Baltoy (Pokémon)">Baltoy</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Chikorita_III.png" class="image"><img alt="Doll Chikorita III.png" src="//cdn.bulbagarden.net/upload/b/b1/Doll_Chikorita_III.png" width="16" height="16" /></a> <a href="/wiki/Chikorita_(Pok%C3%A9mon)" title="Chikorita (Pokémon)">Chikorita</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Clefairy_III.png" class="image"><img alt="Doll Clefairy III.png" src="//cdn.bulbagarden.net/upload/a/a6/Doll_Clefairy_III.png" width="16" height="16" /></a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Cyndaquil_III.png" class="image"><img alt="Doll Cyndaquil III.png" src="//cdn.bulbagarden.net/upload/1/10/Doll_Cyndaquil_III.png" width="16" height="16" /></a> <a href="/wiki/Cyndaquil_(Pok%C3%A9mon)" title="Cyndaquil (Pokémon)">Cyndaquil</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Ditto_III.png" class="image"><img alt="Doll Ditto III.png" src="//cdn.bulbagarden.net/upload/0/04/Doll_Ditto_III.png" width="16" height="16" /></a> <a href="/wiki/Ditto_(Pok%C3%A9mon)" title="Ditto (Pokémon)">Ditto</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Duskull_III.png" class="image"><img alt="Doll Duskull III.png" src="//cdn.bulbagarden.net/upload/a/af/Doll_Duskull_III.png" width="16" height="16" /></a> <a href="/wiki/Duskull_(Pok%C3%A9mon)" title="Duskull (Pokémon)">Duskull</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Gulpin_III.png" class="image"><img alt="Doll Gulpin III.png" src="//cdn.bulbagarden.net/upload/6/69/Doll_Gulpin_III.png" width="16" height="16" /></a> <a href="/wiki/Gulpin_(Pok%C3%A9mon)" title="Gulpin (Pokémon)">Gulpin</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Jigglypuff_III.png" class="image"><img alt="Doll Jigglypuff III.png" src="//cdn.bulbagarden.net/upload/1/1d/Doll_Jigglypuff_III.png" width="16" height="16" /></a> <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Kecleon_III.png" class="image"><img alt="Doll Kecleon III.png" src="//cdn.bulbagarden.net/upload/9/9a/Doll_Kecleon_III.png" width="16" height="16" /></a> <a href="/wiki/Kecleon_(Pok%C3%A9mon)" title="Kecleon (Pokémon)">Kecleon</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Lotad_III.png" class="image"><img alt="Doll Lotad III.png" src="//cdn.bulbagarden.net/upload/f/fc/Doll_Lotad_III.png" width="16" height="16" /></a> <a href="/wiki/Lotad_(Pok%C3%A9mon)" title="Lotad (Pokémon)">Lotad</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Marill_III.png" class="image"><img alt="Doll Marill III.png" src="//cdn.bulbagarden.net/upload/7/79/Doll_Marill_III.png" width="16" height="16" /></a> <a href="/wiki/Marill_(Pok%C3%A9mon)" title="Marill (Pokémon)">Marill</a> Doll</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Meowth_III.png" class="image"><img alt="Doll Meowth III.png" src="//cdn.bulbagarden.net/upload/f/f8/Doll_Meowth_III.png" width="16" height="16" /></a> <a href="/wiki/Meowth_(Pok%C3%A9mon)" title="Meowth (Pokémon)">Meowth</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Mudkip_III.png" class="image"><img alt="Doll Mudkip III.png" src="//cdn.bulbagarden.net/upload/4/49/Doll_Mudkip_III.png" width="16" height="16" /></a> <a href="/wiki/Mudkip_(Pok%C3%A9mon)" title="Mudkip (Pokémon)">Mudkip</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Pichu_III.png" class="image"><img alt="Doll Pichu III.png" src="//cdn.bulbagarden.net/upload/e/e0/Doll_Pichu_III.png" width="16" height="16" /></a> <a href="/wiki/Pichu_(Pok%C3%A9mon)" title="Pichu (Pokémon)">Pichu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Pikachu_III.png" class="image"><img alt="Doll Pikachu III.png" src="//cdn.bulbagarden.net/upload/2/29/Doll_Pikachu_III.png" width="16" height="16" /></a> <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Seedot_III.png" class="image"><img alt="Doll Seedot III.png" src="//cdn.bulbagarden.net/upload/b/b3/Doll_Seedot_III.png" width="16" height="16" /></a> <a href="/wiki/Seedot_(Pok%C3%A9mon)" title="Seedot (Pokémon)">Seedot</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Skitty_III.png" class="image"><img alt="Doll Skitty III.png" src="//cdn.bulbagarden.net/upload/1/11/Doll_Skitty_III.png" width="16" height="16" /></a> <a href="/wiki/Skitty_(Pok%C3%A9mon)" title="Skitty (Pokémon)">Skitty</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Smoochum_III.png" class="image"><img alt="Doll Smoochum III.png" src="//cdn.bulbagarden.net/upload/4/4e/Doll_Smoochum_III.png" width="16" height="16" /></a> <a href="/wiki/Smoochum_(Pok%C3%A9mon)" title="Smoochum (Pokémon)">Smoochum</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Swablu_III.png" class="image"><img alt="Doll Swablu III.png" src="//cdn.bulbagarden.net/upload/9/95/Doll_Swablu_III.png" width="16" height="16" /></a> <a href="/wiki/Swablu_(Pok%C3%A9mon)" title="Swablu (Pokémon)">Swablu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Togepi_III.png" class="image"><img alt="Doll Togepi III.png" src="//cdn.bulbagarden.net/upload/9/90/Doll_Togepi_III.png" width="16" height="16" /></a> <a href="/wiki/Togepi_(Pok%C3%A9mon)" title="Togepi (Pokémon)">Togepi</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Torchic_III.png" class="image"><img alt="Doll Torchic III.png" src="//cdn.bulbagarden.net/upload/5/56/Doll_Torchic_III.png" width="16" height="16" /></a> <a href="/wiki/Torchic_(Pok%C3%A9mon)" title="Torchic (Pokémon)">Torchic</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Totodile_III.png" class="image"><img alt="Doll Totodile III.png" src="//cdn.bulbagarden.net/upload/4/4c/Doll_Totodile_III.png" width="16" height="16" /></a> <a href="/wiki/Totodile_(Pok%C3%A9mon)" title="Totodile (Pokémon)">Totodile</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Treecko_III.png" class="image"><img alt="Doll Treecko III.png" src="//cdn.bulbagarden.net/upload/a/a4/Doll_Treecko_III.png" width="16" height="16" /></a> <a href="/wiki/Treecko_(Pok%C3%A9mon)" title="Treecko (Pokémon)">Treecko</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Wynaut_III.png" class="image"><img alt="Doll Wynaut III.png" src="//cdn.bulbagarden.net/upload/e/e3/Doll_Wynaut_III.png" width="16" height="16" /></a> <a href="/wiki/Wynaut_(Pok%C3%A9mon)" title="Wynaut (Pokémon)">Wynaut</a> Doll</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Blastoise_III.png" class="image"><img alt="Doll Blastoise III.png" src="//cdn.bulbagarden.net/upload/7/72/Doll_Blastoise_III.png" width="32" height="32" /></a> <a href="/wiki/Blastoise_(Pok%C3%A9mon)" title="Blastoise (Pokémon)">Blastoise</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Charizard_III.png" class="image"><img alt="Doll Charizard III.png" src="//cdn.bulbagarden.net/upload/a/a3/Doll_Charizard_III.png" width="32" height="32" /></a> <a href="/wiki/Charizard_(Pok%C3%A9mon)" title="Charizard (Pokémon)">Charizard</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Lapras_III.png" class="image"><img alt="Doll Lapras III.png" src="//cdn.bulbagarden.net/upload/3/3f/Doll_Lapras_III.png" width="32" height="32" /></a> <a href="/wiki/Lapras_(Pok%C3%A9mon)" title="Lapras (Pokémon)">Lapras</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Rhydon_III.png" class="image"><img alt="Doll Rhydon III.png" src="//cdn.bulbagarden.net/upload/b/b8/Doll_Rhydon_III.png" width="32" height="32" /></a> <a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon (Pokémon)">Rhydon</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Snorlax_III.png" class="image"><img alt="Doll Snorlax III.png" src="//cdn.bulbagarden.net/upload/4/4e/Doll_Snorlax_III.png" width="32" height="32" /></a> <a href="/wiki/Snorlax_(Pok%C3%A9mon)" title="Snorlax (Pokémon)">Snorlax</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Venusaur_III.png" class="image"><img alt="Doll Venusaur III.png" src="//cdn.bulbagarden.net/upload/e/ed/Doll_Venusaur_III.png" width="32" height="32" /></a> <a href="/wiki/Venusaur_(Pok%C3%A9mon)" title="Venusaur (Pokémon)">Venusaur</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Wailmer_III.png" class="image"><img alt="Doll Wailmer III.png" src="//cdn.bulbagarden.net/upload/5/55/Doll_Wailmer_III.png" width="32" height="32" /></a> <a href="/wiki/Wailmer_(Pok%C3%A9mon)" title="Wailmer (Pokémon)">Wailmer</a> Doll</li></ul>
+</td></tr>
+</table>
+<h4><span class="mw-headline" id="Regi_dolls">Regi dolls</span></h4>
+<p>The three <a href="/wiki/Legendary_titans" title="Legendary titans">Legendary titans</a> also have dolls. Players with a Japanese copy of <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Pokémon Ruby and Sapphire</a> can obtain these dolls by scanning a <a href="/wiki/Pok%C3%A9mon_Battle_e_Promotional_cards" title="Pokémon Battle e Promotional cards">promotional</a> <a href="/wiki/E-Reader" title="E-Reader">e-Reader</a> card, <a href="/wiki/Pok%C3%A9mon_Battle_e:_Series_1_%26_2_Promotional_cards_(Battle_e)#Decoration_Present" title="Pokémon Battle e: Series 1 &amp; 2 Promotional cards (Battle e)">Decoration Present</a>, or through participating official Nintendo events. However, for games in other languages, there is no known way to obtain them except by cheating.
+</p>
+<ul><li> <a href="/wiki/File:Doll_Regirock_III.png" class="image"><img alt="Doll Regirock III.png" src="//cdn.bulbagarden.net/upload/a/a1/Doll_Regirock_III.png" width="32" height="32" /></a> <a href="/wiki/Regirock_(Pok%C3%A9mon)" title="Regirock (Pokémon)">Regirock</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Regice_III.png" class="image"><img alt="Doll Regice III.png" src="//cdn.bulbagarden.net/upload/d/dd/Doll_Regice_III.png" width="32" height="32" /></a> <a href="/wiki/Regice_(Pok%C3%A9mon)" title="Regice (Pokémon)">Regice</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Registeel_III.png" class="image"><img alt="Doll Registeel III.png" src="//cdn.bulbagarden.net/upload/5/54/Doll_Registeel_III.png" width="32" height="32" /></a> <a href="/wiki/Registeel_(Pok%C3%A9mon)" title="Registeel (Pokémon)">Registeel</a> Doll</li></ul>
+<h2><span class="mw-headline" id="Generation_IV"><a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a></span></h2>
+<p>Dolls, like many other decorations in this generation, are available by trading <a href="/wiki/Sphere" title="Sphere">spheres</a> to <a href="/wiki/Hiker_(Trainer_class)" title="Hiker (Trainer class)">Hikers</a> in <a href="/wiki/The_Underground" title="The Underground">the Underground</a>. They are used to decorate the player's Secret Base in the underground. They can also be purchased in the fourth floor of the <a href="/wiki/Veilstone_Department_Store" title="Veilstone Department Store">Veilstone Department Store</a>.
+</p><p>Instead of placing them on desks or mats, dolls, like many other decorations, cannot be placed on top of any other objects.
+</p>
+<h3><span class="mw-headline" id="List_of_dolls_3">List of dolls</span></h3>
+<table border="0" cellpadding="5" style="border-collapse:collapse;">
+<tr><td>
+<ul><li> <a href="/wiki/File:Doll_Bonsly_IV.png" class="image"><img alt="Doll Bonsly IV.png" src="//cdn.bulbagarden.net/upload/9/94/Doll_Bonsly_IV.png" width="24" height="24" /></a> <a href="/wiki/Bonsly_(Pok%C3%A9mon)" title="Bonsly (Pokémon)">Bonsly</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Buizel_IV.png" class="image"><img alt="Doll Buizel IV.png" src="//cdn.bulbagarden.net/upload/9/91/Doll_Buizel_IV.png" width="24" height="24" /></a> <a href="/wiki/Buizel_(Pok%C3%A9mon)" title="Buizel (Pokémon)">Buizel</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Bulbasaur_IV.png" class="image"><img alt="Doll Bulbasaur IV.png" src="//cdn.bulbagarden.net/upload/3/3a/Doll_Bulbasaur_IV.png" width="24" height="24" /></a> <a href="/wiki/Bulbasaur_(Pok%C3%A9mon)" title="Bulbasaur (Pokémon)">Bulbasaur</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Buneary_IV.png" class="image"><img alt="Doll Buneary IV.png" src="//cdn.bulbagarden.net/upload/9/93/Doll_Buneary_IV.png" width="24" height="24" /></a> <a href="/wiki/Buneary_(Pok%C3%A9mon)" title="Buneary (Pokémon)">Buneary</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Charmander_IV.png" class="image"><img alt="Doll Charmander IV.png" src="//cdn.bulbagarden.net/upload/9/94/Doll_Charmander_IV.png" width="24" height="24" /></a> <a href="/wiki/Charmander_(Pok%C3%A9mon)" title="Charmander (Pokémon)">Charmander</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Chatot_IV.png" class="image"><img alt="Doll Chatot IV.png" src="//cdn.bulbagarden.net/upload/3/3f/Doll_Chatot_IV.png" width="24" height="24" /></a> <a href="/wiki/Chatot_(Pok%C3%A9mon)" title="Chatot (Pokémon)">Chatot</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Chikorita_IV.png" class="image"><img alt="Doll Chikorita IV.png" src="//cdn.bulbagarden.net/upload/3/3b/Doll_Chikorita_IV.png" width="24" height="24" /></a> <a href="/wiki/Chikorita_(Pok%C3%A9mon)" title="Chikorita (Pokémon)">Chikorita</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Chimchar_IV.png" class="image"><img alt="Doll Chimchar IV.png" src="//cdn.bulbagarden.net/upload/5/5f/Doll_Chimchar_IV.png" width="24" height="24" /></a> <a href="/wiki/Chimchar_(Pok%C3%A9mon)" title="Chimchar (Pokémon)">Chimchar</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Clefairy_IV.png" class="image"><img alt="Doll Clefairy IV.png" src="//cdn.bulbagarden.net/upload/a/ae/Doll_Clefairy_IV.png" width="24" height="24" /></a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Cyndaquil_IV.png" class="image"><img alt="Doll Cyndaquil IV.png" src="//cdn.bulbagarden.net/upload/4/40/Doll_Cyndaquil_IV.png" width="24" height="24" /></a> <a href="/wiki/Cyndaquil_(Pok%C3%A9mon)" title="Cyndaquil (Pokémon)">Cyndaquil</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Drifloon_IV.png" class="image"><img alt="Doll Drifloon IV.png" src="//cdn.bulbagarden.net/upload/1/18/Doll_Drifloon_IV.png" width="24" height="24" /></a> <a href="/wiki/Drifloon_(Pok%C3%A9mon)" title="Drifloon (Pokémon)">Drifloon</a> Doll</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Glameow_IV.png" class="image"><img alt="Doll Glameow IV.png" src="//cdn.bulbagarden.net/upload/e/e3/Doll_Glameow_IV.png" width="24" height="24" /></a> <a href="/wiki/Glameow_(Pok%C3%A9mon)" title="Glameow (Pokémon)">Glameow</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Happiny_IV.png" class="image"><img alt="Doll Happiny IV.png" src="//cdn.bulbagarden.net/upload/9/98/Doll_Happiny_IV.png" width="24" height="24" /></a> <a href="/wiki/Happiny_(Pok%C3%A9mon)" title="Happiny (Pokémon)">Happiny</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Jigglypuff_IV.png" class="image"><img alt="Doll Jigglypuff IV.png" src="//cdn.bulbagarden.net/upload/a/ab/Doll_Jigglypuff_IV.png" width="24" height="24" /></a> <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Lucario_IV.png" class="image"><img alt="Doll Lucario IV.png" src="//cdn.bulbagarden.net/upload/3/3f/Doll_Lucario_IV.png" width="24" height="24" /></a> <a href="/wiki/Lucario_(Pok%C3%A9mon)" title="Lucario (Pokémon)">Lucario</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Magnezone_IV.png" class="image"><img alt="Doll Magnezone IV.png" src="//cdn.bulbagarden.net/upload/c/c6/Doll_Magnezone_IV.png" width="32" height="32" /></a> <a href="/wiki/Magnezone_(Pok%C3%A9mon)" title="Magnezone (Pokémon)">Magnezone</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Manaphy_IV.png" class="image"><img alt="Doll Manaphy IV.png" src="//cdn.bulbagarden.net/upload/1/10/Doll_Manaphy_IV.png" width="24" height="24" /></a> <a href="/wiki/Manaphy_(Pok%C3%A9mon)" title="Manaphy (Pokémon)">Manaphy</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Mantyke_IV.png" class="image"><img alt="Doll Mantyke IV.png" src="//cdn.bulbagarden.net/upload/3/38/Doll_Mantyke_IV.png" width="24" height="24" /></a> <a href="/wiki/Mantyke_(Pok%C3%A9mon)" title="Mantyke (Pokémon)">Mantyke</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Meowth_IV.png" class="image"><img alt="Doll Meowth IV.png" src="//cdn.bulbagarden.net/upload/0/09/Doll_Meowth_IV.png" width="24" height="24" /></a> <a href="/wiki/Meowth_(Pok%C3%A9mon)" title="Meowth (Pokémon)">Meowth</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Mime_Jr._IV.png" class="image"><img alt="Doll Mime Jr. IV.png" src="//cdn.bulbagarden.net/upload/3/37/Doll_Mime_Jr._IV.png" width="24" height="24" /></a> <a href="/wiki/Mime_Jr._(Pok%C3%A9mon)" title="Mime Jr. (Pokémon)">Mime Jr.</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Minun_IV.png" class="image"><img alt="Doll Minun IV.png" src="//cdn.bulbagarden.net/upload/c/ca/Doll_Minun_IV.png" width="24" height="24" /></a> <a href="/wiki/Minun_(Pok%C3%A9mon)" title="Minun (Pokémon)">Minun</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Mudkip_IV.png" class="image"><img alt="Doll Mudkip IV.png" src="//cdn.bulbagarden.net/upload/c/ca/Doll_Mudkip_IV.png" width="24" height="24" /></a> <a href="/wiki/Mudkip_(Pok%C3%A9mon)" title="Mudkip (Pokémon)">Mudkip</a> Doll</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Munchlax_IV.png" class="image"><img alt="Doll Munchlax IV.png" src="//cdn.bulbagarden.net/upload/e/ef/Doll_Munchlax_IV.png" width="24" height="24" /></a> <a href="/wiki/Munchlax_(Pok%C3%A9mon)" title="Munchlax (Pokémon)">Munchlax</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Pachirisu_IV.png" class="image"><img alt="Doll Pachirisu IV.png" src="//cdn.bulbagarden.net/upload/a/aa/Doll_Pachirisu_IV.png" width="24" height="24" /></a> <a href="/wiki/Pachirisu_(Pok%C3%A9mon)" title="Pachirisu (Pokémon)">Pachirisu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Pikachu_IV.png" class="image"><img alt="Doll Pikachu IV.png" src="//cdn.bulbagarden.net/upload/3/39/Doll_Pikachu_IV.png" width="24" height="24" /></a> <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Piplup_IV.png" class="image"><img alt="Doll Piplup IV.png" src="//cdn.bulbagarden.net/upload/3/38/Doll_Piplup_IV.png" width="24" height="24" /></a> <a href="/wiki/Piplup_(Pok%C3%A9mon)" title="Piplup (Pokémon)">Piplup</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Plusle_IV.png" class="image"><img alt="Doll Plusle IV.png" src="//cdn.bulbagarden.net/upload/4/48/Doll_Plusle_IV.png" width="24" height="24" /></a> <a href="/wiki/Plusle_(Pok%C3%A9mon)" title="Plusle (Pokémon)">Plusle</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Skitty_IV.png" class="image"><img alt="Doll Skitty IV.png" src="//cdn.bulbagarden.net/upload/c/cd/Doll_Skitty_IV.png" width="24" height="24" /></a> <a href="/wiki/Skitty_(Pok%C3%A9mon)" title="Skitty (Pokémon)">Skitty</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Snorlax_IV.png" class="image"><img alt="Doll Snorlax IV.png" src="//cdn.bulbagarden.net/upload/7/72/Doll_Snorlax_IV.png" width="32" height="32" /></a> <a href="/wiki/Snorlax_(Pok%C3%A9mon)" title="Snorlax (Pokémon)">Snorlax</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Squirtle_IV.png" class="image"><img alt="Doll Squirtle IV.png" src="//cdn.bulbagarden.net/upload/e/e0/Doll_Squirtle_IV.png" width="24" height="24" /></a> <a href="/wiki/Squirtle_(Pok%C3%A9mon)" title="Squirtle (Pokémon)">Squirtle</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Torchic_IV.png" class="image"><img alt="Doll Torchic IV.png" src="//cdn.bulbagarden.net/upload/e/ea/Doll_Torchic_IV.png" width="24" height="24" /></a> <a href="/wiki/Torchic_(Pok%C3%A9mon)" title="Torchic (Pokémon)">Torchic</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Totodile_IV.png" class="image"><img alt="Doll Totodile IV.png" src="//cdn.bulbagarden.net/upload/6/66/Doll_Totodile_IV.png" width="24" height="24" /></a> <a href="/wiki/Totodile_(Pok%C3%A9mon)" title="Totodile (Pokémon)">Totodile</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Treecko_IV.png" class="image"><img alt="Doll Treecko IV.png" src="//cdn.bulbagarden.net/upload/9/92/Doll_Treecko_IV.png" width="24" height="24" /></a> <a href="/wiki/Treecko_(Pok%C3%A9mon)" title="Treecko (Pokémon)">Treecko</a> Doll</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Turtwig_IV.png" class="image"><img alt="Doll Turtwig IV.png" src="//cdn.bulbagarden.net/upload/f/f8/Doll_Turtwig_IV.png" width="24" height="24" /></a> <a href="/wiki/Turtwig_(Pok%C3%A9mon)" title="Turtwig (Pokémon)">Turtwig</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Wailord_IV.png" class="image"><img alt="Doll Wailord IV.png" src="//cdn.bulbagarden.net/upload/8/8a/Doll_Wailord_IV.png" width="32" height="32" /></a> <a href="/wiki/Wailord_(Pok%C3%A9mon)" title="Wailord (Pokémon)">Wailord</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Weavile_IV.png" class="image"><img alt="Doll Weavile IV.png" src="//cdn.bulbagarden.net/upload/2/2b/Doll_Weavile_IV.png" width="24" height="24" /></a> <a href="/wiki/Weavile_(Pok%C3%A9mon)" title="Weavile (Pokémon)">Weavile</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Wobbuffet_IV.png" class="image"><img alt="Doll Wobbuffet IV.png" src="//cdn.bulbagarden.net/upload/3/3b/Doll_Wobbuffet_IV.png" width="24" height="24" /></a> <a href="/wiki/Wobbuffet_(Pok%C3%A9mon)" title="Wobbuffet (Pokémon)">Wobbuffet</a> Doll</li></ul>
+</td></tr>
+</table>
+<h2><span class="mw-headline" id="Generation_V"><a href="/wiki/Generation_V" title="Generation V">Generation V</a></span></h2>
+<dl><dd><i>Main article: <a href="/wiki/Pok%C3%A9mon_Doll_Catalogue" title="Pokémon Doll Catalogue">Pokémon Doll Catalogue</a></i></dd></dl>
+<p>In the <a href="/wiki/Pok%C3%A9mon_Dream_World" title="Pokémon Dream World">Pokémon Dream World</a>, dolls are a kind of <a href="/wiki/D%C3%A9cor" title="Décor">Décor</a>, and are all contained in the Pokémon Doll Catalogue.
+</p>
+<h2><span class="mw-headline" id="Generation_VI"><a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a></span></h2>
+<h3><span class="mw-headline" id="List_of_dolls_4">List of dolls</span></h3>
+<table border="0" cellpadding="5" style="border-collapse:collapse;">
+<tr><td>
+<ul><li> <a href="/wiki/File:Doll_Azurill_VI.png" class="image"><img alt="Doll Azurill VI.png" src="//cdn.bulbagarden.net/upload/thumb/2/23/Doll_Azurill_VI.png/40px-Doll_Azurill_VI.png" width="40" height="54" srcset="//cdn.bulbagarden.net/upload/2/23/Doll_Azurill_VI.png 1.5x" /></a> <a href="/wiki/Azurill_(Pok%C3%A9mon)" title="Azurill (Pokémon)">Azurill</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Baltoy_VI.png" class="image"><img alt="Doll Baltoy VI.png" src="//cdn.bulbagarden.net/upload/thumb/d/de/Doll_Baltoy_VI.png/40px-Doll_Baltoy_VI.png" width="40" height="51" srcset="//cdn.bulbagarden.net/upload/d/de/Doll_Baltoy_VI.png 1.5x" /></a> <a href="/wiki/Baltoy_(Pok%C3%A9mon)" title="Baltoy (Pokémon)">Baltoy</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Blastoise_VI.png" class="image"><img alt="Doll Blastoise VI.png" src="//cdn.bulbagarden.net/upload/thumb/f/ff/Doll_Blastoise_VI.png/40px-Doll_Blastoise_VI.png" width="40" height="42" srcset="//cdn.bulbagarden.net/upload/thumb/f/ff/Doll_Blastoise_VI.png/60px-Doll_Blastoise_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/ff/Doll_Blastoise_VI.png/80px-Doll_Blastoise_VI.png 2x" /></a> <a href="/wiki/Blastoise_(Pok%C3%A9mon)" title="Blastoise (Pokémon)">Blastoise</a> Doll (Large)</li>
+<li> <a href="/wiki/File:Doll_Charizard_VI.png" class="image"><img alt="Doll Charizard VI.png" src="//cdn.bulbagarden.net/upload/thumb/9/9e/Doll_Charizard_VI.png/40px-Doll_Charizard_VI.png" width="40" height="44" srcset="//cdn.bulbagarden.net/upload/thumb/9/9e/Doll_Charizard_VI.png/60px-Doll_Charizard_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/9e/Doll_Charizard_VI.png/80px-Doll_Charizard_VI.png 2x" /></a> <a href="/wiki/Charizard_(Pok%C3%A9mon)" title="Charizard (Pokémon)">Charizard</a> Doll (Large)</li>
+<li> <a href="/wiki/File:Doll_Chikorita_VI.png" class="image"><img alt="Doll Chikorita VI.png" src="//cdn.bulbagarden.net/upload/3/36/Doll_Chikorita_VI.png" width="40" height="65" /></a> <a href="/wiki/Chikorita_(Pok%C3%A9mon)" title="Chikorita (Pokémon)">Chikorita</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Clefairy_VI.png" class="image"><img alt="Doll Clefairy VI.png" src="//cdn.bulbagarden.net/upload/thumb/4/4a/Doll_Clefairy_VI.png/40px-Doll_Clefairy_VI.png" width="40" height="36" srcset="//cdn.bulbagarden.net/upload/4/4a/Doll_Clefairy_VI.png 1.5x" /></a> <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Cyndaquil_VI.png" class="image"><img alt="Doll Cyndaquil VI.png" src="//cdn.bulbagarden.net/upload/d/d6/Doll_Cyndaquil_VI.png" width="40" height="58" /></a> <a href="/wiki/Cyndaquil_(Pok%C3%A9mon)" title="Cyndaquil (Pokémon)">Cyndaquil</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Ditto_VI.png" class="image"><img alt="Doll Ditto VI.png" src="//cdn.bulbagarden.net/upload/thumb/5/59/Doll_Ditto_VI.png/40px-Doll_Ditto_VI.png" width="40" height="34" srcset="//cdn.bulbagarden.net/upload/5/59/Doll_Ditto_VI.png 1.5x" /></a> <a href="/wiki/Ditto_(Pok%C3%A9mon)" title="Ditto (Pokémon)">Ditto</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Duskull_VI.png" class="image"><img alt="Doll Duskull VI.png" src="//cdn.bulbagarden.net/upload/thumb/7/7d/Doll_Duskull_VI.png/40px-Doll_Duskull_VI.png" width="40" height="57" srcset="//cdn.bulbagarden.net/upload/7/7d/Doll_Duskull_VI.png 1.5x" /></a> <a href="/wiki/Duskull_(Pok%C3%A9mon)" title="Duskull (Pokémon)">Duskull</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Gulpin_VI.png" class="image"><img alt="Doll Gulpin VI.png" src="//cdn.bulbagarden.net/upload/thumb/f/fc/Doll_Gulpin_VI.png/40px-Doll_Gulpin_VI.png" width="40" height="36" srcset="//cdn.bulbagarden.net/upload/f/fc/Doll_Gulpin_VI.png 1.5x" /></a> <a href="/wiki/Gulpin_(Pok%C3%A9mon)" title="Gulpin (Pokémon)">Gulpin</a> Doll</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Jigglypuff_VI.png" class="image"><img alt="Doll Jigglypuff VI.png" src="//cdn.bulbagarden.net/upload/thumb/5/56/Doll_Jigglypuff_VI.png/40px-Doll_Jigglypuff_VI.png" width="40" height="43" srcset="//cdn.bulbagarden.net/upload/5/56/Doll_Jigglypuff_VI.png 1.5x" /></a> <a href="/wiki/Jigglypuff_(Pok%C3%A9mon)" title="Jigglypuff (Pokémon)">Jigglypuff</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Kecleon_VI.png" class="image"><img alt="Doll Kecleon VI.png" src="//cdn.bulbagarden.net/upload/thumb/1/16/Doll_Kecleon_VI.png/40px-Doll_Kecleon_VI.png" width="40" height="62" srcset="//cdn.bulbagarden.net/upload/1/16/Doll_Kecleon_VI.png 1.5x" /></a> <a href="/wiki/Kecleon_(Pok%C3%A9mon)" title="Kecleon (Pokémon)">Kecleon</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Lapras_VI.png" class="image"><img alt="Doll Lapras VI.png" src="//cdn.bulbagarden.net/upload/thumb/6/64/Doll_Lapras_VI.png/40px-Doll_Lapras_VI.png" width="40" height="45" srcset="//cdn.bulbagarden.net/upload/thumb/6/64/Doll_Lapras_VI.png/60px-Doll_Lapras_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/64/Doll_Lapras_VI.png/80px-Doll_Lapras_VI.png 2x" /></a> <a href="/wiki/Lapras_(Pok%C3%A9mon)" title="Lapras (Pokémon)">Lapras</a> Doll (Large)</li>
+<li> <a href="/wiki/File:Doll_Lotad_VI.png" class="image"><img alt="Doll Lotad VI.png" src="//cdn.bulbagarden.net/upload/thumb/a/a2/Doll_Lotad_VI.png/40px-Doll_Lotad_VI.png" width="40" height="33" srcset="//cdn.bulbagarden.net/upload/a/a2/Doll_Lotad_VI.png 1.5x" /></a> <a href="/wiki/Lotad_(Pok%C3%A9mon)" title="Lotad (Pokémon)">Lotad</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Marill_VI.png" class="image"><img alt="Doll Marill VI.png" src="//cdn.bulbagarden.net/upload/thumb/7/72/Doll_Marill_VI.png/40px-Doll_Marill_VI.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/7/72/Doll_Marill_VI.png 1.5x" /></a> <a href="/wiki/Marill_(Pok%C3%A9mon)" title="Marill (Pokémon)">Marill</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Meowth_VI.png" class="image"><img alt="Doll Meowth VI.png" src="//cdn.bulbagarden.net/upload/thumb/e/e3/Doll_Meowth_VI.png/40px-Doll_Meowth_VI.png" width="40" height="44" srcset="//cdn.bulbagarden.net/upload/e/e3/Doll_Meowth_VI.png 1.5x" /></a> <a href="/wiki/Meowth_(Pok%C3%A9mon)" title="Meowth (Pokémon)">Meowth</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Mudkip_VI.png" class="image"><img alt="Doll Mudkip VI.png" src="//cdn.bulbagarden.net/upload/thumb/3/33/Doll_Mudkip_VI.png/40px-Doll_Mudkip_VI.png" width="40" height="53" srcset="//cdn.bulbagarden.net/upload/3/33/Doll_Mudkip_VI.png 1.5x" /></a> <a href="/wiki/Mudkip_(Pok%C3%A9mon)" title="Mudkip (Pokémon)">Mudkip</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Pichu_VI.png" class="image"><img alt="Doll Pichu VI.png" src="//cdn.bulbagarden.net/upload/thumb/e/ef/Doll_Pichu_VI.png/40px-Doll_Pichu_VI.png" width="40" height="35" srcset="//cdn.bulbagarden.net/upload/e/ef/Doll_Pichu_VI.png 1.5x" /></a> <a href="/wiki/Pichu_(Pok%C3%A9mon)" title="Pichu (Pokémon)">Pichu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Pikachu_VI.png" class="image"><img alt="Doll Pikachu VI.png" src="//cdn.bulbagarden.net/upload/thumb/e/e3/Doll_Pikachu_VI.png/40px-Doll_Pikachu_VI.png" width="40" height="46" srcset="//cdn.bulbagarden.net/upload/e/e3/Doll_Pikachu_VI.png 1.5x" /></a> <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Regice_VI.png" class="image"><img alt="Doll Regice VI.png" src="//cdn.bulbagarden.net/upload/thumb/8/88/Doll_Regice_VI.png/40px-Doll_Regice_VI.png" width="40" height="41" srcset="//cdn.bulbagarden.net/upload/thumb/8/88/Doll_Regice_VI.png/60px-Doll_Regice_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/88/Doll_Regice_VI.png/80px-Doll_Regice_VI.png 2x" /></a> <a href="/wiki/Regice_(Pok%C3%A9mon)" title="Regice (Pokémon)">Regice</a> Doll (Large)</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Regirock_VI.png" class="image"><img alt="Doll Regirock VI.png" src="//cdn.bulbagarden.net/upload/thumb/9/9e/Doll_Regirock_VI.png/40px-Doll_Regirock_VI.png" width="40" height="41" srcset="//cdn.bulbagarden.net/upload/thumb/9/9e/Doll_Regirock_VI.png/60px-Doll_Regirock_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/9e/Doll_Regirock_VI.png/80px-Doll_Regirock_VI.png 2x" /></a> <a href="/wiki/Regirock_(Pok%C3%A9mon)" title="Regirock (Pokémon)">Regirock</a> Doll (Large)</li>
+<li> <a href="/wiki/File:Doll_Registeel_VI.png" class="image"><img alt="Doll Registeel VI.png" src="//cdn.bulbagarden.net/upload/thumb/2/20/Doll_Registeel_VI.png/40px-Doll_Registeel_VI.png" width="40" height="38" srcset="//cdn.bulbagarden.net/upload/thumb/2/20/Doll_Registeel_VI.png/60px-Doll_Registeel_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/2/20/Doll_Registeel_VI.png/80px-Doll_Registeel_VI.png 2x" /></a> <a href="/wiki/Registeel_(Pok%C3%A9mon)" title="Registeel (Pokémon)">Registeel</a> Doll (Large)</li>
+<li> <a href="/wiki/File:Doll_Rhydon_VI.png" class="image"><img alt="Doll Rhydon VI.png" src="//cdn.bulbagarden.net/upload/thumb/9/9b/Doll_Rhydon_VI.png/40px-Doll_Rhydon_VI.png" width="40" height="43" srcset="//cdn.bulbagarden.net/upload/thumb/9/9b/Doll_Rhydon_VI.png/60px-Doll_Rhydon_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/9b/Doll_Rhydon_VI.png/80px-Doll_Rhydon_VI.png 2x" /></a> <a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon (Pokémon)">Rhydon</a> Doll (Large)</li>
+<li> <a href="/wiki/File:Doll_Seedot_VI.png" class="image"><img alt="Doll Seedot VI.png" src="//cdn.bulbagarden.net/upload/thumb/5/56/Doll_Seedot_VI.png/40px-Doll_Seedot_VI.png" width="40" height="42" srcset="//cdn.bulbagarden.net/upload/5/56/Doll_Seedot_VI.png 1.5x" /></a> <a href="/wiki/Seedot_(Pok%C3%A9mon)" title="Seedot (Pokémon)">Seedot</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Skitty_VI.png" class="image"><img alt="Doll Skitty VI.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Doll_Skitty_VI.png/40px-Doll_Skitty_VI.png" width="40" height="45" srcset="//cdn.bulbagarden.net/upload/a/a6/Doll_Skitty_VI.png 1.5x" /></a> <a href="/wiki/Skitty_(Pok%C3%A9mon)" title="Skitty (Pokémon)">Skitty</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Smoochum_VI.png" class="image"><img alt="Doll Smoochum VI.png" src="//cdn.bulbagarden.net/upload/thumb/d/d7/Doll_Smoochum_VI.png/40px-Doll_Smoochum_VI.png" width="40" height="43" srcset="//cdn.bulbagarden.net/upload/d/d7/Doll_Smoochum_VI.png 1.5x" /></a> <a href="/wiki/Smoochum_(Pok%C3%A9mon)" title="Smoochum (Pokémon)">Smoochum</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Snorlax_VI.png" class="image"><img alt="Doll Snorlax VI.png" src="//cdn.bulbagarden.net/upload/thumb/4/44/Doll_Snorlax_VI.png/40px-Doll_Snorlax_VI.png" width="40" height="38" srcset="//cdn.bulbagarden.net/upload/thumb/4/44/Doll_Snorlax_VI.png/60px-Doll_Snorlax_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/44/Doll_Snorlax_VI.png/80px-Doll_Snorlax_VI.png 2x" /></a> <a href="/wiki/Snorlax_(Pok%C3%A9mon)" title="Snorlax (Pokémon)">Snorlax</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Substitute_VI.png" class="image"><img alt="Doll Substitute VI.png" src="//cdn.bulbagarden.net/upload/thumb/9/91/Doll_Substitute_VI.png/40px-Doll_Substitute_VI.png" width="40" height="52" srcset="//cdn.bulbagarden.net/upload/9/91/Doll_Substitute_VI.png 1.5x" /></a> <a href="/wiki/Substitute_(move)" title="Substitute (move)">Substitute</a> Doll (Large)</li>
+<li> <a href="/wiki/File:Doll_Swablu_VI.png" class="image"><img alt="Doll Swablu VI.png" src="//cdn.bulbagarden.net/upload/thumb/1/1c/Doll_Swablu_VI.png/40px-Doll_Swablu_VI.png" width="40" height="41" srcset="//cdn.bulbagarden.net/upload/1/1c/Doll_Swablu_VI.png 1.5x" /></a> <a href="/wiki/Swablu_(Pok%C3%A9mon)" title="Swablu (Pokémon)">Swablu</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Togepi_VI.png" class="image"><img alt="Doll Togepi VI.png" src="//cdn.bulbagarden.net/upload/a/ab/Doll_Togepi_VI.png" width="40" height="40" /></a> <a href="/wiki/Togepi_(Pok%C3%A9mon)" title="Togepi (Pokémon)">Togepi</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Torchic_VI.png" class="image"><img alt="Doll Torchic VI.png" src="//cdn.bulbagarden.net/upload/thumb/c/cb/Doll_Torchic_VI.png/40px-Doll_Torchic_VI.png" width="40" height="62" srcset="//cdn.bulbagarden.net/upload/c/cb/Doll_Torchic_VI.png 1.5x" /></a> <a href="/wiki/Torchic_(Pok%C3%A9mon)" title="Torchic (Pokémon)">Torchic</a> Doll</li></ul>
+</td><td valign="top">
+<ul><li> <a href="/wiki/File:Doll_Totodile_VI.png" class="image"><img alt="Doll Totodile VI.png" src="//cdn.bulbagarden.net/upload/thumb/7/78/Doll_Totodile_VI.png/40px-Doll_Totodile_VI.png" width="40" height="47" srcset="//cdn.bulbagarden.net/upload/7/78/Doll_Totodile_VI.png 1.5x" /></a> <a href="/wiki/Totodile_(Pok%C3%A9mon)" title="Totodile (Pokémon)">Totodile</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Treecko_VI.png" class="image"><img alt="Doll Treecko VI.png" src="//cdn.bulbagarden.net/upload/thumb/3/35/Doll_Treecko_VI.png/40px-Doll_Treecko_VI.png" width="40" height="40" srcset="//cdn.bulbagarden.net/upload/3/35/Doll_Treecko_VI.png 1.5x" /></a> <a href="/wiki/Treecko_(Pok%C3%A9mon)" title="Treecko (Pokémon)">Treecko</a> Doll</li>
+<li> <a href="/wiki/File:Doll_Venusaur_VI.png" class="image"><img alt="Doll Venusaur VI.png" src="//cdn.bulbagarden.net/upload/thumb/a/a8/Doll_Venusaur_VI.png/40px-Doll_Venusaur_VI.png" width="40" height="38" srcset="//cdn.bulbagarden.net/upload/thumb/a/a8/Doll_Venusaur_VI.png/60px-Doll_Venusaur_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a8/Doll_Venusaur_VI.png/80px-Doll_Venusaur_VI.png 2x" /></a> <a href="/wiki/Venusaur_(Pok%C3%A9mon)" title="Venusaur (Pokémon)">Venusaur</a> Doll (Large)</li>
+<li> <a href="/wiki/File:Doll_Wailmer_VI.png" class="image"><img alt="Doll Wailmer VI.png" src="//cdn.bulbagarden.net/upload/thumb/4/48/Doll_Wailmer_VI.png/40px-Doll_Wailmer_VI.png" width="40" height="44" srcset="//cdn.bulbagarden.net/upload/thumb/4/48/Doll_Wailmer_VI.png/60px-Doll_Wailmer_VI.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/48/Doll_Wailmer_VI.png/80px-Doll_Wailmer_VI.png 2x" /></a> <a href="/wiki/Wailmer_(Pok%C3%A9mon)" title="Wailmer (Pokémon)">Wailmer</a> Doll (Large)</li>
+<li> <a href="/wiki/File:Doll_Wynaut_VI.png" class="image"><img alt="Doll Wynaut VI.png" src="//cdn.bulbagarden.net/upload/thumb/0/03/Doll_Wynaut_VI.png/40px-Doll_Wynaut_VI.png" width="40" height="62" srcset="//cdn.bulbagarden.net/upload/0/03/Doll_Wynaut_VI.png 1.5x" /></a> <a href="/wiki/Wynaut_(Pok%C3%A9mon)" title="Wynaut (Pokémon)">Wynaut</a> Doll</li></ul>
+</td></tr>
+</table>
+<p>These dolls are only available in <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Pokémon Omega Ruby and Alpha Sapphire</a> as Secret Base decorations.
+</p>
+<h2><span class="mw-headline" id="Pok.C3.A9mon_Mystery_Dungeon">Pokémon Mystery Dungeon</span></h2>
+<p>In <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Red_Rescue_Team_and_Blue_Rescue_Team" title="Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team">Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team</a>, the player is able to receive <b>Figures</b> which are placed outside the <a href="/wiki/Team_Base" title="Team Base">Team Base</a>. They are obtained as rewards when certain conditions are met. The Lucario Figure is obtained upon attaining <a href="/wiki/Rank_(Mystery_Dungeon)#Rescue_Ranks" title="Rank (Mystery Dungeon)">Lucario Rank</a>; the Bonsly Figure is obtained by completing all of the <a href="/wiki/Makuhita_Dojo" title="Makuhita Dojo">Makuhita Dojo</a> mazes; the Mime Jr. and Weavile Figures are obtained as rewards for random missions, shown as either "Mime Jr. Fig" or "Weavile Fig". All of the statues were depictions of <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> Pokémon that had not yet made an appearance in the <a href="/wiki/Core_series" title="Core series">core series</a> games at the time of <a href="/wiki/Generation_III" title="Generation III">Generation III</a>.
+</p>
+<h3><span class="mw-headline" id="List_of_Figures">List of Figures</span></h3>
+<table style="float:left; background: #840836; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; -icab-border-radius: 5px; -o-border-radius: 5px;; border: 2px solid #095BAF">
+
+<tr style="background: #FFF;">
+<td> <a href="/wiki/File:Bonsly_Statue.png" class="image"><img alt="Bonsly Statue.png" src="//cdn.bulbagarden.net/upload/b/b7/Bonsly_Statue.png" width="40" height="40" /></a>
+</td>
+<th> <a href="/wiki/Bonsly_(Pok%C3%A9mon)" title="Bonsly (Pokémon)">Bonsly</a> Figure
+</th></tr>
+<tr style="background: #FFF;">
+<td> <a href="/wiki/File:Mime_Jr._Statue.png" class="image"><img alt="Mime Jr. Statue.png" src="//cdn.bulbagarden.net/upload/f/f6/Mime_Jr._Statue.png" width="40" height="40" /></a>
+</td>
+<th> <a href="/wiki/Mime_Jr._(Pok%C3%A9mon)" title="Mime Jr. (Pokémon)">Mime Jr.</a> Figure
+</th></tr>
+<tr style="background: #FFF;">
+<td> <a href="/wiki/File:Lucario_Statue.png" class="image"><img alt="Lucario Statue.png" src="//cdn.bulbagarden.net/upload/1/13/Lucario_Statue.png" width="40" height="40" /></a>
+</td>
+<th> <a href="/wiki/Lucario_(Pok%C3%A9mon)" title="Lucario (Pokémon)">Lucario</a> Figure
+</th></tr>
+<tr style="background: #FFF;">
+<td> <a href="/wiki/File:Weavile_Statue.png" class="image"><img alt="Weavile Statue.png" src="//cdn.bulbagarden.net/upload/8/82/Weavile_Statue.png" width="40" height="40" /></a>
+</td>
+<th> <a href="/wiki/Weavile_(Pok%C3%A9mon)" title="Weavile (Pokémon)">Weavile</a> Figure
+</th></tr></table>
+<p><br clear="all" />
+</p>
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:AG027_dub_edit.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/c/c3/AG027_dub_edit.png/220px-AG027_dub_edit.png" width="220" height="165" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/c/c3/AG027_dub_edit.png/330px-AG027_dub_edit.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c3/AG027_dub_edit.png/440px-AG027_dub_edit.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:AG027_dub_edit.png" class="internal" title="Enlarge"></a></div>Pokémon dolls in the anime</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Substitute_doll_anime.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/6/69/Substitute_doll_anime.png/220px-Substitute_doll_anime.png" width="220" height="124" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/6/69/Substitute_doll_anime.png/330px-Substitute_doll_anime.png 1.5x, //cdn.bulbagarden.net/upload/thumb/6/69/Substitute_doll_anime.png/440px-Substitute_doll_anime.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Substitute_doll_anime.png" class="internal" title="Enlarge"></a></div>A Substitute doll</div></div></div>
+<p>In the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a>, Pokémon dolls were first featured in <i><a href="/wiki/EP052" title="EP052">Princess vs. Princess</a></i> as a set of ornamental dolls given to the winner of the <a href="/wiki/Princess_Festival" title="Princess Festival">Princess Festival</a>. Misty won the contest and sent the set to her <a href="/wiki/The_Sensational_Sisters" title="The Sensational Sisters">sisters</a> in <a href="/wiki/Cerulean_Gym" title="Cerulean Gym">Cerulean Gym</a>.
+</p><p>Pokémon dolls of Zigzagoon and Azurill appeared in <i><a href="/wiki/AG027" title="AG027">A Three Team Scheme!</a></i>, decorating <a href="/wiki/Keanu" title="Keanu">Keanu</a>'s Secret Base. However, they were removed in the <a href="/wiki/Dub" title="Dub">dub</a>.
+</p><p>Pokémon dolls of <a href="/wiki/Lapras_(Pok%C3%A9mon)" title="Lapras (Pokémon)">Lapras</a>, <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a>, <a href="/wiki/Clefairy_(Pok%C3%A9mon)" title="Clefairy (Pokémon)">Clefairy</a>, and <a href="/wiki/Eevee_(Pok%C3%A9mon)" title="Eevee (Pokémon)">Eevee</a> appeared in <i><a href="/wiki/SM008" title="SM008">Lillie's Egg-xhilarating Challenge!</a></i>, decorating <a href="/wiki/Lillie_(anime)" title="Lillie (anime)">Lillie</a>'s room.
+</p><p>A <a href="/wiki/Substitute_(move)" title="Substitute (move)">Substitute</a> doll appeared in <i><a href="/wiki/SM015" title="SM015">Rocking Clawmark Hill!</a></i> at <a href="/wiki/Professor_Kukui" title="Professor Kukui">Professor Kukui</a>'s house.
+<br clear="all" />
+</p>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:Mirei_HGSS_Adventures.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/82/Mirei_HGSS_Adventures.png/150px-Mirei_HGSS_Adventures.png" width="150" height="225" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/8/82/Mirei_HGSS_Adventures.png/225px-Mirei_HGSS_Adventures.png 1.5x, //cdn.bulbagarden.net/upload/8/82/Mirei_HGSS_Adventures.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Mirei_HGSS_Adventures.png" class="internal" title="Enlarge"></a></div>A Marill doll in Pokémon Adventures</div></div></div>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<p>Pokémon dolls first appeared in <i><a href="/wiki/PS250" title="PS250">The Beginning of the End with Kyogre &amp; Groudon XII</a></i>. They were seen on shelves for sale in <a href="/wiki/Lilycove_Department_Store" title="Lilycove Department Store">Lilycove Department Store</a> during <a href="/wiki/Wallace" title="Wallace">Wallace</a>'s battle against <a href="/wiki/Tabitha" title="Tabitha">Tabitha</a>.
+</p><p>In <i><a href="/wiki/PS267" title="PS267">It All Ends Now VIII</a></i>, <a href="/wiki/Sapphire_(Adventures)" title="Sapphire (Adventures)">Sapphire</a> found her Secret Base decorated by <a href="/wiki/Ruby_(Adventures)" title="Ruby (Adventures)">Ruby</a> with various Pokémon dolls.
+</p><p>In <i><a href="/wiki/PS277" title="PS277">A Beastly Cold Reception</a></i>, the interior of <a href="/wiki/Lorelei" title="Lorelei">Lorelei</a>'s house on <a href="/wiki/Four_Island_(town)" title="Four Island (town)">Four Island</a> was shown with her many dolls.
+</p><p>In <i><a href="/wiki/PS447" title="PS447">Fortunately for Feraligatr</a></i>, <a href="/wiki/Mirei" title="Mirei">Mirei</a> was seen holding a <a href="/wiki/Marill_(Pok%C3%A9mon)" title="Marill (Pokémon)">Marill</a> doll.
+</p><p><br clear="all" />
+</p>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_ItemDex_logo.png" class="image"><img alt="Project ItemDex logo.png" src="//cdn.bulbagarden.net/upload/6/60/Project_ItemDex_logo.png" width="80" height="80" /></a>
+</td>
+<td> This item article is part of <b><a href="/wiki/Bulbapedia:Project_ItemDex" title="Bulbapedia:Project ItemDex">Project ItemDex</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on all <a href="/wiki/Item" title="Item">items</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180131013559
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.252 seconds
+Real time usage: 0.472 seconds
+Preprocessor visited node count: 1471/1000000
+Preprocessor generated node count: 3745/1000000
+Post‐expand include size: 7540/2097152 bytes
+Template argument size: 2744/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   73.286      1 -total
+ 29.81%   21.848    140 Template:P
+  8.71%    6.384      1 Template:Incomplete
+  4.67%    3.424      1 Template:Project_ItemDex_notice
+  3.79%    2.777      2 Template:Game
+  3.05%    2.234      5 Template:Roundy
+  2.38%    1.741      2 Template:Adv
+  2.36%    1.728      3 Template:M
+  2.24%    1.642      1 Template:Main
+  2.21%    1.622      2 Template:OBP
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:11532-0!*!0!!en!5!* and timestamp 20180131013559 and revision id 2731609
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Pokémon_doll&amp;oldid=2731609">https://bulbapedia.bulbagarden.net/w/index.php?title=Pokémon_doll&amp;oldid=2731609</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Articles_needing_more_information" title="Category:Articles needing more information">Articles needing more information</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_world" title="Category:Pokémon world">Pokémon world</a></li><li><a href="/wiki/Category:Items" title="Category:Items">Items</a></li><li><a href="/wiki/Category:Decorations" title="Category:Decorations">Decorations</a></li><li><a href="/wiki/Category:Goods" title="Category:Goods">Goods</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Pok%C3%A9mon_doll" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Pok%C3%A9mon_doll" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Pok%C3%A9mon_doll&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Pok%C3%A9mon_doll&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pok%C3%A9mon+doll" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pok%C3%A9mon+doll" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pok%C3%A9mon_doll" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pok%C3%A9mon_doll" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Pok%C3%A9mon_doll&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Pok%C3%A9mon_doll&amp;oldid=2731609" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Pok%C3%A9mon_doll&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Bambole_Pok%C3%A9mon" title="Bambole Pokémon – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 18 January 2018, at 01:57.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Pok%C3%A9mon_doll&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.472","ppvisitednodes":{"value":1471,"limit":1000000},"ppgeneratednodes":{"value":3745,"limit":1000000},"postexpandincludesize":{"value":7540,"limit":2097152},"templateargumentsize":{"value":2744,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%   73.286      1 -total"," 29.81%   21.848    140 Template:P","  8.71%    6.384      1 Template:Incomplete","  4.67%    3.424      1 Template:Project_ItemDex_notice","  3.79%    2.777      2 Template:Game","  3.05%    2.234      5 Template:Roundy","  2.38%    1.741      2 Template:Adv","  2.36%    1.728      3 Template:M","  2.24%    1.642      1 Template:Main","  2.21%    1.622      2 Template:OBP"]},"cachereport":{"timestamp":"20180131013559","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":59});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

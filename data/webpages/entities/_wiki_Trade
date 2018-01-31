@@ -1,0 +1,1806 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Trade - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Trade","wgTitle":"Trade","wgCurRevisionId":2736799,"wgRevisionId":2736799,"wgArticleId":9000,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing more information","Articles needing better pictures","Articles needing sources","Pokémon world","Game mechanics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Trade","wgRelevantArticleId":9000,"wgRequestId":"6c78828063fdb674ce9d21d8","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/9/9f/Trade_Pt.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Trade"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Trade"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Trade rootpage-Trade skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Trade</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table align="center" style="background: #FAFFF4; border: 2px solid #E0C068; width: auto%; margin-left: auto; margin-right: auto; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="background:#EBD69D; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;;" width="60px" align="center"> <a href="/wiki/File:050Diglett.png" class="image"><img alt="050Diglett.png" src="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/50px-050Diglett.png" width="50" height="50" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/75px-050Diglett.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/100px-050Diglett.png 2x" /></a>
+</td>
+<td> <b>This article is incomplete.</b><br />Please feel free to edit this article to add missing information and complete it. <br /><small>Reason: More Generation V and VII info.</small>
+</td></tr></table>
+<hr />
+<table style="margin:auto; background: #FAFFF4; border: 2px solid #F08030; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="text-align:center; background:#F5AC78; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;"> <a href="/wiki/File:Spr_1g_006.png" class="image"><img alt="Spr 1g 006.png" src="//cdn.bulbagarden.net/upload/5/59/Spr_1g_006.png" width="56" height="56" /></a>
+</td>
+<td> <b>The picture used in this article is unsatisfactory.</b><br /><small>Reason: Should be a Generation VII screenshot</small><br />Please feel free to replace it so it conforms to Bulbapedia conventions.
+</td></tr></table>
+<hr /><div class="thumb tright"><div class="thumbinner" style="width:258px;"><a href="/wiki/File:Trade_Pt.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/9/9f/Trade_Pt.png" width="256" height="384" class="thumbimage" /></a>  <div class="thumbcaption">Trading confirmation screen in <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a></div></div></div>
+<p>A <b>trade</b> (Japanese: <b><span lang="ja" style="margin: 0px;"><span class="explain" title="こうかん">交換</span></span></b> <i>exchange</i>), also known as a <b>Link Trade</b> (Japanese: <b><span lang="ja" style="margin: 0px;"><span class="explain" title="つうしんこうかん">通信交換</span></span></b> <i>Link Exchange</i>), is a process in which a <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Pokémon Trainer</a> sends one of his or her <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> to another Trainer in exchange for one of the other Trainer's Pokémon. In every Pokémon game, trading is necessary to collect all Pokémon.
+</p><p>Starting from <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, <a href="/wiki/Item" title="Item">items</a> can be held by Pokémon, allowing indirect trading of holdable items. However, in Generation IV, the <a href="/wiki/Timespace_orbs#Griseous_Orb" title="Timespace orbs">Griseous Orb</a> cannot be traded, as it will automatically be put back in the Bag when a player with Origin Forme Giratina in their party enters the Union Room or Wi-Fi Room. Certain items, when held by the correct Pokémon, will cause that Pokémon to evolve when traded to another player. <a href="/wiki/Mail" title="Mail">Mail</a> may also be held to send a message.
+</p><p>Until <a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2">Black 2 and White 2</a>, all trading animations in the <a href="/wiki/Core_series" title="Core series">core series</a> games used the standard <a href="/wiki/Pok%C3%A9_Ball#Pok.C3.A9_Ball" title="Poké Ball">Poké Ball</a>, regardless of the types of Balls the traded Pokémon were actually caught in. This is corrected in Black 2 and White 2, in which trade animations show the correct Poké Ball the Pokémon was caught in.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Benefits_of_trading"><span class="tocnumber">1</span> <span class="toctext">Benefits of trading</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Drawbacks_of_trading"><span class="tocnumber">2</span> <span class="toctext">Drawbacks of trading</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Limitations_on_trading"><span class="tocnumber">3</span> <span class="toctext">Limitations on trading</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Trading_between_game_generations"><span class="tocnumber">3.1</span> <span class="toctext">Trading between game generations</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#International_trading"><span class="tocnumber">3.2</span> <span class="toctext">International trading</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Hardware_requirements"><span class="tocnumber">3.3</span> <span class="toctext">Hardware requirements</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Pok.C3.A9mon_that_cannot_be_traded"><span class="tocnumber">3.4</span> <span class="toctext">Pokémon that cannot be traded</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Requirements_for_trading"><span class="tocnumber">4</span> <span class="toctext">Requirements for trading</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Generation_I"><span class="tocnumber">4.1</span> <span class="toctext">Generation I</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Generation_II"><span class="tocnumber">4.2</span> <span class="toctext">Generation II</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Generation_III"><span class="tocnumber">4.3</span> <span class="toctext">Generation III</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Ruby_and_Sapphire"><span class="tocnumber">4.3.1</span> <span class="toctext">Ruby and Sapphire</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#FireRed_and_LeafGreen"><span class="tocnumber">4.3.2</span> <span class="toctext">FireRed and LeafGreen</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Pok.C3.A9mon_Emerald_Version"><span class="tocnumber">4.3.3</span> <span class="toctext">Pokémon Emerald Version</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Pok.C3.A9mon_Colosseum_and_Pok.C3.A9mon_XD:_Gale_of_Darkness"><span class="tocnumber">4.3.4</span> <span class="toctext">Pokémon Colosseum and Pokémon XD: Gale of Darkness</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Generation_IV"><span class="tocnumber">4.4</span> <span class="toctext">Generation IV</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Diamond.2C_Pearl.2C_and_Platinum"><span class="tocnumber">4.4.1</span> <span class="toctext">Diamond, Pearl, and Platinum</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#My_Pok.C3.A9mon_Ranch"><span class="tocnumber">4.4.2</span> <span class="toctext">My Pokémon Ranch</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#HeartGold_and_SoulSilver"><span class="tocnumber">4.4.3</span> <span class="toctext">HeartGold and SoulSilver</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Generation_V"><span class="tocnumber">4.5</span> <span class="toctext">Generation V</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Black_and_White"><span class="tocnumber">4.5.1</span> <span class="toctext">Black and White</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Black.C2.A02_and_White.C2.A02"><span class="tocnumber">4.5.2</span> <span class="toctext">Black&#160;2 and White&#160;2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="#Generation_VI"><span class="tocnumber">4.6</span> <span class="toctext">Generation VI</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#X_and_Y"><span class="tocnumber">4.6.1</span> <span class="toctext">X and Y</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Omega_Ruby_and_Alpha_Sapphire"><span class="tocnumber">4.6.2</span> <span class="toctext">Omega Ruby and Alpha Sapphire</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#Generation_VII"><span class="tocnumber">4.7</span> <span class="toctext">Generation VII</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#Sun_and_Moon"><span class="tocnumber">4.7.1</span> <span class="toctext">Sun and Moon</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Trading_process"><span class="tocnumber">5</span> <span class="toctext">Trading process</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Generations_I-IV"><span class="tocnumber">5.1</span> <span class="toctext">Generations I-IV</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Generation_V_2"><span class="tocnumber">5.2</span> <span class="toctext">Generation V</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Generation_VI_2"><span class="tocnumber">5.3</span> <span class="toctext">Generation VI</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Generation_VII_2"><span class="tocnumber">5.4</span> <span class="toctext">Generation VII</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#Pok.C3.A9mon_that_evolve_when_traded"><span class="tocnumber">6</span> <span class="toctext">Pokémon that evolve when traded</span></a>
+<ul>
+<li class="toclevel-2 tocsection-34"><a href="#From_Generation_I"><span class="tocnumber">6.1</span> <span class="toctext">From Generation I</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#From_Generation_II"><span class="tocnumber">6.2</span> <span class="toctext">From Generation II</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#From_Generation_III"><span class="tocnumber">6.3</span> <span class="toctext">From Generation III</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#From_Generation_IV"><span class="tocnumber">6.4</span> <span class="toctext">From Generation IV</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#From_Generation_V"><span class="tocnumber">6.5</span> <span class="toctext">From Generation V</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="#From_Generation_VI"><span class="tocnumber">6.6</span> <span class="toctext">From Generation VI</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-40"><a href="#In_spin-off_series"><span class="tocnumber">7</span> <span class="toctext">In spin-off series</span></a>
+<ul>
+<li class="toclevel-2 tocsection-41"><a href="#Pok.C3.A9mon_Mystery_Dungeon_series"><span class="tocnumber">7.1</span> <span class="toctext">Pokémon Mystery Dungeon series</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-42"><a href="#In_the_anime"><span class="tocnumber">8</span> <span class="toctext">In the anime</span></a></li>
+<li class="toclevel-1 tocsection-43"><a href="#In_the_manga"><span class="tocnumber">9</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-44"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">9.1</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-45"><a href="#In_the_TCG"><span class="tocnumber">10</span> <span class="toctext">In the TCG</span></a></li>
+<li class="toclevel-1 tocsection-46"><a href="#Trivia"><span class="tocnumber">11</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-47"><a href="#In_other_languages"><span class="tocnumber">12</span> <span class="toctext">In other languages</span></a></li>
+<li class="toclevel-1 tocsection-48"><a href="#See_also"><span class="tocnumber">13</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-49"><a href="#References"><span class="tocnumber">14</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Benefits_of_trading">Benefits of trading</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:SM_Prerelease_Trade.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/f/f4/SM_Prerelease_Trade.png/200px-SM_Prerelease_Trade.png" width="200" height="120" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/f/f4/SM_Prerelease_Trade.png/300px-SM_Prerelease_Trade.png 1.5x, //cdn.bulbagarden.net/upload/f/f4/SM_Prerelease_Trade.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:SM_Prerelease_Trade.png" class="internal" title="Enlarge"></a></div>Trading a <a href="/wiki/Togedemaru_(Pok%C3%A9mon)" title="Togedemaru (Pokémon)">Togedemaru</a> for a <a href="/wiki/Pikipek_(Pok%C3%A9mon)" title="Pikipek (Pokémon)">Pikipek</a> in <a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon">Sun and Moon</a></div></div></div>
+<p>Trading is necessary in order to collect every Pokémon in the <a href="/wiki/Pok%C3%A9dex" title="Pokédex">Pokédex</a>, as some Pokémon <a href="/wiki/Game-exclusive_Pok%C3%A9mon" title="Game-exclusive Pokémon">can only be found</a> in certain versions. For example, because <a href="/wiki/Meowth_(Pok%C3%A9mon)" title="Meowth (Pokémon)">Meowth</a> cannot be found in <a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions">Red</a>, the player must trade with someone who has obtained one from Blue, in which Meowth is readily found in the wild. <a href="/wiki/Category:Pok%C3%A9mon_that_evolve_through_trading" title="Category:Pokémon that evolve through trading">Some Pokémon</a> only <a href="/wiki/Evolution" title="Evolution">evolve</a> after being traded.
+</p><p>Traded Pokémon gain 1.5× the normal <a href="/wiki/Experience" title="Experience">experience</a> after a <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">Pokémon battle</a>. Pokémon traded from a game in another language will gain 1.7× experience.
+</p><p>Trading may also be used to transfer limited and rare items in games from <a href="/wiki/Generation_II" title="Generation II">Generation II</a> onward, such as <a href="/wiki/Master_Ball" title="Master Ball">Master Balls</a> or <a href="/wiki/Soul_Dew" title="Soul Dew">Soul Dews</a>, from one game to another by <a href="/wiki/Held_item" title="Held item">giving a Pokémon an item</a>.
+</p><p>In <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>, Trainers receive <a href="/wiki/Pok%C3%A9_Mile" title="Poké Mile">Poké Miles</a> for every trade made with another player.  In <a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a>, Trainers may receive <a href="/wiki/Pok%C3%A9mon_Dollar#Other_currencies" title="Pokémon Dollar">Festival Coins</a> instead.
+</p>
+<h2><span class="mw-headline" id="Drawbacks_of_trading">Drawbacks of trading</span></h2>
+<p>A Pokémon with an <a href="/wiki/Original_Trainer" title="Original Trainer">original Trainer</a> different from its current Trainer is referred to as an <a href="/wiki/Outsider_Pok%C3%A9mon" title="Outsider Pokémon">outsider Pokémon</a>, and will only obey a Trainer with the sufficient number of Gym Badges. The <a href="/wiki/Friendship" title="Friendship">friendship</a> of a Pokémon is set to 70 when it is traded from one game to another, unless returned to its original Trainer. In addition, a traded Pokémon's nickname cannot be changed by anyone but the original Trainer, even if it hasn't been given a nickname.
+</p><p>Traded Pokémon are identified by the Pokémon's <a href="/wiki/Original_Trainer" title="Original Trainer">Original Trainer</a> name and a five- or six-digit <a href="/wiki/Trainer_ID_number" title="Trainer ID number">ID Number</a>. Starting in <a href="/wiki/Generation_III" title="Generation III">Generation III</a>, even if two games have the same name and ID number, each Trainer also has a <a href="/wiki/Secret_ID_number" class="mw-redirect" title="Secret ID number">secret ID number</a>. The odds of two Trainers having the same secret ID numbers is 1/65536 or approximately 0.002%, making it extremely unlikely that an outsider Pokémon will be treated as a regular Pokémon on a different cartridge.
+</p>
+<h2><span class="mw-headline" id="Limitations_on_trading">Limitations on trading</span></h2>
+<table align="center" style="background: #FAFFF4; border: 2px solid #E0C068; width: auto%; margin-left: auto; margin-right: auto; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="background:#EBD69D; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;;" width="60px" align="center"> <a href="/wiki/File:050Diglett.png" class="image"><img alt="050Diglett.png" src="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/50px-050Diglett.png" width="50" height="50" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/75px-050Diglett.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/100px-050Diglett.png 2x" /></a>
+</td>
+<td> <b>This section is incomplete.</b><br />Please feel free to edit this section to add missing information and complete it. <br /><small>Reason: Confirm that the Kadabra Everstone glitch occurs in Generation VI and VII..</small>
+</td></tr></table>
+<p>Trade-induced <a href="/wiki/Evolution" title="Evolution">evolution</a> cannot be canceled unless the Pokémon holds an <a href="/wiki/Out-of-battle_effect_item#Everstone" title="Out-of-battle effect item">Everstone</a>. In <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> onwards, however, the Everstone fails to prevent a traded <a href="/wiki/Kadabra_(Pok%C3%A9mon)" title="Kadabra (Pokémon)">Kadabra</a> from evolving into <a href="/wiki/Alakazam_(Pok%C3%A9mon)" title="Alakazam (Pokémon)">Alakazam</a>.
+</p>
+<h3><span class="mw-headline" id="Trading_between_game_generations">Trading between game generations</span></h3>
+<p>Pokémon can be traded between <a href="/wiki/Generation_I" title="Generation I">Generation I</a> and <a href="/wiki/Generation_II" title="Generation II">Generation II</a> games using the <a href="/wiki/Time_Capsule" title="Time Capsule">Time Capsule</a> feature. For compatibility purposes, the Pokémon to be traded from the Generation II game must be <a href="/wiki/Category:Generation_I_Pok%C3%A9mon" title="Category:Generation I Pokémon">a species that existed in Generation I</a> and cannot have any <a href="/wiki/Category:Generation_II_moves" title="Category:Generation II moves">moves introduced in Generation II</a>. The <a href="/wiki/Time_Capsule_exploit" title="Time Capsule exploit">Time Capsule exploit</a> can be used to trick the game into trading <a href="/wiki/Category:Generation_II_Pok%C3%A9mon" title="Category:Generation II Pokémon">Generation II Pokémon</a> back to <a href="/wiki/Generation_I" title="Generation I">Generation I</a> as well, but they will become <a href="/wiki/Glitch_Pok%C3%A9mon" title="Glitch Pokémon">glitch Pokémon</a> like <a href="/wiki/MissingNo." title="MissingNo.">MissingNo.</a>. Additionally, the <a href="/wiki/List_of_glitches_in_Generation_I#Trade_evolution_learnset_oversight" title="List of glitches in Generation I">trade evolution learnset oversight</a> can also be used to trade a Pokémon with a Generation II move back to a Generation I game, though it will become a <a href="/wiki/Glitch_move" class="mw-redirect" title="Glitch move">glitch move</a>.
+</p><p>It is not possible to trade between Generation II and <a href="/wiki/Generation_III" title="Generation III">Generation III</a> games.
+</p><p>Using <a href="/wiki/Pal_Park" title="Pal Park">Pal Park</a>, players can transfer Pokémon from their Generation III games to <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> games; however, Pokémon cannot be returned from Generation IV to Generation III. Additionally, Pokémon sent through Pal Park cannot know any Generation III <a href="/wiki/HM" title="HM">HM</a> moves. Similarly, using the <a href="/wiki/Pok%C3%A9_Transfer_Lab" title="Poké Transfer Lab">Poké Transfer Lab</a>, transfer is possible from Generation IV to <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, although as well as the limitation on HM moves, the Pokémon must not be holding any items. It is also possible to use a method called the <a href="/wiki/Relocator" title="Relocator">Relocator</a> to transfer specific event Pokémon before reaching the Poké Transfer Lab, although the same restrictions apply. Trading from Generation V to <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a> or <a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a> is done via the <a href="/wiki/Pok%C3%A9_Transporter" title="Poké Transporter">Poké Transporter</a> services from the <a href="/wiki/Pok%C3%A9mon_Bank" title="Pokémon Bank">Pokémon Bank</a>.
+</p>
+<h3><span class="mw-headline" id="International_trading">International trading</span></h3>
+<p>Trading between Japanese and non-Japanese games is not recommended in Generations I and II, mostly due to the different memory locations within the RAM. While possible, these trades will result in the corruption of both save files, forcing both players to restart their games from the beginning.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Trading between games released outside of Japan, such as between a Spanish <a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version">Pokémon Crystal</a> and a French <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version">Pokémon Yellow</a>, does not result in any corruption. However, trading between different languages is completely prevented for the <a href="/wiki/Virtual_Console" title="Virtual Console">Virtual Console</a> releases of the Generation I games.
+</p><p>Trading became possible between all versions of the games in <a href="/wiki/Generation_III" title="Generation III">Generation III</a>, where the English language text was programmed in even the Japanese games. Due to the relatively low chance of English and other language games coming into contact with Japanese games, however, precautions were not taken in the Japanese games to preserve a Pokémon or Trainer's name when traded in, as their maximum lengths are different. While games released outside Japan will display a Pokémon's OT and nickname fully, Japanese games will only display the first five letters.
+</p><p>In <a href="/wiki/Generation_III" title="Generation III">Generation III</a> (except in v1.0 of English <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Pokémon Ruby and Sapphire</a>), if a Pokémon originates from a different language to the current game, when it evolves its name will not be changed, with the old name treated as a nickname; thus, if a <a href="/wiki/Pichu_(Pok%C3%A9mon)" title="Pichu (Pokémon)">Pichu</a> named "PICHU" from an Italian game is evolved in an English game, when it evolves it will be a <a href="/wiki/Pikachu_(Pok%C3%A9mon)" title="Pikachu (Pokémon)">Pikachu</a> nicknamed "PICHU". In v1.0 of English Pokémon Ruby and Sapphire, if a Pokémon's current name is the same as its species name, it will be treated as unnicknamed regardless of game of origin, so its species name will change upon evolution.
+</p><p>Starting in Generation IV, if a Pokémon that is not nicknamed evolves, its name will be changed to the name of its species after evolution in its current game's language (regardless of its language of origin). In these games, there is a separate flag to indicate whether a Pokémon is nicknamed.
+</p><p>International trading became full-fledged in Generation IV, and was a much touted feature, with the linkage of the games to the <a href="/wiki/Nintendo_Wi-Fi_Connection" title="Nintendo Wi-Fi Connection">Nintendo Wi-Fi Connection</a>. Pokémon from foreign-language games would unlock international Pokédex entries if traded to a game of a different language; at first, only 14 Pokémon could do this, however, from Platinum onward, all Pokémon can potentially allow for foreign entries. Some special event Pokémon (e.g. <a href="/wiki/Spiky-eared_Pichu" title="Spiky-eared Pichu">Spiky-eared Pichu</a>) cannot be traded.
+</p><p>In Generation IV, Korean games cannot trade with non-Korean games due to only the Korean games including <a href="https://en.wikipedia.org/wiki/Hangul" class="extiw" title="wp:Hangul">Hangul</a>. Starting in <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, all games were made to be fully compatible with Korean games.
+</p>
+<h3><span class="mw-headline" id="Hardware_requirements">Hardware requirements</span></h3>
+<p>Trading requires two game consoles and two Pokémon games of compatible generations. Nintendo's intention is that players trade with friends, although some serious players purchase two consoles.
+</p><p>Prior to <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>, trading required a <a href="/wiki/Game_Link_Cable" title="Game Link Cable">Game Link Cable</a> or a <a href="/wiki/GBA_Wireless_Adapter" class="mw-redirect" title="GBA Wireless Adapter">GBA Wireless Adapter</a>. Although the Nintendo DS supports <a href="/wiki/Generation_III" title="Generation III">Generation III</a> games, it cannot be used to trade between those games as the DS lacks hardware support for the Game Link Cable. Also, Transfer Packs can be used to trade in <a href="/wiki/Generation_I" title="Generation I">Generation I</a> and in <a href="/wiki/Generation_II" title="Generation II">Generation II</a>, via <a href="/wiki/Pok%C3%A9mon_Stadium_(English)" title="Pokémon Stadium (English)">Pokémon Stadium</a> and <a href="/wiki/Pok%C3%A9mon_Stadium_2" title="Pokémon Stadium 2">Pokémon Stadium 2</a>.
+</p><p>The <a href="/wiki/Pal_Park" title="Pal Park">Pal Park</a> feature of <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> games uses the GBA slot of the Nintendo DS, so unlike other trading requires only one game console. However, it is not compatible with the <a href="/wiki/Nintendo_DSi" title="Nintendo DSi">Nintendo DSi</a>, <a href="/wiki/Nintendo_DSi_XL" title="Nintendo DSi XL">DSi XL</a>, or <a href="/wiki/Nintendo_3DS" title="Nintendo 3DS">3DS</a>, which do not have a GBA slot.
+</p>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_that_cannot_be_traded">Pokémon that cannot be traded</span></h3>
+<p>As of Generation VI, Pokémon with certain <a href="/wiki/Ribbon#Gift_Ribbons" title="Ribbon">Gift Ribbons</a> (such as the <a href="/wiki/List_of_Ribbons_in_the_games#Classic_Ribbon" title="List of Ribbons in the games">Classic Ribbon</a>) cannot be traded over the GTS or through Wonder Trade. Starting in Generation VII, these Pokémon cannot be traded at all.<sup>[<i>citation needed</i>]</sup>
+</p>
+<h2><span class="mw-headline" id="Requirements_for_trading">Requirements for trading</span></h2>
+<h3><span class="mw-headline" id="Generation_I">Generation I</span></h3>
+<p>The <a href="/wiki/Player_character" title="Player character">player</a> cannot trade Pokémon before getting a <a href="/wiki/Pok%C3%A9dex" title="Pokédex">Pokédex</a> from <a href="/wiki/Professor_Oak" title="Professor Oak">Professor Oak</a> at <a href="/wiki/Pallet_Town" title="Pallet Town">Pallet Town</a>.
+</p>
+<h3><span class="mw-headline" id="Generation_II">Generation II</span></h3>
+<p>The player cannot trade Pokémon before transporting the <a href="/wiki/List_of_Key_Items_in_Generation_II#Mystery_Egg" title="List of Key Items in Generation II">Mystery Egg</a> to <a href="/wiki/Professor_Elm" title="Professor Elm">Professor Elm</a>. The <a href="/wiki/Time_Capsule" title="Time Capsule">Time Capsule</a> cannot be used until the player has met <a href="/wiki/Bill" title="Bill">Bill</a> at <a href="/wiki/Ecruteak_City" title="Ecruteak City">Ecruteak City</a>'s <a href="/wiki/Pok%C3%A9mon_Center" title="Pokémon Center">Pokémon Center</a>, and waiting until the next day when setup is completed.
+</p>
+<h3><span class="mw-headline" id="Generation_III">Generation III</span></h3>
+<h4><span class="mw-headline" id="Ruby_and_Sapphire"><a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Ruby and Sapphire</a></span></h4>
+<p>The player cannot trade Pokémon before getting a <a href="/wiki/Pok%C3%A9dex" title="Pokédex">Pokédex</a> from <a href="/wiki/Professor_Birch" title="Professor Birch">Professor Birch</a> at <a href="/wiki/Littleroot_Town" title="Littleroot Town">Littleroot Town</a>. To trade, the player must have at least two Pokémon in the party. Trading with FireRed or LeafGreen will automatically activate the National Pokédex.
+</p>
+<h4><span class="mw-headline" id="FireRed_and_LeafGreen"><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions">FireRed and LeafGreen</a></span></h4>
+<p>The player cannot trade Pokémon before getting a <a href="/wiki/Pok%C3%A9dex" title="Pokédex">Pokédex</a> from Professor Oak at Pallet Town. The player must have at least two Pokémon in the party in order to trade.
+</p><p>In a departure from the main series' tradition, additional limitations on trades were put in place, which cannot be lifted before completing the game at least once:
+</p>
+<ul><li> At the beginning of the game, trades are only possible with other copies of FireRed and LeafGreen. In addition, trades involving Eggs or Pokémon not in the Kanto Pokédex are blocked. Pokémon that <a href="/wiki/Evolution" title="Evolution">evolve</a> into a <a href="/wiki/Generation_II" title="Generation II">Generation II</a> Pokémon by trading will stop evolving.</li>
+<li> Obtaining the National Pokédex unblocks trades for Pokémon and Eggs outside of the Regional Pokédex.</li>
+<li> Bringing the <a href="/wiki/List_of_Key_Items_in_Generation_III#Ruby" title="List of Key Items in Generation III">Ruby</a> and <a href="/wiki/List_of_Key_Items_in_Generation_III#Sapphire" title="List of Key Items in Generation III">Sapphire</a> Key Items to complete <a href="/wiki/Celio" title="Celio">Celio</a>'s <a href="/wiki/Pok%C3%A9mon_Network_Center#Network_Machine" title="Pokémon Network Center">Network Machine</a> allows trades with Ruby, Sapphire, and Emerald versions.</li></ul>
+<h4><span class="mw-headline" id="Pok.C3.A9mon_Emerald_Version"><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Pokémon Emerald Version</a></span></h4>
+<p>The player cannot trade Pokémon before getting a <a href="/wiki/Pok%C3%A9dex" title="Pokédex">Pokédex</a> from <a href="/wiki/Professor_Birch" title="Professor Birch">Professor Birch</a> at <a href="/wiki/Littleroot_Town" title="Littleroot Town">Littleroot Town</a>. To trade, the player must have at least two Pokémon in the party.
+</p><p>Restrictions similar to those in FireRed and LeafGreen also apply to this version:
+</p>
+<ul><li> At the beginning of the game, trades are only possible with other copies of Emerald, as well as Ruby and Sapphire. In addition to that, trades that involve Eggs or Pokémon that aren't in the Hoenn Pokédex are blocked.</li>
+<li> Obtaining the National Pokédex unblocks trades for Pokémon outside of the Regional Pokédex, as well as Eggs, and allows trading with FireRed and LeafGreen.</li></ul>
+<h4><span class="mw-headline" id="Pok.C3.A9mon_Colosseum_and_Pok.C3.A9mon_XD:_Gale_of_Darkness"><a href="/wiki/Pok%C3%A9mon_Colosseum" title="Pokémon Colosseum">Pokémon Colosseum</a> and <a href="/wiki/Pok%C3%A9mon_XD:_Gale_of_Darkness" title="Pokémon XD: Gale of Darkness">Pokémon XD: Gale of Darkness</a></span></h4>
+<p>The player cannot trade Pokémon with the GBA games in Colosseum until <a href="/wiki/Evice" title="Evice">Evice</a> has been defeated, while the player must have defeated <a href="/wiki/Greevil" title="Greevil">Greevil</a> in Pokémon XD: Gale of Darkness to trade. Trading any unpurified <a href="/wiki/Shadow_Pok%C3%A9mon" title="Shadow Pokémon">Shadow Pokémon</a> is completely prohibited, as data for Shadow moves doesn't exist in the GBA games, nor the ability to purify them.
+</p><p>It is not possible to directly trade between Colosseum and XD.
+</p>
+<h3><span class="mw-headline" id="Generation_IV">Generation IV</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:258px;"><a href="/wiki/File:Platinum_trade_ball.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/e/ed/Platinum_trade_ball.png" width="256" height="193" class="thumbimage" /></a>  <div class="thumbcaption">A trade in Generation IV</div></div></div>
+<h4><span class="mw-headline" id="Diamond.2C_Pearl.2C_and_Platinum"><a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Diamond, Pearl</a>, and <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a></span></h4>
+<p>The player cannot trade Pokémon before getting a <a href="/wiki/Pok%C3%A9dex" title="Pokédex">Pokédex</a> from <a href="/wiki/Professor_Rowan" title="Professor Rowan">Professor Rowan</a> at <a href="/wiki/Sandgem_Town" title="Sandgem Town">Sandgem Town</a>. Also, the player has to have at least two Pokémon in the party. Migrating Pokémon from the Generation III games through <a href="/wiki/Pal_Park" title="Pal Park">Pal Park</a> cannot be done until the <a href="/wiki/National_Pok%C3%A9dex" title="National Pokédex">National Pokédex</a> has been obtained. It is possible to obtain a non-regional Pokémon when trading Pokémon from another Generation IV game <i>without</i> having acquired the National Pokédex. In Platinum, the player is now able to press B to select the "CANCEL" button.
+</p>
+<h4><span class="mw-headline" id="My_Pok.C3.A9mon_Ranch"><a href="/wiki/My_Pok%C3%A9mon_Ranch" title="My Pokémon Ranch">My Pokémon Ranch</a></span></h4>
+<p>Hayley will only offer to trade with the player after they have completed a wanted request, and will only trade specific Pokémon and only if she has already brought one of them to the Ranch.
+</p>
+<h4><span class="mw-headline" id="HeartGold_and_SoulSilver"><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">HeartGold and SoulSilver</a></span></h4>
+<p>Similar to Diamond, Pearl, and Platinum, trading cannot occur until the player has obtained his or her Pokédex from <a href="/wiki/Professor_Oak" title="Professor Oak">Professor Oak</a> at <a href="/wiki/Mr._Pok%C3%A9mon" title="Mr. Pokémon">Mr. Pokémon's house</a>. The player must have at least two Pokémon in the party; but no additional prerequisite is needed to trade with the Sinnoh games: this can be done at the very beginning of the game. Migrating Pokémon from Generation III games through Pal Park is also possible later in the game if the player has a Nintendo DS or DS Lite.
+</p>
+<h3><span class="mw-headline" id="Generation_V">Generation V</span></h3>
+<h4><span class="mw-headline" id="Black_and_White"><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions">Black and White</a></span></h4>
+<p>The player cannot trade Pokémon until they have obtained the <a href="/wiki/Badge#Trio_Badge" title="Badge">Trio Badge</a> from the <a href="/wiki/Striaton_Gym" title="Striaton Gym">Striaton Gym</a> and completed the <a href="/wiki/C-Gear" title="C-Gear">C-Gear</a> sub-quest for <a href="/wiki/Fennel" title="Fennel">Fennel</a>. This prevents the player from trading for a Pokémon that knows <a href="/wiki/Cut_(move)" title="Cut (move)">Cut</a> in order to access the blocked-off section of <a href="/wiki/Dreamyard" title="Dreamyard">Dreamyard</a> early, as <a href="/wiki/HM" title="HM">HM</a> usage is not restricted by <a href="/wiki/Badge" title="Badge">Badge</a> ownership in Unova.
+</p><p>The player is also prevented from trading party Pokémon that know any <a href="/wiki/HM" title="HM">HM</a> move via Infrared Connection, most likely to prevent trading away a Pokémon whose HM move is needed in a certain area. An example of this would be trading away any Pokémon in the party who know Fly or Surf while on a patch of land surrounded by water.
+</p><p>The <a href="/wiki/Pok%C3%A9_Transfer" title="Poké Transfer">Poké Transfer</a> feature allows Pokémon to be migrated from any Generation IV game. Pokémon can be migrated up to six at a time using a catapult minigame sent to another DS using Download Play. This minigame can transfer Pokémon from an inserted Generation IV Pokémon cartridge. Migrating with the Poké Transfer is one-way, requires both games to be from the same language, and cannot migrate Eggs or Pokémon holding items. There is no daily limit to use of the Poké Transfer.
+</p><p>The <a href="/wiki/Relocator" title="Relocator">Relocator</a> allows the transfer of <a href="/wiki/Celebi_(Pok%C3%A9mon)" title="Celebi (Pokémon)">Celebi</a> and the Shiny <a href="/wiki/Legendary_beasts" title="Legendary beasts">Legendary beasts</a> from a Generation IV game. It is available earlier in the game than the Poké Transfer, which requires the player to have acquired the <a href="/wiki/National_Pok%C3%A9dex" title="National Pokédex">National Pokédex</a> and defeated the <a href="/wiki/Elite_Four" title="Elite Four">Elite Four</a>.
+</p>
+<h4><span class="mw-headline" id="Black.C2.A02_and_White.C2.A02"><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2">Black&#160;2 and White&#160;2</a></span></h4>
+<p>Similar to Black and White, the player cannot trade Pokémon until they have received the <a href="/wiki/Badge#Basic_Badge" title="Badge">Basic Badge</a> from the <a href="/wiki/Aspertia_Gym" title="Aspertia Gym">Aspertia Gym</a> and have received the C-Gear from <a href="/wiki/Bianca" title="Bianca">Bianca</a>. There is no prerequisite to trade with Black and White. The Poké Transfer is also available after obtaining the <a href="/wiki/National_Pok%C3%A9dex" title="National Pokédex">National Pokédex</a>, allowing Pokémon from Generation IV to be transferred to Black 2 and White 2.
+</p>
+<h3><span class="mw-headline" id="Generation_VI">Generation VI</span></h3>
+<h4><span class="mw-headline" id="X_and_Y"><a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">X and Y</a></span></h4>
+<p>The player may trade Pokémon as soon as they have at least two Pokémon in their party, which is the minimum requirement for conducting a trade.
+</p>
+<h4><span class="mw-headline" id="Omega_Ruby_and_Alpha_Sapphire"><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Omega Ruby and Alpha Sapphire</a></span></h4>
+<p>The player must wait until they have obtained the <a href="/wiki/Pok%C3%A9Nav_Plus#PlayNav" title="PokéNav Plus">PlayNav</a> from <a href="/wiki/Wally" title="Wally">Wally</a> after helping him catch a Pokémon. The player must have two Pokémon in their party to trade.
+</p>
+<h3><span class="mw-headline" id="Generation_VII">Generation VII</span></h3>
+<h4><span class="mw-headline" id="Sun_and_Moon"><a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon">Sun and Moon</a></span></h4>
+<p>The player must wait to trade Pokémon until they gain the Quick Link option in their <a href="/wiki/Menu" title="Menu">menu</a> upon their first visit to a <a href="/wiki/Pok%C3%A9mon_Center" title="Pokémon Center">Pokémon Center</a>, which will allow them to trade with someone nearby. In order to trade over the Internet (GTS, Wonder Trade, or Link Trade), the player must use <a href="/wiki/Festival_Plaza" title="Festival Plaza">Festival Plaza</a>.  The player may require at least two Pokémon in their party.
+</p>
+<h2><span class="mw-headline" id="Trading_process">Trading process</span></h2>
+<h3><span class="mw-headline" id="Generations_I-IV">Generations I-IV</span></h3>
+<p>The actual trading interface remained largely the same throughout the series's first four generations: Each player selects one Pokémon from their party to offer for trade; once decided, they can review the <a href="/wiki/Stats" class="mw-redirect" title="Stats">stats</a> (and, when applicable, <a href="/wiki/Ability" title="Ability">Ability</a> or <a href="/wiki/Item" title="Item">item</a>) of the other Pokémon before confirming or cancelling the trade. The player may perform multiple trades in a row.
+</p><p>It is not possible to trade Pokémon stored in the <a href="/wiki/PC" title="PC">PC</a> in these generations, so they must be placed in the party prior to speaking with the receptionist at a Pokémon Center.
+</p><p>Generation IV's <a href="/wiki/Global_Trade_System" title="Global Trade System">Global Trade System</a> utilizes a separate trading process, in which a player deposits one Pokémon at a time (requesting another Pokémon in exchange) and other players may search and trade for it at their leisure. Once traded, the original player will receive the Pokémon upon logging in to the GTS. If the Pokémon is not traded, the original player can cancel the offer by withdrawing their Pokémon from the GTS.
+</p>
+<h3><span class="mw-headline" id="Generation_V_2">Generation V</span></h3>
+<p>The trading process received an overhaul in Generation V: now called a <b>Negotiation Trade</b> (Japanese: <b><span lang="ja" style="margin: 0px;">ネゴシエーション<span class="explain" title="こうかん">交換</span></span></b> <i>Negotiation Exchange</i>), it allows players to offer and trade Pokémon from either their current party or directly from their PC's storage system.
+</p><p>During the trade, each player may select up to three Pokémon to offer the other player. Once decided, they may review the offered Pokémon (checking stats, Ability, etc.) and confirm one to be traded. Players may trade several Pokémon in a row if desired.
+</p><p>Players registered on each other's <a href="/wiki/Pal_Pad" title="Pal Pad">Pal Pad</a> can communicate with live voice chat during the trade. A set of four emoticons (Smile Mark, Saddened Mark, Heart Mark, Surprise Mark) also allows for limited communication between players. In addition to showing the Pokémon on offer, the top screen also includes an abstract glimpse of the other player's Pokémon collection in the form of PC boxes with individual Pokémon represented by their <a href="/wiki/List_of_Pok%C3%A9mon_by_color" title="List of Pokémon by color">Pokédex color</a>.
+</p><p>The GTS, in addition to the deposit/search-based system introduced in Generation IV, receives a second trading mode ("GTS Negotiations") allowing two players to connect and trade Pokémon using this system.
+</p>
+<h3><span class="mw-headline" id="Generation_VI_2">Generation VI</span></h3>
+<p>Trading functions (including the GTS) are no longer a service of Pokémon Centers, but are instead accessible at any time through the <a href="/wiki/Player_Search_System" title="Player Search System">Player Search System</a> on the 3DS's lower screen.
+</p><p>The trading process has been streamlined since Generation V, with each player showing only one Pokémon at a time (instead of three) before being prompted to make an offer. Chat emoticons have been removed, but voice chat is still available when the player trades with someone on their 3DS's Friends List.
+</p><p>The GTS has also been updated, now allowing the player to enter the species name of any Pokémon using a "What Pokémon?" option in the Pokémon selection list. This allows players to trade for Pokémon that they have not seen in the game.
+</p><p>A third trading method, called <a href="/wiki/Wonder_Trade" title="Wonder Trade">Wonder Trade</a>, is introduced this generation: When performing a Wonder Trade, the player selects one Pokémon from their collection and it is immediately traded with another player using Wonder Trade, with no further confirmation or any communication between players; what Pokémon the player receives in exchange for theirs is a complete surprise.
+</p>
+<h3><span class="mw-headline" id="Generation_VII_2">Generation VII</span></h3>
+<p>The PSS has been replaced and split between the <a href="/w/index.php?title=Quick_Link&amp;action=edit&amp;redlink=1" class="new" title="Quick Link (page does not exist)">Quick Link</a> and <a href="/wiki/Festival_Plaza" title="Festival Plaza">Festival Plaza</a> options in the <a href="/wiki/Menu" title="Menu">menu</a>.  Quick Link allows for players to locally trade Pokémon, while the Festival Plaza allows for trading through the internet.  The GTS and Wonder Trade are usable while in the Festival Plaza.
+</p><p>The GTS is similar to its Generation VI counterpart, though filtering has been adjusted and searching for a Pokémon by letter will now show that Pokémon's icon next to its name.
+</p>
+<h2><span class="mw-headline" id="Pok.C3.A9mon_that_evolve_when_traded">Pokémon that evolve when traded</span></h2>
+<p>Most of the Pokémon that evolve when traded can only do so while holding a <a href="/wiki/Evolution-inducing_held_item" title="Evolution-inducing held item">specific item</a>.
+</p>
+<h3><span class="mw-headline" id="From_Generation_I">From <a href="/wiki/Generation_I" title="Generation I">Generation I</a></span></h3>
+<ul><li> <a href="/wiki/Kadabra_(Pok%C3%A9mon)" title="Kadabra (Pokémon)">Kadabra</a> → <a href="/wiki/Alakazam_(Pok%C3%A9mon)" title="Alakazam (Pokémon)">Alakazam</a></li>
+<li> <a href="/wiki/Machoke_(Pok%C3%A9mon)" title="Machoke (Pokémon)">Machoke</a> → <a href="/wiki/Machamp_(Pok%C3%A9mon)" title="Machamp (Pokémon)">Machamp</a></li>
+<li> <a href="/wiki/Graveler_(Pok%C3%A9mon)" title="Graveler (Pokémon)">Graveler</a> → <a href="/wiki/Golem_(Pok%C3%A9mon)" title="Golem (Pokémon)">Golem</a></li>
+<li> <a href="/wiki/Haunter_(Pok%C3%A9mon)" title="Haunter (Pokémon)">Haunter</a> → <a href="/wiki/Gengar_(Pok%C3%A9mon)" title="Gengar (Pokémon)">Gengar</a></li></ul>
+<h3><span class="mw-headline" id="From_Generation_II">From <a href="/wiki/Generation_II" title="Generation II">Generation II</a></span></h3>
+<ul><li> <a href="/wiki/Poliwhirl_(Pok%C3%A9mon)" title="Poliwhirl (Pokémon)">Poliwhirl</a> → <a href="/wiki/Politoed_(Pok%C3%A9mon)" title="Politoed (Pokémon)">Politoed</a> (if <a href="/wiki/King%27s_Rock" title="King's Rock">King's Rock</a> is held)</li>
+<li> <a href="/wiki/Slowpoke_(Pok%C3%A9mon)" title="Slowpoke (Pokémon)">Slowpoke</a> → <a href="/wiki/Slowking_(Pok%C3%A9mon)" title="Slowking (Pokémon)">Slowking</a> (if <a href="/wiki/King%27s_Rock" title="King's Rock">King's Rock</a> is held)</li>
+<li> <a href="/wiki/Onix_(Pok%C3%A9mon)" title="Onix (Pokémon)">Onix</a> → <a href="/wiki/Steelix_(Pok%C3%A9mon)" title="Steelix (Pokémon)">Steelix</a> (if <a href="/wiki/Metal_Coat" title="Metal Coat">Metal Coat</a> is held)</li>
+<li> <a href="/wiki/Seadra_(Pok%C3%A9mon)" title="Seadra (Pokémon)">Seadra</a> → <a href="/wiki/Kingdra_(Pok%C3%A9mon)" title="Kingdra (Pokémon)">Kingdra</a> (if <a href="/wiki/Dragon_Scale" title="Dragon Scale">Dragon Scale</a> is held)</li>
+<li> <a href="/wiki/Scyther_(Pok%C3%A9mon)" title="Scyther (Pokémon)">Scyther</a> → <a href="/wiki/Scizor_(Pok%C3%A9mon)" title="Scizor (Pokémon)">Scizor</a> (if <a href="/wiki/Metal_Coat" title="Metal Coat">Metal Coat</a> is held)</li>
+<li> <a href="/wiki/Porygon_(Pok%C3%A9mon)" title="Porygon (Pokémon)">Porygon</a> → <a href="/wiki/Porygon2_(Pok%C3%A9mon)" title="Porygon2 (Pokémon)">Porygon2</a> (if <a href="/wiki/Up-Grade" title="Up-Grade">Up-Grade</a> is held)</li></ul>
+<h3><span class="mw-headline" id="From_Generation_III">From <a href="/wiki/Generation_III" title="Generation III">Generation III</a></span></h3>
+<ul><li> <a href="/wiki/Clamperl_(Pok%C3%A9mon)" title="Clamperl (Pokémon)">Clamperl</a> → <a href="/wiki/Huntail_(Pok%C3%A9mon)" title="Huntail (Pokémon)">Huntail</a> (if <a href="/wiki/Deep_Sea_Tooth" title="Deep Sea Tooth">Deep Sea Tooth</a> is held)</li>
+<li> <a href="/wiki/Clamperl_(Pok%C3%A9mon)" title="Clamperl (Pokémon)">Clamperl</a> → <a href="/wiki/Gorebyss_(Pok%C3%A9mon)" title="Gorebyss (Pokémon)">Gorebyss</a> (if <a href="/wiki/Deep_Sea_Scale" title="Deep Sea Scale">Deep Sea Scale</a> is held)</li></ul>
+<h3><span class="mw-headline" id="From_Generation_IV">From <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a></span></h3>
+<ul><li> <a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon (Pokémon)">Rhydon</a> → <a href="/wiki/Rhyperior_(Pok%C3%A9mon)" title="Rhyperior (Pokémon)">Rhyperior</a> (if <a href="/wiki/Protector" title="Protector">Protector</a> is held)</li>
+<li> <a href="/wiki/Electabuzz_(Pok%C3%A9mon)" title="Electabuzz (Pokémon)">Electabuzz</a> → <a href="/wiki/Electivire_(Pok%C3%A9mon)" title="Electivire (Pokémon)">Electivire</a> (if <a href="/wiki/Electirizer" title="Electirizer">Electirizer</a> is held)</li>
+<li> <a href="/wiki/Magmar_(Pok%C3%A9mon)" title="Magmar (Pokémon)">Magmar</a> → <a href="/wiki/Magmortar_(Pok%C3%A9mon)" title="Magmortar (Pokémon)">Magmortar</a> (if <a href="/wiki/Magmarizer" title="Magmarizer">Magmarizer</a> is held)</li>
+<li> <a href="/wiki/Porygon2_(Pok%C3%A9mon)" title="Porygon2 (Pokémon)">Porygon2</a> → <a href="/wiki/Porygon-Z_(Pok%C3%A9mon)" title="Porygon-Z (Pokémon)">Porygon-Z</a> (if <a href="/wiki/Dubious_Disc" title="Dubious Disc">Dubious Disc</a> is held)</li>
+<li> <a href="/wiki/Dusclops_(Pok%C3%A9mon)" title="Dusclops (Pokémon)">Dusclops</a> → <a href="/wiki/Dusknoir_(Pok%C3%A9mon)" title="Dusknoir (Pokémon)">Dusknoir</a> (if <a href="/wiki/Reaper_Cloth" title="Reaper Cloth">Reaper Cloth</a> is held)</li></ul>
+<h3><span class="mw-headline" id="From_Generation_V">From <a href="/wiki/Generation_V" title="Generation V">Generation V</a></span></h3>
+<ul><li> <a href="/wiki/Boldore_(Pok%C3%A9mon)" title="Boldore (Pokémon)">Boldore</a> → <a href="/wiki/Gigalith_(Pok%C3%A9mon)" title="Gigalith (Pokémon)">Gigalith</a></li>
+<li> <a href="/wiki/Gurdurr_(Pok%C3%A9mon)" title="Gurdurr (Pokémon)">Gurdurr</a> → <a href="/wiki/Conkeldurr_(Pok%C3%A9mon)" title="Conkeldurr (Pokémon)">Conkeldurr</a></li>
+<li> <a href="/wiki/Karrablast_(Pok%C3%A9mon)" title="Karrablast (Pokémon)">Karrablast</a> → <a href="/wiki/Escavalier_(Pok%C3%A9mon)" title="Escavalier (Pokémon)">Escavalier</a> (if traded for <a href="/wiki/Shelmet_(Pok%C3%A9mon)" title="Shelmet (Pokémon)">Shelmet</a>)</li>
+<li> <a href="/wiki/Shelmet_(Pok%C3%A9mon)" title="Shelmet (Pokémon)">Shelmet</a> → <a href="/wiki/Accelgor_(Pok%C3%A9mon)" title="Accelgor (Pokémon)">Accelgor</a> (if traded for <a href="/wiki/Karrablast_(Pok%C3%A9mon)" title="Karrablast (Pokémon)">Karrablast</a>)</li>
+<li> <a href="/wiki/Feebas_(Pok%C3%A9mon)" title="Feebas (Pokémon)">Feebas</a> → <a href="/wiki/Milotic_(Pok%C3%A9mon)" title="Milotic (Pokémon)">Milotic</a> (if <a href="/wiki/Prism_Scale" title="Prism Scale">Prism Scale</a> is held)</li></ul>
+<h3><span class="mw-headline" id="From_Generation_VI">From <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a></span></h3>
+<ul><li> <a href="/wiki/Spritzee_(Pok%C3%A9mon)" title="Spritzee (Pokémon)">Spritzee</a> → <a href="/wiki/Aromatisse_(Pok%C3%A9mon)" title="Aromatisse (Pokémon)">Aromatisse</a> (if <a href="/wiki/Sachet" title="Sachet">Sachet</a> is held)</li>
+<li> <a href="/wiki/Swirlix_(Pok%C3%A9mon)" title="Swirlix (Pokémon)">Swirlix</a> → <a href="/wiki/Slurpuff_(Pok%C3%A9mon)" title="Slurpuff (Pokémon)">Slurpuff</a> (if <a href="/wiki/Whipped_Dream" title="Whipped Dream">Whipped Dream</a> is held)</li>
+<li> <a href="/wiki/Phantump_(Pok%C3%A9mon)" title="Phantump (Pokémon)">Phantump</a> → <a href="/wiki/Trevenant_(Pok%C3%A9mon)" title="Trevenant (Pokémon)">Trevenant</a></li>
+<li> <a href="/wiki/Pumpkaboo_(Pok%C3%A9mon)" title="Pumpkaboo (Pokémon)">Pumpkaboo</a> → <a href="/wiki/Gourgeist_(Pok%C3%A9mon)" title="Gourgeist (Pokémon)">Gourgeist</a></li></ul>
+<h2><span class="mw-headline" id="In_spin-off_series">In spin-off series</span></h2>
+<h3><span class="mw-headline" id="Pok.C3.A9mon_Mystery_Dungeon_series">Pokémon Mystery Dungeon series</span></h3>
+<p>In the <a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon_series" title="Pokémon Mystery Dungeon series">Pokémon Mystery Dungeon series</a>, items can be traded through a link cable<b><sup><a href="/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Red_Rescue_Team_and_Blue_Rescue_Team" title="Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team"><span style="color:#C50C50">R</span></a></sup></b>/wireless communication from the <a href="/wiki/Main_menu#Pok.C3.A9mon_Mystery_Dungeon_series" title="Main menu">main menu</a>.
+</p>
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Trade_machine_BW.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/73/Trade_machine_BW.png/250px-Trade_machine_BW.png" width="250" height="141" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/7/73/Trade_machine_BW.png/375px-Trade_machine_BW.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/73/Trade_machine_BW.png/500px-Trade_machine_BW.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Trade_machine_BW.png" class="internal" title="Enlarge"></a></div>A trade machine in the anime</div></div></div>
+<p>Despite it being one of the key aspects of the games, trading is exceptionally rare in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a>. Only a few trades have been shown taking place, and only six of them thus far have been truly significant, often taking place in episodes featuring the <a href="/wiki/Magikarp_salesman" title="Magikarp salesman">Magikarp salesman</a>. Fans have often speculated about the reason for this. Rather than simply exchanging Pokémon, most trades are carried out by placing <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Balls</a> into a specialized <a href="/wiki/Trade_machine" title="Trade machine">trading machine</a>, with a monitor that displays silhouettes of the two Pokémon as they pass each other.
+</p>
+<ul><li> In <i><a href="/wiki/EP015" title="EP015">Battle Aboard the St. Anne</a></i>, <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> traded his <a href="/wiki/Ash%27s_Butterfree" title="Ash's Butterfree">Butterfree</a> for a <a href="/wiki/Gentleman_(Trainer_class)" title="Gentleman (Trainer class)">Gentleman</a>'s <a href="/wiki/Ash%27s_Raticate" title="Ash's Raticate">Raticate</a>. He wasn't happy with the trade, however, so he traded it back by the end of the episode.</li>
+<li> In <i><a href="/wiki/EP146" title="EP146">Tricks of the Trade</a></i>, <a href="/wiki/Jessie" title="Jessie">Jessie</a> unintentionally traded her <a href="/wiki/Jessie%27s_Lickitung" title="Jessie's Lickitung">Lickitung</a> for <a href="/wiki/Benny_(EP146)" title="Benny (EP146)">Benny</a>'s <a href="/wiki/Jessie%27s_Wobbuffet" title="Jessie's Wobbuffet">Wobbuffet</a>.</li>
+<li> In <i><a href="/wiki/EP261" title="EP261">Here's Lookin' at You, Elekid</a></i>, <a href="/wiki/James" title="James">James</a> is forced by Jessie to trade his <a href="/wiki/James%27s_Victreebel" title="James's Victreebel">Victreebel</a> for the <a href="/wiki/Magikarp_salesman" title="Magikarp salesman">Magikarp salesman</a>'s <a href="/wiki/Weepinbell_(Pok%C3%A9mon)" title="Weepinbell (Pokémon)">Weepinbell</a>.</li>
+<li> In <i><a href="/wiki/DP055" title="DP055">Throwing the Track Switch</a></i>, <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> traded his <a href="/wiki/Ash%27s_Aipom" class="mw-redirect" title="Ash's Aipom">Aipom</a> for <a href="/wiki/Dawn_(anime)" title="Dawn (anime)">Dawn</a>'s <a href="/wiki/Ash%27s_Buizel" title="Ash's Buizel">Buizel</a>.</li>
+<li> In <i><a href="/wiki/BW063" title="BW063">Evolution Exchange Excitement!</a></i>, <a href="/wiki/Bianca_(anime)" title="Bianca (anime)">Bianca</a> and <a href="/wiki/Professor_Juniper" title="Professor Juniper">Professor Juniper</a> trade their <a href="/wiki/Shelmet_(Pok%C3%A9mon)" title="Shelmet (Pokémon)">Shelmet</a> and <a href="/wiki/Karrablast_(Pok%C3%A9mon)" title="Karrablast (Pokémon)">Karrablast</a> so that they could evolve.</li>
+<li> In <i><a href="/wiki/XY082" title="XY082">A Festival Trade! A Festival Farewell?</a></i>, Jessie traded her <a href="/wiki/Pumpkaboo_(Pok%C3%A9mon)" title="Pumpkaboo (Pokémon)">Pumpkaboo</a> for <a href="/wiki/Count_Pumpka" title="Count Pumpka">Count Pumpka</a>'s <a href="/wiki/Mawile_(Pok%C3%A9mon)" title="Mawile (Pokémon)">Mawile</a> so her Pumpkaboo could be with Count Pumpka's Prince Pumpkaboo, but when Jessie's Pumpkaboo evolved into <a href="/wiki/Jessie%27s_Gourgeist" title="Jessie's Gourgeist">Gourgeist</a>, the Prince promptly lost all interest. As a result, the trade was reversed.</li></ul>
+<p>The trade machine used in the anime has seemingly been adapted into the game canon, with <a href="/wiki/Professor_Oak" title="Professor Oak">Professor Oak</a>'s laboratory in both <a href="/wiki/Pok%C3%A9mon_Stadium_(English)" title="Pokémon Stadium (English)">Pokémon Stadium</a> and <a href="/wiki/Pok%C3%A9mon_Stadium_2" title="Pokémon Stadium 2">Pokémon Stadium 2</a> having this type of machine for trades. In the same way, when Game Link Cables were finally able to accept the data of two Pokémon being sent at once (rather than one at a time as in <a href="/wiki/Generation" title="Generation">Generations</a> <a href="/wiki/Generation_I" title="Generation I">I</a> and <a href="/wiki/Generation_II" title="Generation II">II</a>), the Pokémon are shown passing each other in the link space.
+</p>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<p>Like the anime, the <a href="/wiki/Pok%C3%A9mon_Adventures" title="Pokémon Adventures">Pokémon Adventures</a> manga does not contain many trades despite being a major part of the games. Most are not shown to need a machine to complete them. Simply hand-exchanging Pokémon can count as a trade, though it is also possible to trade by placing <a href="/wiki/Pok%C3%A9dex" title="Pokédex">Pokédexes</a> opposite each other.
+</p>
+<ul><li> In <i><a href="/wiki/PS018" title="PS018">A Tale of Ninetales</a></i>, <a href="/wiki/Red_(Adventures)" title="Red (Adventures)">Red</a> and <a href="/wiki/Blue_(Adventures)" title="Blue (Adventures)">Blue</a> accidentally traded some of their Pokémon, resulting in Blue's <a href="/wiki/Machoke_(Pok%C3%A9mon)" title="Machoke (Pokémon)">Machoke</a> evolving into <a href="/wiki/Blue%27s_Machamp" title="Blue's Machamp">Machamp</a>.</li>
+<li> In <i><a href="/wiki/PS025" title="PS025">You Know... Articuno!</a></i>, Red traded his <a href="/wiki/Krabby_(Pok%C3%A9mon)" title="Krabby (Pokémon)">Krabby</a> for <a href="/wiki/Misty" title="Misty">Misty</a>'s <a href="/wiki/Gyara" title="Gyara">Gyarados</a>.</li>
+<li> In <i><a href="/wiki/PS109" title="PS109">Ampharos Amore</a></i>, <a href="/wiki/Silver_(Adventures)" title="Silver (Adventures)">Silver</a> told <a href="/wiki/Gold_(Adventures)" title="Gold (Adventures)">Gold</a> to use his Pokédex to trade his <a href="/wiki/Polibo" title="Polibo">Poliwhirl</a> for Silver's <a href="/wiki/Seadra_(Pok%C3%A9mon)" title="Seadra (Pokémon)">Seadra</a> in order to evolve them. They traded back in <i><a href="/wiki/PS110" title="PS110">Piloswine Whine</a></i>.</li>
+<li> In <i><a href="/wiki/PS449" title="PS449">Raising the Stakes with Rhyperior</a></i>, it was revealed that Blue had traded his <a href="/wiki/Rhydon_(Pok%C3%A9mon)" title="Rhydon (Pokémon)">Rhydon</a> to Silver, allowing it to evolve into <a href="/wiki/Blue%27s_Rhyperior" title="Blue's Rhyperior">Rhyperior</a> and fill up the empty slot in Silver's team after his <a href="/wiki/Silver%27s_Ursaring" title="Silver's Ursaring">Ursaring</a> had disappeared along with <a href="/wiki/Giovanni_(Adventures)" title="Giovanni (Adventures)">his father</a>. In the <a href="/wiki/X_%26_Y_chapter_(Adventures)" title="X &amp; Y chapter (Adventures)"><i>X &amp; Y</i> chapter</a>, Rhyperior was revealed to have returned to Blue's ownership.</li></ul>
+<h2><span class="mw-headline" id="In_the_TCG">In the TCG</span></h2>
+<p>The following is a list of cards relating to <b>trades</b>.
+</p>
+<table class="roundy" style="margin:auto; background: #FFE955; border: 3px solid #b3a33b;">
+
+<tr>
+<th colspan="8" style="background: transparent; color: #000;"> <span id="Related_cards"></span>Related cards<br /><small>Cards listed with a <i>blue</i> background are only legal to use in the current <a href="/wiki/Expanded_format_(TCG)" title="Expanded format (TCG)"><span style="color:#000;">Expanded format</span></a>.</small><br /><small>Cards listed with a <i>silver</i> background are legal to use in both the current <a href="/wiki/Standard_format_(TCG)" title="Standard format (TCG)"><span style="color:#000;">Standard</span></a> and <a href="/wiki/Expanded_format_(TCG)" title="Expanded format (TCG)"><span style="color:#000;">Expanded formats</span></a>.</small>
+</th></tr>
+<tr style="vertical-align:bottom; background: #FFFCE4; color: #000;">
+<th> Card
+</th>
+<th> Type
+</th>
+<th> <span style="line-height:8px;"><small>English</small></span><br />Expansion
+</th>
+<th> Rarity
+</th>
+<th> #
+</th>
+<th> <span style="line-height:8px;"><small>Japanese</small></span><br />Expansion
+</th>
+<th> Rarity
+</th>
+<th> #
+</th></tr>
+<tr style="background:#FFFFFF;">
+<td rowspan="3"> <a href="/wiki/Pok%C3%A9mon_Trader_(Base_Set_77)" title="Pokémon Trader (Base Set 77)">Pokémon Trader</a>
+</td>
+<th rowspan="3" style="background:#FFE955"> T
+</th>
+<td> <a href="/wiki/Base_Set_(TCG)" title="Base Set (TCG)">Base Set</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" width="13" height="12" /></a>
+</td>
+<td> 77/102
+</td>
+<td> <a href="/wiki/Expansion_Pack_(TCG)" class="mw-redirect" title="Expansion Pack (TCG)">Expansion Pack</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" width="13" height="12" /></a>
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+
+<tr style="background:#FFFFFF;">
+<td> <a href="/wiki/Base_Set_2_(TCG)" title="Base Set 2 (TCG)">Base Set 2</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" width="13" height="12" /></a>
+</td>
+<td> 106/130
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+<tr style="background:#FFFFFF;">
+<td> <a href="/wiki/Legendary_Collection_(TCG)" title="Legendary Collection (TCG)">Legendary Collection</a>
+</td>
+<td style="text-align:center;"> <a href="/wiki/File:Rarity_Rare.png" class="image" title="Rare"><img alt="Rare" src="//cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" width="13" height="12" /></a>
+</td>
+<td> 103/110
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+
+
+<tr style="background:#FFFFFF;">
+<td rowspan="1"> <a href="/wiki/Trade_Please!_(Trade_Please_promo)" title="Trade Please! (Trade Please promo)">Trade Please!</a>
+</td>
+<th rowspan="1" style="background:#FFE955"> T
+</th>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td> <a href="/wiki/Unnumbered_Promotional_cards_(TCG)" title="Unnumbered Promotional cards (TCG)">Unnumbered Promotional cards</a>
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+
+
+
+<tr style="background:#FFFFFF;">
+<td rowspan="1"> <a href="/wiki/Deck_Exchange_(Vending_S3)" title="Deck Exchange (Vending S3)">Deck Exchange</a>
+</td>
+<th rowspan="1" style="background:#FFE955"> T
+</th>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td> <a href="/wiki/Extended_Sheet_3_(TCG)" class="mw-redirect" title="Extended Sheet 3 (TCG)">Extended Sheet 3</a>
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+
+
+
+<tr style="background:#FFFFFF;">
+<td rowspan="1"> <a href="/wiki/Bill%27s_PC_(Vending_S3)" title="Bill's PC (Vending S3)">Bill's PC</a>
+</td>
+<th rowspan="1" style="background:#FFE955"> T
+</th>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td>
+<td> <a href="/wiki/Extended_Sheet_3_(TCG)" class="mw-redirect" title="Extended Sheet 3 (TCG)">Extended Sheet 3</a>
+</td>
+<td style="text-align:center; background:#FFFCE4"> &#160;
+</td>
+<td style="background:#FFFCE4"> &#160;
+</td></tr>
+
+
+
+<tr>
+<th colspan="8" class="roundybottom" style="background: #FFE955; line-height:4px;"> &#160;
+</th></tr></table><br clear="all" />
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> <a href="/wiki/Porygon_(Pok%C3%A9mon)" title="Porygon (Pokémon)">Porygon</a> is the only Pokémon to evolve twice via trading. Both evolutions require a held item, namely the <a href="/wiki/Up-Grade" title="Up-Grade">Up-Grade</a> and <a href="/wiki/Dubious_Disc" title="Dubious Disc">Dubious Disc</a>.
+<ul><li> In addition, <a href="/wiki/Porygon2_(Pok%C3%A9mon)" title="Porygon2 (Pokémon)">Porygon2</a> is the only Pokémon to have evolved from trading that can evolve further.</li></ul></li>
+<li> The <a href="/wiki/Clamperl_(Pok%C3%A9mon)" title="Clamperl (Pokémon)">Clamperl</a> family is the only branched evolution in which both evolutions are achieved by trading.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table>
+
+<tr style="vertical-align:top">
+<td>
+<p><i>Trade</i>
+</p>
+<table style="background: #ddf; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #ccf; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #ddf; border-collapse:collapse">
+
+<tr style="background: #ddf">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 交換 <i><span class="explain" title="Exchange">Gāauwuhn</span></i>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 交換 / 交换 <i><span class="explain" title="Exchange">Jiāohuàn</span></i>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Vaihto
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Échange
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Tausch
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Scambio
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 교환 <i>Gyohwan</i>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Byt<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</td></tr>
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazilian Portuguese</a>
+</td>
+<td> Troca
+</td></tr>
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Intercambio
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Byte
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> Trao đổi
+</td></tr>
+<tr>
+<td colspan="3" style="background: #ddf">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+</td>
+<td>
+<p><i>Link Trade</i>
+</p>
+<table style="background: #ddf; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #ccf; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #ddf; border-collapse:collapse">
+
+<tr style="background: #ddf">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 通訊交換 <i><span class="explain" title="Link Exchange">Tūngseun Gāauwuhn</span></i>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 通訊交換 / 通讯交换 <i><span class="explain" title="Link Exchange">Tōngxùn Jiāohuàn</span></i><br />連線交換 <i><span class="explain" title="Link Exchange">Liánxiàn Jiāohuàn</span></i> <span class="explain" title="Ching Win, Pokémon Adventures volume 11">*</span>
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Échange Link
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Linktausch
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Scambio in link
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 통신교환 <i>Tongsin Gyohwan</i>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Intercambio en conexión
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="background: #ddf">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+</td>
+<td>
+<p><i>Negotiation Trade</i>
+</p>
+<table style="background: #ddf; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #ccf; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #ddf; border-collapse:collapse">
+
+<tr style="background: #ddf">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Échange par négociations
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Verhandlungstausch
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Trattativa
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 네고시에이션 교환 <i>Negotiation Gyohwan</i>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Intercambio por negociación
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="background: #ddf">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+</td></tr></table>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li> <a href="/wiki/In-game_trade" title="In-game trade">In-game trade</a></li>
+<li> <a href="/wiki/Global_Trade_System" title="Global Trade System">Global Trade System</a></li>
+<li> <a href="/wiki/Category:Episodes_in_which_a_main_character_trades_away_a_Pok%C3%A9mon" title="Category:Episodes in which a main character trades away a Pokémon">Episodes in which a main character trades away a Pokémon</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="references-small">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.nintendo.com/consumer/systems/gameboy/trouble_specificgame.jsp#erasing">http://www.nintendo.com/consumer/systems/gameboy/trouble_specificgame.jsp#erasing</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20000619140034/http://www.pokemon.no:80/ordliste.htm">Glossary on Pokemon.no (archived)</a></span>
+</li>
+</ol></div></div>
+<table align="center" class="toccolours" cellspacing="2" style="border: 3px solid #88a; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
+
+<tr>
+<th colspan="2" style="background: #ccf; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; padding: 2px 15px;"> <a href="/wiki/Pok%C3%A9mon_training" title="Pokémon training">Pokémon training</a>
+</th></tr>
+<tr style="font-size:90%;" align="center">
+<td> <a href="/wiki/Caught_Pok%C3%A9mon" title="Caught Pokémon">Catching</a> • <a href="/wiki/Nickname" title="Nickname">Nicknaming</a> • <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">Battling</a> • <a href="/wiki/Evolution" title="Evolution">Evolving</a> • <a class="mw-selflink selflink">Trading</a> • <a href="/wiki/Pok%C3%A9mon_breeding" title="Pokémon breeding">Breeding</a> • <a href="/wiki/Released_Pok%C3%A9mon" title="Released Pokémon">Releasing</a>
+</td></tr></table>
+<p><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20180131025636
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.496 seconds
+Preprocessor visited node count: 4418/1000000
+Preprocessor generated node count: 30081/1000000
+Post‐expand include size: 28254/2097152 bytes
+Template argument size: 7769/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  286.623      1 -total
+ 18.16%   52.057      4 Template:Cardlist/entry
+ 17.65%   50.585      3 Template:Langtable
+  7.97%   22.855      1 Template:Cardlist/header
+  4.82%   13.812     74 Template:P
+  4.37%   12.516      2 Template:Incomplete
+  3.95%   11.316      1 Template:Bad_image
+  2.27%    6.501      1 Template:Training
+  2.26%    6.475     22 Template:Pmin
+  1.97%    5.644      3 Template:J
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:9000-0!*!0!!en!5!* and timestamp 20180131025635 and revision id 2736799
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Trade&amp;oldid=2736799">https://bulbapedia.bulbagarden.net/w/index.php?title=Trade&amp;oldid=2736799</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Articles_needing_more_information" title="Category:Articles needing more information">Articles needing more information</a></li><li><a href="/wiki/Category:Articles_needing_better_pictures" title="Category:Articles needing better pictures">Articles needing better pictures</a></li><li><a href="/wiki/Category:Articles_needing_sources" title="Category:Articles needing sources">Articles needing sources</a></li><li><a href="/wiki/Category:Pok%C3%A9mon_world" title="Category:Pokémon world">Pokémon world</a></li><li><a href="/wiki/Category:Game_mechanics" title="Category:Game mechanics">Game mechanics</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Trade" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Trade" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Trade&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Trade&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Trade" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Trade" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Trade" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Trade" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Trade&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Trade&amp;oldid=2736799" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Trade&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Tausch" title="Tausch – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/%C3%89change_de_Pok%C3%A9mon" title="Échange de Pokémon – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Scambio" title="Scambio – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E9%80%9A%E4%BF%A1%E4%BA%A4%E6%8F%9B" title="通信交換 – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E9%80%9A%E8%AE%AF%E4%BA%A4%E6%8D%A2" title="通讯交换 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 28 January 2018, at 01:37.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Trade&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.496","ppvisitednodes":{"value":4418,"limit":1000000},"ppgeneratednodes":{"value":30081,"limit":1000000},"postexpandincludesize":{"value":28254,"limit":2097152},"templateargumentsize":{"value":7769,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  286.623      1 -total"," 18.16%   52.057      4 Template:Cardlist/entry"," 17.65%   50.585      3 Template:Langtable","  7.97%   22.855      1 Template:Cardlist/header","  4.82%   13.812     74 Template:P","  4.37%   12.516      2 Template:Incomplete","  3.95%   11.316      1 Template:Bad_image","  2.27%    6.501      1 Template:Training","  2.26%    6.475     22 Template:Pmin","  1.97%    5.644      3 Template:J"]},"cachereport":{"timestamp":"20180131025636","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":54});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

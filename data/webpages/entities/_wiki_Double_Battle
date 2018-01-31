@@ -1,0 +1,2300 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Double Battle - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Double_Battle","wgTitle":"Double Battle","wgCurRevisionId":2734392,"wgRevisionId":2734392,"wgArticleId":4878,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing more information","Terminology","Game mechanics","Battle variations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Double_Battle","wgRelevantArticleId":4878,"wgRequestId":"4cb890549126613137061e7e","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/7/77/Double_Battle_VI.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Double_Battle"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Double_Battle"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Double_Battle rootpage-Double_Battle skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Double Battle</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><dl><dd><i>This article is about the battle variation. For the battle mode found in the Pokémon Cable Club in Generation III or the Pokémon Communication Club Colosseum in Generation IV, see <a href="/wiki/Double_Battle_(Battle_Mode)" title="Double Battle (Battle Mode)">Double Battle (Battle Mode)</a>.</i></dd></dl>
+<hr />
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Double_Battle_VI.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/77/Double_Battle_VI.png/300px-Double_Battle_VI.png" width="300" height="180" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/7/77/Double_Battle_VI.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Double_Battle_VI.png" class="internal" title="Enlarge"></a></div>A Double Battle in Generation VI</div></div></div>
+<p>A <b>Double Battle</b> (Japanese: <b>ダブルバトル</b> <i>Double Battle</i>), also known as a <b>two-on-two battle</b>, is a <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">Pokémon battle</a> with each side featuring two <a href="/wiki/Pok%C3%A9mon_(species)" title="Pokémon (species)">Pokémon</a> at once. Debuting in the games in <a href="/wiki/Generation_III" title="Generation III">Generation III</a>, and featuring occasionally in the anime prior to this, they may feature up to four <a href="/wiki/Pok%C3%A9mon_Trainer" title="Pokémon Trainer">Pokémon Trainers</a>. A Double Battle with two Trainers per side who each control one Pokémon is called a <a href="/wiki/Multi_Battle" title="Multi Battle">Multi Battle</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_the_games"><span class="tocnumber">1</span> <span class="toctext">In the games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Effects_on_moves"><span class="tocnumber">1.1</span> <span class="toctext">Effects on moves</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Effects_on_Abilities"><span class="tocnumber">1.2</span> <span class="toctext">Effects on Abilities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#In_the_anime"><span class="tocnumber">2</span> <span class="toctext">In the anime</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#In_the_manga"><span class="tocnumber">3</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">3.1</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#In_The_Electric_Tale_of_Pikachu_manga"><span class="tocnumber">3.2</span> <span class="toctext">In The Electric Tale of Pikachu manga</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#In_other_languages"><span class="tocnumber">4</span> <span class="toctext">In other languages</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_the_games">In the games</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wild_double_battle_BW.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/2/23/Wild_double_battle_BW.png/220px-Wild_double_battle_BW.png" width="220" height="163" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/2/23/Wild_double_battle_BW.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wild_double_battle_BW.png" class="internal" title="Enlarge"></a></div>A Double Battle in Black and White</div></div></div>
+<p>In a Double Battle, two teams of two Pokémon face each other in battle. One Trainer may control both Pokémon on either side of the battle, or two Trainers may cooperate on one or both sides of the battle, each controlling their own Pokémon (meaning that anywhere from two to four Trainers may take part in a Double Battle).
+</p><p>Some <a href="/wiki/Category:Double_Battle_Trainer_classes" title="Category:Double Battle Trainer classes">specific Trainer classes</a>, such as <a href="/wiki/Sis_and_Bro_(Trainer_class)" title="Sis and Bro (Trainer class)">Sis and Bro</a> and <a href="/wiki/Teammates_(Trainer_class)" title="Teammates (Trainer class)">Sr. and Jr.</a>, automatically engage the player in Double Battles; in <a href="/wiki/Generation_III" title="Generation III">Generation III</a>, they will only battle if the player steps on the tile directly in front of them, from <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> to <a href="/wiki/Generation_VI" title="Generation VI">VI</a> they can move towards the player to initiate such battles, and in <a href="/wiki/Generation_VII" title="Generation VII">Generation VII</a> they can battle the player from afar but remain stationary (like all other Trainer classes in those games). If the player has only one conscious Pokémon, Trainer classes who will only engage the player in Double Battles will ignore the player and comment that the player should bring two Pokémon to battle them with.
+</p><p>From <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Pokémon Emerald</a> to <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, two independent Trainers who see the player at the same time will engage the player in a Double Battle. If the player has only one conscious Pokémon, the two Trainers who see the player at the same time will take turns battling the player in two Single Battles, with the second Trainer approaching and battling the player immediately after the first Trainer is defeated.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Double_Battle_Colo.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/d/d7/Double_Battle_Colo.png/220px-Double_Battle_Colo.png" width="220" height="165" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/d/d7/Double_Battle_Colo.png/330px-Double_Battle_Colo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d7/Double_Battle_Colo.png/440px-Double_Battle_Colo.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Double_Battle_Colo.png" class="internal" title="Enlarge"></a></div>A Double Battle in Pokémon Colosseum</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Double_Battle_XD.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/74/Double_Battle_XD.png/220px-Double_Battle_XD.png" width="220" height="165" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/7/74/Double_Battle_XD.png/330px-Double_Battle_XD.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/74/Double_Battle_XD.png/440px-Double_Battle_XD.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Double_Battle_XD.png" class="internal" title="Enlarge"></a></div>A Double Battle in Pokémon XD</div></div></div>
+<p>In <a href="/wiki/Pok%C3%A9mon_Colosseum" title="Pokémon Colosseum">Pokémon Colosseum</a>, all battles that the player participates in are battled as Double Battles. The only way to engage in a Single Battle in Pokémon Colosseum is to do so in battle mode. However, the player does watch a Single Battle between <a href="/wiki/Eagun" title="Eagun">Eagun</a> and <a href="/wiki/Skrub" title="Skrub">Skrub</a>.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_XD:_Gale_of_Darkness" title="Pokémon XD: Gale of Darkness">Pokémon XD</a>, the first two battles in the game—against <a href="/wiki/Chobin" title="Chobin">Chobin</a> and <a href="/wiki/Naps" title="Naps">Naps</a>—are Single Battles, as are all wild battles and one optional battle against a <a href="/wiki/Supertrainer_(Trainer_class)" title="Supertrainer (Trainer class)">Supertrainer</a> at the entrance to the <a href="/wiki/Pok%C3%A9mon_HQ_Lab" title="Pokémon HQ Lab">Pokémon HQ Lab</a>. Some Trainers in <a href="/wiki/Mt._Battle" title="Mt. Battle">Mt. Battle</a> only use one Pokémon, so it is possible to battle them in a Single Battle. The player also watches two Single Battles involving <a href="/wiki/Zook" title="Zook">Zook</a>—one with <a href="/wiki/Ardos" title="Ardos">Ardos</a> and one with <a href="/wiki/Biden" title="Biden">Biden</a>.
+</p><p>From Generation IV onward, moves that target multiple Pokémon resolve in order of the target's respective Speed stats. If a Pokémon faints, it is not replaced until the end of the turn, rather than immediately after the Pokémon is knocked out, making it possible for a Pokémon's move to fail due to a lack of target if both of the opposing Pokémon are knocked out before it attacks.
+</p><p>In <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a> and <a href="/wiki/Generation_V" title="Generation V">V</a>, some <a href="/wiki/Non-player_character" title="Non-player character">NPCs</a> (most notably the <a href="/wiki/Stat_Trainers" title="Stat Trainers">stat Trainers</a> in <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond, Pearl</a>, and <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a>) accompany the player while they explore certain areas. In these situations, all wild Pokémon encounters are Double Battles against two Pokémon. In such situations, it is impossible to use a <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a> to capture a Pokémon unless the other is knocked out first. The NPC Trainer will heal the player's team after every battle. The player cannot use movement-based <a href="/wiki/Field_move" title="Field move">field moves</a> such as <a href="/wiki/Surf_(move)" title="Surf (move)">Surf</a> or <a href="/wiki/Rock_Climb_(move)" title="Rock Climb (move)">Rock Climb</a> while accompanied by an NPC.
+</p><p>In <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, many routes contain <a href="/wiki/Tall_grass#Dark_grass" title="Tall grass">dark grass</a>, in which the player has the ability to encounter two wild Pokémon at a time, initiating a wild Double Battle. Similar to the wild Double Battles of Generation IV, it is impossible to use a <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a> to catch a Pokémon unless the other Pokémon is knocked out first.
+</p><p>The HP of Pokémon is not displayed numerically on the player's side in Generation III and Generation IV—only the bar will be shown to save screen space. The numeric amount of HP can be toggled with the Start button.
+</p>
+<h3><span class="mw-headline" id="Effects_on_moves">Effects on moves</span></h3>
+<p>Several different <a href="/wiki/Move" title="Move">moves</a> are made specifically for Double Battles, such as <a href="/wiki/Helping_Hand_(move)" title="Helping Hand (move)">Helping Hand</a>. Some others, such as <a href="/wiki/Surf_(move)" title="Surf (move)">Surf</a>, can have noticeably different effects. Moves that can hit multiple Pokémon have their damage reduced by 25%, unless there is only one target at the time the move is executed.
+</p><p>The moves <a href="/wiki/After_You_(move)" title="After You (move)">After You</a>, <a href="/wiki/Quash_(move)" title="Quash (move)">Quash</a>, <a href="/wiki/Helping_Hand_(move)" title="Helping Hand (move)">Helping Hand</a>, <a href="/wiki/Ally_Switch_(move)" title="Ally Switch (move)">Ally Switch</a>, <a href="/wiki/Follow_Me_(move)" title="Follow Me (move)">Follow Me</a>, <a href="/wiki/Rage_Powder_(move)" title="Rage Powder (move)">Rage Powder</a>, <a href="/wiki/Aromatic_Mist_(move)" title="Aromatic Mist (move)">Aromatic Mist</a>, <a href="/wiki/Hold_Hands_(move)" title="Hold Hands (move)">Hold Hands</a>, and <a href="/wiki/Spotlight_(move)" title="Spotlight (move)">Spotlight</a> have no effect in Single Battles, but do in Double Battles.
+</p><p>The move <a href="/wiki/Flame_Burst_(move)" title="Flame Burst (move)">Flame Burst</a> takes away 1/16th of the maximum HP of the other Pokémon on the same team as the target Pokémon. This damage is not treated as an attack.
+</p><p>The move <a href="/wiki/Acupressure_(move)" title="Acupressure (move)">Acupressure</a>, while in a Double Battle, can target the ally instead of the user.
+</p><p>The moves <a href="/wiki/Outrage_(move)" title="Outrage (move)">Outrage</a>, <a href="/wiki/Petal_Dance_(move)" title="Petal Dance (move)">Petal Dance</a>, <a href="/wiki/Thrash_(move)" title="Thrash (move)">Thrash</a>, <a href="/wiki/Uproar_(move)" title="Uproar (move)">Uproar</a> target the user when selected, but are used against one random foe when executed.
+</p><p>This chart displays all moves that work differently in Double Battles.
+</p>
+<table class="roundy" style="margin:auto; clear:both; background: #8E8E8E; text-align:center; border: 3px solid #353535">
+<tr>
+<th colspan="8" style="border-top-left-radius: 5px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -khtml-border-top-left-radius: 5px; -icab-border-top-left-radius: 5px; -o-border-top-left-radius: 5px; border-top-right-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -khtml-border-top-right-radius: 5px; -icab-border-top-right-radius: 5px; -o-border-top-right-radius: 5px;; background:#525252"> Move targets
+</th></tr>
+<tr style="background:#8E8E8E; vertical-align:top">
+<th width="12%">
+<table width="100%" style="border-collapse:collapse">
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr></table>
+<p>Any foe
+</p>
+</th>
+<th width="12%">
+<table width="100%" style="border-collapse:collapse">
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr></table>
+<p>All foes
+</p>
+</th>
+<th width="12%">
+<table width="100%" style="border-collapse:collapse">
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr></table>
+<p>All other Pokémon
+</p>
+</th>
+<th width="12%">
+<table width="100%" style="border-collapse:collapse">
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr></table>
+<p>All Pokémon
+</p>
+</th>
+<th width="12%">
+<table width="100%" style="border-collapse:collapse">
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr></table>
+<p>Self
+</p>
+</th>
+<th width="12%">
+<table width="100%" style="border-collapse:collapse">
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #FF4500; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr></table>
+<p>Self or ally
+</p>
+</th>
+<th width="12%">
+<table width="100%" style="border-collapse:collapse">
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr></table>
+<p>Ally
+</p>
+</th>
+<th width="12%">
+<table width="100%" style="border-collapse:collapse">
+<tr>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #709AD1; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr>
+<tr>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td>
+<td style="background: #ED1C24; border: 1px solid #000; line-height:6px"> &#160;
+</td></tr></table>
+<p>Team
+</p>
+</th></tr>
+<tr>
+<td style="background:#A8A878"> <a href="/wiki/Me_First_(move)" title="Me First (move)"><span style="color:#f8f8f8;">Me First</span></a>
+</td>
+<td style="background:#A040A0"> <a href="/wiki/Acid_(move)" title="Acid (move)"><span style="color:#f8f8f8;">Acid</span></a>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Boomburst_(move)" title="Boomburst (move)"><span style="color:#f8f8f8;">Boomburst</span></a>
+</td>
+<td style="background:#F8D030"> <a href="/wiki/Electric_Terrain_(move)" title="Electric Terrain (move)"><span style="color:#f8f8f8;">Electric Terrain</span></a>
+</td>
+<td style="background:#F85888"> <a href="/wiki/Ally_Switch_(move)" title="Ally Switch (move)"><span style="color:#f8f8f8;">Ally Switch</span></a>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Acupressure_(move)" title="Acupressure (move)"><span style="color:#f8f8f8;">Acupressure</span></a>
+</td>
+<td style="background:#EE99AC"> <a href="/wiki/Aromatic_Mist_(move)" title="Aromatic Mist (move)"><span style="color:#f8f8f8;">Aromatic Mist</span></a>
+</td>
+<td style="background:#78C850"> <a href="/wiki/Aromatherapy_(move)" title="Aromatherapy (move)"><span style="color:#f8f8f8;">Aromatherapy</span></a>
+</td></tr>
+<tr>
+<td style="background:#A8A878"> <a href="/wiki/Struggle_(move)" title="Struggle (move)"><span style="color:#f8f8f8;">Struggle</span></a>
+</td>
+<td style="background:#A890F0"> <a href="/wiki/Air_Cutter_(move)" title="Air Cutter (move)"><span style="color:#f8f8f8;">Air Cutter</span></a>
+</td>
+<td style="background:#E0C068"> <a href="/wiki/Bulldoze_(move)" title="Bulldoze (move)"><span style="color:#f8f8f8;">Bulldoze</span></a>
+</td>
+<td style="background:#EE99AC"> <a href="/wiki/Fairy_Lock_(move)" title="Fairy Lock (move)"><span style="color:#f8f8f8;">Fairy Lock</span></a>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Follow_Me_(move)" title="Follow Me (move)"><span style="color:#f8f8f8;">Follow Me</span></a>
+</td>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Helping_Hand_(move)" title="Helping Hand (move)"><span style="color:#f8f8f8;">Helping Hand</span></a>
+</td>
+<td style="background:#EE99AC"> <a href="/wiki/Crafty_Shield_(move)" title="Crafty Shield (move)"><span style="color:#f8f8f8;">Crafty Shield</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#98D8D8"> <a href="/wiki/Blizzard_(move)" title="Blizzard (move)"><span style="color:#f8f8f8;">Blizzard</span></a>
+</td>
+<td style="background:#705848"> <a href="/wiki/Brutal_Swing_(move)" title="Brutal Swing (move)"><span style="color:#f8f8f8;">Brutal Swing</span></a>
+</td>
+<td style="background:#EE99AC"> <a href="/wiki/Flower_Shield_(move)" title="Flower Shield (move)"><span style="color:#f8f8f8;">Flower Shield</span></a>
+</td>
+<td style="background:#A8B820"> <a href="/wiki/Rage_Powder_(move)" title="Rage Powder (move)"><span style="color:#f8f8f8;">Rage Powder</span></a>
+</td>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Hold_Hands_(move)" title="Hold Hands (move)"><span style="color:#f8f8f8;">Hold Hands</span></a>
+</td>
+<td style="background:#B8B8D0"> <a href="/wiki/Gear_Up_(move)" title="Gear Up (move)"><span style="color:#f8f8f8;">Gear Up</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#6890F0"> <a href="/wiki/Bubble_(move)" title="Bubble (move)"><span style="color:#f8f8f8;">Bubble</span></a>
+</td>
+<td style="background:#E0C068"> <a href="/wiki/Earthquake_(move)" title="Earthquake (move)"><span style="color:#f8f8f8;">Earthquake</span></a>
+</td>
+<td style="background:#78C850"> <a href="/wiki/Grassy_Terrain_(move)" title="Grassy Terrain (move)"><span style="color:#f8f8f8;">Grassy Terrain</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Heal_Bell_(move)" title="Heal Bell (move)"><span style="color:#f8f8f8;">Heal Bell</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Captivate_(move)" title="Captivate (move)"><span style="color:#f8f8f8;">Captivate</span></a>
+</td>
+<td style="background:#F8D030"> <a href="/wiki/Discharge_(move)" title="Discharge (move)"><span style="color:#f8f8f8;">Discharge</span></a>
+</td>
+<td style="background:#F85888"> <a href="/wiki/Gravity_(move)" title="Gravity (move)"><span style="color:#f8f8f8;">Gravity</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Happy_Hour_(move)" title="Happy Hour (move)"><span style="color:#f8f8f8;">Happy Hour</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#7038F8"> <a href="/wiki/Clanging_Scales_(move)" title="Clanging Scales (move)"><span style="color:#f8f8f8;">Clanging Scales</span></a>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Explosion_(move)" title="Explosion (move)"><span style="color:#f8f8f8;">Explosion</span></a>
+</td>
+<td style="background:#98D8D8"> <a href="/wiki/Hail_(move)" title="Hail (move)"><span style="color:#f8f8f8;">Hail</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#F85888"> <a href="/wiki/Light_Screen_(move)" title="Light Screen (move)"><span style="color:#f8f8f8;">Light Screen</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#7038F8"> <a href="/wiki/Core_Enforcer_(move)" title="Core Enforcer (move)"><span style="color:#f8f8f8;">Core Enforcer</span></a>
+</td>
+<td style="background:#F08030"> <a href="/wiki/Lava_Plume_(move)" title="Lava Plume (move)"><span style="color:#f8f8f8;">Lava Plume</span></a>
+</td>
+<td style="background:#98D8D8"> <a href="/wiki/Haze_(move)" title="Haze (move)"><span style="color:#f8f8f8;">Haze</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Lucky_Chant_(move)" title="Lucky Chant (move)"><span style="color:#f8f8f8;">Lucky Chant</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#78C850"> <a href="/wiki/Cotton_Spore_(move)" title="Cotton Spore (move)"><span style="color:#f8f8f8;">Cotton Spore</span></a> <span class="explain" title="Generation VI onward" style="color: #f8f8f8">*</span>
+</td>
+<td style="background:#E0C068"> <a href="/wiki/Magnitude_(move)" title="Magnitude (move)"><span style="color:#f8f8f8;">Magnitude</span></a>
+</td>
+<td style="background:#F8D030"> <a href="/wiki/Ion_Deluge_(move)" title="Ion Deluge (move)"><span style="color:#f8f8f8;">Ion Deluge</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#F8D030"> <a href="/wiki/Magnetic_Flux_(move)" title="Magnetic Flux (move)"><span style="color:#f8f8f8;">Magnetic Flux</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#705848"> <a href="/wiki/Dark_Void_(move)" title="Dark Void (move)"><span style="color:#f8f8f8;">Dark Void</span></a>
+</td>
+<td style="background:#F8D030"> <a href="/wiki/Parabolic_Charge_(move)" title="Parabolic Charge (move)"><span style="color:#f8f8f8;">Parabolic Charge</span></a>
+</td>
+<td style="background:#F85888"> <a href="/wiki/Magic_Room_(move)" title="Magic Room (move)"><span style="color:#f8f8f8;">Magic Room</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#C03028"> <a href="/wiki/Mat_Block_(move)" title="Mat Block (move)"><span style="color:#f8f8f8;">Mat Block</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#EE99AC"> <a href="/wiki/Dazzling_Gleam_(move)" title="Dazzling Gleam (move)"><span style="color:#f8f8f8;">Dazzling Gleam</span></a>
+</td>
+<td style="background:#78C850"> <a href="/wiki/Petal_Blizzard_(move)" title="Petal Blizzard (move)"><span style="color:#f8f8f8;">Petal Blizzard</span></a>
+</td>
+<td style="background:#EE99AC"> <a href="/wiki/Misty_Terrain_(move)" title="Misty Terrain (move)"><span style="color:#f8f8f8;">Misty Terrain</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#98D8D8"> <a href="/wiki/Mist_(move)" title="Mist (move)"><span style="color:#f8f8f8;">Mist</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#EE99AC"> <a href="/wiki/Disarming_Voice_(move)" title="Disarming Voice (move)"><span style="color:#f8f8f8;">Disarming Voice</span></a>
+</td>
+<td style="background:#F08030"> <a href="/wiki/Searing_Shot_(move)" title="Searing Shot (move)"><span style="color:#f8f8f8;">Searing Shot</span></a>
+</td>
+<td style="background:#E0C068"> <a href="/wiki/Mud_Sport_(move)" title="Mud Sport (move)"><span style="color:#f8f8f8;">Mud Sport</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#C03028"> <a href="/wiki/Quick_Guard_(move)" title="Quick Guard (move)"><span style="color:#f8f8f8;">Quick Guard</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#F8D030"> <a href="/wiki/Electroweb_(move)" title="Electroweb (move)"><span style="color:#f8f8f8;">Electroweb</span></a>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Self-Destruct_(move)" title="Self-Destruct (move)"><span style="color:#f8f8f8;">Self-Destruct</span></a>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Perish_Song_(move)" title="Perish Song (move)"><span style="color:#f8f8f8;">Perish Song</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#F85888"> <a href="/wiki/Reflect_(move)" title="Reflect (move)"><span style="color:#f8f8f8;">Reflect</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#F08030"> <a href="/wiki/Eruption_(move)" title="Eruption (move)"><span style="color:#f8f8f8;">Eruption</span></a>
+</td>
+<td style="background:#A040A0"> <a href="/wiki/Sludge_Wave_(move)" title="Sludge Wave (move)"><span style="color:#f8f8f8;">Sludge Wave</span></a>
+</td>
+<td style="background:#6890F0"> <a href="/wiki/Rain_Dance_(move)" title="Rain Dance (move)"><span style="color:#f8f8f8;">Rain Dance</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Safeguard_(move)" title="Safeguard (move)"><span style="color:#f8f8f8;">Safeguard</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#98D8D8"> <a href="/wiki/Glaciate_(move)" title="Glaciate (move)"><span style="color:#f8f8f8;">Glaciate</span></a>
+</td>
+<td style="background:#6890F0"> <a href="/wiki/Sparkling_Aria_(move)" title="Sparkling Aria (move)"><span style="color:#f8f8f8;">Sparkling Aria</span></a>
+</td>
+<td style="background:#E0C068"> <a href="/wiki/Rototiller_(move)" title="Rototiller (move)"><span style="color:#f8f8f8;">Rototiller</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#A890F0"> <a href="/wiki/Tailwind_(move)" title="Tailwind (move)"><span style="color:#f8f8f8;">Tailwind</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Growl_(move)" title="Growl (move)"><span style="color:#f8f8f8;">Growl</span></a>
+</td>
+<td style="background:#6890F0"> <a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#f8f8f8;">Surf</span></a> <span class="explain" title="Generation IV onward" style="color: #f8f8f8">*</span>
+</td>
+<td style="background:#B8A038"> <a href="/wiki/Sandstorm_(move)" title="Sandstorm (move)"><span style="color:#f8f8f8;">Sandstorm</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td style="background:#B8A038"> <a href="/wiki/Wide_Guard_(move)" title="Wide Guard (move)"><span style="color:#f8f8f8;">Wide Guard</span></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#F85888"> <a href="/wiki/Heal_Block_(move)" title="Heal Block (move)"><span style="color:#f8f8f8;">Heal Block</span></a>
+</td>
+<td style="background:#F85888"> <a href="/wiki/Synchronoise_(move)" title="Synchronoise (move)"><span style="color:#f8f8f8;">Synchronoise</span></a>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Half_(move)" title="Shadow Half (move)"><span style="color:#f8f8f8;">Shadow Half</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#F08030"> <a href="/wiki/Heat_Wave_(move)" title="Heat Wave (move)"><span style="color:#f8f8f8;">Heat Wave</span></a>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Teeter_Dance_(move)" title="Teeter Dance (move)"><span style="color:#f8f8f8;">Teeter Dance</span></a>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Shed_(move)" title="Shadow Shed (move)"><span style="color:#f8f8f8;">Shadow Shed</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Hyper_Voice_(move)" title="Hyper Voice (move)"><span style="color:#f8f8f8;">Hyper Voice</span></a>
+</td>
+<td>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Sky_(move)" title="Shadow Sky (move)"><span style="color:#f8f8f8;">Shadow Sky</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#98D8D8"> <a href="/wiki/Icy_Wind_(move)" title="Icy Wind (move)"><span style="color:#f8f8f8;">Icy Wind</span></a>
+</td>
+<td>
+</td>
+<td style="background:#F08030"> <a href="/wiki/Sunny_Day_(move)" title="Sunny Day (move)"><span style="color:#f8f8f8;">Sunny Day</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#F08030"> <a href="/wiki/Incinerate_(move)" title="Incinerate (move)"><span style="color:#f8f8f8;">Incinerate</span></a>
+</td>
+<td>
+</td>
+<td style="background:#F85888"> <a href="/wiki/Trick_Room_(move)" title="Trick Room (move)"><span style="color:#f8f8f8;">Trick Room</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#E0C068"> <a href="/wiki/Land%27s_Wrath_(move)" title="Land's Wrath (move)"><span style="color:#f8f8f8;">Land's Wrath</span></a>
+</td>
+<td>
+</td>
+<td style="background:#6890F0"> <a href="/wiki/Water_Sport_(move)" title="Water Sport (move)"><span style="color:#f8f8f8;">Water Sport</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Leer_(move)" title="Leer (move)"><span style="color:#f8f8f8;">Leer</span></a>
+</td>
+<td>
+</td>
+<td style="background:#F85888"> <a href="/wiki/Wonder_Room_(move)" title="Wonder Room (move)"><span style="color:#f8f8f8;">Wonder Room</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#6890F0"> <a href="/wiki/Muddy_Water_(move)" title="Muddy Water (move)"><span style="color:#f8f8f8;">Muddy Water</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#6890F0"> <a href="/wiki/Origin_Pulse_(move)" title="Origin Pulse (move)"><span style="color:#f8f8f8;">Origin Pulse</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A040A0"> <a href="/wiki/Poison_Gas_(move)" title="Poison Gas (move)"><span style="color:#f8f8f8;">Poison Gas</span></a> <span class="explain" title="Generation V onward" style="color: #f8f8f8">*</span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#98D8D8"> <a href="/wiki/Powder_Snow_(move)" title="Powder Snow (move)"><span style="color:#f8f8f8;">Powder Snow</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#E0C068"> <a href="/wiki/Precipice_Blades_(move)" title="Precipice Blades (move)"><span style="color:#f8f8f8;">Precipice Blades</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#78C850"> <a href="/wiki/Razor_Leaf_(move)" title="Razor Leaf (move)"><span style="color:#f8f8f8;">Razor Leaf</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Razor_Wind_(move)" title="Razor Wind (move)"><span style="color:#f8f8f8;">Razor Wind</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Relic_Song_(move)" title="Relic Song (move)"><span style="color:#f8f8f8;">Relic Song</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#B8A038"> <a href="/wiki/Rock_Slide_(move)" title="Rock Slide (move)"><span style="color:#f8f8f8;">Rock Slide</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Down_(move)" title="Shadow Down (move)"><span style="color:#f8f8f8;">Shadow Down</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Hold_(move)" title="Shadow Hold (move)"><span style="color:#f8f8f8;">Shadow Hold</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Mist_(move)" title="Shadow Mist (move)"><span style="color:#f8f8f8;">Shadow Mist</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Panic_(move)" title="Shadow Panic (move)"><span style="color:#f8f8f8;">Shadow Panic</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Rave_(move)" title="Shadow Rave (move)"><span style="color:#f8f8f8;">Shadow Rave</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Storm_(move)" title="Shadow Storm (move)"><span style="color:#f8f8f8;">Shadow Storm</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#604E82"> <a href="/wiki/Shadow_Wave_(move)" title="Shadow Wave (move)"><span style="color:#f8f8f8;">Shadow Wave</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#F08030"> <a href="/wiki/Shell_Trap_(move)" title="Shell Trap (move)"><span style="color:#f8f8f8;">Shell Trap</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#705848"> <a href="/wiki/Snarl_(move)" title="Snarl (move)"><span style="color:#f8f8f8;">Snarl</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#E0C068"> <a href="/wiki/Spikes_(move)" title="Spikes (move)"><span style="color:#f8f8f8;">Spikes</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#B8A038"> <a href="/wiki/Stealth_Rock_(move)" title="Stealth Rock (move)"><span style="color:#f8f8f8;">Stealth Rock</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8B820"> <a href="/wiki/String_Shot_(move)" title="String Shot (move)"><span style="color:#f8f8f8;">String Shot</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8B820"> <a href="/wiki/Struggle_Bug_(move)" title="Struggle Bug (move)"><span style="color:#f8f8f8;">Struggle Bug</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#6890F0"> <a href="/wiki/Surf_(move)" title="Surf (move)"><span style="color:#f8f8f8;">Surf</span></a> <span class="explain" title="Generation III only" style="color: #f8f8f8">*</span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Sweet_Scent_(move)" title="Sweet Scent (move)"><span style="color:#f8f8f8;">Sweet Scent</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Swift_(move)" title="Swift (move)"><span style="color:#f8f8f8;">Swift</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A8A878"> <a href="/wiki/Tail_Whip_(move)" title="Tail Whip (move)"><span style="color:#f8f8f8;">Tail Whip</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#A040A0"> <a href="/wiki/Toxic_Spikes_(move)" title="Toxic Spikes (move)"><span style="color:#f8f8f8;">Toxic Spikes</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#7038F8"> <a href="/wiki/Twister_(move)" title="Twister (move)"><span style="color:#f8f8f8;">Twister</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td style="background:#6890F0"> <a href="/wiki/Water_Spout_(move)" title="Water Spout (move)"><span style="color:#f8f8f8;">Water Spout</span></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="8" style="background:#525252; border-bottom-left-radius: 5px; -moz-border-radius-bottomleft: 5px; -webkit-border-bottom-left-radius: 5px; -khtml-border-bottom-left-radius: 5px; -icab-border-bottom-left-radius: 5px; -o-border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-right-radius: 5px; -khtml-border-bottom-right-radius: 5px; -icab-border-bottom-right-radius: 5px; -o-border-bottom-right-radius: 5px;"> <small>Aside from moves which only affect the user, all other attacks only target one other Pokémon.</small>
+</th></tr></table>
+<h3><span class="mw-headline" id="Effects_on_Abilities">Effects on Abilities</span></h3>
+<p>Seven <a href="/wiki/Ability" title="Ability">Abilities</a> are also adapted especially for Double Battles. These Abilities are:
+</p>
+<ul><li> <a href="/wiki/Plus_(Ability)" title="Plus (Ability)">Plus</a> - If a Pokémon with Plus is in battle on the same side of the field as a Pokémon with Minus, its <a href="/wiki/Statistic#Special_Attack" title="Statistic">Special Attack</a> will be boosted by 50%. In Generation V and beyond, the effect is also present if another Pokémon on the same side has Plus.</li>
+<li> <a href="/wiki/Minus_(Ability)" title="Minus (Ability)">Minus</a> - If a Pokémon with Minus is in battle on the same side of the field as a Pokémon with Plus, its <a href="/wiki/Statistic#Special_Attack" title="Statistic">Special Attack</a> will be boosted by 50%. In Generation V and beyond, the effect is also present if another Pokémon on the same side has Minus.</li>
+<li> <a href="/wiki/Lightning_Rod_(Ability)" title="Lightning Rod (Ability)">Lightning Rod</a> - If a single-target <a href="/wiki/Electric_(type)" title="Electric (type)">Electric-type</a> move is used, it will be forced to strike the Pokémon with this Ability, regardless of the Pokémon originally selected as the target and regardless of the move's accuracy. Moves which target multiple Pokémon cannot be redirected. In Generation V and beyond, the move will raise the <a href="/wiki/Statistic#Special_Attack" title="Statistic">Special Attack</a> of the Pokémon and deal no damage to it, unless the Pokémon is immune to the attack by nature of being a <a href="/wiki/Ground_(type)" title="Ground (type)">Ground-type</a>.</li>
+<li> <a href="/wiki/Power_of_Alchemy_(Ability)" title="Power of Alchemy (Ability)">Power of Alchemy</a> - If an ally faints in battle, Power of Alchemy will be replaced by the fainted Pokémon's Ability.</li>
+<li> <a href="/wiki/Receiver_(Ability)" title="Receiver (Ability)">Receiver</a> - If an ally faints in battle, Receiver will be replaced by the fainted Pokémon's Ability.</li>
+<li> <a href="/wiki/Storm_Drain_(Ability)" title="Storm Drain (Ability)">Storm Drain</a> - If a single-target <a href="/wiki/Water_(type)" title="Water (type)">Water-type</a> move is used, it will be forced to strike the Pokémon with this Ability, regardless of the Pokémon originally selected as the target and regardless of the move's accuracy. Moves which target multiple Pokémon cannot be redirected. In Generation V and beyond, the move will raise the <a href="/wiki/Statistic#Special_Attack" title="Statistic">Special Attack</a> of the Pokémon and deal no damage to it.</li>
+<li> <a href="/wiki/Telepathy_(Ability)" title="Telepathy (Ability)">Telepathy</a> - A Pokémon with this Ability will avoid damage from any moves used by its allies, whether they directly target it or target it as well as opponents.</li></ul>
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Double_Battle_anime.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/c/c5/Double_Battle_anime.png/250px-Double_Battle_anime.png" width="250" height="141" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/c/c5/Double_Battle_anime.png/375px-Double_Battle_anime.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c5/Double_Battle_anime.png/500px-Double_Battle_anime.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Double_Battle_anime.png" class="internal" title="Enlarge"></a></div>A Double Battle in the anime</div></div></div>
+<p>While <a href="/wiki/Team_Rocket_trio" title="Team Rocket trio">Team Rocket</a> had conducted "illegal" Double Battles since <a href="/wiki/EP003" title="EP003">the third episode</a>, the first official Double Battle occurred in <i><a href="/wiki/EP108" title="EP108">Pokémon Double Trouble</a></i>. In order to win the <a href="/wiki/Badge#Jade_Star_Badge" title="Badge">Jade Star Badge</a>, Ash had to defeat <a href="/wiki/Luana" title="Luana">Luana</a>'s <a href="/wiki/Marowak_(Pok%C3%A9mon)" title="Marowak (Pokémon)">Marowak</a> and <a href="/wiki/Alakazam_(Pok%C3%A9mon)" title="Alakazam (Pokémon)">Alakazam</a> in a Double Battle. Though <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Ash's Pikachu</a> and <a href="/wiki/Ash%27s_Charizard" title="Ash's Charizard">Charizard</a> were initially unwilling to cooperate, they eventually overcame their differences in order to win the battle.
+</p><p>After the release of <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Ruby and Sapphire</a>, Double Battles were seen in the anime more often. The first took place in <i><a href="/wiki/AG014" title="AG014">All in a Day's Wurmple</a></i>. <a href="/wiki/Forrester_Franklin" title="Forrester Franklin">Forrester Franklin</a> introduced the concept to Ash, and they had a battle that Ash won. As in the games, Ash's Gym Battle against <a href="/wiki/Tate_and_Liza" title="Tate and Liza">Tate and Liza</a> was a Double Battle. Additionally, in order to qualify for the finals of the <a href="/wiki/Ever_Grande_Conference" title="Ever Grande Conference">Ever Grande Conference</a>, competitors must win three Double Battles in the preliminaries.
+</p><p>From <i><a href="/wiki/AG072" title="AG072">The Bicker the Better</a></i> onwards, Ash teamed up with other Trainers to conduct <a href="/wiki/Multi_Battle" title="Multi Battle">Tag Battles</a>.
+</p><p>A Double Battle can also be conducted under <a href="/wiki/Contest_Battle" title="Contest Battle">Contest Battle</a> rules; more specifically, the battling stage of every <a href="/wiki/Grand_Festival" title="Grand Festival">Grand Festival</a> uses the Double Battle style. Additionally, with the introduction of <a href="/wiki/Double_Performance" title="Double Performance">Double Performances</a> in the <a href="/wiki/Diamond_%26_Pearl_series" title="Diamond &amp; Pearl series"><i>Diamond &amp; Pearl</i> series</a>, <a href="/wiki/Pok%C3%A9mon_Coordinator" title="Pokémon Coordinator">Coordinators</a> have to use two Pokémon in both the Performance Stage and the Battle Stage of <a href="/wiki/Pok%C3%A9mon_Contest" title="Pokémon Contest">Pokémon Contests</a> following the format.
+</p><p>In <i><a href="/wiki/BW065" title="BW065">Battling the Bully!</a></i>, there was a pretend Double Battle between <a href="/wiki/Mick_(BW065)" title="Mick (BW065)">Mick</a> and <a href="/wiki/Glenn" title="Glenn">Glenn</a>, both using borrowed Pokémon.
+</p><p>Ash battled <a href="/wiki/Shamus" title="Shamus">Shamus</a>, <a href="/wiki/Ash%27s_Tepig" class="mw-redirect" title="Ash's Tepig">Tepig</a>'s former Trainer, in a Double Battle in <i><a href="/wiki/BW077" title="BW077">Evolution by Fire!</a></i>. During the battle, Tepig <a href="/wiki/Evolution" title="Evolution">evolved</a>, giving him enough power to earn victory for his new Trainer.
+</p><p><a href="/wiki/Serena_(anime)" title="Serena (anime)">Serena</a> battled <a href="/wiki/Aria_(anime)" title="Aria (anime)">Aria</a> in a Double Battle in <i><a href="/wiki/XY064" title="XY064">Battling with Elegance and a Big Smile!</a></i>. During the battle, Serena's <a href="/wiki/Fennekin_(Pok%C3%A9mon)" title="Fennekin (Pokémon)">Fennekin</a> evolved into <a href="/wiki/Serena%27s_Braixen" title="Serena's Braixen">Braixen</a>, allowing her and <a href="/wiki/Serena%27s_Pancham" title="Serena's Pancham">Pancham</a> to even the playing field. However, Aria had to cancel the battle because of an urgent phone call.
+</p><p>Ash battled <a href="/wiki/Olympia" title="Olympia">Olympia</a> in a Double Battle at the <a href="/wiki/Anistar_Gym" title="Anistar Gym">Anistar Gym</a> in <i><a href="/wiki/XY093" title="XY093">All Eyes on the Future!</a></i>. The battle ended in Ash's victory, earning him the <a href="/wiki/Badge#Psychic_Badge" title="Badge">Psychic Badge</a>.
+</p><p>In <i><a href="/wiki/SM036" title="SM036">Trials and Determinations!</a></i>, Ash's <a href="/wiki/Island_challenge" title="Island challenge">grand trial</a> battle against <a href="/wiki/Olivia" title="Olivia">Olivia</a> was a Double Battle. The battle eventually ended in Ash's victory, earning him a <a href="/wiki/Rockium_Z" title="Rockium Z">Rockium Z</a>.
+</p>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<table align="center" style="background: #FAFFF4; border: 2px solid #E0C068; width: auto%; margin-left: auto; margin-right: auto; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px; -khtml-border-radius: 30px; -icab-border-radius: 30px; -o-border-radius: 30px;">
+
+<tr>
+<td style="background:#EBD69D; padding: 10px; border-radius: 50px; -moz-border-radius: 50px; -webkit-border-radius: 50px; -khtml-border-radius: 50px; -icab-border-radius: 50px; -o-border-radius: 50px;;" width="60px" align="center"> <a href="/wiki/File:050Diglett.png" class="image"><img alt="050Diglett.png" src="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/50px-050Diglett.png" width="50" height="50" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/75px-050Diglett.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/100px-050Diglett.png 2x" /></a>
+</td>
+<td> <b>This section is incomplete.</b><br />Please feel free to edit this section to add missing information and complete it. <br /><small>Reason: The Electric Tale of Pikachu, images, other manga.</small>
+</td></tr></table>
+<p>Doubles battles have been present in the manga long before the games. They have appeared several times in <a href="/wiki/The_Electric_Tale_of_Pikachu" title="The Electric Tale of Pikachu">The Electric Tale of Pikachu</a> and in the <a href="/wiki/Pok%C3%A9mon_Adventures" title="Pokémon Adventures">Pokémon Adventures</a>' later arcs.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Double_Battle_Adventures.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/d/d1/Double_Battle_Adventures.png/200px-Double_Battle_Adventures.png" width="200" height="193" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/d/d1/Double_Battle_Adventures.png/300px-Double_Battle_Adventures.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d1/Double_Battle_Adventures.png/400px-Double_Battle_Adventures.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Double_Battle_Adventures.png" class="internal" title="Enlarge"></a></div>A Double Battle in Pokémon Adventures</div></div></div>
+<p>Double Battles were formally introduced into <a href="/wiki/Pok%C3%A9mon_Adventures" title="Pokémon Adventures">Pokémon Adventures</a> in the <a href="/wiki/Ruby_%26_Sapphire_chapter_(Adventures)" title="Ruby &amp; Sapphire chapter (Adventures)"><i>Ruby &amp; Sapphire</i> chapter</a>, though multiple Trainers or Pokémon teaming up were common before. They first appeared in <i><a href="/wiki/PS198" title="PS198">Adding It Up with Plusle &amp; Minun I</a></i>, when <a href="/wiki/Ruby_(Adventures)" title="Ruby (Adventures)">Ruby</a> challenges a <a href="/wiki/Plusle_(Pok%C3%A9mon)" title="Plusle (Pokémon)">Plusle</a> and a <a href="/wiki/Minun_(Pok%C3%A9mon)" title="Minun (Pokémon)">Minun</a>. They later appear in <i><a href="/wiki/PS207" title="PS207">On the Loose and Hyper With Zangoose and Seviper I</a></i> when Ruby and a <a href="/wiki/Swimmer_(Trainer_class)" title="Swimmer (Trainer class)">Swimmer</a> are spotted by a <a href="/wiki/Seviper_(Pok%C3%A9mon)" title="Seviper (Pokémon)">Seviper</a> and a <a href="/wiki/Zangoose_(Pok%C3%A9mon)" title="Zangoose (Pokémon)">Zangoose</a>. In <i><a href="/wiki/PS229" title="PS229">You Can Fight Day or Night With Lunatone &amp; Solrock</a></i> <a href="/wiki/Tate_and_Liza" title="Tate and Liza">Tate and Liza</a> explicitly state Double Battle tactics during their battle with <a href="/wiki/Blaise" title="Blaise">Blaise</a>, but are overwhelmed by their opponent's illusions.
+</p><p>In the <a href="/wiki/FireRed_%26_LeafGreen_chapter_(Adventures)" title="FireRed &amp; LeafGreen chapter (Adventures)"><i>FireRed &amp; LeafGreen</i> chapter</a>, during the challenge set by <a href="/wiki/Ultima" title="Ultima">Ultima</a>, <a href="/wiki/Red_(Adventures)" title="Red (Adventures)">Red</a> and <a href="/wiki/Blue_(Adventures)" title="Blue (Adventures)">Blue</a> fight a Double Battle against each other in the Path of Battling. Here, the trainers are separated by a fence, and the floor they stand on may slide in either direction during the battle, depending on their performance. However, Red and Blue step out from the other end of the path at exactly the same time, meaning that the battle is tied.
+</p><p>Double Battles also make a few appearances in the <a href="/wiki/Diamond_%26_Pearl_chapter_(Adventures)" title="Diamond &amp; Pearl chapter (Adventures)"><i>Diamond &amp; Pearl</i> chapter</a>. In <i><a href="/wiki/PS362" title="PS362">Dramatic Drapion &amp; Crafty Kricketune I</a></i>, <a href="/wiki/Diamond_(Adventures)" title="Diamond (Adventures)">Diamond</a> and <a href="/wiki/Platinum_(Adventures)" title="Platinum (Adventures)">Platinum</a> battle two <a href="/wiki/Scientist_(Trainer_class)" title="Scientist (Trainer class)">Scientists</a>. In <i><a href="/wiki/PS381" title="PS381">Vexing Vespiquen &amp; Unmanageable Mothim</a></i>, Diamond and <a href="/wiki/Riley" title="Riley">Riley</a> battle two <a href="/wiki/Roughneck_(Trainer_class)" title="Roughneck (Trainer class)">Roughnecks</a>.
+</p><p>Since then, the only Double Battle officially called as such is the battle between <a href="/wiki/Alder" title="Alder">Alder</a> and <a href="/wiki/N" title="N">N</a> in the <a href="/wiki/Black_%26_White_chapter_(Adventures)" title="Black &amp; White chapter (Adventures)"><i>Black &amp; White</i> chapter</a>.
+</p>
+<h3><span class="mw-headline" id="In_The_Electric_Tale_of_Pikachu_manga">In The Electric Tale of Pikachu manga</span></h3>
+<p>Double Battles appeared in <a href="/wiki/The_Electric_Tale_of_Pikachu" title="The Electric Tale of Pikachu">The Electric Tale of Pikachu</a> before they were formally introduced in the games.
+</p>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #F08030; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #9C531F; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #F08030; border-collapse:collapse">
+
+<tr style="background: #F08030">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td rowspan="2"> <a href="/wiki/Pok%C3%A9mon_in_Greater_China" title="Pokémon in Greater China">Chinese</a>
+</td>
+<td> <span class="explain" title="Hong Kong">Cantonese</span>
+</td>
+<td> 雙打對戰 <i><span class="explain" title="Double Battle">Sēungdá Deuijin</span></i> <span class="explain" title="Games, Anime (DP162, XY065, XY073 &amp; XY093)">*</span><br />雙手對戰 <i><span class="explain" title="Double Hand Battle">Sēungsáu Deuijin</span></i> <span class="explain" title="Official website (XY093)">*</span><br />雙人對戰 <i><span class="explain" title="Two People Battle">Sēungyàhn Deuijin</span></i> <span class="explain" title="DP155, BW series &amp; XY038">*</span><br />二對二對戰 <i><span class="explain" title="2 vs 2 Battle">Yih-deui-Yih Deuijin</span></i> <span class="explain" title="Movie (M12)">*</span><br />雙打比賽 <i><span class="explain" title="Double Match">Sēungdá Béichoi</span></i> <span class="explain" title="AG127 &amp; Adventures Vol 45">*</span>
+</td></tr>
+<tr>
+<td> <span class="explain" title="Taiwan and mainland China">Mandarin</span>
+</td>
+<td> 雙打對戰 / 双打对战 <i><span class="explain" title="Double Battle">Shuāngdǎ Duìzhàn</span></i> <span class="explain" title="Games, Anime (XY series), &amp; Adventures Vol 47">*</span><br />二對二對戰 <i><span class="explain" title="2 vs 2 Battle">Èr-duì-Èr Duìzhàn</span></i> <span class="explain" title="BW series">*</span><br />雙人對戰 <i><span class="explain" title="Two People Battle">Shuāngrén Duìzhàn</span></i> <span class="explain" title="DP155 &amp; Adventures Vol 46">*</span><br />雙打比賽 <i><span class="explain" title="Double Match">Shuāngdǎ Bǐsài</span></i> <span class="explain" title="AG series &amp; DP162">*</span><br />雙重戰鬥 <i><span class="explain" title="Dual Fight">Shuāngchóng Zhàndòu</span></i> <span class="explain" title="Manga">*</span>
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> Multikamp<span class="explain" title="XY series">*</span><br />Dobbeltkamp
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:The_Netherlands_Flag.png" class="image"><img alt="The Netherlands Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/20px-The_Netherlands_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/30px-The_Netherlands_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e3/The_Netherlands_Flag.png/40px-The_Netherlands_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_the_Netherlands" title="Pokémon in the Netherlands">Dutch</a>
+</td>
+<td> Dubbelgevecht
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Tag-ottelu<br />Tuplaottelu
+</td></tr>
+
+<tr>
+<td rowspan="2"> French
+</td>
+<td> <a href="/wiki/File:Canada_Flag.png" class="image"><img alt="Canada Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/20px-Canada_Flag.png" width="20" height="10" srcset="//cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/30px-Canada_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/55/Canada_Flag.png/40px-Canada_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Canada" title="Pokémon in Canada">Canada</a>
+</td>
+<td> Combat double<span class="explain" title="Diamond manual">*</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_France" title="Pokémon in France">Europe</a>
+</td>
+<td> Combat Double
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Doppelkampf
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Lotta in Doppio
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 더블배틀 <i>Double Battle</i> <span class="explain" title="Games, anime since late AG series">*</span> <br />이중시합 <i>Ijung Sihab</i> <span class="explain" title="early AG">*</span>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Norway_Flag.png" class="image"><img alt="Norway Flag.png" src="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/20px-Norway_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/30px-Norway_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d0/Norway_Flag.png/40px-Norway_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Norway" title="Pokémon in Norway">Norwegian</a>
+</td>
+<td> Dobbeltkamp<span class="explain" title="XY series">*</span><br />Tag-kamp<span class="explain" title="DP029">*</span>
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Poland_Flag.png" class="image"><img alt="Poland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/20px-Poland_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/30px-Poland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/c/c4/Poland_Flag.png/40px-Poland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Poland" title="Pokémon in Poland">Polish</a>
+</td>
+<td> Podwójna Walka
+</td></tr>
+
+<tr>
+<td rowspan="2"> Portuguese
+</td>
+<td> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazil</a>
+</td>
+<td> Batalha em Dupla (anime)<br />Batalha Dupla (manga)
+</td></tr>
+<tr>
+<td> <a href="/wiki/File:Portugal_Flag.png" class="image"><img alt="Portugal Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/20px-Portugal_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/30px-Portugal_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1e/Portugal_Flag.png/40px-Portugal_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Portugal" title="Pokémon in Portugal">Portugal</a>
+</td>
+<td> Combate Duplo
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Двойная битва <i>Dvoynaya bitva</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Combate Doble
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Dubbelstrid
+</td></tr>
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Thailand_Flag.png" class="image"><img alt="Thailand Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/20px-Thailand_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/30px-Thailand_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e6/Thailand_Flag.png/40px-Thailand_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Thailand" title="Pokémon in Thailand">Thai</a>
+</td>
+<td> ดับเบิ้ลแบทเทิล <i>Double Battle</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> Thi đấu đôi (Manga)<br />Thi đấu cặp (Anime)
+</td></tr>
+<tr>
+<td colspan="3" style="background: #F08030">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<p><br clear="all" />
+</p>
+<table class="toccolours" cellspacing="2" style="margin:auto; border: 3px solid #88a; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px;">
+
+<tr>
+<th colspan="2" style="background: #ccf; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; -khtml-border-radius: 20px; -icab-border-radius: 20px; -o-border-radius: 20px; padding: 2px 15px;"> <a href="/wiki/Pok%C3%A9mon_battle" title="Pokémon battle">Pokémon battle</a> variations
+</th></tr>
+<tr style="text-align:center; font-size:90%;">
+<td> <a class="mw-selflink selflink">Double Battle</a> • <a href="/wiki/Multi_Battle" title="Multi Battle">Multi Battle</a> • <a href="/wiki/Triple_Battle" title="Triple Battle">Triple Battle</a> • <a href="/wiki/Rotation_Battle" title="Rotation Battle">Rotation Battle</a> • <a href="/wiki/Horde_Encounter" title="Horde Encounter">Horde Encounter</a> • <a href="/wiki/Battle_Royal" title="Battle Royal">Battle Royal</a><br /><a href="/wiki/Full_Battle" title="Full Battle">Full Battle</a> • <a href="/wiki/Contest_Battle" title="Contest Battle">Contest Battle</a> • <a href="/wiki/Wonder_Launcher" title="Wonder Launcher">Launcher Battle</a> • <a href="/wiki/Sky_Battle" title="Sky Battle">Sky Battle</a> • <a href="/wiki/Inverse_Battle" title="Inverse Battle">Inverse Battle</a> • <a href="/wiki/SOS_Battle" title="SOS Battle">SOS Battle</a><br /><a href="/wiki/Template:Battlemode" title="Template:Battlemode">Battle modes</a>
+</td></tr></table>
+<p><br />
+</p>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_Games_logo.png" class="image"><img alt="Project Games logo.png" src="//cdn.bulbagarden.net/upload/thumb/5/56/Project_Games_logo.png/80px-Project_Games_logo.png" width="80" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/5/56/Project_Games_logo.png/120px-Project_Games_logo.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/56/Project_Games_logo.png/160px-Project_Games_logo.png 2x" /></a>
+</td>
+<td> This game mechanic article is part of <b><a href="/wiki/Bulbapedia:Project_Games" title="Bulbapedia:Project Games">Project Games</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on the <a href="/wiki/Pok%C3%A9mon_games" title="Pokémon games">Pokémon games</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180131131826
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.811 seconds
+Preprocessor visited node count: 3169/1000000
+Preprocessor generated node count: 12487/1000000
+Post‐expand include size: 29666/2097152 bytes
+Template argument size: 10799/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  420.570      1 -total
+ 13.50%   56.778      1 Template:Langtable
+ 11.12%   46.783    114 Template:Mcolor
+  3.03%   12.736      2 Template:AP
+  2.98%   12.516      1 Template:Incomplete
+  2.65%   11.156      4 Template:Tt2
+  2.63%   11.064      1 Template:-
+  2.33%    9.805      7 Template:Ice_color
+  2.13%    8.960      4 Template:Rock_color
+  1.85%    7.760      7 Template:A
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:4878-0!*!0!!en!5!* and timestamp 20180131131825 and revision id 2734392
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Double_Battle&amp;oldid=2734392">https://bulbapedia.bulbagarden.net/w/index.php?title=Double_Battle&amp;oldid=2734392</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Articles_needing_more_information" title="Category:Articles needing more information">Articles needing more information</a></li><li><a href="/wiki/Category:Terminology" title="Category:Terminology">Terminology</a></li><li><a href="/wiki/Category:Game_mechanics" title="Category:Game mechanics">Game mechanics</a></li><li><a href="/wiki/Category:Battle_variations" title="Category:Battle variations">Battle variations</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Double_Battle" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Double_Battle" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Double_Battle&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Double_Battle&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Double+Battle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Double+Battle" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Double_Battle" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Double_Battle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Double_Battle&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Double_Battle&amp;oldid=2734392" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Double_Battle&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Mehrfachk%C3%A4mpfe#Doppelkampf" title="Mehrfachkämpfe – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Combat_Duo" title="Combat Duo – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Lotta_Pok%C3%A9mon#Lotta_in_doppio" title="Lotta Pokémon – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%83%90%E3%83%88%E3%83%AB" title="ダブルバトル – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E5%8F%8C%E6%89%93%E5%AF%B9%E6%88%98" title="双打对战 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 22 January 2018, at 05:00.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Double_Battle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.811","ppvisitednodes":{"value":3169,"limit":1000000},"ppgeneratednodes":{"value":12487,"limit":1000000},"postexpandincludesize":{"value":29666,"limit":2097152},"templateargumentsize":{"value":10799,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  420.570      1 -total"," 13.50%   56.778      1 Template:Langtable"," 11.12%   46.783    114 Template:Mcolor","  3.03%   12.736      2 Template:AP","  2.98%   12.516      1 Template:Incomplete","  2.65%   11.156      4 Template:Tt2","  2.63%   11.064      1 Template:-","  2.33%    9.805      7 Template:Ice_color","  2.13%    8.960      4 Template:Rock_color","  1.85%    7.760      7 Template:A"]},"cachereport":{"timestamp":"20180131131826","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

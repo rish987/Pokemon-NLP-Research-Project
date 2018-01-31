@@ -1,0 +1,2161 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bicycle - Bulbapedia, the community-driven Pokémon encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bicycle","wgTitle":"Bicycle","wgCurRevisionId":2726391,"wgRevisionId":2726391,"wgArticleId":9212,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Equipment","Key Items","Anime running gags"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bicycle","wgRelevantArticleId":9212,"wgRequestId":"2b457684796fbde83dd4bd51","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false}});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cskins.monobook.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=monobook"></script>
+<!--[if IE 6]><link rel="stylesheet" href="/w/skins/MonoBook/IE60Fixes.css?303" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/w/skins/MonoBook/IE70Fixes.css?303" media="screen"/><![endif]--><link rel="stylesheet" href="//bulba-ad-host-website.azurewebsites.net/Content/customstyles.css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.29.1"/>
+<meta property="og:image" content="https://cdn.bulbagarden.net/upload/7/7e/Red_on_bike.png"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.bulbapedia.bulbagarden.net/wiki/Bicycle"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Bulbapedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bulbapedia.bulbagarden.net/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<link rel="canonical" href="https://bulbapedia.bulbagarden.net/wiki/Bicycle"/>
+<script type="text/javascript" src="//ahost.bulbagarden.net/Content/bulbapediascript.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR6VWZ3');</script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bicycle rootpage-Bicycle skin-monobook action-view site-bulbapedia">                
+		<div id="globalWrapper">
+		<div id="column-content">
+			<div id="content" class="mw-body" role="main">
+				<a id="top"></a>
+								<div style="margin: 5px auto; " class="ad-placement">
+				<!-- Advert Top Start -->
+				<script>
+    //window.adset = 'alt';
+    window.adset = 'normal';
+    //if (location.search.split('newDesign=')[1] == 1 && document.getElementById('pt-userpage') == null) {
+    if (document.getElementById('pt-userpage') == null) {
+
+        if (!isMobileOrTablet()) {
+            var newcss = document.createElement('link');
+            newcss.rel = 'stylesheet';
+            newcss.type = "text/css";
+            newcss.href = "https://ahost.bulbagarden.net/content/newdesign.css";
+            newcss.media = "screen";
+            document.head.appendChild(newcss);
+        }
+
+        //Enthusiast gaming
+        //var tagHead = document.createElement('script');
+        //tagHead.innerHTML = "(function (w, d, s, l, i) {            w[l] = w[l] || []; w[l].push({                'gtm.start':        new Date().getTime(), event: 'gtm.js'            }); var f = d.getElementsByTagName(s)[0],            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);        })(window, document, 'script', 'dataLayer', 'GTM-MR6VWZ3');"
+        //document.head.insertBefore(tagHead, document.head.firstChild);
+
+        //var gtagbopen = document.createElement('noscript');
+        //var gtagbopeni = document.createElement('iframe');
+        //gtagbopeni.src = "https://www.googletagmanager.com/ns.html?id=GTM-MR6VWZ3";
+        //gtagbopeni.height = "0";
+        //gtagbopeni.width = "0";
+        //gtagbopeni.style = "display:none;visibility:hidden";
+        //gtagbopen.appendChild(gtagbopeni);
+
+        if (!isMobileOrTablet()) {
+            var skinElement = document.createElement('div');
+            skinElement.id = "div-gpt-ad-1498167603841-0";
+            //document.body.insertBefore(skinElement, document.body.firstChild);
+            document.body.appendChild(skinElement);
+            if (document.body.offsetWidth > 1365) {
+                //console.log('sky ' + window.adset);
+                var skyLeft = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyLeft.id = 'div-gpt-ad-1498167603841-1';
+                }
+                else {
+                    skyLeft.id = 'div-gpt-ad-1512651256919-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651256919-0'); });
+                }
+                var skyRight = document.createElement('div');
+                if (window.adset == 'normal') {
+                    skyRight.id = 'div-gpt-ad-1498167603841-2';
+                } else {
+                    skyRight.id = 'div-gpt-ad-1512651376746-0';
+                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1512651376746-0'); });
+                }
+                var globalwrapper = document.getElementById('globalWrapper');
+                document.body.insertBefore(skyLeft, globalwrapper);
+                document.body.insertBefore(skyRight, globalwrapper);
+            }
+        }
+        //document.body.insertBefore(gtagbopen, document.body.firstChild);
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- playwire -->
+
+
+
+				<!-- Advert Top End -->
+				</div>
+													<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="noticebar roundy plainlinks" style="padding:0px;">Please remember to follow the <a href="/wiki/Bulbapedia:Manual_of_style" title="Bulbapedia:Manual of style">manual of style</a> and <a href="/wiki/Bulbapedia:Code_of_conduct" title="Bulbapedia:Code of conduct">code of conduct</a> at all times.<br />Check <a rel="nofollow" class="external text" href="https://twitter.com/BulbaNewsNOW">BNN</a> and <a href="http://bulbanews.bulbagarden.net/wiki/Front_page" class="extiw" title="n:Front page">Bulbanews</a> for up-to-date Pokémon news and discuss it on the <a rel="nofollow" class="external text" href="http://forums.bulbagarden.net/index.php">forums</a> or in the <a rel="nofollow" class="external text" href="http://discord.gg/NRejCu4">Bulbagarden Discord server</a>.
+</div>
+</div></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Bicycle</h1>
+
+<div id="outercontentbox">
+<div id="contentbox" style="margin-right:312px;padding-right: 1.0em; border-right: 1px solid #aaa;">
+
+
+				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub">From Bulbapedia, the community-driven Pokémon encyclopedia.</div>
+					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>
+
+					<!-- start content -->
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:Red_on_bike.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/7e/Red_on_bike.png/150px-Red_on_bike.png" width="150" height="211" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/7/7e/Red_on_bike.png/225px-Red_on_bike.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7e/Red_on_bike.png/300px-Red_on_bike.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Red_on_bike.png" class="internal" title="Enlarge"></a></div>Artwork of <a href="/wiki/Red_(game)" title="Red (game)">Red</a> on his Bicycle from <a href="/wiki/Generation_I" title="Generation I">Generation I</a></div></div></div>
+<p>A <b>Bicycle</b> (Japanese: <b><span class="explain" title="jitensha">じてんしゃ</span></b> <i>Bicycle</i>) is a <a href="/wiki/Key_Item" title="Key Item">Key Item</a> obtained in the games to facilitate <a href="/wiki/Transportation_in_the_Pok%C3%A9mon_world" title="Transportation in the Pokémon world">faster movement</a>. <a href="/wiki/Cycling_Road" class="mw-disambig" title="Cycling Road">Cycling Roads</a> can only be navigated on while cycling. They are usually obtained from <a href="/wiki/Bicycle_Shop" title="Bicycle Shop">Bicycle Shops</a>.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon">Pokémon Sun and Moon</a>, several <a href="/wiki/Pok%C3%A9_Ride" title="Poké Ride">Ride Pokémon</a> take over the role of transporting the player across the land at higher speeds, such as <a href="/wiki/Tauros_(Pok%C3%A9mon)" title="Tauros (Pokémon)">Tauros</a> Charge.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_the_games"><span class="tocnumber">1</span> <span class="toctext">In the games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Types_of_Bicycles"><span class="tocnumber">1.1</span> <span class="toctext">Types of Bicycles</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Regular_Bicycle"><span class="tocnumber">1.1.1</span> <span class="toctext">Regular Bicycle</span></a>
+<ul>
+<li class="toclevel-4 tocsection-4"><a href="#Item_details"><span class="tocnumber">1.1.1.1</span> <span class="toctext">Item details</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-5"><a href="#Acro_Bike"><span class="tocnumber">1.1.2</span> <span class="toctext">Acro Bike</span></a>
+<ul>
+<li class="toclevel-4 tocsection-6"><a href="#Tricks"><span class="tocnumber">1.1.2.1</span> <span class="toctext">Tricks</span></a></li>
+<li class="toclevel-4 tocsection-7"><a href="#Item_details_2"><span class="tocnumber">1.1.2.2</span> <span class="toctext">Item details</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-8"><a href="#Mach_Bike"><span class="tocnumber">1.1.3</span> <span class="toctext">Mach Bike</span></a>
+<ul>
+<li class="toclevel-4 tocsection-9"><a href="#Item_details_3"><span class="tocnumber">1.1.3.1</span> <span class="toctext">Item details</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-10"><a href="#Gallery"><span class="tocnumber">1.1.4</span> <span class="toctext">Gallery</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#In_the_anime"><span class="tocnumber">2</span> <span class="toctext">In the anime</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#In_the_main_series"><span class="tocnumber">2.1</span> <span class="toctext">In the main series</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#In_Pok.C3.A9mon_Origins"><span class="tocnumber">2.2</span> <span class="toctext">In Pokémon Origins</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#In_the_manga"><span class="tocnumber">3</span> <span class="toctext">In the manga</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#In_The_Electric_Tale_of_Pikachu_manga"><span class="tocnumber">3.1</span> <span class="toctext">In The Electric Tale of Pikachu manga</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#In_the_Pok.C3.A9mon_Adventures_manga"><span class="tocnumber">3.2</span> <span class="toctext">In the Pokémon Adventures manga</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#In_the_Pok.C3.A9mon_Zensho_manga"><span class="tocnumber">3.3</span> <span class="toctext">In the Pokémon Zensho manga</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#In_the_TCG"><span class="tocnumber">4</span> <span class="toctext">In the TCG</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#In_other_languages"><span class="tocnumber">6</span> <span class="toctext">In other languages</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_the_games">In the games</span></h2>
+<h3><span class="mw-headline" id="Types_of_Bicycles">Types of Bicycles</span></h3>
+<p>In most games there is only one type of Bicycle; however, in <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Ruby, Sapphire</a>, <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Emerald</a>, <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Omega Ruby, and Alpha Sapphire</a>, there are two types of Bicycle: the Acro Bike and the Mach Bike. The player can only have one at a time and must trade in their current Bicycle at <a href="/wiki/Rydel%27s_Cycles" title="Rydel's Cycles">Rydel's Cycles</a> to obtain the other, although in Omega Ruby and Alpha Sapphire the player can eventually obtain the ability to carry both at once.
+</p><p>All Bicycles cannot be ridden inside of buildings or if the player is accompanied by a person. In <a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version">Pokémon Yellow</a> and <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">Pokémon HeartGold and SoulSilver</a>, the <a href="/wiki/Walking_Pok%C3%A9mon" title="Walking Pokémon">walking Pokémon</a> returns to its <a href="/wiki/Pok%C3%A9_Ball" title="Poké Ball">Poké Ball</a> while the player is cycling. Prior to Generation V, bikes cannot be ridden in <a href="/wiki/Snow_tile" title="Snow tile">snow</a>. In <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond and Pearl</a>, bikes cannot be ridden in <a href="/wiki/Gate" title="Gate">gates</a>.
+</p>
+<h4><span class="mw-headline" id="Regular_Bicycle">Regular Bicycle</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:66px;"><a href="/wiki/File:Key_Bicycle_Sprite.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/a/ab/Key_Bicycle_Sprite.png" width="64" height="64" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Key_Bicycle_Sprite.png" class="internal" title="Enlarge"></a></div>Bicycle obtain sprite from the Generation V games</div></div></div>
+<p>In all games but <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Ruby, Sapphire</a>, <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Emerald</a>, <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Omega Ruby, and Alpha Sapphire</a> there is only one type of Bicycle.
+</p><p>In Generations I and III, <a href="/wiki/Miracle_Cycle" title="Miracle Cycle">Miracle Cycle</a> is selling Bicycles for <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1,000,000, which is <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>1 more than it is possible for the player to obtain in these games. Instead, the player must use a <a href="/wiki/Bike_Voucher" title="Bike Voucher">Bike Voucher</a> to buy one.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions">Pokémon Diamond, Pearl</a>, and <a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version">Platinum</a>, the player can press the B Button to switch between the third and fourth gears. Fourth gear is faster than third gear and allows the player to ride up <a href="/wiki/Bike_obstacles#Muddy_slopes" title="Bike obstacles">muddy slopes</a> and jump further from bike <a href="/wiki/Bike_obstacles#Ramps" title="Bike obstacles">ramps</a>. Third gear can jump bike ramps, but does not jump as far.
+</p><p>In <a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y">Pokémon X and Y</a>, the player can choose between a green or a yellow bicycle, the choice having no impact on the bike itself.
+</p>
+<h5><span class="mw-headline" id="Item_details">Item details</span></h5>
+<p><span id="Bicycle"></span>
+</p>
+<table class="roundy expandable" style="border: 2px solid #7838C0; background: #9048D8; width: 100%">
+
+<tr style="text-align:center" class="expandable">
+<td colspan="5" width="50%">
+<table class="roundy" style="background: #9048D8; width: 100%">
+<tr>
+<td width="24px" style="border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #9048D8">
+<table style="margin:auto; border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #A058E8; border: 1px solid #7838C0; width: 24px">
+<tr>
+<td width="24px" style="border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #A058E8"> <a href="/wiki/File:Bag_Bicycle_Sprite.png" class="image" title="Bicycle"><img alt="Bicycle" src="//cdn.bulbagarden.net/upload/d/d8/Bag_Bicycle_Sprite.png" width="24" height="24" /></a><a href="/wiki/File:Bag_Bicycle_VI_Sprite.png" class="image" title="Bicycle VI"><img alt="Bicycle VI" src="//cdn.bulbagarden.net/upload/2/29/Bag_Bicycle_VI_Sprite.png" width="48" height="24" /></a>
+</td></tr></table>
+</td>
+<td width="10px"> &#160;
+</td>
+<td style="text-align:left">
+<table style="float:left; border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #9048D8">
+<tr>
+<td style="text-align:left"> <big><big><b>Bicycle</b></big></big><br /><small><b><span class="explain" title="Jitensha">じてんしゃ</span></b> <i>Bicycle</i></small>
+</td></tr></table>
+</td>
+<td> &#160;
+</td>
+<td style="float:right; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8">
+<table style="float:right; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8">
+<tr>
+<td width="24px" style="border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8; width: 24px">
+<table style="margin:auto; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #A058E8; border: 1px solid #7838C0; width: 24px;">
+<tr>
+<td width="24px" style="border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #7838C0; width: 24px"> <a href="/wiki/File:Bag_Key_items_pocket_icon.png" class="image"><img alt="Bag Key items pocket icon.png" src="//cdn.bulbagarden.net/upload/9/99/Bag_Key_items_pocket_icon.png" width="24" height="24" /></a>
+</td></tr></table>
+</td>
+<td style="text-align:center"> <b>KEY ITEMS</b><br /><small>pocket</small>
+</td></tr></table>
+</td></tr></table>
+</td>
+<td colspan="2">
+<table style="float:left; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8">
+<tr>
+<td style="text-align:center"> <b><small>INTRODUCED IN</small></b><br />
+<p><big><big><b>GEN I</b></big></big>
+</p>
+</td></tr></table>
+</td>
+<td>
+<table style="float:right; border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #9048D8">
+
+<tr>
+<td style="text-align:right"> <small><b>Cannot be bought</b>   </small>
+</td></tr>
+<tr>
+<td style="text-align:right"> <small><b>Cannot be sold</b>   </small>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="5" rowspan="1" style="border: 2px solid #7838C0; background: #FFF; vertical-align:top">
+<table class="roundy" style="background: #FFF; width: 100%">
+
+<tr>
+<td width="40px" style="vertical-align:top"> <b>Effect:</b>
+</td>
+<td> Allows for faster travel than walking or running. Can be used to ride on <a href="/wiki/Cycling_Road" class="mw-disambig" title="Cycling Road">Cycling Roads</a>.
+</td></tr></table>
+</td>
+<td class="roundy" colspan="3" rowspan="3" style="vertical-align:top; border: 2px solid #7838C0; background: #FFF">
+<table class="roundy" style="vertical-align:top; background: #FFF; width: 100%; border-collapse:collapse">
+
+<tr style="text-align:center">
+<td colspan="3"> <b>Locations</b>
+</td></tr>
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Red_and_Blue_Versions" title="Pokémon Red and Blue Versions"><span style="color:#FF1111;">R</span><span style="color:#1111FF;">B</span></a><a href="/wiki/Pok%C3%A9mon_Yellow_Version" title="Pokémon Yellow Version"><span style="color:#FFD733;">Y</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> <a href="/wiki/Cerulean_City" title="Cerulean City">Cerulean City</a> <a href="/wiki/Miracle_Cycle" title="Miracle Cycle">Bike Shop</a> (requires <a href="/wiki/Bike_Voucher" title="Bike Voucher">Bike Voucher</a>)
+</td></tr>
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#DAA520;">G</span><span style="color:#C0C0C0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#4FD9FF;">C</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> The <a href="/wiki/Miracle_Cycle" title="Miracle Cycle">Bike Shop</a> in northeast <a href="/wiki/Goldenrod_City" title="Goldenrod City">Goldenrod City</a>
+</td></tr>
+
+
+
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#FF7327;">FR</span><span style="color:#00DD00;">LG</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> <a href="/wiki/Cerulean_City" title="Cerulean City">Cerulean City</a> <a href="/wiki/Miracle_Cycle" title="Miracle Cycle">Bike Shop</a> (requires <a href="/wiki/Bike_Voucher" title="Bike Voucher">Bike Voucher</a>)
+</td></tr>
+
+
+
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions"><span style="color:#AAAAFF;">D</span><span style="color:#FFAAAA;">P</span></a><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> Received from the owner of <a href="/wiki/Rad_Rickshaw%27s_Cycle_Shop" title="Rad Rickshaw's Cycle Shop">Rad Rickshaw's Cycle Shop</a> in <a href="/wiki/Eterna_City" title="Eterna City">Eterna City</a> after saving him from <a href="/wiki/Team_Galactic" title="Team Galactic">Team Galactic</a>
+</td></tr>
+
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#B69E00;">HG</span><span style="color:#7D7D92;">SS</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> Received from the owner of <a href="/wiki/Miracle_Cycle" title="Miracle Cycle">Miracle Cycle</a> in <a href="/wiki/Goldenrod_City" title="Goldenrod City">Goldenrod City</a>
+</td></tr>
+
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions"><span style="color:#444444;">B</span><span style="color:#929292;">W</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> Received from the <a href="/wiki/Day-Care_Couple" title="Day-Care Couple">Day-Care Man</a> in <a href="/wiki/Nimbasa_City" title="Nimbasa City">Nimbasa City</a> after defeating the <a href="/wiki/Team_Plasma_Grunt_(Trainer_class)" title="Team Plasma Grunt (Trainer class)">Team Plasma Grunts</a>
+</td></tr>
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#424B50;">B2</span><span style="color:#E3CED0;">W2</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> Received from a man near the pier in <a href="/wiki/Castelia_City" title="Castelia City">Castelia City</a>
+</td></tr>
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y"><span style="color:#025DA6;">X</span><span style="color:#981128;">Y</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> Received from the owner of the <a href="/wiki/Bicycle_Shop" title="Bicycle Shop">Bicycle Shop</a> in <a href="/wiki/Cyllage_City" title="Cyllage City">Cyllage City</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="5" style="border: 2px solid #7838C0; background: #FFF">
+<table class="roundy" style="background: #FFF; width: 100%">
+
+<tr style="vertical-align:top">
+<td width="115px"> <b>Secondary effect:</b>
+</td>
+<td> Can be used to cross <a href="/wiki/Bike_obstacles#Rails_and_logs" title="Bike obstacles">fallen logs</a> and jump bike <a href="/wiki/Bike_obstacles#Ramps" title="Bike obstacles">ramps</a>. Players can change between the two gear settings; the faster gear can climb <a href="/wiki/Bike_obstacles#Muddy_slopes" title="Bike obstacles">muddy slopes</a> and jump further on bike ramps with enough momentum.<b><sup><a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions"><span style="color:#AAAAFF;">D</span><span style="color:#FFAAAA;">P</span></a><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a></sup></b>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="5" style="vertical-align:top; border: 2px solid #7838C0; background: #FFF">
+<table class="roundy" style="vertical-align:top; background: #FFF; width: 100%; border-collapse:collapse">
+
+<tr style="vertical-align:top; text-align:center">
+<td colspan="2"> <b>Description</b>
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Stadium_(English)" title="Pokémon Stadium (English)"><span style="color:#000;">Stad</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> Lets you travel twice as fast as walking.
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions"><span style="color:#DAA520;">G</span><span style="color:#C0C0C0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Crystal_Version" title="Pokémon Crystal Version"><span style="color:#4FD9FF;">C</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A collapsible bike for fast movement.
+</td></tr>
+
+
+
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding bicycle that is faster than the <span class="sc">Running Shoes</span>.
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#FF7327;">FR</span><span style="color:#00DD00;">LG</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding bicycle that allows faster movement than the <span class="sc">Running Shoes</span>.
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions" title="Pokémon Diamond and Pearl Versions"><span style="color:#AAAAFF;">D</span><span style="color:#FFAAAA;">P</span></a><a href="/wiki/Pok%C3%A9mon_Platinum_Version" title="Pokémon Platinum Version"><span style="color:#999999;">Pt</span></a></b><br /><b><a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions"><span style="color:#B69E00;">HG</span><span style="color:#7D7D92;">SS</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding Bicycle that enables much faster movement than the Running Shoes.
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions" title="Pokémon Black and White Versions"><span style="color:#444444;">B</span><span style="color:#929292;">W</span></a><a href="/wiki/Pok%C3%A9mon_Black_and_White_Versions_2" title="Pokémon Black and White Versions 2"><span style="color:#424B50;">B2</span><span style="color:#E3CED0;">W2</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding Bicycle that enables much faster movement than the Running Shoes.
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_X_and_Y" title="Pokémon X and Y"><span style="color:#025DA6;">X</span><span style="color:#981128;">Y</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding Bicycle that enables a rider to get around much faster than a pair of Running Shoes will allow.
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#194166;">AS</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding Bike that enables a rider to get around much faster than with Running Shoes.
+</td></tr>
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon"><span style="color:#F1912B">S</span><span style="color:#5599CA">M</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding Bike that enables a rider to get around much faster than with Running Shoes.
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+</table>
+</td></tr>
+<tr>
+<td colspan="5" style="text-align:left"> <small><b><i>Note:</i> Called "Bike" from Omega Ruby and Alpha Sapphire onwards</b></small>
+</td>
+<td colspan="3"> &#160;
+<p><br />
+</p>
+</td></tr></table>
+<h4><span class="mw-headline" id="Acro_Bike">Acro Bike</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Omega_Ruby_Alpha_Sapphire_Acro_Bike.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/3/31/Omega_Ruby_Alpha_Sapphire_Acro_Bike.png/200px-Omega_Ruby_Alpha_Sapphire_Acro_Bike.png" width="200" height="197" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/3/31/Omega_Ruby_Alpha_Sapphire_Acro_Bike.png/300px-Omega_Ruby_Alpha_Sapphire_Acro_Bike.png 1.5x, //cdn.bulbagarden.net/upload/thumb/3/31/Omega_Ruby_Alpha_Sapphire_Acro_Bike.png/400px-Omega_Ruby_Alpha_Sapphire_Acro_Bike.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Omega_Ruby_Alpha_Sapphire_Acro_Bike.png" class="internal" title="Enlarge"></a></div>Artwork of the Acro Bike from <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Omega Ruby and Alpha Sapphire</a></div></div></div>
+<p>An <b>Acro Bike</b> (Japanese: <b><span class="explain" title="Dāto Jitensha">ダートじてんしゃ</span></b> <i>Dirt Bike</i>) travels at the same speed as regular Bicycles, but it also allows <a href="/wiki/Player_character" title="Player character">players</a> to perform tricks, such as wheelies and bunny hops, which let players reach special areas. It can also be used for traveling on white rails found on <a href="/wiki/Hoenn_Route_119" title="Hoenn Route 119">Route 119</a> and in the <a href="/wiki/Hoenn_Safari_Zone" title="Hoenn Safari Zone">Hoenn Safari Zone</a>.
+</p><p>Bunny hopping up and down on an Acro Bike in <a href="/wiki/Tall_grass" title="Tall grass">tall grass</a> can cause <a href="/wiki/Wild_Pok%C3%A9mon" title="Wild Pokémon">wild Pokémon</a> to appear, but does not count as steps towards the <a href="/wiki/Hoenn_Safari_Zone#Safari_Game" title="Hoenn Safari Zone">Safari Game</a> or <a href="/wiki/Repel" title="Repel">Repel</a>.
+</p><p>Unlike the Mach Bike, if the player rides on <a href="/wiki/Seaside_Cycling_Road" title="Seaside Cycling Road">Seaside Cycling Road</a> their time won't be recorded due to the Bicycle being "easy to turn" in comparison.
+</p>
+<h5><span class="mw-headline" id="Tricks">Tricks</span></h5>
+<ul><li> Hold B Button (less than 2 seconds): standing wheelie</li>
+<li> Hold B Button (more than 2 seconds): bunny hop</li>
+<li> Hold B, then <span class="explain" title="D-pad">+Control Pad</span>: moving wheelie or bunny hop</li>
+<li> Press B and +Control Pad direction (perpendicular to direction of travel) simultaneously: sideways hop</li>
+<li> Press B and +Control Pad direction (opposite to direction of travel) simultaneously: hops and reverses direction</li></ul>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a href="/wiki/File:Wheelie.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/9/94/Wheelie.png/120px-Wheelie.png" width="120" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/9/94/Wheelie.png/180px-Wheelie.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/94/Wheelie.png/240px-Wheelie.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Doing a wheelie
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a href="/wiki/File:LedgeE.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/70/LedgeE.png/120px-LedgeE.png" width="120" height="80" srcset="//cdn.bulbagarden.net/upload/thumb/7/70/LedgeE.png/180px-LedgeE.png 1.5x, //cdn.bulbagarden.net/upload/7/70/LedgeE.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Doing a bunny hop
+</p>
+			</div>
+		</div></li>
+</ul>
+<h5><span class="mw-headline" id="Item_details_2">Item details</span></h5>
+<p><span id="Acro_Bike"></span>
+</p>
+<table class="roundy expandable" style="border: 2px solid #7838C0; background: #9048D8; width: 100%">
+
+<tr style="text-align:center" class="expandable">
+<td colspan="5" width="50%">
+<table class="roundy" style="background: #9048D8; width: 100%">
+<tr>
+<td width="24px" style="border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #9048D8">
+<table style="margin:auto; border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #A058E8; border: 1px solid #7838C0; width: 24px">
+<tr>
+<td width="24px" style="border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #A058E8"> <a href="/wiki/File:Bag_Acro_Bike_Sprite.png" class="image" title="Acro Bike"><img alt="Acro Bike" src="//cdn.bulbagarden.net/upload/2/20/Bag_Acro_Bike_Sprite.png" width="24" height="24" /></a><a href="/wiki/File:Bag_Acro_Bike_VI_Sprite.png" class="image" title="Acro Bike VI"><img alt="Acro Bike VI" src="//cdn.bulbagarden.net/upload/a/ab/Bag_Acro_Bike_VI_Sprite.png" width="24" height="24" /></a>
+</td></tr></table>
+</td>
+<td width="10px"> &#160;
+</td>
+<td style="text-align:left">
+<table style="float:left; border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #9048D8">
+<tr>
+<td style="text-align:left"> <big><big><b>Acro Bike</b></big></big><br /><small><b><span class="explain" title="Dāto Jitensha">ダートじてんしゃ</span></b> <i>Dirt Bike</i></small>
+</td></tr></table>
+</td>
+<td> &#160;
+</td>
+<td style="float:right; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8">
+<table style="float:right; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8">
+<tr>
+<td width="24px" style="border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8; width: 24px">
+<table style="margin:auto; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #A058E8; border: 1px solid #7838C0; width: 24px;">
+<tr>
+<td width="24px" style="border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #7838C0; width: 24px"> <a href="/wiki/File:Bag_Key_items_pocket_icon.png" class="image"><img alt="Bag Key items pocket icon.png" src="//cdn.bulbagarden.net/upload/9/99/Bag_Key_items_pocket_icon.png" width="24" height="24" /></a>
+</td></tr></table>
+</td>
+<td style="text-align:center"> <b>KEY ITEMS</b><br /><small>pocket</small>
+</td></tr></table>
+</td></tr></table>
+</td>
+<td colspan="2">
+<table style="float:left; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8">
+<tr>
+<td style="text-align:center"> <b><small>INTRODUCED IN</small></b><br />
+<p><big><big><b>GEN III</b></big></big>
+</p>
+</td></tr></table>
+</td>
+<td>
+<table style="float:right; border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #9048D8">
+
+<tr>
+<td style="text-align:right"> <small><b>Cannot be bought</b>   </small>
+</td></tr>
+<tr>
+<td style="text-align:right"> <small><b>Cannot be sold</b>   </small>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="5" rowspan="1" style="border: 2px solid #7838C0; background: #FFF; vertical-align:top">
+<table class="roundy" style="background: #FFF; width: 100%">
+
+<tr>
+<td width="40px" style="vertical-align:top"> <b>Effect:</b>
+</td>
+<td> Use to move faster than walking or running (10.67 steps per second in <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>). Slower than the Mach Bike, but can perform tricks. Can be used to ride on <a href="/wiki/Cycling_Road" class="mw-disambig" title="Cycling Road">Cycling Roads</a>.
+</td></tr></table>
+</td>
+<td class="roundy" colspan="3" rowspan="3" style="vertical-align:top; border: 2px solid #7838C0; background: #FFF">
+<table class="roundy" style="vertical-align:top; background: #FFF; width: 100%; border-collapse:collapse">
+
+<tr style="text-align:center">
+<td colspan="3"> <b>Locations</b>
+</td></tr>
+
+
+
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions"><span style="color:#A00000;">R</span><span style="color:#0000A0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> <a href="/wiki/Rydel%27s_Cycles" title="Rydel's Cycles">Rydel's Cycles</a> (choice between this and the Mach Bike, can switch at any time by returning the other bike)
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#194166;">AS</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> <a href="/wiki/Rydel%27s_Cycles" title="Rydel's Cycles">Rydel's Cycles</a> (choice between this and the Mach Bike, can switch at any time by returning the other bike; both can be obtained after speaking to a <a href="/wiki/Hex_Maniac_(Trainer_class)" title="Hex Maniac (Trainer class)">Hex Maniac</a> in <a href="/wiki/Hoenn_Route_111" title="Hoenn Route 111">Route 111</a>'s desert, a <a href="/wiki/Bird_Keeper_(Trainer_class)" title="Bird Keeper (Trainer class)">Bird Keeper</a> on <a href="/wiki/Hoenn_Route_119" title="Hoenn Route 119">Route 119</a>, and a <a href="/wiki/Triathlete_(Trainer_class)" title="Triathlete (Trainer class)">Triathlete</a> at the <a href="/wiki/Battle_Resort" title="Battle Resort">Battle Resort</a>)
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="5" style="border: 2px solid #7838C0; background: #FFF">
+<table class="roundy" style="background: #FFF; width: 100%">
+
+<tr style="vertical-align:top">
+<td width="115px"> <b>Secondary effect:</b>
+</td>
+<td> Can be used to side-jump between <a href="/wiki/Bike_obstacles#Rails_and_logs" title="Bike obstacles">rails</a> and bunny hop along <a href="/wiki/Bike_obstacles#Bumpy_slopes" title="Bike obstacles">bumpy slopes</a>.
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="5" style="vertical-align:top; border: 2px solid #7838C0; background: #FFF">
+<table class="roundy" style="vertical-align:top; background: #FFF; width: 100%; border-collapse:collapse">
+
+<tr style="vertical-align:top; text-align:center">
+<td colspan="2"> <b>Description</b>
+</td></tr>
+
+
+
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions"><span style="color:#A00000;">R</span><span style="color:#0000A0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding bicycle capable of jumps and wheelies.
+</td></tr>
+
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#FF7327;">FR</span><span style="color:#00DD00;">LG</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding bicycle that is capable of stunts like jumps and wheelies.
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#194166;">AS</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> This folding Bike allows you to perform actions such as wheelies and bunny hops.
+</td></tr>
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon"><span style="color:#F1912B">S</span><span style="color:#5599CA">M</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> This folding Bike allows you to perform actions such as wheelies and bunny hops.
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+</table>
+</td></tr>
+
+<tr>
+<td colspan="5"> &#160;
+</td>
+<td colspan="3" style="text-align:right"> <small><b>This item was <a href="/wiki/Acro_Bike_(Primal_Clash_122)" title="Acro Bike (Primal Clash 122)"><span style="color:#000;">featured in the TCG</span></a>.</b></small>
+</td></tr></table>
+<h4><span class="mw-headline" id="Mach_Bike">Mach Bike</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Omega_Ruby_Alpha_Sapphire_Mach_Bike.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/e/e3/Omega_Ruby_Alpha_Sapphire_Mach_Bike.png/200px-Omega_Ruby_Alpha_Sapphire_Mach_Bike.png" width="200" height="193" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/e/e3/Omega_Ruby_Alpha_Sapphire_Mach_Bike.png/300px-Omega_Ruby_Alpha_Sapphire_Mach_Bike.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e3/Omega_Ruby_Alpha_Sapphire_Mach_Bike.png/400px-Omega_Ruby_Alpha_Sapphire_Mach_Bike.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Omega_Ruby_Alpha_Sapphire_Mach_Bike.png" class="internal" title="Enlarge"></a></div>Artwork of the Mach Bike from <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Omega Ruby and Alpha Sapphire</a></div></div></div>
+<p>The <b>Mach Bike</b> (Japanese: <b><span class="explain" title="Mahha Jitensha">マッハじてんしゃ</span></b> <i>Mach Bike</i>) allows <a href="/wiki/Player_character" title="Player character">players</a> to move a lot faster than regular Bicycles and the Acro Bike. It can move fast enough to ride straight up <a href="/wiki/Bike_obstacles#Muddy_slopes" title="Bike obstacles">muddy slopes</a>, or over <a href="/wiki/Hole#Generation_III" title="Hole">cracked tiles</a> without falling through (which appear in <a href="/wiki/Granite_Cave" title="Granite Cave">Granite Cave</a>, the <a href="/wiki/Sky_Pillar" title="Sky Pillar">Sky Pillar</a>, and <a href="/wiki/Mirage_Tower" title="Mirage Tower">Mirage Tower</a><b><sup><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a></sup></b>) if the player has enough momentum. If the <a href="/wiki/Player_character" title="Player character">player</a> collides with something, all momentum gained is lost and the speed resets.
+</p><p>On the <a href="/wiki/Seaside_Cycling_Road" title="Seaside Cycling Road">Seaside Cycling Road</a>, a player's time and number of collisions while riding this Bicycle from the northern entrance to the southern exit are timed and recorded. This is part of the data sent over to other <a href="/wiki/Player_character" title="Player character">players</a> via <a href="/wiki/Record_mixing" title="Record mixing">record mixing</a>.
+</p>
+<h5><span class="mw-headline" id="Item_details_3">Item details</span></h5>
+<p><span id="Mach_Bike"></span>
+</p>
+<table class="roundy expandable" style="border: 2px solid #7838C0; background: #9048D8; width: 100%">
+
+<tr style="text-align:center" class="expandable">
+<td colspan="5" width="50%">
+<table class="roundy" style="background: #9048D8; width: 100%">
+<tr>
+<td width="24px" style="border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #9048D8">
+<table style="margin:auto; border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #A058E8; border: 1px solid #7838C0; width: 24px">
+<tr>
+<td width="24px" style="border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #A058E8"> <a href="/wiki/File:Bag_Mach_Bike_Sprite.png" class="image" title="Mach Bike"><img alt="Mach Bike" src="//cdn.bulbagarden.net/upload/3/39/Bag_Mach_Bike_Sprite.png" width="24" height="24" /></a><a href="/wiki/File:Bag_Mach_Bike_VI_Sprite.png" class="image" title="Mach Bike VI"><img alt="Mach Bike VI" src="//cdn.bulbagarden.net/upload/0/05/Bag_Mach_Bike_VI_Sprite.png" width="24" height="24" /></a>
+</td></tr></table>
+</td>
+<td width="10px"> &#160;
+</td>
+<td style="text-align:left">
+<table style="float:left; border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #9048D8">
+<tr>
+<td style="text-align:left"> <big><big><b>Mach Bike</b></big></big><br /><small><b><span class="explain" title="Mahha Jitensha">マッハじてんしゃ</span></b> <i>Mach Bicycle</i></small>
+</td></tr></table>
+</td>
+<td> &#160;
+</td>
+<td style="float:right; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8">
+<table style="float:right; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8">
+<tr>
+<td width="24px" style="border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8; width: 24px">
+<table style="margin:auto; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #A058E8; border: 1px solid #7838C0; width: 24px;">
+<tr>
+<td width="24px" style="border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #7838C0; width: 24px"> <a href="/wiki/File:Bag_Key_items_pocket_icon.png" class="image"><img alt="Bag Key items pocket icon.png" src="//cdn.bulbagarden.net/upload/9/99/Bag_Key_items_pocket_icon.png" width="24" height="24" /></a>
+</td></tr></table>
+</td>
+<td style="text-align:center"> <b>KEY ITEMS</b><br /><small>pocket</small>
+</td></tr></table>
+</td></tr></table>
+</td>
+<td colspan="2">
+<table style="float:left; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; -khtml-border-radius: 6px; -icab-border-radius: 6px; -o-border-radius: 6px; background: #9048D8">
+<tr>
+<td style="text-align:center"> <b><small>INTRODUCED IN</small></b><br />
+<p><big><big><b>GEN III</b></big></big>
+</p>
+</td></tr></table>
+</td>
+<td>
+<table style="float:right; border-radius: 24px; -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; -icab-border-radius: 24px; -o-border-radius: 24px; background: #9048D8">
+
+<tr>
+<td style="text-align:right"> <small><b>Cannot be bought</b>   </small>
+</td></tr>
+<tr>
+<td style="text-align:right"> <small><b>Cannot be sold</b>   </small>
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="5" rowspan="1" style="border: 2px solid #7838C0; background: #FFF; vertical-align:top">
+<table class="roundy" style="background: #FFF; width: 100%">
+
+<tr>
+<td width="40px" style="vertical-align:top"> <b>Effect:</b>
+</td>
+<td> Use to move much faster than walking, running, or the Acro Bike (16 steps per second in <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>). Can be used to ride on <a href="/wiki/Cycling_Road" class="mw-disambig" title="Cycling Road">Cycling Roads</a>.
+</td></tr></table>
+</td>
+<td class="roundy" colspan="3" rowspan="3" style="vertical-align:top; border: 2px solid #7838C0; background: #FFF">
+<table class="roundy" style="vertical-align:top; background: #FFF; width: 100%; border-collapse:collapse">
+
+<tr style="text-align:center">
+<td colspan="3"> <b>Locations</b>
+</td></tr>
+
+
+
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions"><span style="color:#A00000;">R</span><span style="color:#0000A0;">S</span></a><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> <a href="/wiki/Rydel%27s_Cycles" title="Rydel's Cycles">Rydel's Cycles</a> (choice between this and the Acro Bike, can switch at any time by returning the other bike)
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr style="vertical-align:top">
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#194166;">AS</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> <a href="/wiki/Rydel%27s_Cycles" title="Rydel's Cycles">Rydel's Cycles</a> (choice between this and the Acro Bike, can switch at any time by returning the other bike; both can be obtained after speaking to a <a href="/wiki/Hex_Maniac_(Trainer_class)" title="Hex Maniac (Trainer class)">Hex Maniac</a> in <a href="/wiki/Hoenn_Route_111" title="Hoenn Route 111">Route 111</a>'s desert, a <a href="/wiki/Bird_Keeper_(Trainer_class)" title="Bird Keeper (Trainer class)">Bird Keeper</a> on <a href="/wiki/Hoenn_Route_119" title="Hoenn Route 119">Route 119</a>, and a <a href="/wiki/Triathlete_(Trainer_class)" title="Triathlete (Trainer class)">Triathlete</a> at the <a href="/wiki/Battle_Resort" title="Battle Resort">Battle Resort</a>)
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="5" style="border: 2px solid #7838C0; background: #FFF">
+<table class="roundy" style="background: #FFF; width: 100%">
+
+<tr style="vertical-align:top">
+<td width="115px"> <b>Secondary effect:</b>
+</td>
+<td> Can be used to climb <a href="/wiki/Bike_obstacles#Muddy_slopes" title="Bike obstacles">muddy slopes</a> and crossed <a href="/wiki/Hole#Generation_III" title="Hole">cracked tiles</a> with enough momentum. Can be used to record a time on the <a href="/wiki/Seaside_Cycling_Road" title="Seaside Cycling Road">Seaside Cycling Road</a>.
+</td></tr></table>
+</td></tr>
+<tr>
+<td class="roundy" colspan="5" style="vertical-align:top; border: 2px solid #7838C0; background: #FFF">
+<table class="roundy" style="vertical-align:top; background: #FFF; width: 100%; border-collapse:collapse">
+
+<tr style="vertical-align:top; text-align:center">
+<td colspan="2"> <b>Description</b>
+</td></tr>
+
+
+
+
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions"><span style="color:#A00000;">R</span><span style="color:#0000A0;">S</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding bicycle that doubles your speed or better.
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version"><span style="color:#00A000;">E</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding bicycle that more than doubles foot speed.
+</td></tr>
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions" title="Pokémon FireRed and LeafGreen Versions"><span style="color:#FF7327;">FR</span><span style="color:#00DD00;">LG</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> A folding bicycle that is at least twice as fast as walking.
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire"><span style="color:#AB2813;">OR</span><span style="color:#194166;">AS</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> This folding Bike more than doubles your movement speed.
+</td></tr>
+
+<tr>
+<td style="border-top: 1px solid #7838C0" width="40px"> <b><a href="/wiki/Pok%C3%A9mon_Sun_and_Moon" title="Pokémon Sun and Moon"><span style="color:#F1912B">S</span><span style="color:#5599CA">M</span></a></b>
+</td>
+<td style="border-top: 1px solid #7838C0"> This folding Bike more than doubles your movement speed.
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+</table>
+</td></tr>
+
+
+
+</table>
+<h4><span class="mw-headline" id="Gallery">Gallery</span></h4>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:17.5px auto;"><a href="/wiki/File:RG_Bicycle.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/4c/RG_Bicycle.png/120px-RG_Bicycle.png" width="120" height="115" srcset="//cdn.bulbagarden.net/upload/thumb/4/4c/RG_Bicycle.png/180px-RG_Bicycle.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/4c/RG_Bicycle.png/240px-RG_Bicycle.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Artwork of the original Bicycle from <a href="/wiki/Pok%C3%A9mon_Red_and_Green_Versions" title="Pokémon Red and Green Versions">Pokémon Red and Green</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Acro_Bike.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/7/74/Acro_Bike.png/120px-Acro_Bike.png" width="120" height="120" srcset="//cdn.bulbagarden.net/upload/thumb/7/74/Acro_Bike.png/180px-Acro_Bike.png 1.5x, //cdn.bulbagarden.net/upload/7/74/Acro_Bike.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Artwork of the Acro Bike from <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Ruby, Sapphire</a>, and <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Emerald</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:18.5px auto;"><a href="/wiki/File:Mach_Bike.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/8/86/Mach_Bike.png/120px-Mach_Bike.png" width="120" height="113" srcset="//cdn.bulbagarden.net/upload/thumb/8/86/Mach_Bike.png/180px-Mach_Bike.png 1.5x, //cdn.bulbagarden.net/upload/8/86/Mach_Bike.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Artwork of the Mach Bike from <a href="/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions" title="Pokémon Ruby and Sapphire Versions">Ruby, Sapphire</a>, and <a href="/wiki/Pok%C3%A9mon_Emerald_Version" title="Pokémon Emerald Version">Emerald</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="In_the_anime">In the anime</span></h2>
+<h3><span class="mw-headline" id="In_the_main_series">In the main series</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dawn_bike.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/9/95/Dawn_bike.png/220px-Dawn_bike.png" width="220" height="165" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/9/95/Dawn_bike.png/330px-Dawn_bike.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/95/Dawn_bike.png/440px-Dawn_bike.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dawn_bike.png" class="internal" title="Enlarge"></a></div>Dawn's bike before it was destroyed</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:DP_Bicycle.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/49/DP_Bicycle.png/220px-DP_Bicycle.png" width="220" height="165" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/4/49/DP_Bicycle.png/330px-DP_Bicycle.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/49/DP_Bicycle.png/440px-DP_Bicycle.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:DP_Bicycle.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a>, <a href="/wiki/Dawn_(anime)" title="Dawn (anime)">Dawn</a>, and <a href="/wiki/Brock_(anime)" title="Brock (anime)">Brock</a> riding rented bikes</div></div></div>
+<p>Bicycles are rarely seen in the <a href="/wiki/Pok%C3%A9mon_anime" title="Pokémon anime">anime</a> as <a href="/wiki/Ash_Ketchum" title="Ash Ketchum">Ash</a> and <a href="/wiki/Ash%27s_friends" title="Ash's friends">his friends</a> are usually seen walking. The only time bicycles are used is when it is necessary to use them, such as on <a href="/wiki/Cycling_Road" class="mw-disambig" title="Cycling Road">Cycling Roads</a>, or for a faster way to get somewhere.
+</p><p>The first bicycle to appear was <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a>'s bicycle in <i><a href="/wiki/EP001" title="EP001">Pokémon - I Choose You!</a></i>. It was "borrowed" by Ash in order to escape from a flock of <a href="/wiki/Spearow_(Pok%C3%A9mon)" title="Spearow (Pokémon)">Spearow</a>. The bike was then unintentionally destroyed when <a href="/wiki/Ash%27s_Pikachu" title="Ash's Pikachu">Ash's Pikachu</a> released a <a href="/wiki/Thunder_Shock_(move)" title="Thunder Shock (move)">Thunder Shock</a> at the Spearow. Misty later re-obtained her bike from Nurse Joy in Viridian City in <i><a href="/wiki/EP273" title="EP273">Gotta Catch Ya Later</a></i>.
+</p><p>The act of Pikachu destroying a female companion's bike became a <a href="https://en.wikipedia.org/wiki/running_gag" class="extiw" title="wp:running gag">running gag</a> in the two following <a href="/wiki/Series" title="Series">series</a> of the anime: <a href="/wiki/May_(anime)" title="May (anime)">May</a>'s bicycle was destroyed in <i><a href="/wiki/AG001" title="AG001">Get the Show on the Road!</a></i> and <a href="/wiki/Dawn_(anime)" title="Dawn (anime)">Dawn</a>'s in <i><a href="/wiki/DP002" title="DP002">Two Degrees of Separation</a></i>.
+</p><p>Bicycles can be rented for use on Cycling Roads, as seen in <i><a href="/wiki/EP036" title="EP036">The Bridge Bike Gang</a></i> and <i><a href="/wiki/DP038" title="DP038">One Big Happiny Family!</a></i>. Some characters do own bicycles, but are rarely seen using them. For example, <a href="/wiki/Professor_Oak_(anime)" title="Professor Oak (anime)">Professor Oak</a> used a bicycle in <i><a href="/wiki/M02" title="M02">The Power Of One</a></i> to get to <a href="/wiki/Delia_Ketchum" title="Delia Ketchum">Delia</a>'s house.
+</p><p><a href="/wiki/Barry_(anime)" title="Barry (anime)">Barry</a> was shown to have a bike in <i><a href="/wiki/DP157" title="DP157">Gotta Get a Gible!</a></i>. He said he got it in <a href="/wiki/Eterna_City" title="Eterna City">Eterna City</a> as part of a free bicycle distribution event. The bike was eventually devoured by a <a href="/wiki/Wild_Pok%C3%A9mon" title="Wild Pokémon">wild</a> <a href="/wiki/Ash%27s_Gible" title="Ash's Gible">Gible</a>.
+</p><p>In <i><a href="/wiki/EP036" title="EP036">The Bridge Bike Gang</a></i>, <a href="/wiki/Chopper" title="Chopper">Chopper</a>'s bike bears a resemblance to <a href="/wiki/Zapdos_(Pok%C3%A9mon)" title="Zapdos (Pokémon)">Zapdos</a>.
+</p><p><a href="/wiki/Mallow_(anime)" title="Mallow (anime)">Mallow</a>'s bike appeared in <i><a href="/wiki/SM008" title="SM008">Lillie's Egg-xhilarating Challenge!</a></i>.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Misty_Burnt_Bike.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/9/90/Misty_Burnt_Bike.png/120px-Misty_Burnt_Bike.png" width="120" height="90" srcset="//cdn.bulbagarden.net/upload/thumb/9/90/Misty_Burnt_Bike.png/180px-Misty_Burnt_Bike.png 1.5x, //cdn.bulbagarden.net/upload/thumb/9/90/Misty_Burnt_Bike.png/240px-Misty_Burnt_Bike.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a>'s destroyed bicycle
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:May_bike_destroyed.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/d/d3/May_bike_destroyed.png/120px-May_bike_destroyed.png" width="120" height="90" srcset="//cdn.bulbagarden.net/upload/thumb/d/d3/May_bike_destroyed.png/180px-May_bike_destroyed.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d3/May_bike_destroyed.png/240px-May_bike_destroyed.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/May_(anime)" title="May (anime)">May</a>'s destroyed bicycle
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Dawn_bike_destroyed.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/43/Dawn_bike_destroyed.png/120px-Dawn_bike_destroyed.png" width="120" height="90" srcset="//cdn.bulbagarden.net/upload/thumb/4/43/Dawn_bike_destroyed.png/180px-Dawn_bike_destroyed.png 1.5x, //cdn.bulbagarden.net/upload/thumb/4/43/Dawn_bike_destroyed.png/240px-Dawn_bike_destroyed.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Dawn_(anime)" title="Dawn (anime)">Dawn</a>'s destroyed bicycle
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span class="mw-headline" id="In_Pok.C3.A9mon_Origins">In Pokémon Origins</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Red_Bicycle_PO.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/d/d6/Red_Bicycle_PO.png/220px-Red_Bicycle_PO.png" width="220" height="124" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/d/d6/Red_Bicycle_PO.png/330px-Red_Bicycle_PO.png 1.5x, //cdn.bulbagarden.net/upload/thumb/d/d6/Red_Bicycle_PO.png/440px-Red_Bicycle_PO.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Red_Bicycle_PO.png" class="internal" title="Enlarge"></a></div>Red's bicycle in Pokémon Origins</div></div></div>
+<p><a href="/wiki/Red_(Origins)" title="Red (Origins)">Red</a> commonly used a bicycle to move around in <a href="/wiki/Pok%C3%A9mon_Origins" title="Pokémon Origins">Pokémon Origins</a>. He was seen obtaining it at the beginning of <i><a href="/wiki/PO02" title="PO02">File 2: Cubone</a></i>, getting it in return for a <a href="/wiki/Bike_Voucher" title="Bike Voucher">Bike Voucher</a> he had obtained from the <a href="/wiki/Pok%C3%A9mon_Fan_Club_Chairman" title="Pokémon Fan Club Chairman">Pokémon Fan Club Chairman</a>.
+<br clear="all" />
+</p>
+<h2><span class="mw-headline" id="In_the_manga">In the manga</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Bicycle_Zensho.png" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/4/49/Bicycle_Zensho.png/200px-Bicycle_Zensho.png" width="200" height="303" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/4/49/Bicycle_Zensho.png/300px-Bicycle_Zensho.png 1.5x, //cdn.bulbagarden.net/upload/4/49/Bicycle_Zensho.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bicycle_Zensho.png" class="internal" title="Enlarge"></a></div>A Bicycle in Pokémon Zensho</div></div></div>
+<h3><span class="mw-headline" id="In_The_Electric_Tale_of_Pikachu_manga">In The Electric Tale of Pikachu manga</span></h3>
+<p>In <i><a href="/wiki/ET02" title="ET02">Play Misty For Me</a></i> of <a href="/wiki/The_Electric_Tale_of_Pikachu" title="The Electric Tale of Pikachu">The Electric Tale of Pikachu</a>, it was revealed that <a href="/wiki/Misty_(anime)" title="Misty (anime)">Misty</a>'s Bicycle was custom built and worth <a href="/wiki/Pok%C3%A9mon_Dollar" title="Pokémon Dollar"><img alt="PokémonDollar.png" src="//cdn.bulbagarden.net/upload/8/8c/Pok%C3%A9monDollar.png" width="7" height="14" /></a>10,000.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Adventures_manga">In the Pokémon Adventures manga</span></h3>
+<p><a href="/wiki/Professor_Oak_(Adventures)" title="Professor Oak (Adventures)">Professor Oak</a> uses a bicycle to catch the escaped Pokémon in <i><a href="/wiki/PS002" title="PS002">Bulbasaur Come Home!</a></i>.
+<a href="/wiki/Red_(Adventures)" title="Red (Adventures)">Red</a> participates in a cycling competition along <a href="/wiki/Route" title="Route">Routes</a> <a href="/wiki/Kanto_Route_11" title="Kanto Route 11">11</a> and <a href="/wiki/Kanto_Route_12" title="Kanto Route 12">12</a> in <i><a href="/wiki/PS012" title="PS012">Wake Up—You're Snorlax!</a></i>.
+</p><p><a href="/wiki/Gold_(Adventures)" title="Gold (Adventures)">Gold</a> competes with <a href="/wiki/Whitney" title="Whitney">Whitney</a> in a bike race from <a href="/wiki/Goldenrod_City" title="Goldenrod City">Goldenrod City</a> to the <a href="/wiki/National_Park" title="National Park">National Park</a> in <i><a href="/wiki/PS105" title="PS105">Smeargle Smudge</a></i> and <i><a href="/wiki/PS106" title="PS106">How Do You Do, Sudowoodo?</a></i>. Gold, however, altered his Bicycle into a push scooter.
+</p><p>In <i><a href="/wiki/PS241" title="PS241">Dreadful Dealing with Dusclops</a></i>, <a href="/wiki/Wally_(Adventures)" title="Wally (Adventures)">Wally</a> uses a Mach Bike that he finds at the base of the <a href="/wiki/Sky_Pillar" title="Sky Pillar">Sky Pillar</a> to ride quickly over the cracked floors in order to scale up the tower.
+</p><p><a href="/wiki/Diamond_(Adventures)" title="Diamond (Adventures)">Diamond</a>, <a href="/wiki/Pearl_(Adventures)" title="Pearl (Adventures)">Pearl</a> and <a href="/wiki/Platinum_(Adventures)" title="Platinum (Adventures)">Platinum</a> received Bicycles from <a href="/wiki/Rad_Rickshaw" title="Rad Rickshaw">Rad Rickshaw</a> as a sign of gratitude after his rescue from <a href="/wiki/Team_Galactic" title="Team Galactic">Team Galactic</a> in <i><a href="/wiki/PS347" title="PS347">Ring Around the Roserade II</a></i>. The trio would later use their new Bicycles to travel through the <a href="/wiki/Sinnoh_Route_206" title="Sinnoh Route 206">Cycling Road</a>.
+</p>
+<h3><span class="mw-headline" id="In_the_Pok.C3.A9mon_Zensho_manga">In the Pokémon Zensho manga</span></h3>
+<p>A Bicycle was seen inside the <a href="/wiki/Miracle_Cycle" title="Miracle Cycle">Miracle Cycle</a> shop in <i><a href="/wiki/PZ03" title="PZ03">Cerulean City</a></i>.
+<br clear="all" />
+</p>
+<h2><span class="mw-headline" id="In_the_TCG">In the TCG</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:BicyclePlasmaStorm117.jpg" class="image"><img alt="" src="//cdn.bulbagarden.net/upload/thumb/9/97/BicyclePlasmaStorm117.jpg/200px-BicyclePlasmaStorm117.jpg" width="200" height="278" class="thumbimage" srcset="//cdn.bulbagarden.net/upload/thumb/9/97/BicyclePlasmaStorm117.jpg/300px-BicyclePlasmaStorm117.jpg 1.5x, //cdn.bulbagarden.net/upload/9/97/BicyclePlasmaStorm117.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:BicyclePlasmaStorm117.jpg" class="internal" title="Enlarge"></a></div>Bicycle</div></div></div>
+<dl><dd><i>Main article: <a href="/wiki/Bicycle_(Plasma_Storm_117)" title="Bicycle (Plasma Storm 117)">Bicycle (Plasma Storm 117)</a></i></dd></dl>
+<p>The <b>Bicycle</b> was introduced as an <a href="/wiki/Item_card_(TCG)" title="Item card (TCG)">Item card</a> in the <a href="/wiki/Pok%C3%A9mon_Trading_Card_Game" title="Pokémon Trading Card Game">Pokémon Trading Card Game</a> during the English Black &amp; White Series (the Japanese BW Era). First released in the <a href="/wiki/Cold_Flare_(TCG)" class="mw-redirect" title="Cold Flare (TCG)">Cold Flare</a> expansion, the Bicycle later debuted in the <a href="/wiki/Plasma_Storm_(TCG)" title="Plasma Storm (TCG)">Plasma Storm</a> expansion with both prints featuring an illustration by <a href="/wiki/Toyste_Beach" title="Toyste Beach">Toyste Beach</a>. With the same effect as <a href="/wiki/Mail_from_Bill_(Neo_Destiny_105)" title="Mail from Bill (Neo Destiny 105)">Mail from Bill</a> from the <a href="/wiki/Neo_Destiny_(TCG)" title="Neo Destiny (TCG)">Neo Destiny</a> expansion, this <a href="/wiki/Trainer_card_(TCG)" title="Trainer card (TCG)">Trainer card</a> allows the player to draw cards until they have 4 cards in their hand.
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span></h2>
+<ul><li> In the <a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_beta" title="Pokémon Gold and Silver beta">beta version</a> of <a href="/wiki/Pok%C3%A9mon_Gold_and_Silver_Versions" title="Pokémon Gold and Silver Versions">Gold and Silver</a>, a skateboard was planned to complement the Bicycle.</li>
+<li> In <a href="/wiki/Generation_IV" title="Generation IV">Generation IV</a>, in <a href="/wiki/Rad_Rickshaw%27s_Cycle_Shop" title="Rad Rickshaw's Cycle Shop">Rad Rickshaw's Cycle Shop</a> there are advertisements on the shelves for the Mach and Acro Bikes.</li>
+<li> The song <i><a href="/wiki/Pok%C3%A9mon_HeartGold_%26_Pok%C3%A9mon_SoulSilver:_Super_Music_Collection" title="Pokémon HeartGold &amp; Pokémon SoulSilver: Super Music Collection">Bicycle</a></i> (Japanese: <span class="explain" title="Jitensha">じてんしゃ</span>) from <a href="/wiki/Generation_II" title="Generation II">Generation II</a> and <a href="/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions" title="Pokémon HeartGold and SoulSilver Versions">HeartGold and SoulSilver</a> is a remix of the song <i><a href="/wiki/Pok%C3%A9mon_HeartGold_%26_Pok%C3%A9mon_SoulSilver:_Super_Music_Collection" title="Pokémon HeartGold &amp; Pokémon SoulSilver: Super Music Collection">Goldenrod City</a></i> (Japanese: <span class="explain" title="Kogane Shiti">コガネシティ</span>). Furthermore, the song <i><a href="/wiki/Pok%C3%A9mon_HeartGold_%26_Pok%C3%A9mon_SoulSilver:_Super_Music_Collection" title="Pokémon HeartGold &amp; Pokémon SoulSilver: Super Music Collection">Bug-Catching Contest</a></i> (Japanese: <span class="explain" title="Neshitori Taikai">むしとりたいかい</span>) from these games remixes parts of the song <i><a href="/wiki/Game_Boy:_Entire_Pok%C3%A9mon_Sounds_Collection_CD" title="Game Boy: Entire Pokémon Sounds Collection CD">Cycling</a></i> (Japanese: <span class="explain" title="Saikuringu">サイクリング</span>) from <a href="/wiki/Generation_I" title="Generation I">Generation I</a>.</li>
+<li> In <a href="/wiki/Generation_V" title="Generation V">Generation V</a>, if the player runs or holds down the B Button, <a href="/wiki/Non-player_character" title="Non-player character">NPCs</a> with bicycles will go faster.</li>
+<li> In <a href="/wiki/Generation_VI" title="Generation VI">Generation VI</a>, the light of the bicycle is turned on at <a href="/wiki/Night" class="mw-redirect" title="Night">night</a>, but not in <a href="/wiki/Cave" title="Cave">caves</a>.</li>
+<li> In the Safari Zone located in Hoenn, certain areas require either the Mach Bike or Acro Bike.</li>
+<li> In <a href="/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire" title="Pokémon Omega Ruby and Alpha Sapphire">Pokémon Omega Ruby and Alpha Sapphire</a>, the bells on the different bikes have notably different sounds.</li></ul>
+<h2><span class="mw-headline" id="In_other_languages">In other languages</span></h2>
+<table style="background: #A058E8; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #9048D8; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #A058E8; border-collapse:collapse">
+
+<tr style="background: #A058E8">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Denmark_Flag.png" class="image"><img alt="Denmark Flag.png" src="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/20px-Denmark_Flag.png" width="20" height="15" srcset="//cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/30px-Denmark_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/1/1d/Denmark_Flag.png/40px-Denmark_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Denmark" title="Pokémon in Denmark">Danish</a>
+</td>
+<td> Cykel
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Finland_Flag.png" class="image"><img alt="Finland Flag.png" src="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/20px-Finland_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/30px-Finland_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/a/a6/Finland_Flag.png/40px-Finland_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Finland" title="Pokémon in Finland">Finnish</a>
+</td>
+<td> Polkupyörä
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Bicyclette
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Fahrrad
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Bicicletta
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 자전거 <i>Jajeon-geo</i>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazilian Portuguese</a>
+</td>
+<td> Bicicleta
+</td></tr>
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Bici<br />Bicicleta<span class="explain" title="Generations I-III">*</span>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Cykel
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Vietnam_Flag.png" class="image"><img alt="Vietnam Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/20px-Vietnam_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/30px-Vietnam_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Vietnam_Flag.png/40px-Vietnam_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Vietnam" title="Pokémon in Vietnam">Vietnamese</a>
+</td>
+<td> Xe đạp
+</td></tr>
+<tr>
+<td colspan="3" style="background: #A058E8">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+<table>
+
+<tr style="vertical-align:top">
+<td>
+<p><i>Acro Bike</i>
+</p>
+<table style="background: #A058E8; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #A00000; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #A058E8; border-collapse:collapse">
+
+<tr style="background: #A058E8">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Vélo Cross
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Kunstrad
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Bici Cross
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 더트자전거 <i>Dirt Jajeon-geo</i>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Brazil_Flag.png" class="image"><img alt="Brazil Flag.png" src="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/20px-Brazil_Flag.png" width="20" height="14" srcset="//cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/30px-Brazil_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/0/07/Brazil_Flag.png/40px-Brazil_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Brazil" title="Pokémon in Brazil">Brazilian Portuguese</a>
+</td>
+<td> Bicicleta Acro
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Russia_Flag.png" class="image"><img alt="Russia Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/20px-Russia_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/30px-Russia_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/ec/Russia_Flag.png/40px-Russia_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Russia" title="Pokémon in Russia">Russian</a>
+</td>
+<td> Горный Велосипед <i>Gornyy Velisoped</i>
+</td></tr>
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Bici Acrobática
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Acro-cykel
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="background: #A058E8">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+</td>
+<td>
+<p><i>Mach Bike</i>
+</p>
+<table style="background: #A058E8; border-radius: 1em; -moz-border-radius: 1em; -webkit-border-radius: 1em; -khtml-border-radius: 1em; -icab-border-radius: 1em; -o-border-radius: 1em; border: 3px solid #0000A0; float:left">
+
+<tr>
+<td>
+<table border="1" width="100%" style="background: #FFF; border:1px solid #A058E8; border-collapse:collapse">
+
+<tr style="background: #A058E8">
+<th colspan="2"> <span style="color:#000;">Language</span>
+</th>
+<th> <span style="color:#000;">Title</span>
+</th></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:France_Flag.png" class="image"><img alt="France Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/20px-France_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/30px-France_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/57/France_Flag.png/40px-France_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_French" class="mw-disambig" title="Pokémon in French">French</a>
+</td>
+<td> Vélo Course
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Germany_Flag.png" class="image"><img alt="Germany Flag.png" src="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/20px-Germany_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/30px-Germany_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/5/52/Germany_Flag.png/40px-Germany_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Germany" title="Pokémon in Germany">German</a>
+</td>
+<td> Eilrad
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Italy_Flag.png" class="image"><img alt="Italy Flag.png" src="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/20px-Italy_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/30px-Italy_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/7/7a/Italy_Flag.png/40px-Italy_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Italy" title="Pokémon in Italy">Italian</a>
+</td>
+<td> Bici Corsa
+</td></tr>
+<tr>
+<td colspan="2"> <a href="/wiki/File:South_Korea_Flag.png" class="image"><img alt="South Korea Flag.png" src="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/20px-South_Korea_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/30px-South_Korea_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/e/e7/South_Korea_Flag.png/40px-South_Korea_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_South_Korea" title="Pokémon in South Korea">Korean</a>
+</td>
+<td> 마하자전거 <i>Mach Jajeongeo</i>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Spain_Flag.png" class="image"><img alt="Spain Flag.png" src="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/20px-Spain_Flag.png" width="20" height="13" srcset="//cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/30px-Spain_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/8/89/Spain_Flag.png/40px-Spain_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Spanish" class="mw-disambig" title="Pokémon in Spanish">Spanish</a>
+</td>
+<td> Bici de Carreras<br />Bici Carrera<span class="explain" title="Generation III">*</span>
+</td></tr>
+
+<tr>
+<td colspan="2"> <a href="/wiki/File:Sweden_Flag.png" class="image"><img alt="Sweden Flag.png" src="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/20px-Sweden_Flag.png" width="20" height="12" srcset="//cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/30px-Sweden_Flag.png 1.5x, //cdn.bulbagarden.net/upload/thumb/f/fa/Sweden_Flag.png/40px-Sweden_Flag.png 2x" /></a> <a href="/wiki/Pok%C3%A9mon_in_Sweden" title="Pokémon in Sweden">Swedish</a>
+</td>
+<td> Mach-cykel
+</td></tr>
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" style="background: #A058E8">
+</td></tr></table>
+</td></tr></table><br clear="left" />
+</td></tr></table>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li> <a href="/wiki/List_of_Key_Items_in_Generation_I" title="List of Key Items in Generation I">List of Key Items in Generation I</a></li>
+<li> <a href="/wiki/List_of_Key_Items_in_Generation_II" title="List of Key Items in Generation II">List of Key Items in Generation II</a></li>
+<li> <a href="/wiki/List_of_Key_Items_in_Generation_III" title="List of Key Items in Generation III">List of Key Items in Generation III</a></li>
+<li> <a href="/wiki/List_of_Key_Items_in_Generation_IV" title="List of Key Items in Generation IV">List of Key Items in Generation IV</a></li>
+<li> <a href="/wiki/List_of_Key_Items_in_Generation_V" title="List of Key Items in Generation V">List of Key Items in Generation V</a></li>
+<li> <a href="/wiki/List_of_Key_Items_in_Generation_VI" title="List of Key Items in Generation VI">List of Key Items in Generation VI</a></li></ul>
+<p><br clear="all" />
+</p>
+<table align="center" style="background: #FAFFF4; border: 2px solid #8888AA; width: 100%; border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px;">
+
+<tr>
+<td width="60px" style="border-radius: 80px; -moz-border-radius: 80px; -webkit-border-radius: 80px; -khtml-border-radius: 80px; -icab-border-radius: 80px; -o-border-radius: 80px; background: #FFFFFF;"> <a href="/wiki/File:Project_ItemDex_logo.png" class="image"><img alt="Project ItemDex logo.png" src="//cdn.bulbagarden.net/upload/6/60/Project_ItemDex_logo.png" width="80" height="80" /></a>
+</td>
+<td> This item article is part of <b><a href="/wiki/Bulbapedia:Project_ItemDex" title="Bulbapedia:Project ItemDex">Project ItemDex</a></b>, a <a href="/wiki/Bulbapedia:Projects" title="Bulbapedia:Projects">Bulbapedia project</a> that aims to write comprehensive articles on all <a href="/wiki/Item" title="Item">items</a>.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180130223042
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.380 seconds
+Real time usage: 1.003 seconds
+Preprocessor visited node count: 4788/1000000
+Preprocessor generated node count: 19956/1000000
+Post‐expand include size: 78763/2097152 bytes
+Template argument size: 15882/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  697.968      1 -total
+ 56.89%  397.106      3 Template:Item
+ 19.07%  133.104     60 Template:Color
+  7.97%   55.596      3 Template:Langtable
+  7.39%   51.574     10 Template:Gameabbrev3
+  7.31%   50.999      4 Template:Gameabbrev4
+  5.49%   38.309      3 Template:Gameabbrev5
+  5.40%   37.671      7 Template:Gameabbrev6
+  4.85%   33.838      1 Template:Gameabbrev1
+  3.78%   26.403     10 Template:Color2
+-->
+
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:9212-0!*!0!!en!5!* and timestamp 20180130223041 and revision id 2726391
+ -->
+</div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=Bicycle&amp;oldid=2726391">https://bulbapedia.bulbagarden.net/w/index.php?title=Bicycle&amp;oldid=2726391</a>"</div>
+<div class="visualClear"></div>
+<!-- Taboola Start -->
+<!-- Taboola End -->
+<!-- Advert Bottom Start -->
+<div id="bottomframe">
+
+
+<div style="display:flex;">
+    <div style="padding-right:15px;">
+        <div id="div-gpt-ad-1498167603841-5"></div>
+    </div>
+    <div style="height:250px;width:300px;padding:15px;">
+        <a href="https://www.releases.com" rel="nofollow"><img width="100" style="padding-bottom:15px;" src="https://ahost.bulbagarden.net/content/releases-logo-sml.png" /></a>
+        <div style="display:flex;flex-direction:column">
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-switch/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemonswitch.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:51px;left:75px;font-weight:bold">Pokemon Switch</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/pokemon-the-movie-i-choose-you/"><div style="position:relative;padding-bottom:13px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/pokemovie.png" /><img style="position:absolute;bottom:13px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:60px;left:75px;font-weight:bold">Pokémon The Movie</div></div></a>
+            <a style="color:black;" target="_blank" rel="nofollow" href="https://www.releases.com/p/mega-man-legacy-collection/switch"><div style="position:relative;padding-bottom:5px;padding-left: 10px;"><img width="50" src="https://ahost.bulbagarden.net/content/megaman.jpg" /><img style="position:absolute;bottom:5px;left:75px;" width="100" src="https://ahost.bulbagarden.net/content/releasestrack.png" /><div style="position:absolute;bottom:50px;left:75px;font-weight:bold">Megaman Legacy Collection</div></div></a>
+        </div>
+    </div>
+    <div id="bfdc" style="height:250px;width:400px;padding:15px;">
+        
+        
+    </div>
+</div></div>
+<!-- Advert Bottom End -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Equipment" title="Category:Equipment">Equipment</a></li><li><a href="/wiki/Category:Key_Items" title="Category:Key Items">Key Items</a></li><li><a href="/wiki/Category:Anime_running_gags" title="Category:Anime running gags">Anime running gags</a></li></ul></div></div>					<div id="bottomframelower">
+										</div>
+
+					<!-- end content -->
+										<div class="visualClear"></div>
+				</div>
+</div>
+<!-- Advert Right Start -->
+
+<script>
+    function findInsertionPoint(goal) {
+        var innerContent = document.getElementById('mw-content-text');
+        var currentValue = 0;
+        var bestValue = goal - innerContent.children[0].offsetTop;
+        var insertionPoint = document.getElementById('bottomframe');
+        for (i = 0; i < innerContent.childElementCount; i++) {
+            if (innerContent.children[i].offsetHeight != null) {
+                currentValue = Math.abs(goal - innerContent.children[i].offsetTop);
+                //console.log("hh " + currentValue);
+                if (currentValue <= bestValue) {
+                    if (innerContent.children[i].nodeName != 'DIV') {
+                        insertionPoint = innerContent.children[i];
+                        //console.log('new best ' + insertionPoint);
+                        bestValue = currentValue;
+                    }
+
+                }
+
+            }
+        }
+        return insertionPoint;
+    }
+
+    //function showOutstreamAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('slidein');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded' && !isMobileOrTablet()) {
+    //            if (isScrolledIntoView(bannerElement)) {
+    //                var seenOutstreamCookie = getCookie('seenoutstream');
+    //                if (seenOutstreamCookie != 'true') {
+
+    //                    bannerElement.className = 'ad-loaded';
+
+    //                    (function () {
+    //                        var playerContainerId = '';
+    //                        var playerId = '';
+    //                        var playerWidth = '480';
+    //                        var playerHeight = '270';
+    //                        var playInitiation = 'auto';
+    //                        var volume = '0';
+    //                        var execution = 'outstream';
+    //                        var placement = 'slider';
+    //                        var support = '';
+    //                        var render = '';
+    //                        var controls = '';
+    //                        var tracki = '';
+    //                        var trackc = '';
+    //                        var custom1 = '';
+    //                        var custom2 = '';
+    //                        var custom3 = '';
+    //                        var pubMacros = '';
+
+    //                        var lkqdVPAID;
+    //                        var lkqdId = new Date().getTime().toString() + Math.round(Math.random() * 1000000000).toString();
+    //                        var creativeData = '';
+    //                        var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    //                        function onVPAIDLoad() {
+    //                            lkqdVPAID.subscribe(function () { lkqdVPAID.startAd(); }, 'AdLoaded');
+    //                        }
+
+    //                        var vpaidFrame = document.createElement('iframe');
+    //                        vpaidFrame.id = lkqdId;
+    //                        vpaidFrame.name = lkqdId;
+    //                        vpaidFrame.style.display = 'none';
+    //                        var vpaidFrameLoaded = function () {
+    //                            vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+    //                            vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=314&sid=110770&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+    //                            vpaidLoader.onload = function () {
+    //                                lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+    //                                onVPAIDLoad();
+    //                                lkqdVPAID.handshakeVersion('2.0');
+    //                                lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+    //                            };
+    //                            vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    //                        };
+    //                        vpaidFrame.onload = vpaidFrameLoaded;
+    //                        vpaidFrame.onerror = vpaidFrameLoaded;
+    //                        document.documentElement.appendChild(vpaidFrame);
+    //                    })();
+
+    //                    setCookie('seenoutstream', 'true', 1);
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showSortableAdWhenScrolled(adId) {
+    //    var bannerElement = document.querySelector('[data-ad-name=' + adId + ']');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (adId == 'mec_rec_5' || adId == 'mec_rec_6' || adId == 'mec_rec_7') {
+    //                bannerElement.className = 'ad-tag s-article-ad';
+    //                (deployads = window.deployads || []).push({});
+    //            }
+    //            else if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('show widesky ' + adId +  + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                    (deployads = window.deployads || []).push({});
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showInsticatorAdWhenScrolled(adId) {
+    //    var bannerElement = document.getElementById(adId);
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-tag s-article-ad') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    bannerElement.className = 'ad-tag s-article-ad';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+    //function showKixerAdWhenScrolled() {
+    //    var bannerElement = document.getElementById('scrollad2');
+    //    if (bannerElement != null) {
+    //        if (bannerElement.className != 'ad-loaded') {
+    //            if (bannerElement.getBoundingClientRect().top + window.pageYOffset < document.getElementById("bodyContent").offsetHeight) {
+    //                if (isScrolledIntoView(bannerElement)) {
+    //                    //console.log('loading sidekixer pos' + bannerElement.getBoundingClientRect().top + window.pageYOffset + 'height ' + document.getElementById("bodyContent").offsetHeight);
+    //                    var __kx_ad_slots = __kx_ad_slots || [];
+    //                    var __kx_desktop = __kx_desktop || [];
+    //                    (function () {
+    //                        var slot = 7162;
+    //                        var h = false;
+    //                        __kx_ad_slots.push(slot);
+    //                        __kx_desktop[slot] = true;
+    //                        if (typeof __kx_ad_start == 'function') {
+    //                            __kx_ad_start();
+    //                        } else {
+    //                            var s = document.createElement('script');
+    //                            s.type = 'text/javascript';
+    //                            s.async = true;
+    //                            s.src = '//cdn.kixer.com/ad/load.js';
+    //                            s.onload = s.onreadystatechange = function () {
+    //                                if (!h && (!this.readyState || this.readyState == 'loaded' ||
+    //                                this.readyState == 'complete')) {
+    //                                    h = true;
+    //                                    s.onload = s.onreadystatechange = null;
+    //                                    __kx_ad_start();
+    //                                }
+    //                            };
+    //                            var x = document.getElementsByTagName('script')[0];
+    //                            x.parentNode.insertBefore(s, x);
+    //                        }
+    //                    })();
+    //                    bannerElement.className = 'ad-loaded';
+    //                }
+    //            }
+    //        }
+    //    }
+    //}
+
+
+    ////Ads when scrolling
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        //function scrollAdHandler(evt) {
+    //        //    var distance_from_top = document.body.scrollTop;
+    //        //    var scrollLength = 476;
+
+    //        //    if (distance_from_top < scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'absolute';
+    //        //        document.getElementById('rightcolbox').style.top = '0px';
+    //        //    }
+
+    //        //    if (distance_from_top > scrollLength) {
+    //        //        document.getElementById('rightcolbox').style.position = 'fixed';
+    //        //        document.getElementById('rightcolbox').style.top = '-276px';
+    //        //    }
+    //        //}
+
+    //        function scrollAdHandler(evt) {
+    //            if (document.getElementById('rightcolbox') == null) {
+    //                return;
+    //            }
+    //            var distance_from_top = document.body.scrollTop;
+    //            var scrollLength = 176;
+
+    //            if (distance_from_top < scrollLength) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //                //&& distance_from_top < window.innerHeight * 3
+    //            else if ((distance_from_top > scrollLength) && !((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop))) {
+    //                document.getElementById('rightcolbox').style.position = 'fixed';
+    //                document.getElementById('rightcolbox').style.top = '0px';
+    //                document.getElementById('rightcolbox').style.right = '12px';
+    //            }
+    //            else if ((document.getElementById('catlinks').offsetTop - 500) <= ((window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop)) {
+    //                document.getElementById('rightcolbox').style.position = 'absolute';
+    //                document.getElementById('rightcolbox').style.top = (document.getElementById('catlinks').offsetTop - 1121) + 'px';
+    //                document.getElementById('rightcolbox').style.right = '0px';
+    //            }
+    //            //else if (distance_from_top > window.innerHeight * 3 && distance_from_top < window.innerHeight * 5) {
+    //            //    var topPosition = (window.innerHeight * 3) - (2*276);
+    //            //    document.getElementById('rightcolbox').style.position = 'absolute';
+    //            //    document.getElementById('rightcolbox').style.top = topPosition + 'px';
+    //            //    document.getElementById('rightcolbox').style.right = '0px';
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 5 && distance_from_top < window.innerHeight * 7) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 7 && distance_from_top < window.innerHeight * 9) {
+
+    //            //}
+    //            //else if (distance_from_top > window.innerHeight * 9 && distance_from_top < window.innerHeight * 11) {
+
+    //            //}
+    //        }
+
+    //        if (location.search.split('testAdScroll=')[1] == 1) {
+    //            window.addEventListener('scroll', scrollAdTestHandler);
+    //        }
+    //        else {
+    //            window.addEventListener('scroll', scrollAdHandler);
+    //        }
+    //    }
+    //}());
+
+    //kixer ad mid article
+    //(function () {
+    //    if ((location.search.split('newDesign=')[1] != 1)) {
+    //        var nativoContainer = document.createElement('div');
+    //        nativoContainer.id = 'ntv-mid-ad';
+
+    //        //var hInsertIndex = Math.round(headers.length / 2);
+    //        //var headerNode = headers[hInsertIndex];
+    //        //headerNode.insertBefore(kixerMidDiv, headerNode.firstChild);
+    //        //headerNode.appendChild(kxContainer);
+
+    //        var goal = Math.round(document.getElementById('mw-content-text').offsetHeight / 2);
+    //        //var innerContentIndex = Math.round(innerContent.childElementCount / 2);
+    //        var insertionPoint = findInsertionPoint(goal);
+    //        var nativoInsertionPoint = findInsertionPoint(1200);
+
+    //        nativoInsertionPoint.parentNode.insertBefore(nativoContainer, nativoInsertionPoint.nextSibling);
+
+    //        if (document.getElementById("bodyContent").offsetHeight > 2000) {
+    //            var connatixScript = document.createElement('script');
+    //            connatixScript.type = 'text/javascript';
+    //            connatixScript.async = true;
+    //            connatixScript.setAttribute('data-connatix-token', 'b4bf453a-3cbb-4cfd-a5cc-60101ca75d21');
+    //            connatixScript.src = '//cdn.connatix.com/min/connatix.renderer.infeed.min.js';
+
+    //            var tedscript = document.createElement('script');
+    //            tedscript.type = 'text/javascript';
+    //            tedscript.className = 'teads';
+    //            tedscript.async = 'true';
+    //            tedscript.src = '//a.teads.tv/page/68365/tag';
+
+    //            var kxContainer = document.createElement('div');
+    //            if (typeof window.orientation != 'undefined') {
+    //                kxContainer.className = 'rd-box';
+    //            }
+
+    //            if (location.search.split('newDesign=')[1] != 1) {
+    //                kxContainer.id = 'mid-article-ad';
+    //            }
+    //            if (!isMobileOrTablet()) {
+    //                kxContainer.style.maxWidth = '450px';
+    //            }
+    //            var kixerMidDiv = document.createElement('div');
+    //            kixerMidDiv.id = '__kx_ad_5490';
+
+    //            insertionPoint.parentNode.insertBefore(kxContainer, insertionPoint.nextSibling);
+    //            kxContainer.appendChild(kixerMidDiv);
+    //            if (isMobile()) {
+    //                kxContainer.appendChild(tedscript);
+    //            }
+    //            else {
+    //                var randa = Math.random();
+    //                if (randa <= 0.5) {
+    //                    kxContainer.appendChild(connatixScript);
+    //                } else if (randa > 0.5) {
+    //                    kxContainer.appendChild(tedscript);
+    //                }
+    //            }
+
+
+    //            //console.log(insertionPoint);
+    //            var __kx_ad_slots = __kx_ad_slots || [];
+
+    //            (function () {
+    //                var slot = 5490;
+    //                var h = false;
+    //                __kx_ad_slots.push(slot);
+    //                if (typeof __kx_ad_start == 'function') {
+    //                    __kx_ad_start();
+    //                } else {
+    //                    var s = document.createElement('script');
+    //                    s.type = 'text/javascript';
+    //                    s.async = true;
+    //                    s.src = '//cdn.kixer.com/ad/load.js';
+    //                    s.onload = s.onreadystatechange = function () {
+    //                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                            h = true;
+    //                            s.onload = s.onreadystatechange = null;
+    //                            __kx_ad_start();
+    //                        }
+    //                    };
+    //                    var x = document.getElementsByTagName('script')[0];
+    //                    x.parentNode.insertBefore(s, x);
+    //                }
+    //            })();
+
+    //        }
+    //    }
+    //})();
+
+    function insertSortableAd(adId, adInsertionPoint) {
+        if (document.querySelector('[data-ad-name=' + adId + ']') == null) {
+            var adElement = document.createElement('div');
+            adElement.setAttribute('data-ad-name', adId);
+            adElement.setAttribute('data-ad-size', '728x90');
+            adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+        }
+    }
+
+    //function insertSortableAdTriple(adGoalPos) {
+    //    var adContainer = document.createElement('div');
+    //    adContainer.style.margin = '5px auto';
+    //    adContainer.style.height = '260px';
+    //    adContainer.style.display = 'flex';
+    //    adContainer.style.clear = 'both';
+    //    var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //    adInsertionPoint.parentNode.insertBefore(adContainer, adInsertionPoint.nextSibling);
+    //    function makeSortableTripleAd(adId) {
+    //        var adElement = document.createElement('div');
+    //        adElement.style.display = 'inline-block';
+    //        adElement.setAttribute('data-ad-name', adId);
+    //        adElement.setAttribute('data-ad-size', '300x250');
+    //        return adElement;
+    //    }
+
+    //    var mr5 = makeSortableTripleAd('med_rec_5');
+    //    adContainer.appendChild(mr5);
+    //    var mr6 = makeSortableTripleAd('med_rec_6');
+    //    adContainer.appendChild(mr6);
+    //    var mr7 = makeSortableTripleAd('med_rec_7');
+    //    adContainer.appendChild(mr7);
+    //}
+
+
+    //sortable on scroll
+    //(function () {
+    //    function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            insertSortableAd(adId, adInsertionPoint);
+    //        }
+    //    }
+
+    //    function insertInsticatorAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById(adId) == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = adId;
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //                var insticScript = document.createElement('script');
+    //                insticScript.innerHTML = 'Insticator.ad.loadAd("div-insticator-ad-3");';
+    //                insticScript.setAttribute('data-cfasync', 'false');
+    //                insticScript.type = 'text/javascript';
+    //                adElement.parentNode.insertBefore(insticScript, adElement.nextSibling);
+    //            }
+    //        }
+    //    }
+
+    //function insertSortableAdInArticle(adGoalPos, adId) {
+    //        if (document.body.scrollHeight >= adGoalPos) {
+    //            var adInsertionPoint = findInsertionPoint(adGoalPos);
+    //            if (document.getElementById('div-gpt-ad-1498167603841-9') == null) {
+    //                var adElement = document.createElement('div');
+    //                adElement.id = 'div-gpt-ad-1498167603841-9';
+    //                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+    //            }
+    //        }
+    //}
+
+    function insertSortableAdInArticle(adGoalPos, adId) {
+        if (document.body.scrollHeight >= adGoalPos) {
+            var adInsertionPoint = findInsertionPoint(adGoalPos);
+            if (document.getElementById('upper-article') == null) {
+                var adElement = document.createElement('div');
+                adElement.id = 'upper-article';
+                adInsertionPoint.parentNode.insertBefore(adElement, adInsertionPoint.nextSibling);
+            }
+        }
+    }
+
+
+    if (!location.pathname.startsWith('/wiki/User')) {
+        if (!isMobileOrTablet()) {
+            var contentBox = document.getElementById('contentbox');
+            var contentSize = contentBox.offsetHeight;
+            var firstBannerGoal = window.innerHeight * 2;
+
+            var bfl = document.getElementById('bottomframelower');
+            //bfl.id = 'div-gpt-ad-1498167603841-9';
+
+            if (contentSize > 2000) {
+                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+            }
+        }
+    }
+
+
+
+
+    //    if (!location.pathname.startsWith('/wiki/User')) {
+    //        var contentBox = document.getElementById('contentbox');
+    //        var contentSize = contentBox.offsetHeight;
+    //        var firstBannerGoal = window.innerHeight * 2;
+
+    //        if (isMobileOrTablet()) {
+    //            if (contentSize > 4000) {
+    //                insertSortableAdTriple(firstBannerGoal);
+    //            }
+    //          //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        }
+    //        else {
+    //            if (contentSize > 2000)
+    //            {
+    //                insertSortableAdInArticle(firstBannerGoal, 'leaderboard_3');
+    //            }
+    //        }
+    //        insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_4');
+    //        //insertSortableAdInArticle(window.innerHeight * 4, 'leaderboard_3');
+    //        //insertInsticatorAdInArticle(window.innerHeight * 4, 'div-insticator-ad-3');
+    //        insertSortableAdInArticle(window.innerHeight * 6, 'leaderboard_5');
+    //        insertSortableAdInArticle(window.innerHeight * 8, 'leaderboard_6');
+    //        insertSortableAdInArticle(window.innerHeight * 10, 'leaderboard_7');
+    //        insertSortableAdInArticle(window.innerHeight * 12, 'leaderboard_8');
+    //        insertSortableAdInArticle(window.innerHeight * 14, 'leaderboard_9');
+    //        //insertSortableAdInArticle(window.innerHeight * 16, 'leaderboard_10');
+    //        //insertSortableAdInArticle(window.innerHeight * 18, 'leaderboard_11');
+    //        //insertSortableAdInArticle(window.innerHeight * 20, 'leaderboard_12');
+    //        //insertSortableAdInArticle(window.innerHeight * 22, 'leaderboard_13');
+    //        //insertSortableAdInArticle(window.innerHeight * 24, 'leaderboard_14');
+    //        //insertSortableAdInArticle(window.innerHeight * 26, 'leaderboard_15');
+    //        //insertSortableAdInArticle(window.innerHeight * 28, 'leaderboard_16');
+    //        //insertSortableAdInArticle(window.innerHeight * 30, 'leaderboard_17');
+    //        //insertSortableAdInArticle(window.innerHeight * 32, 'leaderboard_18');
+    //        //insertSortableAdInArticle(window.innerHeight * 34, 'leaderboard_19');
+    //        //insertSortableAdInArticle(window.innerHeight * 36, 'leaderboard_20');
+
+    //        window.addEventListener('scroll', function () {
+    //            showSortableAdWhenScrolled('med_rec_5');
+    //            showSortableAdWhenScrolled('med_rec_6');
+    //            showSortableAdWhenScrolled('med_rec_7');
+    //            showSortableAdWhenScrolled('leaderboard_3');
+    //            showSortableAdWhenScrolled('leaderboard_4');
+    //            showSortableAdWhenScrolled('leaderboard_5');
+    //            showSortableAdWhenScrolled('leaderboard_6');
+    //            showSortableAdWhenScrolled('leaderboard_7');
+    //            showSortableAdWhenScrolled('leaderboard_8');
+    //            showSortableAdWhenScrolled('leaderboard_9');
+    //            //showSortableAdWhenScrolled('leaderboard_10');
+    //            //showSortableAdWhenScrolled('leaderboard_11');
+    //            //showSortableAdWhenScrolled('leaderboard_12');
+    //            //showSortableAdWhenScrolled('leaderboard_13');
+    //            //showSortableAdWhenScrolled('leaderboard_14');
+    //            //showSortableAdWhenScrolled('leaderboard_15');
+    //            //showSortableAdWhenScrolled('leaderboard_16');
+    //            //showSortableAdWhenScrolled('leaderboard_17');
+    //            //showSortableAdWhenScrolled('leaderboard_18');
+    //            //showSortableAdWhenScrolled('leaderboard_19');
+    //            //showSortableAdWhenScrolled('leaderboard_20');
+    //            //showSortableAdWhenScrolled('med_rec_1');
+    //            //showSortableAdWhenScrolled('med_rec_2');
+    //            //showInsticatorAdWhenScrolled('div-insticator-ad-3');
+    //            //showKixerAdWhenScrolled();
+    //            showOutstreamAdWhenScrolled();
+    //            showSortableAdWhenScrolled('widesky_2');
+    //            showSortableAdWhenScrolled('widesky_3');
+    //            showSortableAdWhenScrolled('widesky_4');
+    //            showSortableAdWhenScrolled('widesky_5');
+    //            showSortableAdWhenScrolled('widesky_6');
+    //            showSortableAdWhenScrolled('widesky_7');
+    //            showSortableAdWhenScrolled('widesky_8');
+    //            showSortableAdWhenScrolled('widesky_9');
+    //            //showSortableAdWhenScrolled('widesky_10');
+    //            //showSortableAdWhenScrolled('widesky_11');
+    //            //showSortableAdWhenScrolled('widesky_12');
+    //            //showSortableAdWhenScrolled('widesky_13');
+    //            //showSortableAdWhenScrolled('widesky_14');
+    //            //showSortableAdWhenScrolled('widesky_15');
+    //            //showSortableAdWhenScrolled('widesky_16');
+    //            //showSortableAdWhenScrolled('widesky_17');
+    //            //showSortableAdWhenScrolled('widesky_18');
+    //            //showSortableAdWhenScrolled('widesky_19');
+    //            //showSortableAdWhenScrolled('widesky_20');
+    //        });
+
+    //    }
+    //})();
+
+
+    //Inhouse under title
+    (function () {
+
+            //if (location.search.split('testAmazon=')[1] == 1) {
+            country = ''
+
+            firstHeading = document.getElementById('firstHeading');
+            amzSearchTerm = "";
+            if (firstHeading.textContent != null && firstHeading.textContent.includes('(')) {
+                amzSearchTerm = firstHeading.textContent.slice(0, firstHeading.textContent.indexOf('(')) + firstHeading.textContent.slice(firstHeading.textContent.indexOf(')') + 1).trim();
+            }
+            else {
+                amzSearchTerm = firstHeading.textContent.trim();
+            }
+
+            tagCode = '';
+            if (country == 'us') {
+                tagCode = 'bulbapedia-20';
+            }
+            else {
+                tagCode = 'bulbapedia-21';
+            }
+
+            var a = document.createElement('a');
+            a.id = 'amazon-related';
+            var linkText = document.createTextNode("Bulba Readership Survey - Win up to $300");
+            a.appendChild(linkText);
+            a.href = "https://survey.zohopublic.com/zs/oiBUVB";
+            a.rel = "nofollow";
+           //firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+
+           //DONE UNDER TITLE LINK
+
+
+
+            //var randomLink = Math.random();
+            //if (randomLink <= 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/qGbju4";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+            //else if (randomLink > 0.5) {
+            //    var a = document.createElement('a');
+            //    a.id = 'amazon-related';
+            //    var linkText = document.createTextNode("Get Notified about Pokémon the Series: Sun & Moon Season 20 Premiere");
+            //    a.appendChild(linkText);
+            //    //a.title = "Buy related Pokémon products";
+            //    a.href = "https://goo.gl/NP52EU";
+            //    a.rel = "nofollow";
+            //    firstHeading.parentNode.insertBefore(a, firstHeading.nextSibling);
+            //}
+
+            //}
+        
+    }());
+
+    //if (window.innerWidth > 1439 && (location.search.split('newDesign=')[1] != 1)) {
+    //    //var tabolacontainer = document.createElement('div');
+    //    //tabolacontainer.id = 'taboola-right-rail-thumbnails';
+    //    //document.getElementById('mid-rr').appendChild(tabolacontainer);
+    //    //Right Rail Taboola
+    //    //(function () {
+    //    //    window._taboola = window._taboola || [];
+    //    //    _taboola.push({
+    //    //        mode: 'thumbnails-rr',
+    //    //        container: 'taboola-right-rail-thumbnails',
+    //    //        placement: 'Right Rail Thumbnails',
+    //    //        target_type: 'mix'
+    //    //    });
+    //    //})();
+
+    //    //Right Rail Zergnet
+    //    (function () {
+    //        var zergnet = document.createElement('script');
+    //        zergnet.type = 'text/javascript'; zergnet.async = true;
+    //        zergnet.src = 'https://www.zergnet.com/zerg.js?id=43478';
+    //        var znscr = document.getElementsByTagName('script')[0];
+    //        znscr.parentNode.insertBefore(zergnet, znscr);
+    //    })();
+
+    //    //Right Rail RevContent
+    //    //(function () {
+    //    //    var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+    //    //    var rcel = document.createElement("script");
+    //    //    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    //    //    rcel.type = 'text/javascript';
+    //    //    rcel.src = "https://trends.revcontent.com/serve.js.php?w=49573&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer;
+    //    //    rcel.async = true;
+    //    //    var rcds = document.getElementById("rcjsload_ddfac2"); rcds.appendChild(rcel);
+    //    //})();
+    //}
+</script>
+
+<script>
+    //if ((location.search.split('newDesign=')[1] != 1)) {
+    //    (function () {
+    //        document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //        if (window.innerWidth < 1440) {
+    //            var rcol = document.getElementById("lowrightcol");
+    //            if (rcol != null) {
+    //                rcol.parentNode.removeChild(rcol);
+    //            }
+    //        }
+
+    //        window.onresize = function (event) {
+    //            //remove connatix inright rail
+    //            //var connatixvid = document.getElementById('cnx-autoplay-container');
+    //            //var connatixrr = document.getElementById('connatix-rightrail');
+    //            //if (connatixvid != null) {
+    //            //    connatixvid.parentNode.removeChild(connatixvid);
+    //            //}
+    //            //if (connatixrr != null) {
+    //            //    connatixrr.parentNode.removeChild(connatixrr);
+    //            //}
+
+    //            document.getElementById('uprightcol').style.right = (window.innerWidth - 500) + "px";
+    //            if (window.innerWidth < 1440) {
+    //                var rcol = document.getElementById("lowrightcol");
+    //                if (rcol != null) {
+    //                    rcol.parentNode.removeChild(rcol);
+    //                }
+    //            }
+    //        };
+    //    })();
+    //}
+
+    //kixer ad bottom
+    //var kixerDiv = document.createElement('div');
+    //kixerDiv.id = '__kx_ad_5356';
+    //var ccontent = document.getElementById('content');
+    //ccontent.appendChild(kixerDiv);
+
+    //var __kx_ad_slots = __kx_ad_slots || [];
+    //(function () {
+    //    var slot = 5356;
+    //    var h = false;
+    //    __kx_ad_slots.push(slot);
+    //    if (typeof __kx_ad_start == 'function') {
+    //        __kx_ad_start();
+    //    } else {
+    //        var s = document.createElement('script');
+    //        s.type = 'text/javascript';
+    //        s.async = true;
+    //        s.src = '//cdn.kixer.com/ad/load.js';
+    //        s.onload = s.onreadystatechange = function () {
+    //            if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+    //                h = true;
+    //                s.onload = s.onreadystatechange = null;
+    //                __kx_ad_start();
+    //            }
+    //        };
+    //        var x = document.getElementsByTagName('script')[0];
+    //        x.parentNode.insertBefore(s, x);
+    //    }
+    //})();
+    </script>
+<script src="https://ahost.bulbagarden.net/Content/bulbascript.js"></script>
+
+<script type="text/javascript" language="javascript" id="__kx_tag_6180">
+        /*var kixerDiv = document.createElement('div');
+        kixerDiv.id = '__kx_ad_6180';
+        var ccontent = document.getElementById('content');
+        ccontent.appendChild(kixerDiv);
+        var __kx_ad_slots = __kx_ad_slots || [];
+
+        (function () {
+            var slot = 6180;
+            var h = false;
+            var doc = document;
+            __kx_ad_slots.push(slot);
+            if (typeof __kx_ad_start == 'function') {
+                __kx_ad_start();
+            } else {
+                if (top == self) {
+                    var s = doc.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//cdn.kixer.com/ad/load.js';
+                    s.onload = s.onreadystatechange = function () {
+                        if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                            h = true;
+                            s.onload = s.onreadystatechange = null;
+                            __kx_ad_start();
+                        }
+                    };
+                    var x = doc.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                } else {
+                    var tag = doc.getElementById('__kx_tag_' + slot); var win = window.parent;
+                    doc = win.document; var top_div = doc.createElement("div"); top_div.id = '__kx_ad_' + slot;
+                    doc.body.appendChild(top_div);
+                    var top_tag = doc.createElement("script"); top_tag.id = '__kx_top_tag_' + slot;
+                    top_tag.innerHTML = tag.innerHTML;
+                    doc.body.appendChild(top_tag);
+                }
+            }
+        })();*/
+
+</script>
+</div>
+<!-- Advert Right End -->
+</div>
+			</div>
+					</div>
+		<div id="column-one">
+			<h2>Navigation menu</h2>
+					<div id="p-cactions" class="portlet" role="navigation">
+			<h3>Views</h3>
+
+			<div class="pBody">
+				<ul>
+				<li id="ca-nstab-main" class="selected"><a href="/wiki/Bicycle" title="View the content page [c]" accesskey="c">Article</a></li>
+				<li id="ca-talk"><a href="/wiki/Talk:Bicycle" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				<li id="ca-viewsource"><a href="/w/index.php?title=Bicycle&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				<li id="ca-history"><a href="/w/index.php?title=Bicycle&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+							</div>
+		</div>
+				<div class="portlet" id="p-personal" role="navigation">
+				<h3>Personal tools</h3>
+
+				<div class="pBody">
+					<ul>
+													<li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bicycle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+													<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bicycle" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+											</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a>
+			</div>
+				<div class="generated-sidebar portlet" id="p-navigation" role="navigation">
+		<h3>Navigation</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit Bulbapedia's Main Page [z]" accesskey="z">Main Page</a></li>
+											<li id="n-Editor.27s-Hub"><a href="/wiki/Bulbapedia:Editor%27s_Hub">Editor's Hub</a></li>
+											<li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="General editing help">Help</a></li>
+											<li id="n-faq"><a href="/wiki/Bulbapedia:FAQ">Frequently asked questions</a></li>
+											<li id="n-portal"><a href="http://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/" rel="nofollow" title="Discussion forum for the Bulbawiki network">Bulbawiki forum</a></li>
+											<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="View recent changes to Bulbapedia. [r]" accesskey="r">Recent changes</a></li>
+											<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+									</ul>
+					</div>
+		</div>
+			<div id="p-search" class="portlet" role="search">
+			<h3><label for="searchInput">Search</label></h3>
+
+			<div id="searchBody" class="pBody">
+				<form action="/w/index.php" id="searchform">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input type="search" name="search" placeholder="Search Bulbapedia" title="Search Bulbapedia [f]" accesskey="f" id="searchInput"/>
+					<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton"/>&#160;
+						<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/>
+				</form>
+
+							</div>
+		</div>
+		<div class="generated-sidebar portlet" id="p-Bulbagarden" role="navigation">
+		<h3>Bulbagarden</h3>
+		<div class="pBody">
+							<ul>
+											<li id="n-gateway"><a href="http://www.bulbagarden.net" rel="nofollow">Bulbagarden home page</a></li>
+											<li id="n-currentevents"><a href="http://bulbanews.bulbagarden.net/wiki/Front_page" title="Recent happenings in the Pokémon fandom, from Bulbanews">Bulbanews</a></li>
+											<li id="n-archive"><a href="http://archives.bulbagarden.net/wiki/Main_Page" title="Depository for media used by Bulbagarden's wikis">Bulbagarden Archives</a></li>
+											<li id="n-Bulbagarden-Handbooks"><a href="http://bulbahandbook.bulbagarden.net" rel="nofollow">Bulbagarden Handbooks</a></li>
+											<li id="n-Bulbagarden-forums"><a href="http://forums.bulbagarden.net/index.php" rel="nofollow">Bulbagarden forums</a></li>
+											<li id="n-Bulbapedia-IRC-channel"><a href="irc://irc.systemnet.info/bulbapedia" rel="nofollow">Bulbapedia IRC channel</a></li>
+											<li id="n-Bulbagarden-Discord-server"><a href="https://discord.gg/bulbagarden" rel="nofollow">Bulbagarden Discord server</a></li>
+											<li id="n-Facebook"><a href="https://www.facebook.com/Bulbagarden" rel="nofollow">Facebook</a></li>
+											<li id="n-Twitter"><a href="https://twitter.com/Bulbagarden" rel="nofollow">Twitter</a></li>
+											<li id="n-Tumblr"><a href="https://bulbagarden.tumblr.com/" rel="nofollow">Tumblr</a></li>
+									</ul>
+					</div>
+		</div>
+			<div class="portlet" id="p-tb" role="navigation">
+			<h3>Tools</h3>
+
+			<div class="pBody">
+				<ul>
+											<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bicycle" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+											<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bicycle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+											<li id="t-upload"><a href="//archives.bulbagarden.net/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+											<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-print"><a href="/w/index.php?title=Bicycle&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Bicycle&amp;oldid=2726391" title="Permanent link to this revision of the page">Permanent link</a></li>
+											<li id="t-info"><a href="/w/index.php?title=Bicycle&amp;action=info" title="More information about this page">Page information</a></li>
+									</ul>
+							</div>
+		</div>
+				<div id="p-lang" class="portlet" role="navigation">
+				<h3>In other languages</h3>
+
+				<div class="pBody">
+					<ul>
+													<li class="interlanguage-link interwiki-de"><a href="https://www.pokewiki.de/Fahrrad" title="Fahrrad – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="http://www.pokepedia.fr/Bicyclette" title="Bicyclette – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="https://wiki.pokemoncentral.it/Bicicletta" title="Bicicletta – italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="https://wiki.xn--rckteqa2e.com/wiki/%E3%81%98%E3%81%A6%E3%82%93%E3%81%97%E3%82%83" title="じてんしゃ – 日本語" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="http://wiki.pokemonpl.net/Rower" title="Rower – polski" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="https://wiki.52poke.com/wiki/%E8%87%AA%E8%A1%8C%E8%BB%8A" title="自行車 – 中文" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+											</ul>
+
+									</div>
+			</div>
+				</div><!-- end of the left (by default at least) column -->
+		<div class="visualClear"></div>
+					<div id="footer" role="contentinfo">
+						<div id="f-copyrightico">
+									<a href="https://creativecommons.org/licenses/by-nc-sa/2.5/"><img src="//creativecommons.org/images/public/somerights20.png" alt="Attribution-NonCommercial-ShareAlike 2.5" width="88" height="31"/></a>
+							</div>
+					<div id="f-poweredbyico">
+									<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+							</div>
+					<ul id="f-list">
+									<li id="lastmod"> This page was last edited on 9 January 2018, at 08:45.</li>
+									<li id="copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a>. (see <a class='internal' href="/wiki/Bulbapedia:Copyrights">Copyrights</a> for details)</li>
+									<li id="privacy"><a href="/wiki/Bulbapedia:Privacy_policy" title="Bulbapedia:Privacy policy">Privacy policy</a></li>
+									<li id="about"><a href="/wiki/Bulbapedia:About" title="Bulbapedia:About">About Bulbapedia</a></li>
+									<li id="disclaimer"><a href="/wiki/Bulbapedia:General_disclaimer" title="Bulbapedia:General disclaimer">Disclaimers</a></li>
+									<li id="mobileview"><a href="//m.bulbapedia.bulbagarden.net/w/index.php?title=Bicycle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+		</div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.380","walltime":"1.003","ppvisitednodes":{"value":4788,"limit":1000000},"ppgeneratednodes":{"value":19956,"limit":1000000},"postexpandincludesize":{"value":78763,"limit":2097152},"templateargumentsize":{"value":15882,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  697.968      1 -total"," 56.89%  397.106      3 Template:Item"," 19.07%  133.104     60 Template:Color","  7.97%   55.596      3 Template:Langtable","  7.39%   51.574     10 Template:Gameabbrev3","  7.31%   50.999      4 Template:Gameabbrev4","  5.49%   38.309      3 Template:Gameabbrev5","  5.40%   37.671      7 Template:Gameabbrev6","  4.85%   33.838      1 Template:Gameabbrev1","  3.78%   26.403     10 Template:Color2"]},"cachereport":{"timestamp":"20180130223042","ttl":86400,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-326511-18', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103});});</script><div id="cdm-zone-end"></div>
+<script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
+</body></html>

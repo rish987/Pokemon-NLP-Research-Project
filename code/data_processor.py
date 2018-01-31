@@ -15,6 +15,7 @@ import re;
 import enchant;
 import shutil;
 import sys;
+import os.path;
 
 # bulbapedia wiki URL prefix
 URL_PREFIX = 'https://bulbapedia.bulbagarden.net/';
@@ -36,6 +37,7 @@ REMOVE_PARENS_REGEX = r'\([^)]*\)';
 RAW_TEXT_FILE = '../data/data';
 ANNOTATED_TEXT_FILE = '../data/data_annotated';
 DESCRIPTORS_FILE = '../data/descriptors';
+LABELED_DESCRIPTORS_FILE = '../data/descriptors_labeled';
 
 # files to write data to
 raw_text_file = open(RAW_TEXT_FILE, 'w');
@@ -50,7 +52,8 @@ SPECIAL_CHARACTERS = ['.'];
 IGNORED_WORDS = ['a', 'an', 'the', 'and', 'but', 'for', 'of', 'with'];
 
 # data folder webpages
-WEBPAGE_DEST = '../data/webpages/';
+ENTITY_WEBPAGE_DEST = '../data/webpages/entities/';
+EP_WEBPAGE_DEST = '../data/webpages/episodes/';
 
 # format string for episode numbers
 EP_NUMBER_FORMAT = '%03d';
@@ -69,6 +72,88 @@ PLURAL_SUFFIXES = ['s', 'es'];
 annotate = False;
 if (len(sys.argv) > 1) and (sys.argv[1] == '1'):
     annotate = True;
+
+# check if we should download entity data
+download_entities = False;
+if (len(sys.argv) > 2) and (sys.argv[2] == '1'):
+    download_entities = True;
+
+# alternate names for labels
+label_altnames = { 'pokemon': ['pokémon  category', 'legendary pokémon', 'color pokémon', 'caught pokémon', 'type pokémon', '\'s pokémon', 's\' pokémon', 'starter pokémon', 'starter pokemon', 'colored pokémon', 'pokémon with', 'primeape', 'wild pokémon', 'ho-oh', 'group pokémon'], 'person': ['person', 'character', 'trainer', 'professor', 'nurse', 'member', 'gym leader', 'twerp', 'father', 'mother', 'mayor'], 'settlement': ['city', 'town', 'village'], 'move': ['move', 'attack'], 'event':['event', 'battle', 'contest', 'competition', 'festival', 'party', 'conference'], 'item': ['item', 'badge', 'ball', 'potion', 'bike', 'equipment', 'technology', 'mecha', 'movie', 'berry', 'trophy', 'food'], 'region': ['region', 'area', 'zone', 'location'], 'concept': ['concept', 'title', 'motto', 'running gag', 'physics', 'meta', 'episode', 'mechanic', 'pokémon training', 'journey', 'narrator', 'transportation'], 'building':['building', 'center', 'gym', 'house', 'tower', 'hall', 'palace', 'laboratory', 'institute'], 'group':['groups', 'league', 'trio', 'duo', 'cheerleaders', 'squad', 'organization'], 'type': ['types'], 'condition':['conditions']};
+
+# emphasized altnames - if these are in the categories, it's almost certain to 
+# be of the corresponding label
+emphasized_altnames = ['\'s pokémon', 's\' pokémon', 'groups', 'building', 'town', 'region', 'squad', 'mecha']
+
+# class for processing HTML files
+class LabelParser(HTMLParser):
+    # add instance variables
+    def __init__(self):
+        super(LabelParser, self).__init__()
+        # is the categories section currently being parsed?
+        self.in_categories = False;
+
+    def feed(self, html, title):
+        self.title = title;
+        super(LabelParser, self).feed(html);
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'a':
+            title_attrs = [attr for attr in attrs if attr[0] == 'title'];
+            if len(title_attrs) > 0:
+                # just entered categories section
+                if title_attrs[0][1] == 'Special:Categories':
+                    self.in_categories = True;
+                    self.label_points = {};
+                    self.categories_data = self.title + ' ';
+            
+    def handle_endtag(self, tag):
+        # just ended a categories section
+        if tag == 'div' and self.in_categories:
+            self.in_categories = False;
+            # determine the label of this entity
+            self.determine_label(self.categories_data);
+
+    def determine_label(self, text):
+        text = text.lower();
+        # go through all names
+        for label in label_altnames:
+            for altname in label_altnames[label]:
+                loc = text.find(altname.lower());
+                if loc > -1:
+                    # assign points to this label such that categories that
+                    # appear earlier on get more points, and emphasized labels
+                    # get extra points
+                    points = len(text) - loc;
+                    if label not in self.label_points:
+                        self.label_points[label] = 0;
+                    if altname in emphasized_altnames:
+                        points = points * 10;
+                    self.label_points[label] += points;
+
+        best_label = 'No match.'
+        best_label_points = 0;
+
+        for label in self.label_points:
+            if self.label_points[label] > best_label_points:
+                best_label_points = self.label_points[label];
+                best_label = label;
+
+        if best_label == 'No match.':
+            print("NO MATCH: " + text);
+
+        self.label = best_label;
+
+    def handle_data(self, data):
+        if self.in_categories:
+            # add this category description to the growing string
+            self.categories_data += data;
+
+    def get_label(self):
+        return self.label;
+
+# parser to use to determine labels
+label_parser = LabelParser();
 
 # data structure for storing entity information
 class Entity():
@@ -110,26 +195,40 @@ class Entity():
 
     # determines the label of this entity
     def determine_label(self):
-        pass;
-        #if not self.link[0] == '/':
-        #    self.label = 'None';
-        #    return;
-        ## construct request for this episode's wiki
-        #req = Request(URL_PREFIX + self.link, headers={'User-Agent': 'Mozilla/5.0'});
-        ## download wiki page html
-        #with urlopen(req) as response:
-        #    html = response.read();
-        #    print(html.decode('UTF-8'));
+        if not self.link[0] == '/':
+            self.label = 'None';
+            return;
+        filename = ENTITY_WEBPAGE_DEST + self.link.replace('/', '_');
+        file_exists = os.path.isfile(filename);
+        if not file_exists or download_entities:
+            # construct request for this episode's wiki
+            req = Request(URL_PREFIX + self.link, headers={'User-Agent': 'Mozilla/5.0'});
+            # download wiki page html
+            with urlopen(req) as response:
+                html = response.read();
+
+                with open(filename, 'w') as file :
+                  file.write(html.decode('UTF-8'));
+
+                label_parser.feed(html.decode('UTF-8'), self.title);
+        else:
+            with open(filename, 'r') as file :
+                label_parser.feed(file.read(), self.title);
+
+        self.label = label_parser.get_label();
+
+        # TODO
+        #print("Labeled: \t" + self.title + "\t" + self.label);
 
     # returns the label of this entity
-    def get_label():
+    def get_label(self):
         return self.label;
 
 # class for processing HTML files
-class MyHTMLParser(HTMLParser):
+class EpisodeParser(HTMLParser):
     # add instance variables
     def __init__(self):
-        super(MyHTMLParser, self).__init__()
+        super(EpisodeParser, self).__init__()
         self.parsing_plot = False;
         self.just_seen_plot_tag = False;
         self.in_hyperlink = False;
@@ -208,14 +307,14 @@ class MyHTMLParser(HTMLParser):
                 matching_entity.add_altname(data);
 
 # parser to use to read data
-parser = MyHTMLParser();
+parser = EpisodeParser();
 
 # go through all of the episodes
 for i in range(1, NUM_EPS + 1):
     print('Processing episode:', i);
 
     # open the downloaded webpage file
-    with open(WEBPAGE_DEST + (EP_NUMBER_FORMAT % i), 'r') as file:
+    with open(EP_WEBPAGE_DEST + (EP_NUMBER_FORMAT % i), 'r') as file:
         parser.feed(file.read());
 
 # dictionary of used descriptors to their entities
@@ -289,7 +388,7 @@ for entity in entities:
 # the larger altnames they are a part of (if we did not do this, annotating the
 # substrings first would prevent detection of the larger strings they used to
 # be a part of
-descriptors = sorted(descriptors, key = lambda x: len(x), reverse=True);
+descriptors_sorted = sorted(descriptors, key = lambda x: len(x), reverse=True);
 
 if annotate:
     # to store data with this name annotated
@@ -297,7 +396,7 @@ if annotate:
 
     print('Annotating...');
     # annotate all matching altnames
-    for altname in descriptors:
+    for altname in descriptors_sorted:
 
         # this name contains a period, so do a normal search and replace
         if altname.find('.') != -1:
@@ -313,41 +412,41 @@ if annotate:
 
 print('Removing unused descriptors...');
 
-# list of items to remove from descriptors
+# list of items to remove from descriptors_sorted
 remove_list = [];
 
-# identify all unused descriptors
-for descriptor_temp in descriptors:
+# identify all unused descriptors_sorted
+for descriptor in descriptors_sorted:
     search = None;
 
     # this name contains a period, so do a normal search
-    if descriptor_temp.find('.') != -1:
-        search = re.search( DESCRIPTOR_FORMAT_UNSEPARATE % re.escape(descriptor_temp), filedata);
+    if descriptor.find('.') != -1:
+        search = re.search( DESCRIPTOR_FORMAT_UNSEPARATE % re.escape(descriptor), filedata);
     # do a search, ignoring substrings
     else:
-        search = re.search( DESCRIPTOR_FORMAT_SEPARATE % re.escape(descriptor_temp), filedata);
+        search = re.search( DESCRIPTOR_FORMAT_SEPARATE % re.escape(descriptor), filedata);
 
     # no instance of this descriptor was found in the actual text
     if search == None:
-        remove_list.append(descriptor_temp);
+        remove_list.append(descriptor);
 
 # identify all unused descriptors
 for to_remove in remove_list:
-    descriptors.remove(to_remove);
+    descriptors_sorted.remove(to_remove);
 
 with open(DESCRIPTORS_FILE, 'w') as file:
-    for d in descriptors:
+    for d in descriptors_sorted:
         file.write(d + '\n');
+
+with open(LABELED_DESCRIPTORS_FILE, 'w') as file:
+    for d in descriptors_sorted:
+        file.write(descriptors[d].get_label() + '\t\t' + d + '\n');
 
 # print("Identifying surrounding words...");
 # 
-# descriptor_to_entity = {};
-# for descriptor in descriptors:
-#     descriptor_to_entity[descriptor] = [x for x in entities if descriptor in x.get_altnames()];
+# descriptor_to_surroundings = {};
 # 
-# print(descriptor_to_entity);
-# 
-# for entry in descriptor_to_entity:
+# for descriptor in descriptors_sorted:
 #     found = re.findall( DESCRIPTOR_FORMAT_SURROUNDING % re.escape(entry), filedata);
 #     entity = descriptor_to_entity[entry];
 #     entity.process_context_strings(found);
