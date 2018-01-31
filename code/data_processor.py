@@ -78,6 +78,8 @@ class Entity():
         # add the title as an initial altname 
         self.altnames.append(_title);
 
+        self.determine_label();
+
     # adds the specified altname to this Entity's list of altnames if it's not
     # already added
     def add_altname(self, altname):
@@ -102,8 +104,17 @@ class Entity():
         return self.altnames;
 
     # determines the label of this entity
-    def determine_label():
-        pass
+    def determine_label(self):
+        pass;
+        #if not self.link[0] == '/':
+        #    self.label = 'None';
+        #    return;
+        ## construct request for this episode's wiki
+        #req = Request(URL_PREFIX + self.link, headers={'User-Agent': 'Mozilla/5.0'});
+        ## download wiki page html
+        #with urlopen(req) as response:
+        #    html = response.read();
+        #    print(html.decode('UTF-8'));
 
     # returns the label of this entity
     def get_label():
@@ -205,9 +216,11 @@ for i in range(1, NUM_EPS + 1):
 # list of annotated strings
 descriptors = [];
 
-# prepare annotated file for annotation
-shutil.copyfile(RAW_TEXT_FILE, ANNOTATED_TEXT_FILE);
-with open(ANNOTATED_TEXT_FILE, 'r') as file :
+if annotate:
+    # prepare annotated file for annotation
+    shutil.copyfile(RAW_TEXT_FILE, ANNOTATED_TEXT_FILE);
+
+with open(RAW_TEXT_FILE, 'r') as file :
   filedata = file.read();
 
 # English dictionary
@@ -275,7 +288,7 @@ descriptors.sort(key = lambda x: len(x), reverse=True);
 
 if annotate:
     # to store data with this name annotated
-    filedata_new = '';
+    filedata_new = filedata;
 
     print('Annotating...');
     # annotate all matching altnames
@@ -283,10 +296,10 @@ if annotate:
 
         # this name contains a period, so do a normal search and replace
         if altname.find('.') != -1:
-            filedata_new = re.sub( DESCRIPTOR_FORMAT_UNSEPARATE % re.escape(altname), r'[\1]', filedata);
+            filedata_new = re.sub( DESCRIPTOR_FORMAT_UNSEPARATE % re.escape(altname), r'[\1]', filedata_new);
         # do a search and replace, ignoring substrings
         else:
-            filedata_new = re.sub( DESCRIPTOR_FORMAT_SEPARATE % re.escape(altname), r'[\1]', filedata);
+            filedata_new = re.sub( DESCRIPTOR_FORMAT_SEPARATE % re.escape(altname), r'[\1]', filedata_new);
 
 
     # write the annotated file
