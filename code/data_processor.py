@@ -7,6 +7,8 @@
 # - [annotate]: '1' if want to annotate, omitted or anything else if do not
 # want to annotate
 
+# TODO address beginning/ending of sentences when finding surrounding words
+
 from urllib.request import Request, urlopen;
 from html.parser import HTMLParser;
 import re;
@@ -58,6 +60,8 @@ EP_NUMBER_FORMAT = '%03d';
 DESCRIPTOR_FORMAT_SEPARATE = r'(\b%s(?:e?s)?\b)';
 DESCRIPTOR_FORMAT_UNSEPARATE = r'(%s(?:e?s)?)';
 
+DESCRIPTOR_FORMAT_SURROUNDING = r'\w+ \w+ %s \w+ \w+'
+
 # suffixes for pluralized descriptors
 PLURAL_SUFFIXES = ['s', 'es'];
 
@@ -74,6 +78,7 @@ class Entity():
         self.link = _link;
         self.altnames = [];
         self.label = '';
+        self.words = {};
 
         # add the title as an initial altname 
         self.altnames.append(_title);
@@ -213,8 +218,8 @@ for i in range(1, NUM_EPS + 1):
     with open(WEBPAGE_DEST + (EP_NUMBER_FORMAT % i), 'r') as file:
         parser.feed(file.read());
 
-# list of annotated strings
-descriptors = [];
+# dictionary of used descriptors to their entities
+descriptors = {};
 
 if annotate:
     # prepare annotated file for annotation
@@ -237,7 +242,7 @@ Current conditions:
   that is conventionally uncapitalized in English descriptors
 - altname has >1 characters 
 """
-def process_altname(altname):
+def process_altname(altname, entity):
     # ignore possesives
     if altname.endswith('\'s'):
         altname = altname[:-2];
@@ -253,7 +258,7 @@ def process_altname(altname):
 
     # this is a valid descriptor
     if all_valid_words and (altname not in descriptors) and (len(altname) > 1):
-        descriptors.append(altname);
+        descriptors[altname] = entity;
 
         for word in words:
             # ignore possesives
@@ -262,7 +267,7 @@ def process_altname(altname):
 
             # this is not a dictionary word
             if not d.check(word) and word not in descriptors:
-                descriptors.append(word);
+                descriptors[word] = entity;
 
 print('Finding all potential altnames...');
 
@@ -278,13 +283,13 @@ for entity in entities:
 # generate list of altnames
 for entity in entities:
     for altname in entity.get_altnames():
-        process_altname(altname.strip());
+        process_altname(altname.strip(), entity);
 
 # sort from largest to smallest to ensure that substrings are annotated after
 # the larger altnames they are a part of (if we did not do this, annotating the
 # substrings first would prevent detection of the larger strings they used to
 # be a part of
-descriptors.sort(key = lambda x: len(x), reverse=True);
+descriptors = sorted(descriptors, key = lambda x: len(x), reverse=True);
 
 if annotate:
     # to store data with this name annotated
@@ -333,3 +338,16 @@ for to_remove in remove_list:
 with open(DESCRIPTORS_FILE, 'w') as file:
     for d in descriptors:
         file.write(d + '\n');
+
+# print("Identifying surrounding words...");
+# 
+# descriptor_to_entity = {};
+# for descriptor in descriptors:
+#     descriptor_to_entity[descriptor] = [x for x in entities if descriptor in x.get_altnames()];
+# 
+# print(descriptor_to_entity);
+# 
+# for entry in descriptor_to_entity:
+#     found = re.findall( DESCRIPTOR_FORMAT_SURROUNDING % re.escape(entry), filedata);
+#     entity = descriptor_to_entity[entry];
+#     entity.process_context_strings(found);
