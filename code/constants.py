@@ -14,4 +14,6 @@ RAW_TEXT_FILE = '../data/data';
 ANNOTATED_TEXT_FILE = '../data/data_annotated';
 DESCRIPTORS_FILE = '../data/descriptors';
 LABELED_DESCRIPTORS_FILE = '../data/descriptors_labeled';
+LABELED_CORRECTED_DESCRIPTORS_FILE = '../data/descriptors_labeled_corrected';
 
+DESCRIPTORS_VECTORIZED_FILE = '../data/descriptors_labeled_vectorized';
