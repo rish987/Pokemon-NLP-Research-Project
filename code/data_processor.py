@@ -17,8 +17,7 @@ import shutil;
 import sys;
 import os.path;
 
-# bulbapedia wiki URL prefix
-URL_PREFIX = 'https://bulbapedia.bulbagarden.net/';
+from constants import *;
 
 # expected tag and attributes of plot header
 PLOT_TAG = 'span'
@@ -32,12 +31,6 @@ NUM_EPS = 116;
 
 # regular expression to remove parentheses from a string
 REMOVE_PARENS_REGEX = r'\([^)]*\)';
-
-# files to write to
-RAW_TEXT_FILE = '../data/data';
-ANNOTATED_TEXT_FILE = '../data/data_annotated';
-DESCRIPTORS_FILE = '../data/descriptors';
-LABELED_DESCRIPTORS_FILE = '../data/descriptors_labeled';
 
 # files to write data to
 raw_text_file = open(RAW_TEXT_FILE, 'w');
