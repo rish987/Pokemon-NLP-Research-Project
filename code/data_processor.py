@@ -434,12 +434,3 @@ with open(DESCRIPTORS_FILE, 'w') as file:
 with open(LABELED_DESCRIPTORS_FILE, 'w') as file:
     for d in descriptors_sorted:
         file.write(descriptors[d].get_label() + '\t\t' + d + '\n');
-
-# print("Identifying surrounding words...");
-# 
-# descriptor_to_surroundings = {};
-# 
-# for descriptor in descriptors_sorted:
-#     found = re.findall( DESCRIPTOR_FORMAT_SURROUNDING % re.escape(entry), filedata);
-#     entity = descriptor_to_entity[entry];
-#     entity.process_context_strings(found);
