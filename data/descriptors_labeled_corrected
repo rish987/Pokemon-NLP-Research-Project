@@ -61,7 +61,7 @@ pokemon		Misty's Psyduck
 region		Mandarin Island
 region		Seafoam Islands
 pokemon		Ash's Pidgeotto
-person		Duplica's Ditto
+pokemon		Duplica's Ditto
 settlement		Cinnabar Island
 pokemon		Ash's Charizard
 region		Sunburst Island
@@ -557,7 +557,7 @@ person		Erika
 person		Ethan
 person		Prima
 person		Mahri
-person		Ditto
+pokemon		Ditto
 type		Grass
 person		Ralph
 move		Spore
