@@ -1,1 +1,62 @@
-- Consider "unrecognized" as a valid POS (proper nouns can be telling)
+- classify instances rather than descriptors
+- features:
+    - the preceding word is a possessive
+    - the word is a possessive
+    - word contains a common name
+    - word contains an animal name
+    - word contains a building type
+    - word contains a biome name
+	- for each of the labels:
+		- a surrounding word contains this label
+
+
+- realistically:
+    - possession weighting based in part on lexical distance
+    - identification of noun as subject or object of a verb
+        - search left for "by," assign weight to right/left based on how
+          many words were encountered along way to "by" divided by the total
+          number of words prior to the noun in the sentence
+            - TODO improve confidence measure
+        - then look for verb on right side of the noun
+            - if found, assign "subject" to noun multiplied by weight
+              previously determined
+    - passive voice weighting
+        - based on how far away the passive voice
+          identifier is located
+        - 
+
+  Ash used [Bulbasaur] next and it swiftly used its [Vine Whip] attack
+      ^^^^                                 ^^^^  
+
+IDEAL
+Ash:
+[ used_act: 1, used_tar: 0 ]
+Bulbasaur:
+[ used_act: 1, used_tar: 1 ]
+Vine Whip:
+[ used_act: 0, used_tar: 1 ]
+
+REAL
+Bulbasaur:
+[ used_act: 0.91, used_tar: 0.09 ]
+Vine Whip:
+[ used_act: 0.12, used_tar: 0.88 ]
+
+
+- ideally:
+	- extract entire sentence for use as context for each instance
+    - for each pronoun (he, she, they, it):
+        - does the sentence replace the descriptor with this pronoun?
+    - for each possesive pronoun (his, her, their, its):
+        - does the sentence use this possesive pronoun to identify a 
+        possesion of the descriptor?
+    - for each common verb:
+        - is this descriptor a recipient of this action?
+        - does this descriptor perform this action?
+
+- confidence measure?
+- identify active/passive voice?
+
+  [Vine Whip] was swiftly used by the large, dappled-green [Bulbasaur]
+                          ^^^^
+
