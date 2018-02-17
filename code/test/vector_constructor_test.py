@@ -14,25 +14,32 @@ Vine Whip:
 """
 
 """
+TODO part of speech tagging: only pivot on a certain part of speech to
+     improve performance (e.g. not pivoting on "attack" in the following
+     example, as it is not a verb)
+     ex: 'Ash used Bulbasaur next and it swiftly used its Vine Whip attack.'
+TODO multiple pivots for a single entity, e.g.
+     [Ash] congratulates [Caterpie] on coming through, and urges [Misty]...
+TODO confidence based on distance
 TODO active vs passive voice
-TODO multiple instances in one sentence
+TODO filter out punctuation
 """
 ACTOR = 1;
 TARGET = -1;
 
-text = 'Ash used Bulbasaur next and it swiftly used its Vine Whip attack.';
+text = 'Ash used Bulbasaur next and it swiftly used its Vine Whip attack';
 instance_texts = ['Ash', 'Bulbasaur', 'Vine Whip'];
-verbs = {'use': ['used']};
+pivots = {'use': ['used'], 'attack': ['attack']};
 
 TEMPLATE_VECTOR = {};
 
 directions = [ACTOR, TARGET];
 
-for verb in verbs:
-    # there are two entries per verb; one set if this verb is used as an action
-    # this descriptor performs in this context (ACTOR), and another set if this
-    # action is performed on this descriptor in this context (TARGET)
-    TEMPLATE_VECTOR[verb] = {ACTOR: 0, TARGET: 0};
+for pivot in pivots:
+    # there are two entries per pivot; one set if this pivot is used as an
+    # action this descriptor performs in this context (ACTOR), and another set
+    # if this action is performed on this descriptor in this context (TARGET)
+    TEMPLATE_VECTOR[pivot] = {ACTOR: 0, TARGET: 0};
 
 instances = [];
 
@@ -63,42 +70,44 @@ class Instance():
     Sets this instance's vector by searching for words in the context and
     identifying them as acting or targeting words.
     E.g., if the instance is "Bulbasaur" in the sentence "Bublasaur uses Vine
-    Whip.", "uses" is an acting verb. On the other hand, if the instance is 
-    "Vine Whip" in the sentence "Bublasaur uses Vine Whip", "uses" is a
-    targeting verb.
+    Whip.", "uses" is an acting pivot. On the other hand, if the instance is 
+    "Vine Whip" in the sentence "Bulbasaur uses Vine Whip", "uses" is a
+    targeting pivot.
     """
     def set_vector(self):
         # set template vector of this instance to fill
         self.vector = copy.deepcopy(TEMPLATE_VECTOR);
 
-        # get index 
-        self.descriptor_pos = self.descriptor_pos;
-
         text_dirs = {};
 
-        text_dirs[ACTOR] = self.context[self.descriptor_pos + len(self.descriptor):];
-        text_dirs[TARGET] = self.context[0:self.descriptor_pos];
+        text_dirs[ACTOR] = self.context[self.descriptor_pos \
+                + len(self.descriptor):].split(' ');
+        text_dirs[TARGET] = self.context[0:self.descriptor_pos].split(' ');
 
-        # go through all verbs
-        for verb in verbs:
+        # to store nearest pivot to this instance
+        nearest_pivots_inds = {};
+        # ACTOR means tracking running min
+        nearest_pivots_inds[ACTOR] = len(text_dirs[ACTOR]) + 1;
+        # TARGET means tracking running max
+        nearest_pivots_inds[TARGET] = -1;
+
+        # go through all pivots
+        for pivot in pivots:
             # conjugations
-            conjs = verbs[verb];
+            conjs = pivots[pivot];
 
             # go left and right
             for direction in directions:
-                text_dir = text_dirs[direction];
-
-                # split up self.context by word
-                words = text_dir.split(' ');
+                words = text_dirs[direction];
 
                 # current word index
                 c_i = 0;
 
-                # going backward; start at last word
                 if direction == TARGET:
+                    # going backward; start at last word
                     c_i = len(words) - 1;
-                # going foward; start at first word
                 elif direction == ACTOR:
+                    # going foward; start at first word
                     c_i = 0;
 
                 # stop after leaving the sentence
@@ -106,17 +115,43 @@ class Instance():
                     # extract this word
                     word = words[c_i];
 
-                    # this word is a conjugation of the verb
+                    # this word is a conjugation of the pivot
                     if word in conjs:
-                        # set value of actor/target in vector corresponding to
-                        # verb in this specific instance
-                        self.vector[verb][direction] = 1;
+                        if direction == TARGET:
+                            if c_i > nearest_pivots_inds[TARGET]:
+                                nearest_pivots_inds[TARGET] = c_i;
+                        elif direction == ACTOR:
+                            if c_i < nearest_pivots_inds[ACTOR]:
+                                nearest_pivots_inds[ACTOR] = c_i;
 
                         # TODO may want to consider subsequent matches
                         break;
 
                     # go to next word
                     c_i += direction;
+
+        # a pivot was found
+        if (nearest_pivots_inds[ACTOR] != len(text_dirs[ACTOR]) + 1):
+            # set actor value in vector corresponding to nearest actor pivot 
+            idx = nearest_pivots_inds[ACTOR];
+            pivot = text_dirs[ACTOR][idx];
+
+            # get the unconjugated form from the dictionary
+            # TODO may be slow, consider bringing in parallel data structure
+            pivot_unconj = [k for k,v in pivots.items() if pivot in v][0];
+            
+            self.vector[pivot_unconj][ACTOR] = 1;
+
+        # a pivot was found
+        if(nearest_pivots_inds[TARGET] != -1):
+            # set target value in vector corresponding to nearest target pivot 
+            idx = nearest_pivots_inds[TARGET];
+            pivot = text_dirs[TARGET][idx];
+
+            # get the unconjugated form from the dictionary
+            pivot_unconj = [k for k,v in pivots.items() if pivot in v][0];
+            
+            self.vector[pivot_unconj][TARGET] = 1;
 
 # go through all instances of descriptors
 for instance_text in instance_texts:
