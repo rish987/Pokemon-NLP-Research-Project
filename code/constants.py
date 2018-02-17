@@ -2,8 +2,9 @@
 # Author(s): Rishikesh Vaishnav, Jessica Lacovelli, Bonnie Chen
 
 # Created: 05/02/2018
-import re
-import json
+import re;
+import json;
+import copy;
 
 d = json.load(open('dictionary.json'))
 
@@ -24,93 +25,123 @@ LABELED_CORRECTED_DESCRIPTORS_FILE = '../data/descriptors_labeled_corrected';
 
 TRAINING_DATA_SELF_FILE = '../data/training_data_self';
 
+# proportion of the entities to construct vectors for
+VECTORIZED_PROP = 0.2;
+
 # proportion of the autolabeled data to use as the training set
 TRAINING_SET_PROP = 0.7;
 
-# matches a string, with leading and trailing characters
-DESCRIPTOR_FORMAT_STRING = r'(?:\S+)?%s(?:\S+)?';
+PIVOT_CONJ_FILE = 'pivot_conjs';
 
-# starting regex
-regex = DESCRIPTOR_FORMAT_STRING;
+ACTOR = 1;
+TARGET = -1;
 
-# number of surrounding words to match
-NUM_SURR_WORDS = 1;
+TEMPLATE_VECTOR = {};
 
-# matches any spaces or sequence of characters
-WORD_FORMAT_SPACES = '\s+';
-WORD_FORMAT_WORD = '\S+';
+directions = [ACTOR, TARGET];
 
-# matches any word before a match
-WORD_FORMAT_BEFORE = WORD_FORMAT_WORD + WORD_FORMAT_SPACES;
+pivots = json.load(open('pivot_conjs'));
 
-# matches any word after a match
-WORD_FORMAT_AFTER = WORD_FORMAT_SPACES + WORD_FORMAT_WORD;
+for pivot in pivots:
+    # there are two entries per pivot; one set if this pivot is used as an
+    # action this descriptor performs in this context (ACTOR), and another set
+    # if this action is performed on this descriptor in this context (TARGET)
+    TEMPLATE_VECTOR[pivot] = {ACTOR: 0, TARGET: 0};
 
-# all parts of speech
-POS_TERMS = ['adjective', 'noun', 'preposition', 'verb', 'adverb', 'pronoun', 'conjunction', 'interjection', 'article', 'none'];
+instances = [];
 
-# template for Descriptor POS vectors
-POS_VECTOR_TEMPLATE = {};
-for term in POS_TERMS:
-    POS_VECTOR_TEMPLATE[term] = 0;
+class Instance():
+    """
+    Initialize this Instance with the given context (containing sentence),
+    label, and construct this instance's vector.
 
-# go through all surrounding words to add to regex
-for i in range(NUM_SURR_WORDS):
-    # add word before
-    regex = WORD_FORMAT_BEFORE + regex;
-    regex = regex + WORD_FORMAT_AFTER;
-
-class Descriptor():
-    def __init__(self, _title, _label):
-        self.title = _title;
+    _descriptor - the descriptor that generated this instance
+    _context - the sentence in which the descriptor was found
+    _descriptor_pos - the index of the match to descriptor in the context; 0
+    unless there are more than one matches
+    _label - the label of this instance
+    """
+    def __init__(self, _descriptor, _descriptor_pos, _context, _label):
+        self.descriptor = _descriptor;
+        self.descriptor_pos = _descriptor_pos;
+        _context = re.sub(r'[^\w\s]','',_context)
+        self.context = _context;
         self.label = _label;
-        self.predicted_label = None;
-        self.pos_vector = POS_VECTOR_TEMPLATE.copy();
-
-    def get_title(self):
-        return self.title;
+        self.vector = {};
+        self.set_vector();
 
     def get_label(self):
         return self.label;
 
-    def get_word_map(self):
-        return self.word_map;
+    def get_descriptor(self):
+        return self.descriptor;
+
+    def get_vector_dict(self):
+        return self.vector;
 
     def get_vector(self):
-        return [self.pos_vector[w] for w in \
-                sorted(self.pos_vector)];
+        # sort alphabetically
+        temp = [v for k, v in sorted(self.vector.items())];
+
+        vectorized = [];
+        for entry in temp:
+            vectorized += [v for k, v in sorted(entry.items())];
+
+        return vectorized;
 
     """
-    Deconstructs the given string, and updates this Descriptor's word_map
-    with the number of occurrences of each of the words in this string.
+    Sets this instance's vector by searching for words in the context and
+    identifying them as acting or targeting words.
+    E.g., if the instance is "Bulbasaur" in the sentence "Bublasaur uses Vine
+    Whip.", "uses" is an acting pivot. On the other hand, if the instance is 
+    "Vine Whip" in the sentence "Bulbasaur uses Vine Whip", "uses" is a
+    targeting pivot.
     """
-    def add_words(self, string):
-        # remove this descriptor from the string
-        #string = re.sub((DESCRIPTOR_FORMAT_STRING + '\s+') % self.title, '', string);
-        words = string.split(' ');
-        for word in words:
-            # remove leading or trailing punctuation
-            words_found = re.findall(r'\w+', word);
-            if len(words_found) > 0:
-                word = re.findall(r'\w+', word)[0].lower();
+    def set_vector(self):
+        # set template vector of this instance to fill
+        self.vector = copy.deepcopy(TEMPLATE_VECTOR);
 
-                # ensure word is in english dictionary
-                if word in d:
-                    defs = d[word]['definitions'];
+        text_dirs = {};
 
-                    # all of the different parts of speech of this word
-                    pos_list = [defs[x]['part_of_speech'] for x in \
-                            range(len(defs))]
+        text_dirs[ACTOR] = self.context[self.descriptor_pos \
+                + len(self.descriptor):].split(' ');
+        text_dirs[TARGET] = self.context[0:self.descriptor_pos].split(' ');
 
-                    # add one to every entry in the pos vector with a matching
-                    # pos
-                    for pos in pos_list:
-                        # pos defined for this definition
-                        if len(pos) > 0:
-                            if pos in self.pos_vector:
-                                self.pos_vector[pos] += 1;
-                            else:
-                                #self.pos_vector['none'] += 1;
-                                pass;
-                else:
-                    self.pos_vector['none'] += 1;
+        conjs = [];
+        for pivot in pivots:
+            conjs += pivots[pivot];
+
+        # go left and right
+        for direction in directions:
+            words = text_dirs[direction];
+
+            # current word index
+            c_i = 0;
+
+            if direction == TARGET:
+                # going backward; start at last word
+                c_i = len(words) - 1;
+            elif direction == ACTOR:
+                # going foward; start at first word
+                c_i = 0;
+
+            # stop after leaving the sentence
+            while (c_i >= 0) and (c_i <= (len(words) - 1)):
+                # extract this word
+                word = words[c_i];
+
+                # this word is a conjugation of the pivot
+                if word in conjs:
+                    # use the key as the found pivot in this direction
+                    found = [k for k,v in pivots.items() if word in v][0];
+
+                    print(word);
+
+                    self.vector[found][direction] = 1;
+
+                    # TODO may want to consider subsequent matches
+                    break;
+
+                # go to next word
+                c_i += direction;
+

@@ -22,7 +22,7 @@ TODO multiple pivots for a single entity, e.g.
      [Ash] congratulates [Caterpie] on coming through, and urges [Misty]...
 TODO confidence based on distance
 TODO active vs passive voice
-TODO filter out punctuation
+- TODO filter out punctuation
 """
 ACTOR = 1;
 TARGET = -1;
@@ -57,7 +57,7 @@ class Instance():
         self.descriptor = _descriptor;
         self.descriptor_pos = _descriptor_pos;
         self.context = _context;
-        self.vector = [];
+        self.vector = {};
         self.set_vector();
 
     def get_descriptor(self):
@@ -84,74 +84,42 @@ class Instance():
                 + len(self.descriptor):].split(' ');
         text_dirs[TARGET] = self.context[0:self.descriptor_pos].split(' ');
 
-        # to store nearest pivot to this instance
-        nearest_pivots_inds = {};
-        # ACTOR means tracking running min
-        nearest_pivots_inds[ACTOR] = len(text_dirs[ACTOR]) + 1;
-        # TARGET means tracking running max
-        nearest_pivots_inds[TARGET] = -1;
-
-        # go through all pivots
+        conjs = [];
         for pivot in pivots:
-            # conjugations
-            conjs = pivots[pivot];
+            conjs += pivots[pivot];
 
-            # go left and right
-            for direction in directions:
-                words = text_dirs[direction];
+        # go left and right
+        for direction in directions:
+            words = text_dirs[direction];
 
-                # current word index
+            # current word index
+            c_i = 0;
+
+            if direction == TARGET:
+                # going backward; start at last word
+                c_i = len(words) - 1;
+            elif direction == ACTOR:
+                # going foward; start at first word
                 c_i = 0;
 
-                if direction == TARGET:
-                    # going backward; start at last word
-                    c_i = len(words) - 1;
-                elif direction == ACTOR:
-                    # going foward; start at first word
-                    c_i = 0;
+            # stop after leaving the sentence
+            while (c_i >= 0) and (c_i <= (len(words) - 1)):
+                # extract this word
+                word = words[c_i];
 
-                # stop after leaving the sentence
-                while (c_i >= 0) and (c_i <= (len(words) - 1)):
-                    # extract this word
-                    word = words[c_i];
+                # this word is a conjugation of the pivot
+                if word in conjs:
+                    # use the key as the found pivot in this direction
+                    found = [k for k,v in pivots.items() if word in\
+                            v][0];
 
-                    # this word is a conjugation of the pivot
-                    if word in conjs:
-                        if direction == TARGET:
-                            if c_i > nearest_pivots_inds[TARGET]:
-                                nearest_pivots_inds[TARGET] = c_i;
-                        elif direction == ACTOR:
-                            if c_i < nearest_pivots_inds[ACTOR]:
-                                nearest_pivots_inds[ACTOR] = c_i;
+                    self.vector[found][direction] = 1;
 
-                        # TODO may want to consider subsequent matches
-                        break;
+                    # TODO may want to consider subsequent matches
+                    break;
 
-                    # go to next word
-                    c_i += direction;
-
-        # a pivot was found
-        if (nearest_pivots_inds[ACTOR] != len(text_dirs[ACTOR]) + 1):
-            # set actor value in vector corresponding to nearest actor pivot 
-            idx = nearest_pivots_inds[ACTOR];
-            pivot = text_dirs[ACTOR][idx];
-
-            # get the unconjugated form from the dictionary
-            # TODO may be slow, consider bringing in parallel data structure
-            pivot_unconj = [k for k,v in pivots.items() if pivot in v][0];
-            
-            self.vector[pivot_unconj][ACTOR] = 1;
-
-        # a pivot was found
-        if(nearest_pivots_inds[TARGET] != -1):
-            # set target value in vector corresponding to nearest target pivot 
-            idx = nearest_pivots_inds[TARGET];
-            pivot = text_dirs[TARGET][idx];
-
-            # get the unconjugated form from the dictionary
-            pivot_unconj = [k for k,v in pivots.items() if pivot in v][0];
-            
-            self.vector[pivot_unconj][TARGET] = 1;
+                # go to next word
+                c_i += direction;
 
 # go through all instances of descriptors
 for instance_text in instance_texts:
