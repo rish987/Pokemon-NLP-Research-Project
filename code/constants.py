@@ -31,12 +31,26 @@ VECTORIZED_PROP = 0.2;
 # proportion of the autolabeled data to use as the training set
 TRAINING_SET_PROP = 0.7;
 
+def create_shallow_pivot_dict(pivots):
+    pivot_dict = {};
+    for pivot in pivots:
+        pivot_dict[pivot] = [pivot];
+
+    return pivot_dict;
+
+
 # pronouns
 SUBJECT_PRONOUNS = ['he', 'she', 'it', 'they'];
+subject_pronouns_pivots = create_shallow_pivot_dict(SUBJECT_PRONOUNS);
+print(subject_pronouns_pivots);
 OBJECT_PRONOUNS = ['him', 'her', 'it', 'them'];
+object_pronouns_pivots = create_shallow_pivot_dict(OBJECT_PRONOUNS);
 POSSESSIVE_ADJECTIVES = ['his', 'her', 'its', 'their'];
+possessive_adjectives_pivots = create_shallow_pivot_dict(POSSESSIVE_ADJECTIVES);
 POSSESSIVE_PRONOUNS = ['his', 'hers', 'its', 'theirs'];
+possessive_pronouns_pivots = create_shallow_pivot_dict(POSSESSIVE_PRONOUNS);
 REFLEXIVE_PRONOUNS = ['himself', 'herself', 'itself', 'themselves'];
+reflexive_pronouns_pivots = create_shallow_pivot_dict(REFLEXIVE_PRONOUNS);
 
 PIVOT_CONJ_FILE = 'pivot_conjs';
 
@@ -47,13 +61,7 @@ TEMPLATE_VECTOR = {};
 
 directions = [ACTOR, TARGET];
 
-pivots = json.load(open('pivot_conjs'));
-
-for pivot in pivots:
-    # there are two entries per pivot; one set if this pivot is used as an
-    # action this descriptor performs in this context (ACTOR), and another set
-    # if this action is performed on this descriptor in this context (TARGET)
-    TEMPLATE_VECTOR[pivot] = {ACTOR: 0, TARGET: 0};
+verb_pivots = json.load(open('pivot_conjs'));
 
 instances = [];
 
@@ -71,11 +79,16 @@ class Instance():
     def __init__(self, _descriptor, _descriptor_pos, _context, _label):
         self.descriptor = _descriptor;
         self.descriptor_pos = _descriptor_pos;
-        _context = re.sub(r'[^\w\s\'-]',' ',_context)
+        _context = re.sub(r'[^\w\s\'-]',' ',_context).lower();
         self.context = _context;
         self.label = _label;
         self.vector = {};
-        self.set_vector(TEMPLATE_VECTOR);
+        self.set_vector(verb_pivots);
+        self.set_vector(subject_pronouns_pivots);
+        self.set_vector(object_pronouns_pivots);
+        self.set_vector(possessive_adjectives_pivots);
+        self.set_vector(possessive_pronouns_pivots);
+        self.set_vector(reflexive_pronouns_pivots);
 
     def get_label(self):
         return self.label;
@@ -104,10 +117,15 @@ class Instance():
     "Vine Whip" in the sentence "Bulbasaur uses Vine Whip", "uses" is a
     targeting pivot.
     """
-    def set_vector(self, template):
-        # set template vector of this instance to fill
-        self.vector.update(copy.deepcopy(template));
-
+    def set_vector(self, pivots):
+        for pivot in pivots:
+            if pivot not in self.vector:
+                # there are two entries per pivot; one set if this pivot is
+                # used as an action this descriptor performs in this context
+                # (ACTOR), and another set if this action is performed on this
+                # descriptor in this context (TARGET)
+                self.vector[pivot] = {ACTOR: 0, TARGET: 0};
+            
         text_dirs = {};
 
         text_dirs[ACTOR] = self.context[self.descriptor_pos \

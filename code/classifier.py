@@ -61,18 +61,17 @@ predictions = clf.predict(test_vectors);
 # TODO off by one when accessing descriptors?
 for i in range(num_training + 1, num_data - 1):
     prediction = predictions[i - (num_training + 1)];
-    if prediction != labels[i]:
-        print("***Incorrect Prediction: " + descriptors[i - 1]);
-        print("\t Actual - " + [k for k,v in label_nums.items() if v \
-                == labels[i]][0]);
-        print("\t Predicted - " + [k for k,v in label_nums.items() if v \
-                == prediction][0]);
-    else:
-        print("---Correct Prediction: " + descriptors[i - 1]);
-        print("\t Actual - " + [k for k,v in label_nums.items() if v \
-                == labels[i]][0]);
-        print("\t Predicted - " + [k for k,v in label_nums.items() if v \
-                == prediction][0]);
+    actual_str = [k for k,v in label_nums.items() if v == labels[i]][0];
+    prediction_str = [k for k,v in label_nums.items() if v == prediction][0];
+    if (actual_str != 'pokemon') and (actual_str != 'person'):
+        if prediction != labels[i]:
+            print("***Incorrect Prediction: " + descriptors[i - 1]);
+            print("\t Actual - " + actual_str);
+            print("\t Predicted - " + prediction_str);
+        else:
+            print("---Correct Prediction: " + descriptors[i - 1]);
+            print("\t Actual - " + actual_str);
+            print("\t Predicted - " + prediction_str);
 
 print(descriptors[num_training + 1]);
 
