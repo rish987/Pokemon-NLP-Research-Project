@@ -28,9 +28,12 @@ num_data = len(data_text_raw) - 1;
 
 data = np.zeros((num_data, vector_size + 1));
 
+descriptors = [];
+
 # go through all lines in training data file
 for i in range(1, len(data_text_raw)-1):
     items = data_text_raw[i].split('\t');
+    descriptors.append(items[0]);
     label = label_nums[items[1]];
     vector_string = items[2];
     vector = [int(x) for x in vector_string.split()];
@@ -49,11 +52,31 @@ training_labels = labels[:(num_training + 1)];
 test_vectors = vectors[(num_training + 1):, :];
 test_labels = labels[(num_training + 1):];
 
-#clf = LogisticRegression(solver='newton-cg', C=1000000, max_iter=1000, random_state=0, \
-#    multi_class='multinomial', verbose=1).fit(training_vectors, \
-#    training_labels);
-#
-#print('Logistic regression result:', clf.score(test_vectors, test_labels));
+clf = LogisticRegression(solver='newton-cg', max_iter=1000, random_state=0, \
+    multi_class='multinomial', verbose=1).fit(training_vectors, \
+    training_labels);
+
+predictions = clf.predict(test_vectors);
+
+# TODO off by one when accessing descriptors?
+for i in range(num_training + 1, num_data - 1):
+    prediction = predictions[i - (num_training + 1)];
+    if prediction != labels[i]:
+        print("***Incorrect Prediction: " + descriptors[i - 1]);
+        print("\t Actual - " + [k for k,v in label_nums.items() if v \
+                == labels[i]][0]);
+        print("\t Predicted - " + [k for k,v in label_nums.items() if v \
+                == prediction][0]);
+    else:
+        print("---Correct Prediction: " + descriptors[i - 1]);
+        print("\t Actual - " + [k for k,v in label_nums.items() if v \
+                == labels[i]][0]);
+        print("\t Predicted - " + [k for k,v in label_nums.items() if v \
+                == prediction][0]);
+
+print(descriptors[num_training + 1]);
+
+print('Logistic regression result:', clf.score(test_vectors, test_labels));
 
 clf = KNeighborsClassifier(n_neighbors=50);
 clf.fit(training_vectors, training_labels);

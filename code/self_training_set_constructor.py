@@ -7,7 +7,7 @@ import random;
 from constants import *;
 
 sentence_regex = r'[^.\?\!]*[^A-Za-z]%s(?:[^A-Za-z\.\?\!][^.\?\!]*)?[\.\?\!]';
-descriptor_regex = r'[^A-Za-z]%s[^A-Za-z\.\?\!]';
+descriptor_regex = r'[^A-Za-z]%s[^A-Za-z]';
 
 # get all descriptors and their labels as tab-separated in individual strings
 descriptor_and_label_strings = [];
@@ -34,7 +34,9 @@ with open(RAW_TEXT_FILE, 'r') as file :
   filedata = file.read();
 
 last_descriptor_i = int(len(descriptor_and_label_strings) * VECTORIZED_PROP);
-
+#last_descriptor_i = 1;
+## TODO
+#descriptor_and_label_strings = ['move		Barrier'];
 for i in range(last_descriptor_i) :
     descriptor_and_label_string = descriptor_and_label_strings[i];
     descriptor_and_label_split = descriptor_and_label_string.split('\t\t');
@@ -56,8 +58,8 @@ for i in range(last_descriptor_i) :
         for match in iterator:
             descriptor_pos = match.span()[0] + 1;
             # print('\tMatch at: ' + str(descriptor_pos))
-            instances.append(Instance(descriptor_string, descriptor_pos, found, 
-                label_string));
+            instances.append(Instance(descriptor_string, descriptor_pos, \
+                found, label_string));
 
 data_lines_to_write = [];
 # set strings for instances

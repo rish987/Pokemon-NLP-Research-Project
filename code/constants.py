@@ -71,7 +71,7 @@ class Instance():
     def __init__(self, _descriptor, _descriptor_pos, _context, _label):
         self.descriptor = _descriptor;
         self.descriptor_pos = _descriptor_pos;
-        _context = re.sub(r'[^\w\s]','',_context)
+        _context = re.sub(r'[^\w\s\'-]',' ',_context)
         self.context = _context;
         self.label = _label;
         self.vector = {};
@@ -99,7 +99,7 @@ class Instance():
     """
     Sets this instance's vector by searching for words in the context and
     identifying them as acting or targeting words.
-    E.g., if the instance is "Bulbasaur" in the sentence "Bublasaur uses Vine
+    E.g., if the instance is "Bulbasaur" in the sentence "Bulbasaur uses Vine
     Whip.", "uses" is an acting pivot. On the other hand, if the instance is 
     "Vine Whip" in the sentence "Bulbasaur uses Vine Whip", "uses" is a
     targeting pivot.
@@ -112,7 +112,13 @@ class Instance():
 
         text_dirs[ACTOR] = self.context[self.descriptor_pos \
                 + len(self.descriptor):].split(' ');
+        text_dirs[ACTOR] = [x for x in text_dirs[ACTOR] if x];
+
         text_dirs[TARGET] = self.context[0:self.descriptor_pos].split(' ');
+        text_dirs[TARGET] = [x for x in text_dirs[TARGET] if x];
+
+        #print('text_dirs[ACTOR] ' + str(text_dirs[ACTOR]));
+        #print('text_dirs[TARGET] ' + str(text_dirs[TARGET]));
 
         conjs = [];
         for pivot in pivots:
