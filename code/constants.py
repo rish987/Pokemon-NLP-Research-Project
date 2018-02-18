@@ -1,5 +1,5 @@
 # File: constants.py 
-# Author(s): Rishikesh Vaishnav, Jessica Lacovelli, Bonnie Chen
+# Author(s): Rishikesh Vaishnav, Jessica Iacovelli, Bonnie Chen
 
 # Created: 05/02/2018
 import re;
@@ -30,6 +30,13 @@ VECTORIZED_PROP = 0.2;
 
 # proportion of the autolabeled data to use as the training set
 TRAINING_SET_PROP = 0.7;
+
+# pronouns
+SUBJECT_PRONOUNS = ['he', 'she', 'it', 'they'];
+OBJECT_PRONOUNS = ['him', 'her', 'it', 'them'];
+POSSESSIVE_ADJECTIVES = ['his', 'her', 'its', 'their'];
+POSSESSIVE_PRONOUNS = ['his', 'hers', 'its', 'theirs'];
+REFLEXIVE_PRONOUNS = ['himself', 'herself', 'itself', 'themselves'];
 
 PIVOT_CONJ_FILE = 'pivot_conjs';
 
@@ -68,7 +75,7 @@ class Instance():
         self.context = _context;
         self.label = _label;
         self.vector = {};
-        self.set_vector();
+        self.set_vector(TEMPLATE_VECTOR);
 
     def get_label(self):
         return self.label;
@@ -97,9 +104,9 @@ class Instance():
     "Vine Whip" in the sentence "Bulbasaur uses Vine Whip", "uses" is a
     targeting pivot.
     """
-    def set_vector(self):
+    def set_vector(self, template):
         # set template vector of this instance to fill
-        self.vector = copy.deepcopy(TEMPLATE_VECTOR);
+        self.vector.update(copy.deepcopy(template));
 
         text_dirs = {};
 

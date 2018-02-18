@@ -21,8 +21,11 @@ TODO part of speech tagging: only pivot on a certain part of speech to
 TODO multiple pivots for a single entity, e.g.
      [Ash] congratulates [Caterpie] on coming through, and urges [Misty]...
 TODO confidence based on distance
-TODO active vs passive voice
-- TODO filter out punctuation
+TODO pronoun pivots
+TODO incorrectly matching pronouns to actor/target (e.g. "Ash brushes its
+    fur.")
+TODO 'Team Rocket Grunt' no match found?
+TODO not detecting pivots when it should?
 """
 ACTOR = 1;
 TARGET = -1;

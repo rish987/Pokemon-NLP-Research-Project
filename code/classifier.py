@@ -1,14 +1,11 @@
 # File: classifier.py 
-# Author(s): Rishikesh Vaishnav, Jessica Lacovelli, Bonnie Chen
+# Author(s): Rishikesh Vaishnav, Jessica Iacovelli, Bonnie Chen
 
 # Created: 06/02/2018
 import numpy as np;
 from constants import *;
 from sklearn.linear_model import LogisticRegression;
 from sklearn.neighbors import KNeighborsClassifier;
-from sklearn.neural_network import MLPClassifier;
-from sklearn.naive_bayes import MultinomialNB;
-from sklearn.svm import SVC;
 
 # load the raw data
 filedata = None;
@@ -62,22 +59,3 @@ clf = KNeighborsClassifier(n_neighbors=50);
 clf.fit(training_vectors, training_labels);
 
 print('K nearest neighbors result:',clf.score(test_vectors, test_labels));
-#
-#clf = MLPClassifier(solver='lbfgs', alpha=1e-5, \
-#        hidden_layer_sizes=(5, 2), random_state=1)
-#
-#clf.fit(training_data_predictors, training_data_labels);
-#
-#print('Multilayer perceptron result:',clf.score(unclassified_data, unclassified_data_labels));
-#
-#clf = MultinomialNB();
-#
-#clf.fit(training_data_predictors, training_data_labels);
-#
-#print('Multinomial naive bayes result:',clf.score(unclassified_data, unclassified_data_labels));
-#
-#clf = SVC(degree=1, kernel='poly', verbose=False);
-#
-#clf.fit(training_data_predictors, training_data_labels);
-#
-#print('Support vector machine result:',clf.score(unclassified_data, unclassified_data_labels));

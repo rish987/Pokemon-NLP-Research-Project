@@ -1,5 +1,5 @@
 # File: self_training_set_constructor.py 
-# Author(s): Rishikesh Vaishnav, Jessica Lacovelli, Bonnie Chen
+# Author(s): Rishikesh Vaishnav, Jessica Iacovelli, Bonnie Chen
 # Created: 31/01/2018
 import re;
 import random;
@@ -59,17 +59,27 @@ for i in range(last_descriptor_i) :
             instances.append(Instance(descriptor_string, descriptor_pos, found, 
                 label_string));
 
+data_lines_to_write = [];
+# set strings for instances
+for instance in instances:
+    line = '';
+    line += instance.get_descriptor() + '\t' + instance.get_label() + '\t';
+    for entry in instance.get_vector():
+        line += str(entry) + ' ';
+    line = line[0:-1];
+    line += '\n';
+    data_lines_to_write.append(line);
+
+# randomly shuffle strings
+random.shuffle(data_lines_to_write);
+
 # string containing data to be written to file
 file_data = '';
 file_data += str(len(instances[0].get_vector())) + '\n';
 
-# set vectors for instances and set string to write data to file
-for instance in instances:
-    file_data += instance.get_descriptor() + '\t' + instance.get_label() + '\t';
-    for entry in instance.get_vector():
-        file_data += str(entry) + ' ';
-    file_data = file_data[0:-1];
-    file_data += '\n';
+# set string to write data to file
+for line in data_lines_to_write:
+    file_data += line;
 
 with open(TRAINING_DATA_SELF_FILE, 'w') as file:
   file.write(file_data);
