@@ -35,7 +35,7 @@ INSTANCE_FILE = '../data/instances';
 TRAINING_SET_SIZE_PER_LABEL = 100;
 
 # proportion of the autolabeled data to use as the training set
-TRAINING_SET_PROP = 0.9;
+TRAINING_SET_PROP = 0.7;
 
 def create_shallow_pivot_dict(pivots):
     pivot_dict = {};
@@ -71,7 +71,7 @@ class TSDescriptor():
 
         for found in all_found:
             # print('SENTENCE: ' + found);
-            r = re.compile(descriptor_regex % self.descriptor);
+            r = re.compile(descriptor_regex % re.escape(self.descriptor));
             iterator = r.finditer(found)
             for match in iterator:
                 descriptor_pos = match.span()[0] + 1;

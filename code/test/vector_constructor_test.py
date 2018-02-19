@@ -25,6 +25,8 @@ TODO pronoun pivots
 TODO incorrectly matching pronouns to actor/target (e.g. "Ash brushes its
     fur.")
 TODO 'Team Rocket Grunt' no match found?
+TODO multiple pivots
+    TODO multiple pivots in a row get similar weights, i.e. 'was used'
 TODO not detecting pivots when it should?
 """
 ACTOR = 1;
@@ -34,7 +36,7 @@ text = 'Ash used Bulbasaur next and it swiftly used its Vine Whip attack';
 """
 Active/Passive voice Probability Heuristic
 
-text = 'was * * by * * * * Vine Whip was used by Bulbasaur';
+text = '* * * Vine Whip was used by Bulbasaur';
 
 IDEAL
 Vine Whip - 'used': {ACTOR: 0, TARGET: 1}
@@ -44,6 +46,8 @@ WITHOUT CHECKING
 Vine Whip - 'used': {ACTOR: 1, TARGET: 0}
 Bulbasaur - 'used': {ACTOR: 0, TARGET: 1}
 
+???
+passive_voice_prob = (1/[dist. to 'was'] + 1/[dist. to 'by']) / [total number of words]
 
 """
 instance_texts = ['Ash', 'Bulbasaur', 'Vine Whip'];
