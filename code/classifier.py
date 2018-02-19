@@ -6,6 +6,7 @@ import numpy as np;
 from constants import *;
 from sklearn.linear_model import LogisticRegression;
 from sklearn.neighbors import KNeighborsClassifier;
+from sklearn.dummy import DummyClassifier;
 import random;
 
 # load the raw data
@@ -64,11 +65,11 @@ for i in range(num_training + 1, num_data - 1):
     actual_str = [k for k,v in label_nums.items() if v == labels[i]][0];
     prediction_str = [k for k,v in label_nums.items() if v == prediction][0];
     if prediction != labels[i]:
-        print("***Incorrect Prediction: " + descriptors[i - 1]);
+        print("***Incorrect Prediction: " + descriptors[i]);
         print("\t Actual - " + actual_str);
         print("\t Predicted - " + prediction_str);
     else:
-        print("---Correct Prediction: " + descriptors[i - 1]);
+        print("---Correct Prediction: " + descriptors[i]);
         print("\t Actual - " + actual_str);
         print("\t Predicted - " + prediction_str);
 
@@ -80,3 +81,8 @@ clf = KNeighborsClassifier(n_neighbors=50);
 clf.fit(training_vectors, training_labels);
 
 print('K nearest neighbors result:',clf.score(test_vectors, test_labels));
+
+clf = DummyClassifier(strategy='stratified');
+clf.fit(training_vectors, training_labels);
+
+print('Random result:',clf.score(test_vectors, test_labels));
