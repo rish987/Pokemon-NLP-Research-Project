@@ -6,6 +6,11 @@ import re;
 import json;
 import copy;
 
+# numerical assignments of labels
+label_nums = { 'pokemon': 0, 'person': 1, 'settlement': 2, 'move': 3,\
+        'event':4, 'item': 5, 'region': 6, 'building':7,\
+        'group':8, 'type': 9};
+
 d = json.load(open('dictionary.json'))
 
 # bulbapedia wiki URL prefix
@@ -26,10 +31,10 @@ LABELED_CORRECTED_DESCRIPTORS_FILE = '../data/descriptors_labeled_corrected';
 TRAINING_DATA_SELF_FILE = '../data/training_data_self';
 
 # proportion of the entities to construct vectors for
-VECTORIZED_PROP = 0.2;
+TRAINING_SET_SIZE_PER_LABEL = 100;
 
 # proportion of the autolabeled data to use as the training set
-TRAINING_SET_PROP = 0.7;
+TRAINING_SET_PROP = 0.8;
 
 def create_shallow_pivot_dict(pivots):
     pivot_dict = {};
@@ -42,7 +47,6 @@ def create_shallow_pivot_dict(pivots):
 # pronouns
 SUBJECT_PRONOUNS = ['he', 'she', 'it', 'they'];
 subject_pronouns_pivots = create_shallow_pivot_dict(SUBJECT_PRONOUNS);
-print(subject_pronouns_pivots);
 OBJECT_PRONOUNS = ['him', 'her', 'it', 'them'];
 object_pronouns_pivots = create_shallow_pivot_dict(OBJECT_PRONOUNS);
 POSSESSIVE_ADJECTIVES = ['his', 'her', 'its', 'their'];
@@ -165,8 +169,6 @@ class Instance():
                 if word in conjs:
                     # use the key as the found pivot in this direction
                     found = [k for k,v in pivots.items() if word in v][0];
-
-                    print(word);
 
                     self.vector[found][direction] = 1;
 

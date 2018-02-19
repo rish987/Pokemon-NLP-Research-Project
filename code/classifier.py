@@ -6,6 +6,7 @@ import numpy as np;
 from constants import *;
 from sklearn.linear_model import LogisticRegression;
 from sklearn.neighbors import KNeighborsClassifier;
+import random;
 
 # load the raw data
 filedata = None;
@@ -16,22 +17,21 @@ with open(RAW_TEXT_FILE, 'r') as file :
 with open(TRAINING_DATA_SELF_FILE, 'r') as f:
     data_text_raw = f.read().splitlines();
 
-# numerical assignments of labels
-label_nums = { 'pokemon': 0, 'person': 1, 'settlement': 2, 'move': 3,\
-        'event':4, 'item': 5, 'region': 6, 'concept': 7, 'building':8,\
-        'group':9, 'type': 10, 'condition':11};
-
 # get length of vector
 vector_size = int(data_text_raw[0]);
 
-num_data = len(data_text_raw) - 1;
+del data_text_raw[0];
+
+random.shuffle(data_text_raw);
+
+num_data = len(data_text_raw);
 
 data = np.zeros((num_data, vector_size + 1));
 
 descriptors = [];
 
 # go through all lines in training data file
-for i in range(1, len(data_text_raw)-1):
+for i in range(0, len(data_text_raw)-1):
     items = data_text_raw[i].split('\t');
     descriptors.append(items[0]);
     label = label_nums[items[1]];
@@ -63,15 +63,14 @@ for i in range(num_training + 1, num_data - 1):
     prediction = predictions[i - (num_training + 1)];
     actual_str = [k for k,v in label_nums.items() if v == labels[i]][0];
     prediction_str = [k for k,v in label_nums.items() if v == prediction][0];
-    if (actual_str != 'pokemon') and (actual_str != 'person'):
-        if prediction != labels[i]:
-            print("***Incorrect Prediction: " + descriptors[i - 1]);
-            print("\t Actual - " + actual_str);
-            print("\t Predicted - " + prediction_str);
-        else:
-            print("---Correct Prediction: " + descriptors[i - 1]);
-            print("\t Actual - " + actual_str);
-            print("\t Predicted - " + prediction_str);
+    if prediction != labels[i]:
+        print("***Incorrect Prediction: " + descriptors[i - 1]);
+        print("\t Actual - " + actual_str);
+        print("\t Predicted - " + prediction_str);
+    else:
+        print("---Correct Prediction: " + descriptors[i - 1]);
+        print("\t Actual - " + actual_str);
+        print("\t Predicted - " + prediction_str);
 
 print(descriptors[num_training + 1]);
 
