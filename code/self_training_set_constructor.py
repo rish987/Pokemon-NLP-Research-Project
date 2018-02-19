@@ -11,17 +11,22 @@ filedata = None;
 with open(RAW_TEXT_FILE, 'r') as file :
   filedata = file.read();
 
+print("Reading file...");
 # get all descriptors and their labels as tab-separated in individual strings
 instance_strings = [];
 with open(INSTANCE_FILE) as f:
     instance_strings = f.read().splitlines();
 
+print("Initializing mapping...");
 # to hold mapping from labels to all instance objects of those labels
 labels_to_instances = {};
 for label in label_nums:
     labels_to_instances[label] = [];
     
+print("Creating instances...");
+i = 0;
 for instance_string in instance_strings:
+    print("Creating instance: " + str(i) + '/' + str(len(instance_strings)));
     instance_string_split = instance_string.split('\t');
     descriptor_string = instance_string_split[0];
     label_string = instance_string_split[1];
@@ -32,7 +37,9 @@ for instance_string in instance_strings:
     instance = Instance(descriptor_string, pos, sentence_string, label_string);
 
     labels_to_instances[label_string].append(instance);
+    i += 1;
 
+print("Creating training data...");
 labels_to_instances_random = {};
 for label in label_nums:
     labels_to_instances_random[label] = labels_to_instances[label].copy();
