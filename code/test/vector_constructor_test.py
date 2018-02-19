@@ -31,6 +31,21 @@ ACTOR = 1;
 TARGET = -1;
 
 text = 'Ash used Bulbasaur next and it swiftly used its Vine Whip attack';
+"""
+Active/Passive voice Probability Heuristic
+
+text = 'was * * by * * * * Vine Whip was used by Bulbasaur';
+
+IDEAL
+Vine Whip - 'used': {ACTOR: 0, TARGET: 1}
+Bulbasaur - 'used': {ACTOR: 1, TARGET: 0}
+
+WITHOUT CHECKING
+Vine Whip - 'used': {ACTOR: 1, TARGET: 0}
+Bulbasaur - 'used': {ACTOR: 0, TARGET: 1}
+
+
+"""
 instance_texts = ['Ash', 'Bulbasaur', 'Vine Whip'];
 pivots = {'use': ['used'], 'attack': ['attack']};
 

@@ -59,7 +59,6 @@ clf = LogisticRegression(solver='newton-cg', max_iter=1000, random_state=0, \
 
 predictions = clf.predict(test_vectors);
 
-# TODO off by one when accessing descriptors?
 for i in range(num_training + 1, num_data - 1):
     prediction = predictions[i - (num_training + 1)];
     actual_str = [k for k,v in label_nums.items() if v == labels[i]][0];

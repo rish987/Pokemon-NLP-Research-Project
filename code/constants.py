@@ -29,12 +29,13 @@ RANDOM_LABELED_CORRECTED_DESCRIPTORS_FILE = '../data/random_descriptors_correcte
 LABELED_CORRECTED_DESCRIPTORS_FILE = '../data/descriptors_labeled_corrected';
 
 TRAINING_DATA_SELF_FILE = '../data/training_data_self';
+INSTANCE_FILE = '../data/instances';
 
 # proportion of the entities to construct vectors for
 TRAINING_SET_SIZE_PER_LABEL = 100;
 
 # proportion of the autolabeled data to use as the training set
-TRAINING_SET_PROP = 0.7;
+TRAINING_SET_PROP = 0.9;
 
 def create_shallow_pivot_dict(pivots):
     pivot_dict = {};
@@ -43,6 +44,58 @@ def create_shallow_pivot_dict(pivots):
 
     return pivot_dict;
 
+sentence_regex = r'[^.\?\!]*[^A-Za-z]%s(?:[^A-Za-z\.\?\!][^.\?\!]*)?[\.\?\!]';
+descriptor_regex = r'[^A-Za-z]%s[^A-Za-z]';
+
+class TSDescriptor():
+    def __init__(self, _descriptor, _label, _filedata):
+        self.descriptor = _descriptor;
+        self.label = _label;
+        self.instances = [];
+        self.instance_ind = -1;
+        self.filedata = _filedata;
+        self.got_instances = False;
+
+    def get_instances(self):
+        return self.instances;
+
+    def set_instances(self):
+        # search for all matches to descriptor, and also grab surrounding words
+        # in the sentence TODO may not always grab entire sentence, e.g. "Mr.
+        # Mime" or "A.J." somewhere in the sentence will throw it off
+        all_found = re.findall( sentence_regex % re.escape(self.descriptor), 
+            self.filedata);
+        if len(all_found) == 0:
+            print("\tNO MATCH FOUND");
+            return -1;
+
+        for found in all_found:
+            # print('SENTENCE: ' + found);
+            r = re.compile(descriptor_regex % self.descriptor);
+            iterator = r.finditer(found)
+            for match in iterator:
+                descriptor_pos = match.span()[0] + 1;
+                # print('\tMatch at: ' + str(descriptor_pos))
+                self.instances.append(Instance(self.descriptor, \
+                    descriptor_pos, found, self.label));
+
+        self.got_instances = True;
+
+        return 1;
+
+    def rem_instances(self):
+        return (not self.got_instances) or ((self.instance_ind + 1) \
+            < len(self.instances));
+
+    def get_next_instance(self):
+        if not self.got_instances:
+            result = self.set_instances();
+            if result == -1:
+                return -1;
+        if not self.rem_instances():
+            return None;
+        self.instance_ind += 1;
+        return self.instances[self.instance_ind];
 
 # pronouns
 SUBJECT_PRONOUNS = ['he', 'she', 'it', 'they'];
@@ -55,6 +108,11 @@ POSSESSIVE_PRONOUNS = ['his', 'hers', 'its', 'theirs'];
 possessive_pronouns_pivots = create_shallow_pivot_dict(POSSESSIVE_PRONOUNS);
 REFLEXIVE_PRONOUNS = ['himself', 'herself', 'itself', 'themselves'];
 reflexive_pronouns_pivots = create_shallow_pivot_dict(REFLEXIVE_PRONOUNS);
+ETC = ['a', 'as', 'at', 'about', 'after', 'before', 'behind', 'below',\
+        'but', 'by', 'for', 'from', 'in', 'into', 'like', 'of', 'off', 'on',\
+        's', 'onto', 'over', 'since', 'than', 'through', 'to', 'under',\
+        'until', 'up', 'upon', 'with', 'without'];
+etc_pivots = create_shallow_pivot_dict(ETC);
 
 PIVOT_CONJ_FILE = 'pivot_conjs';
 
@@ -84,6 +142,7 @@ class Instance():
         self.descriptor = _descriptor;
         self.descriptor_pos = _descriptor_pos;
         _context = re.sub(r'[^\w\s\'-]',' ',_context).lower();
+        _context = _context.replace('\n', '');
         self.context = _context;
         self.label = _label;
         self.vector = {};
@@ -93,6 +152,7 @@ class Instance():
         self.set_vector(possessive_adjectives_pivots);
         self.set_vector(possessive_pronouns_pivots);
         self.set_vector(reflexive_pronouns_pivots);
+        self.set_vector(etc_pivots);
 
     def get_label(self):
         return self.label;
@@ -102,6 +162,12 @@ class Instance():
 
     def get_vector_dict(self):
         return self.vector;
+
+    def get_descriptor_pos(self):
+        return self.descriptor_pos;
+
+    def get_context(self):
+        return self.context;
 
     def get_vector(self):
         # sort alphabetically
