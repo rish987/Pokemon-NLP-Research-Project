@@ -18,25 +18,21 @@ print("Initializing mapping...");
 labels_to_instances = {};
 for label in label_nums:
     labels_to_instances[label] = [];
-
-total_instances = len(instance_strings);
     
 print("Creating instances...");
 i = 0;
-while len(instance_strings) > 0:
-    instance_string = instance_strings[0];
-    print("Creating instance: " + str(i) + '/' + str(total_instances));
+for instance_string in instance_strings:
+    print("Indexing instance: " + str(i) + '/' + str(len(instance_strings)));
     instance_string_split = instance_string.split('\t');
-    descriptor_string = instance_string_split[0];
+    #descriptor_string = instance_string_split[0];
     label_string = instance_string_split[1];
-    pos = int(instance_string_split[2]);
-    sentence_string = instance_string_split[3];
+    #pos = int(instance_string_split[2]);
+    #sentence_string = instance_string_split[3];
 
     # create a new Instance for this descriptor
-    instance = Instance(descriptor_string, pos, sentence_string, label_string);
+    # instance = Instance(descriptor_string, pos, sentence_string, label_string);
 
-    labels_to_instances[label_string].append(instance);
-    del instance_strings[0];
+    labels_to_instances[label_string].append(i);
     i += 1;
 
 print("Creating training data...");
@@ -58,7 +54,14 @@ for i in range(TRAINING_SET_SIZE_PER_LABEL):
         if i >= len(inst_list):
             print("[WARNING] No remaining instances for label: " + label);
         else:
-            instances.append(inst_list[i]);
+            instance_string = instance_strings[inst_list[i]];
+            instance_string_split = instance_string.split('\t');
+            descriptor_string = instance_string_split[0];
+            label_string = instance_string_split[1];
+            pos = int(instance_string_split[2]);
+            sentence_string = instance_string_split[3];
+            instance = Instance(descriptor_string, pos, sentence_string, label_string);
+            instances.append(instance);
 
         l_i += 1;
 
