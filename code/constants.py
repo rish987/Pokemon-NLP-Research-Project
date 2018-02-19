@@ -32,10 +32,17 @@ TRAINING_DATA_SELF_FILE = '../data/training_data_self';
 INSTANCE_FILE = '../data/instances';
 
 # proportion of the entities to construct vectors for
-TRAINING_SET_SIZE_PER_LABEL = 100;
+TRAINING_SET_SIZE_PER_LABEL = 150;
 
 # proportion of the autolabeled data to use as the training set
 TRAINING_SET_PROP = 0.7;
+
+# weight for distance of pivot from descriptor
+D_WEIGHT = 0.9;
+
+# weight for number of pivots found from descriptor
+# N_WEIGHT = 0.1;
+N_WEIGHT = float(1) - D_WEIGHT;
 
 def create_shallow_pivot_dict(pivots):
     pivot_dict = {};
@@ -219,6 +226,12 @@ class Instance():
             # current word index
             c_i = 0;
 
+            # number of pivots found
+            num_found = 0;
+
+            # distance from current word
+            d_i = 0;
+
             if direction == TARGET:
                 # going backward; start at last word
                 c_i = len(words) - 1;
@@ -236,11 +249,17 @@ class Instance():
                     # use the key as the found pivot in this direction
                     found = [k for k,v in pivots.items() if word in v][0];
 
-                    self.vector[found][direction] = 1;
+                    # weighted value for distance
+                    d_weighted = D_WEIGHT * (float(1) / float(d_i + 1));
 
-                    # TODO may want to consider subsequent matches
-                    break;
+                    # weighed value for number found
+                    n_weighted = N_WEIGHT * (float(1) / float(num_found + 1));
+
+                    self.vector[found][direction] = d_weighted + n_weighted;
+
+                    num_found += 1;
 
                 # go to next word
                 c_i += direction;
 
+                d_i += 1;

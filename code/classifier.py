@@ -43,7 +43,7 @@ for i in range(0, len(data_text_raw)):
     descriptors_to_labels[descriptor] = label;
 
     vector_string = items[2];
-    vector = [int(x) for x in vector_string.split()];
+    vector = [float(x) for x in vector_string.split()];
     vector.append(label);
     data[i, :] = vector;
 
@@ -110,15 +110,15 @@ for descriptor in descriptor_classifications:
         print("\t Predicted - " + prediction_str);
         num_correct += 1;
 
-print("Descriptor classification results: " + \
-    str(float(num_correct) / float(len(descriptor_classifications))) );
-
 print('Logistic regression result:', clf.score(test_vectors, test_labels));
 
 #clf = KNeighborsClassifier(n_neighbors=50);
 #clf.fit(training_vectors, training_labels);
 #
 #print('K nearest neighbors result:',clf.score(test_vectors, test_labels));
+
+print("Descriptor classification results: " + \
+    str(float(num_correct) / float(len(descriptor_classifications))) );
 
 clf = DummyClassifier(strategy='stratified');
 clf.fit(training_vectors, training_labels);
