@@ -30,6 +30,7 @@ class TSDescriptor():
             filedata);
         if len(all_found) == 0:
             print("\tNO MATCH FOUND");
+            return -1;
 
         for found in all_found:
             # print('SENTENCE: ' + found);
@@ -43,15 +44,18 @@ class TSDescriptor():
 
         self.got_instances = True;
 
+        return 1;
+
     def rem_instances(self):
         return (not self.got_instances) or ((self.instance_ind + 1) \
             < len(self.instances));
 
     def get_next_instance(self):
         if not self.got_instances:
-            self.get_instances();
-        # TODO bound check
-        if (self.instance_ind + 1) >= len(self.instances):
+            result = self.get_instances();
+            if result == -1:
+                return -1;
+        if not self.rem_instances():
             return None;
         self.instance_ind += 1;
         return self.instances[self.instance_ind];
@@ -93,6 +97,8 @@ for i in range(TRAINING_SET_SIZE_PER_LABEL):
         for i in range(num_ts_descriptors):
             if des_list[i].rem_instances():
                 instance = des_list[i].get_next_instance();
+                if instance == -1:
+                    continue;
                 break;
 
         if instance == None:

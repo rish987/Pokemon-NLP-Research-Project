@@ -1,4 +1,4 @@
-.*.swp
+.*.sw*
 *.pyc
 temp*
 */__pycache__/*

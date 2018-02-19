@@ -34,7 +34,7 @@ TRAINING_DATA_SELF_FILE = '../data/training_data_self';
 TRAINING_SET_SIZE_PER_LABEL = 100;
 
 # proportion of the autolabeled data to use as the training set
-TRAINING_SET_PROP = 0.8;
+TRAINING_SET_PROP = 0.7;
 
 def create_shallow_pivot_dict(pivots):
     pivot_dict = {};
