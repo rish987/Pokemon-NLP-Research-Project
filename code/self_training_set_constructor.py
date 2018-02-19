@@ -6,13 +6,9 @@ import random;
 
 from constants import *;
 
-# load the raw data
-filedata = None;
-with open(RAW_TEXT_FILE, 'r') as file :
-  filedata = file.read();
-
 print("Reading file...");
-# get all descriptors and their labels as tab-separated in individual strings
+
+# get all instances from file
 instance_strings = [];
 with open(INSTANCE_FILE) as f:
     instance_strings = f.read().splitlines();
@@ -22,11 +18,14 @@ print("Initializing mapping...");
 labels_to_instances = {};
 for label in label_nums:
     labels_to_instances[label] = [];
+
+total_instances = len(instance_strings);
     
 print("Creating instances...");
 i = 0;
-for instance_string in instance_strings:
-    print("Creating instance: " + str(i) + '/' + str(len(instance_strings)));
+while len(instance_strings) > 0:
+    instance_string = instance_strings[0];
+    print("Creating instance: " + str(i) + '/' + str(total_instances));
     instance_string_split = instance_string.split('\t');
     descriptor_string = instance_string_split[0];
     label_string = instance_string_split[1];
@@ -37,6 +36,7 @@ for instance_string in instance_strings:
     instance = Instance(descriptor_string, pos, sentence_string, label_string);
 
     labels_to_instances[label_string].append(instance);
+    del instance_strings[0];
     i += 1;
 
 print("Creating training data...");
