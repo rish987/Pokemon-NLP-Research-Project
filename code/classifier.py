@@ -64,48 +64,67 @@ clf = LogisticRegression(solver='newton-cg', max_iter=1000, random_state=0, \
     training_labels);
 
 predictions = clf.predict(test_vectors);
+confidences = clf.decision_function(test_vectors);
 
 for i in range(num_training + 1, num_data):
     prediction = predictions[i - (num_training + 1)];
+    confidence = confidences[i - (num_training + 1)][int(prediction)];
     actual_str = [k for k,v in label_nums.items() if v == labels[i]][0];
     prediction_str = [k for k,v in label_nums.items() if v == prediction][0];
     if prediction != labels[i]:
-        print("***Incorrect Prediction: " + descriptors[i]);
+        print("***Incorrect Prediction (" + str(confidence) + "):" + descriptors[i]);
         print("\t Actual - " + actual_str);
         print("\t Predicted - " + prediction_str);
     else:
-        print("---Correct Prediction: " + descriptors[i]);
+        print("---Correct Prediction: (" + str(confidence) + "):" + descriptors[i]);
         print("\t Actual - " + actual_str);
         print("\t Predicted - " + prediction_str);
 
-print(descriptors[num_training + 1]);
-
 descriptor_classifications = {};
+# go through all test data
 for i in range(len(test_labels)):
+    # get corresponding descriptor for this point
     descriptor = descriptors[i + (num_training + 1)]
 
+    # there is not an entry in the dictionary yet for this descriptor
     if descriptor not in descriptor_classifications:
         descriptor_classifications[descriptor] = [];
 
-    descriptor_classifications[descriptor].append(predictions[i]);
-
-print(descriptor_classifications);
+    # add this prediction to the list of predictions for this descriptor, along
+    # with the confidence
+    descriptor_classifications[descriptor].append((predictions[i],\
+        float(confidences[i][int(predictions[i])])));
 
 num_correct = 0;
 for descriptor in descriptor_classifications:
     classifications = descriptor_classifications[descriptor];
-    # take a majority vote
-    descriptor_label_prediction = max(set(classifications), key=classifications.count);
+
+    # to store the sum of the confidences for each label
+    confidences_per_label = {};
+    for label in label_nums:
+        num = label_nums[label];
+        confidences_per_label[num] = 0;
+
+    for classification in classifications:
+        confidences_per_label[classification[0]] += classification[1];
+
+    # take a confidence vote
+    descriptor_label_prediction = max(confidences_per_label,\
+        key=confidences_per_label.get);
+    confidence = max(confidences_per_label.values());
     actual_str = [k for k,v in label_nums.items() if v == \
         descriptors_to_labels[descriptor]][0];
     prediction_str = [k for k,v in label_nums.items() if v == \
         descriptor_label_prediction][0];
     if (descriptor_label_prediction != descriptors_to_labels[descriptor]):
-        print("*Incorrect Prediction: " + descriptor);
+        pass;
+        print("*Incorrect Prediction (" + str(confidence) + "):" + \
+            descriptor);
         print("\t Actual - " + actual_str);
         print("\t Predicted - " + prediction_str);
     else:
-        print("-Correct Prediction: " + descriptor);
+        print("-Correct Prediction (" + str(confidence) + "):" + \
+            descriptor);
         print("\t Actual - " + actual_str);
         print("\t Predicted - " + prediction_str);
         num_correct += 1;
