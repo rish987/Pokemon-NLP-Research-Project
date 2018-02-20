@@ -118,7 +118,7 @@ reflexive_pronouns_pivots = create_shallow_pivot_dict(REFLEXIVE_PRONOUNS);
 ETC = ['a', 'as', 'at', 'about', 'after', 'before', 'behind', 'below',\
         'but', 'by', 'for', 'from', 'in', 'into', 'like', 'of', 'off', 'on',\
         's', 'onto', 'over', 'since', 'than', 'through', 'to', 'under',\
-        'until', 'up', 'upon', 'with', 'without'];
+        'until', 'up', 'upon', 'the',  'with', 'without'];
 etc_pivots = create_shallow_pivot_dict(ETC);
 
 PIVOT_CONJ_FILE = 'pivot_conjs';
@@ -226,6 +226,10 @@ class Instance():
         #    (len(text_dirs[ACTOR]) == 0):
         #    passive = True;
 
+        #if (len(text_dirs[TARGET]) > 0) and \
+        #    (text_dirs[TARGET][len(text_dirs[TARGET]) - 1] == 'by'):
+        #    passive = True;
+
         # go left and right
         for direction in directions:
             words = text_dirs[direction];
@@ -264,8 +268,8 @@ class Instance():
 
                     direction_to_set = direction;
 
-                    if passive:
-                        direction_to_set = -direction_to_set;
+                    #if passive and (direction == TARGET):
+                    #    direction_to_set = -direction_to_set;
 
                     self.vector[found][direction_to_set] = d_weighted \
                         + n_weighted;
