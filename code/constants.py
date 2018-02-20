@@ -219,6 +219,13 @@ class Instance():
         for pivot in pivots:
             conjs += pivots[pivot];
 
+        passive = False;
+
+        #if (len(text_dirs[TARGET]) > 0) and \
+        #    (text_dirs[TARGET][len(text_dirs[TARGET]) - 1] == 'by') and \
+        #    (len(text_dirs[ACTOR]) == 0):
+        #    passive = True;
+
         # go left and right
         for direction in directions:
             words = text_dirs[direction];
@@ -255,7 +262,13 @@ class Instance():
                     # weighed value for number found
                     n_weighted = N_WEIGHT * (float(1) / float(num_found + 1));
 
-                    self.vector[found][direction] = d_weighted + n_weighted;
+                    direction_to_set = direction;
+
+                    if passive:
+                        direction_to_set = -direction_to_set;
+
+                    self.vector[found][direction_to_set] = d_weighted \
+                        + n_weighted;
 
                     num_found += 1;
 
