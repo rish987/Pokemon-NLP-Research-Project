@@ -1,145 +1,258 @@
 # File: classifier.py 
 # Author(s): Rishikesh Vaishnav, Jessica Iacovelli, Bonnie Chen
-
 # Created: 06/02/2018
+
 import numpy as np;
-from constants import *;
 from sklearn.linear_model import LogisticRegression;
-from sklearn.neighbors import KNeighborsClassifier;
 from sklearn.dummy import DummyClassifier;
 import random;
 
-# load the raw data
-filedata = None;
-with open(RAW_TEXT_FILE, 'r') as file :
-  filedata = file.read();
+from constants import *;
 
-# open data file
-with open(TRAINING_DATA_SELF_FILE, 'r') as f:
-    data_text_raw = f.read().splitlines();
+# number of classification trials to average over
+NUM_TRIALS = 5;
 
-# get length of vector
-vector_size = int(data_text_raw[0]);
+"""
+Read the training data from file, and return the data in matrix form, along
+with a list of corresponding descriptors and the a dictionary containing the 
+labels of each of those descriptors.
+"""
+def get_data_info():
+    # open data file
+    with open(TRAINING_DATA_SELF_FILE, 'r') as f:
+        data_text_raw = f.read().splitlines();
 
-del data_text_raw[0];
+    # get length of vector
+    vector_length = int(data_text_raw[0]);
 
-random.shuffle(data_text_raw);
+    # remove vector length from data lines
+    del data_text_raw[0];
 
-num_data = len(data_text_raw);
+    data_lines = data_text_raw;
 
-data = np.zeros((num_data, vector_size + 1));
+    # total number of instances in the file
+    num_data = len(data_lines);
 
-descriptors = [];
-descriptors_to_labels = {};
+    # set up vector with expected size
+    data = np.zeros((num_data, vector_length + 2));
 
-# go through all lines in training data file
-for i in range(0, len(data_text_raw)):
-    items = data_text_raw[i].split('\t');
+    # to hold descriptors of each data point
+    descriptors = [];
 
-    descriptor = items[0];
-    descriptors.append(descriptor);
-    label = label_nums[items[1]];
+    # to hold mapping from descriptors to their actual labels
+    descriptors_to_labels = {};
+
+    # go through all lines in training data file
+    for i in range(0, len(data_lines)):
+        # get list of info for this data point
+        items = data_lines[i].split('\t');
+
+        # retrieve descriptor and label number
+        descriptor = items[0];
+        descriptors.append(descriptor);
+        label = label_nums[items[1]];
+        
+        # set the known label of this descriptor, if haven't already done so
+        if descriptor not in descriptors_to_labels:
+            descriptors_to_labels[descriptor] = label;
+
+        # extract vector, including its label number and original index
+        vector_string = items[2];
+        vector = [float(x) for x in vector_string.split()];
+        vector.append(label);
+        vector.append(i);
+
+        # add this vector to the data
+        data[i, :] = vector;
     
-    descriptors_to_labels[descriptor] = label;
+    # return relevant data
+    ret_dict = { \
+    "data": data, \
+    "descriptors": descriptors, \
+    "descriptors_to_labels": descriptors_to_labels \
+    }
+    return ret_dict;
 
-    vector_string = items[2];
-    vector = [float(x) for x in vector_string.split()];
-    vector.append(label);
-    data[i, :] = vector;
+"""
+Classify the given data by both instance and descriptor, and return the results.
+"""
+def classify(data, descriptors, descriptors_to_labels, print_predictions, \
+    print_results):
+    # number of data points
+    num_data = data.shape[0];
 
-vectors = data[:, :-1];
-labels = data[:, -1];
+    # randomly shuffle the data vectors
+    np.random.shuffle(data);
 
-num_training = int(TRAINING_SET_PROP * num_data);
-print("num_training:" + str(num_training));
+    # extract the vectors, labels, and indices
+    vectors = data[:, :-2];
+    labels = data[:, -2];
+    indices = data[:, -1];
 
-training_vectors = vectors[:(num_training + 1), :];
-training_labels = labels[:(num_training + 1)];
+    # number of vectors to use as training data
+    num_training = int(TRAINING_SET_PROP * num_data);
+    num_test = num_data - num_training;
 
-test_vectors = vectors[(num_training + 1):, :];
-test_labels = labels[(num_training + 1):];
+    # extract first 'num_training' training vectors and labels
+    training_vectors = vectors[:num_training, :];
+    training_labels = labels[:num_training];
+    training_indices = indices[:num_training];
 
-clf = LogisticRegression(solver='newton-cg', max_iter=1000, random_state=0, \
-    multi_class='multinomial', verbose=1).fit(training_vectors, \
-    training_labels);
+    # extract remaining test vectors and labels
+    test_vectors = vectors[num_training:, :];
+    test_labels = labels[num_training:];
+    test_indices = indices[num_training:];
 
-predictions = clf.predict(test_vectors);
-confidences = clf.decision_function(test_vectors);
+    # set up logistic regression classifier and fit to data
+    log_reg_clf = LogisticRegression(solver='newton-cg', max_iter=1000, random_state=0,\
+        multi_class='multinomial', verbose=0).fit(training_vectors, \
+        training_labels);
 
-for i in range(num_training + 1, num_data):
-    prediction = predictions[i - (num_training + 1)];
-    confidence = confidences[i - (num_training + 1)][int(prediction)];
-    actual_str = [k for k,v in label_nums.items() if v == labels[i]][0];
-    prediction_str = [k for k,v in label_nums.items() if v == prediction][0];
-    if prediction != labels[i]:
-        print("***Incorrect Prediction (" + str(confidence) + "):" + descriptors[i]);
-        print("\t Actual - " + actual_str);
-        print("\t Predicted - " + prediction_str);
-    else:
-        print("---Correct Prediction: (" + str(confidence) + "):" + descriptors[i]);
-        print("\t Actual - " + actual_str);
-        print("\t Predicted - " + prediction_str);
+    # get classifier's predictions and decision function for each vector
+    predictions = log_reg_clf.predict(test_vectors);
+    confidences = log_reg_clf.decision_function(test_vectors);
 
-descriptor_classifications = {};
-# go through all test data
-for i in range(len(test_labels)):
-    # get corresponding descriptor for this point
-    descriptor = descriptors[i + (num_training + 1)]
+    # to record number of correctly classified instances
+    num_correct_inst = 0;
 
-    # there is not an entry in the dictionary yet for this descriptor
-    if descriptor not in descriptor_classifications:
-        descriptor_classifications[descriptor] = [];
+    # to hold mapping from descriptor to list of predictions for that
+    # descriptor
+    descriptor_classifications = {};
 
-    # add this prediction to the list of predictions for this descriptor, along
-    # with the confidence
-    descriptor_classifications[descriptor].append((predictions[i],\
-        float(confidences[i][int(predictions[i])])));
+    # go through all test data indices
+    for i in range(num_test):
 
-num_correct = 0;
-for descriptor in descriptor_classifications:
-    classifications = descriptor_classifications[descriptor];
+        # actual label number and string
+        actual = test_labels[i];
+        actual_str = [k for k,v in label_nums.items() if v == actual][0];
 
-    # to store the sum of the confidences for each label
-    confidences_per_label = {};
-    for label in label_nums:
-        num = label_nums[label];
-        confidences_per_label[num] = 0;
+        # predicted label number and string
+        prediction = predictions[i];
+        prediction_str = [k for k,v in label_nums.items() if \
+            v == prediction][0];
 
-    for classification in classifications:
-        confidences_per_label[classification[0]] += classification[1];
+        # prediction confidence for prediction
+        confidence = confidences[i][int(prediction)];
 
-    # take a confidence vote
-    descriptor_label_prediction = max(confidences_per_label,\
-        key=confidences_per_label.get);
-    confidence = max(confidences_per_label.values());
-    actual_str = [k for k,v in label_nums.items() if v == \
-        descriptors_to_labels[descriptor]][0];
-    prediction_str = [k for k,v in label_nums.items() if v == \
-        descriptor_label_prediction][0];
-    if (descriptor_label_prediction != descriptors_to_labels[descriptor]):
-        pass;
-        print("*Incorrect Prediction (" + str(confidence) + "):" + \
-            descriptor);
-        print("\t Actual - " + actual_str);
-        print("\t Predicted - " + prediction_str);
-    else:
-        print("-Correct Prediction (" + str(confidence) + "):" + \
-            descriptor);
-        print("\t Actual - " + actual_str);
-        print("\t Predicted - " + prediction_str);
-        num_correct += 1;
+        if prediction != actual:
+            if print_predictions:
+                print("***Incorrect Prediction (" + str(confidence) + "):" + descriptors[i]);
+                print("\t Actual - " + actual_str);
+                print("\t Predicted - " + prediction_str);
+        else:
+            if print_predictions:
+                print("---Correct Prediction: (" + str(confidence) + "):" + descriptors[i]);
+                print("\t Actual - " + actual_str);
+                print("\t Predicted - " + prediction_str);
 
-print('Logistic regression result:', clf.score(test_vectors, test_labels));
+            num_correct_inst += 1;
 
-#clf = KNeighborsClassifier(n_neighbors=50);
-#clf.fit(training_vectors, training_labels);
-#
-#print('K nearest neighbors result:',clf.score(test_vectors, test_labels));
+        # get corresponding descriptor for this point
+        descriptor = descriptors[int(test_indices[i])];
 
-print("Descriptor classification results: " + \
-    str(float(num_correct) / float(len(descriptor_classifications))) );
+        # there is not an entry in the dictionary yet for this descriptor
+        if descriptor not in descriptor_classifications:
+            descriptor_classifications[descriptor] = [];
 
-clf = DummyClassifier(strategy='stratified');
-clf.fit(training_vectors, training_labels);
+        # add this prediction to the list of predictions for this descriptor,
+        # along with the confidence
+        descriptor_classifications[descriptor].append((predictions[i],\
+            float(confidences[i][int(predictions[i])])));
 
-print('Random result:',clf.score(test_vectors, test_labels));
+    # to record number of correctly classified descriptors
+    num_correct_desc = 0;
+
+    # go through all descriptors
+    for descriptor in descriptor_classifications:
+        # extract list of (classification,confidence) pairs for this descriptor
+        classifications = descriptor_classifications[descriptor];
+
+        # to store the sum of the confidences for each label
+        confidences_per_label = {};
+
+        # go through all labels
+        for label in label_nums:
+            # initialize the confidence for this label as 0
+            num = label_nums[label];
+            confidences_per_label[num] = 0;
+
+        # set confidences by summing confidences of classifications
+        for classification in classifications:
+            confidences_per_label[classification[0]] += classification[1];
+
+        # take a confidence vote
+        descriptor_label_prediction = max(confidences_per_label,\
+            key=confidences_per_label.get);
+        confidence = max(confidences_per_label.values());
+
+        # extract actual and predicted descriptor labels
+        actual_str = [k for k,v in label_nums.items() if v == \
+            descriptors_to_labels[descriptor]][0];
+        prediction_str = [k for k,v in label_nums.items() if v == \
+            descriptor_label_prediction][0];
+
+        if (descriptor_label_prediction != descriptors_to_labels[descriptor]):
+            if print_predictions:
+                print("*Incorrect Prediction (" + str(confidence) + "):" + \
+                    descriptor);
+                print("\t Actual - " + actual_str);
+                print("\t Predicted - " + prediction_str);
+        else:
+            if print_predictions:
+                print("-Correct Prediction (" + str(confidence) + "):" + \
+                    descriptor);
+                print("\t Actual - " + actual_str);
+                print("\t Predicted - " + prediction_str);
+            num_correct_desc += 1;
+
+    log_reg_result = float(num_correct_inst) / float(num_data - num_training);
+
+    desc_classify_result = float(num_correct_desc) / \
+            float(len(descriptor_classifications));
+
+    dummy_clf = DummyClassifier(strategy='stratified');
+    dummy_clf.fit(training_vectors, training_labels);
+    dummy_result = dummy_clf.score(test_vectors, test_labels)
+
+    if print_results:
+        print("Logistic Regression result: " + str(log_reg_result));
+        print("Descriptor classification result: " + str(desc_classify_result));
+        print('Random result: ' + str(dummy_result));
+
+    # return relevant scores
+    ret_dict = { \
+    "log_reg": log_reg_result, \
+    "desc_classify": desc_classify_result, \
+    "dummy": dummy_result \
+    }
+    return ret_dict;
+
+sum_log_reg = 0;
+sum_desc_classify = 0;
+sum_dummy = 0;
+
+data_info = get_data_info();
+data = data_info['data'];
+descriptors = data_info['descriptors'];
+descriptors_to_labels = data_info['descriptors_to_labels'];
+
+for i in range(NUM_TRIALS):
+    results = classify(data, descriptors, descriptors_to_labels, False, False);
+
+    sum_log_reg += results['log_reg'];
+    sum_desc_classify += results['desc_classify'];
+    sum_dummy += results['dummy'];
+
+    print("Trials complete: " + str(i + 1) + "/" + str(NUM_TRIALS));
+
+print("Average logistic regression result over " + str(NUM_TRIALS) + \
+        " trials: ");
+print(str(float(sum_log_reg) / float(NUM_TRIALS)));
+
+print("Average descriptor classification result over " + str(NUM_TRIALS) + \
+        " trials: ");
+print(str(float(sum_desc_classify) / float(NUM_TRIALS)));
+
+print("Average dummy result over " + str(NUM_TRIALS) + \
+        " trials: ");
+print(str(float(sum_dummy) / float(NUM_TRIALS)));
