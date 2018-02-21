@@ -20,8 +20,6 @@ TODO part of speech tagging: only pivot on a certain part of speech to
      ex: 'Ash used Bulbasaur next and it swiftly used its Vine Whip attack.'
 TODO multiple pivots for a single entity, e.g.
      [Ash] congratulates [Caterpie] on coming through, and urges [Misty]...
-TODO confidence based on distance
-TODO pronoun pivots
 TODO incorrectly matching pronouns to actor/target (e.g. "Ash brushes its
     fur.")
 TODO 'Team Rocket Grunt' no match found?
