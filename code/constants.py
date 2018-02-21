@@ -34,7 +34,7 @@ INSTANCE_FILE = '../data/instances';
 TRAINING_SET_SIZE_PER_LABEL = 150;
 
 # proportion of the autolabeled data to use as the training set
-TRAINING_SET_PROP = 0.9;
+TRAINING_SET_PROP = 0.7;
 
 # weight for distance of pivot from descriptor
 D_WEIGHT = 0.9;
