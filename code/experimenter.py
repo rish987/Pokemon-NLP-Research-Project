@@ -17,10 +17,10 @@ s_vals = [];
 inst_acc_vals = [];
 desc_acc_vals = [];
 dummy_acc_vals = [];
-for i in range(1, 21):
-    print("Trial: " + str(i));
+for i in range(0, 1):
+    print("Iteration: " + str(i));
     d = 0.9; # TODO
-    s = i * 10; 
+    s = 150; 
     s_vals.append(s * len(label_nums) * TRAINING_SET_PROP);
     self_training_set_constructor(instance_strings, labels_to_instances, d, s);
 
@@ -35,7 +35,8 @@ for i in range(1, 21):
 
     for j in range(NUM_TRIALS):
         print
-        results = classify(data, descriptors, descriptors_to_labels, False, False);
+        results = classify(data, descriptors, descriptors_to_labels, False,\
+                True);
 
         sum_inst_classify += results['log_reg'];
         sum_desc_classify += results['desc_classify'];

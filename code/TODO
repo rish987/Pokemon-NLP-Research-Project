@@ -1,3 +1,8 @@
+- group like words together
+- handle active/passive voice
+
+---
+
 - classify instances rather than descriptors
 - features:
     - the preceding word is a possessive
