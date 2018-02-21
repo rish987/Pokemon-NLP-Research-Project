@@ -41,7 +41,7 @@ def get_labels_to_instances():
 """
 Create a processable training set an write it to file.
 """
-def self_training_set_constructor(instance_strings, labels_to_instances, d):
+def self_training_set_constructor(instance_strings, labels_to_instances, d, s):
     print("Creating training data...");
 
     # create a mapping from labels to instance indices with the instance
@@ -55,9 +55,9 @@ def self_training_set_constructor(instance_strings, labels_to_instances, d):
 
     # iterate a number of times equal to the size the training set should be
     # per label
-    for i in range(TRAINING_SET_SIZE_PER_LABEL):
+    for i in range(s):
         print("Processing instances for labels: " + str(i + 1) + "/" \
-            + str(TRAINING_SET_SIZE_PER_LABEL));
+            + str(s));
         
         # the current label index
         l_i = 0;

@@ -13,15 +13,16 @@ instance_data = get_labels_to_instances();
 instance_strings = instance_data['instance_strings'];
 labels_to_instances = instance_data['labels_to_instances'];
 
-d_vals = [];
+s_vals = [];
 inst_acc_vals = [];
 desc_acc_vals = [];
 dummy_acc_vals = [];
-for i in range(0, 1):
+for i in range(1, 21):
     print("Trial: " + str(i));
-    d = float(i) / float(10);
-    d_vals.append(d);
-    self_training_set_constructor(instance_strings, labels_to_instances, d);
+    d = 0.9; # TODO
+    s = i * 10; 
+    s_vals.append(s * len(label_nums) * TRAINING_SET_PROP);
+    self_training_set_constructor(instance_strings, labels_to_instances, d, s);
 
     sum_inst_classify = 0;
     sum_desc_classify = 0;
@@ -62,8 +63,8 @@ for i in range(0, 1):
 
 lines_to_write = [];
 
-for i in range(len(d_vals)):
-    line = str(d_vals[i]) + ' ' + \
+for i in range(len(s_vals)):
+    line = str(s_vals[i]) + ' ' + \
             str(inst_acc_vals[i]) + ' ' + \
             str(desc_acc_vals[i]) + ' ' + \
             str(dummy_acc_vals[i]) + ' ' + \

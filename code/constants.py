@@ -25,7 +25,6 @@ RAW_TEXT_FILE = '../data/data';
 ANNOTATED_TEXT_FILE = '../data/data_annotated';
 DESCRIPTORS_FILE = '../data/descriptors';
 LABELED_DESCRIPTORS_FILE = '../data/descriptors_labeled';
-RANDOM_LABELED_CORRECTED_DESCRIPTORS_FILE = '../data/random_descriptors_corrected_labeled';
 LABELED_CORRECTED_DESCRIPTORS_FILE = '../data/descriptors_labeled_corrected';
 
 TRAINING_DATA_SELF_FILE = '../data/training_data_self';
@@ -121,6 +120,23 @@ ETC = ['a', 'as', 'at', 'about', 'after', 'before', 'behind', 'below',\
         'until', 'up', 'upon', 'the',  'with', 'without'];
 etc_pivots = create_shallow_pivot_dict(ETC);
 
+def get_descriptors():
+    with open(LABELED_CORRECTED_DESCRIPTORS_FILE) as f:
+        descriptor_strings = f.read().splitlines();
+
+    descriptors = [];
+    for descriptor_string in descriptor_strings:
+        split = descriptor_string.split('\t\t');
+        descriptor = split[1];
+        descriptor = re.sub(r'[^\w\s\'-]',' ',descriptor).lower();
+        descriptor = descriptor.replace('\n', '');
+        descriptors.append(descriptor);
+
+    return descriptors;
+
+DESCRIPTORS = get_descriptors();
+descriptor_pivots = create_shallow_pivot_dict(DESCRIPTORS);
+
 PIVOT_CONJ_FILE = 'pivot_conjs';
 
 ACTOR = 1;
@@ -160,6 +176,7 @@ class Instance():
         self.set_vector(possessive_pronouns_pivots);
         self.set_vector(reflexive_pronouns_pivots);
         self.set_vector(etc_pivots);
+        self.set_vector(descriptor_pivots);
 
     def get_label(self):
         return self.label;
