@@ -35,7 +35,7 @@ INSTANCE_FILE = '../data/instances';
 TRAINING_SET_SIZE_PER_LABEL = 150;
 
 # proportion of the autolabeled data to use as the training set
-TRAINING_SET_PROP = 0.8;
+TRAINING_SET_PROP = 0.9;
 
 # weight for distance of pivot from descriptor
 D_WEIGHT = 0.9;
@@ -132,8 +132,6 @@ directions = [ACTOR, TARGET];
 
 verb_pivots = json.load(open('pivot_conjs'));
 
-instances = [];
-
 class Instance():
     """
     Initialize this Instance with the given context (containing sentence),
@@ -144,14 +142,16 @@ class Instance():
     _descriptor_pos - the index of the match to descriptor in the context; 0
     unless there are more than one matches
     _label - the label of this instance
+    _d - the weight to give the distance measure
     """
-    def __init__(self, _descriptor, _descriptor_pos, _context, _label):
+    def __init__(self, _descriptor, _descriptor_pos, _context, _label, _d):
         self.descriptor = _descriptor;
         self.descriptor_pos = _descriptor_pos;
         _context = re.sub(r'[^\w\s\'-]',' ',_context).lower();
         _context = _context.replace('\n', '');
         self.context = _context;
         self.label = _label;
+        self.d = _d;
         self.vector = {};
         self.set_vector(verb_pivots);
         self.set_vector(subject_pronouns_pivots);
@@ -261,10 +261,11 @@ class Instance():
                     found = [k for k,v in pivots.items() if word in v][0];
 
                     # weighted value for distance
-                    d_weighted = D_WEIGHT * (float(1) / float(d_i + 1));
+                    d_weighted = self.d * (float(1) / float(d_i + 1));
 
                     # weighed value for number found
-                    n_weighted = N_WEIGHT * (float(1) / float(num_found + 1));
+                    n_weighted = (1 - self.d) * \
+                        (float(1) / float(num_found + 1));
 
                     direction_to_set = direction;
 

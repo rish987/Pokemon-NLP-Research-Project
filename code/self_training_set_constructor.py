@@ -41,7 +41,7 @@ def get_labels_to_instances():
 """
 Create a processable training set an write it to file.
 """
-def self_training_set_constructor(instance_strings, labels_to_instances):
+def self_training_set_constructor(instance_strings, labels_to_instances, d):
     print("Creating training data...");
 
     # create a mapping from labels to instance indices with the instance
@@ -50,6 +50,8 @@ def self_training_set_constructor(instance_strings, labels_to_instances):
     for label in label_nums:
         labels_to_instances_random[label] = labels_to_instances[label].copy();
         random.shuffle(labels_to_instances_random[label]);
+
+    instances = [];
 
     # iterate a number of times equal to the size the training set should be
     # per label
@@ -62,8 +64,8 @@ def self_training_set_constructor(instance_strings, labels_to_instances):
 
         # go through all labels
         for label in label_nums:
-            print("\tProcessing instance for label: " + str(l_i + 1) + "/" \
-                + str(len(label_nums)));
+            #print("\tProcessing instance for label: " + str(l_i + 1) + "/" \
+            #    + str(len(label_nums)));
 
             # extract list of instance string indices for this label
             inst_list = labels_to_instances_random[label];
@@ -86,7 +88,7 @@ def self_training_set_constructor(instance_strings, labels_to_instances):
 
                 # create a new instance for this, and add to list of instances
                 instance = Instance(descriptor_string, pos, sentence_string, \
-                    label_string);
+                    label_string, d);
                 instances.append(instance);
 
             l_i += 1;
@@ -115,12 +117,10 @@ def self_training_set_constructor(instance_strings, labels_to_instances):
     for line in data_lines_to_write:
         file_data += line;
 
+    # clear training data file
+    with open(TRAINING_DATA_SELF_FILE, 'w') as file:
+      file.close();
+
     # write training data to file
     with open(TRAINING_DATA_SELF_FILE, 'w') as file:
       file.write(file_data);
-
-instance_data = get_labels_to_instances();
-instance_strings = instance_data['instance_strings'];
-labels_to_instances = instance_data['labels_to_instances'];
-
-self_training_set_constructor(instance_strings, labels_to_instances);

@@ -9,9 +9,6 @@ import random;
 
 from constants import *;
 
-# number of classification trials to average over
-NUM_TRIALS = 5;
-
 """
 Read the training data from file, and return the data in matrix form, along
 with a list of corresponding descriptors and the a dictionary containing the 
@@ -226,33 +223,3 @@ def classify(data, descriptors, descriptors_to_labels, print_predictions, \
     "dummy": dummy_result \
     }
     return ret_dict;
-
-sum_log_reg = 0;
-sum_desc_classify = 0;
-sum_dummy = 0;
-
-data_info = get_data_info();
-data = data_info['data'];
-descriptors = data_info['descriptors'];
-descriptors_to_labels = data_info['descriptors_to_labels'];
-
-for i in range(NUM_TRIALS):
-    results = classify(data, descriptors, descriptors_to_labels, False, False);
-
-    sum_log_reg += results['log_reg'];
-    sum_desc_classify += results['desc_classify'];
-    sum_dummy += results['dummy'];
-
-    print("Trials complete: " + str(i + 1) + "/" + str(NUM_TRIALS));
-
-print("Average logistic regression result over " + str(NUM_TRIALS) + \
-        " trials: ");
-print(str(float(sum_log_reg) / float(NUM_TRIALS)));
-
-print("Average descriptor classification result over " + str(NUM_TRIALS) + \
-        " trials: ");
-print(str(float(sum_desc_classify) / float(NUM_TRIALS)));
-
-print("Average dummy result over " + str(NUM_TRIALS) + \
-        " trials: ");
-print(str(float(sum_dummy) / float(NUM_TRIALS)));
