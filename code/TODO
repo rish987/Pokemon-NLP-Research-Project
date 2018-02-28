@@ -12,6 +12,9 @@ group verbs that have similar contexts
 - better separate pivot groups
 - handle active/passive voice
 
+- train/test on episodes
+- limit contexts
+
 ---
 
 - classify instances rather than descriptors

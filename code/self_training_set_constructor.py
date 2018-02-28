@@ -88,7 +88,7 @@ def self_training_set_constructor(instance_strings, labels_to_instances, d, s):
 
                 # create a new instance for this, and add to list of instances
                 instance = Instance(descriptor_string, pos, sentence_string, \
-                    label_string, d, False);
+                    label_string, d, True);
                 instances.append(instance);
 
             l_i += 1;
