@@ -54,12 +54,13 @@ sentence_regex = r'[^.\?\!]*[^A-Za-z]%s(?:[^A-Za-z\.\?\!][^.\?\!]*)?[\.\?\!]';
 descriptor_regex = r'[^A-Za-z]%s[^A-Za-z]';
 
 class TSDescriptor():
-    def __init__(self, _descriptor, _label, _filedata):
+    def __init__(self, _descriptor, _label, _filedata, _use_raw_verb_pivots):
         self.descriptor = _descriptor;
         self.label = _label;
         self.instances = [];
         self.instance_ind = -1;
         self.filedata = _filedata;
+        self.use_raw_verb_pivots = _use_raw_verb_pivots;
         self.got_instances = False;
 
     def get_instances(self):
@@ -82,8 +83,10 @@ class TSDescriptor():
             for match in iterator:
                 descriptor_pos = match.span()[0] + 1;
                 # print('\tMatch at: ' + str(descriptor_pos))
+                # TODO change d, check how grouping fares
                 self.instances.append(Instance(self.descriptor, \
-                    descriptor_pos, found, self.label));
+                    descriptor_pos, found, self.label, 0.9, \
+                    self.use_raw_verb_pivots));
 
         self.got_instances = True;
 
@@ -137,7 +140,8 @@ def get_descriptors():
 DESCRIPTORS = get_descriptors();
 descriptor_pivots = create_shallow_pivot_dict(DESCRIPTORS);
 
-PIVOT_CONJ_FILE = 'pivot_conjs';
+PIVOT_CONJ_FILE = 'pivot_conjs_grouped';
+PIVOT_CONJ_RAW_FILE = 'pivot_conjs';
 
 ACTOR = 1;
 TARGET = -1;
@@ -146,7 +150,9 @@ TEMPLATE_VECTOR = {};
 
 directions = [ACTOR, TARGET];
 
-verb_pivots = json.load(open('pivot_conjs'));
+verb_pivots = json.load(open(PIVOT_CONJ_FILE));
+
+verb_pivots_raw = json.load(open(PIVOT_CONJ_RAW_FILE));
 
 class Instance():
     """
@@ -159,8 +165,11 @@ class Instance():
     unless there are more than one matches
     _label - the label of this instance
     _d - the weight to give the distance measure
+    _use_raw_verb_pivots - should the raw verb pivots be used to construct this
+    instance's vector? if not, use the grouped
     """
-    def __init__(self, _descriptor, _descriptor_pos, _context, _label, _d):
+    def __init__(self, _descriptor, _descriptor_pos, _context, _label, _d, \
+        _use_raw_verb_pivots):
         self.descriptor = _descriptor;
         self.descriptor_pos = _descriptor_pos;
         _context = re.sub(r'[^\w\s\'-]',' ',_context).lower();
@@ -169,7 +178,10 @@ class Instance():
         self.label = _label;
         self.d = _d;
         self.vector = {};
-        self.set_vector(verb_pivots);
+        if _use_raw_verb_pivots:
+            self.set_vector(verb_pivots_raw);
+        else:
+            self.set_vector(verb_pivots);
         self.set_vector(subject_pronouns_pivots);
         self.set_vector(object_pronouns_pivots);
         self.set_vector(possessive_adjectives_pivots);

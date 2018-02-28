@@ -105,5 +105,5 @@ for word in d:
     print(str(i) + '/' + str(num_words) + ': ' + word);
     process_conjs(word);
 
-with open(PIVOT_CONJ_FILE, 'w') as file:
+with open('pivot_conjs', 'w') as file:
      file.write(json.dumps(pivot_to_conjs));

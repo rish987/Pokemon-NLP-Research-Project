@@ -1,7 +1,16 @@
-- group like words together
+- group like words together as 'conjugations' of the same pivot 
+  (e.g. 'run', 'jump', 'walk' -> 'move')
+    - rename 'conjugations' to 'forms'?
+^^^ ideas ^^^
+- can iterate over verbs, search for them and their contexts in the data, and
+group verbs that have similar contexts
+- word2vec
+- openie
+    
+- try l1 regression
+- remove overly general pivots like conjugations of 'be'
 - better separate pivot groups
 - handle active/passive voice
-- remove overly general pivots like conjugations of 'be'
 
 ---
 

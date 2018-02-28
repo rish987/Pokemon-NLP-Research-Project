@@ -26,8 +26,10 @@ for i in range(len(descriptor_and_label_strings)):
     descriptor_string = descriptor_and_label_split[1];
     label_string = descriptor_and_label_split[0];
     # create a new TSDescriptor for this descriptor
-    ts_descriptor = TSDescriptor(descriptor_string, label_string, filedata);
+    ts_descriptor = TSDescriptor(descriptor_string, label_string, filedata,\
+            False);
 
+    # TODO unnecessarily creates vector
     ts_descriptor.set_instances();
 
     instances += ts_descriptor.get_instances();

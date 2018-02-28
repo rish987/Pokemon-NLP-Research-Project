@@ -4,6 +4,7 @@
 
 import numpy as np;
 from sklearn.linear_model import LogisticRegression;
+from sklearn.linear_model import RidgeClassifier;
 from sklearn.dummy import DummyClassifier;
 import random;
 
@@ -101,7 +102,7 @@ def classify(data, descriptors, descriptors_to_labels, print_predictions, \
     test_indices = indices[num_training:];
 
     # set up logistic regression classifier and fit to data
-    log_reg_clf = LogisticRegression(solver='newton-cg', max_iter=1000, random_state=0,\
+    log_reg_clf = LogisticRegression(solver='newton-cg', max_iter=50, random_state=0,\
         multi_class='multinomial', verbose=0).fit(training_vectors, \
         training_labels);
 
@@ -211,7 +212,12 @@ def classify(data, descriptors, descriptors_to_labels, print_predictions, \
     dummy_clf.fit(training_vectors, training_labels);
     dummy_result = dummy_clf.score(test_vectors, test_labels)
 
+    ridge_clf = RidgeClassifier(solver='auto');
+    ridge_clf.fit(training_vectors, training_labels);
+    ridge_result = ridge_clf.score(test_vectors, test_labels)
+
     if print_results:
+        print('Ridge result: ' + str(ridge_result));
         print("Logistic Regression result: " + str(log_reg_result));
         print("Descriptor classification result: " + str(desc_classify_result));
         print('Random result: ' + str(dummy_result));
