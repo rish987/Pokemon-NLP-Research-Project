@@ -33,6 +33,8 @@ INSTANCE_FILE = '../data/instances';
 # proportion of the entities to construct vectors for
 TRAINING_SET_SIZE_PER_LABEL = 150;
 
+VERB_INSTANCES_FILE = "verb_instances";
+
 # proportion of the autolabeled data to use as the training set
 TRAINING_SET_PROP = 0.7;
 
@@ -204,6 +206,16 @@ class Instance():
 
     def get_context(self):
         return self.context;
+
+    def write_to_file(self, filename):
+        instance_filedata = '';
+        instance_filedata += self.get_descriptor() + '\t';
+        instance_filedata += self.get_label() + '\t';
+        instance_filedata += str(self.get_descriptor_pos()) + '\t';
+        instance_filedata += self.get_context() + '\t';
+        instance_filedata += '\n';
+        with open(filename, 'a') as file:
+          file.write(instance_filedata);
 
     def get_vector(self):
         # sort alphabetically

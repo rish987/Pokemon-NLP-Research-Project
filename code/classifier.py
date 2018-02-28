@@ -224,6 +224,7 @@ def classify(data, descriptors, descriptors_to_labels, print_predictions, \
 
     # return relevant scores
     ret_dict = { \
+    "ridge": ridge_result, \
     "log_reg": log_reg_result, \
     "desc_classify": desc_classify_result, \
     "dummy": dummy_result \

@@ -7,7 +7,7 @@ from self_training_set_constructor import *;
 GRAPH_FILE = 'graph_data';
 
 # number of classification trials to average over
-NUM_TRIALS = 5;
+NUM_TRIALS = 10;
 
 instance_data = get_labels_to_instances();
 instance_strings = instance_data['instance_strings'];
@@ -24,6 +24,7 @@ for i in range(0, 1):
     s_vals.append(s * len(label_nums) * TRAINING_SET_PROP);
     self_training_set_constructor(instance_strings, labels_to_instances, d, s);
 
+    sum_inst_ridge_classify = 0;
     sum_inst_classify = 0;
     sum_desc_classify = 0;
     sum_dummy_classify = 0;
@@ -38,6 +39,7 @@ for i in range(0, 1):
         results = classify(data, descriptors, descriptors_to_labels, False,\
                 True);
 
+        sum_inst_ridge_classify += results['ridge'];
         sum_inst_classify += results['log_reg'];
         sum_desc_classify += results['desc_classify'];
         sum_dummy_classify += results['dummy'];
@@ -48,7 +50,10 @@ for i in range(0, 1):
             " trials: ");
     inst_acc_val = float(sum_inst_classify) / float(NUM_TRIALS);
     inst_acc_vals.append(inst_acc_val)
-    print(str(inst_acc_val));
+    print('\tLogistic Regression - ' + str(inst_acc_val));
+
+    inst_ridge_acc_val = float(sum_inst_ridge_classify) / float(NUM_TRIALS);
+    print('\tRidge Regression - ' + str(inst_ridge_acc_val));
 
     print("Average descriptor classification result over " + str(NUM_TRIALS) + \
             " trials: ");
