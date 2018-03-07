@@ -53,8 +53,10 @@ for ep_num in range(1, NUM_EPS + 1):
     with open(instance_text_filename, 'r') as instance_text_file:
         instance_texts = instance_text_file.readlines();
 
-    # get vector filename for this episode
+    # clear vector file for this episode
     vector_filename = VECTORS_FOLDER + (EP_NUMBER_FORMAT % ep_num);
+    with open(vector_filename, 'w') as vector_file:
+        vector_file.close();
 
     instance_i = 0;
     # go through all instance text lines
