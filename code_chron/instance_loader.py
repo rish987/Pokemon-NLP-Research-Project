@@ -27,8 +27,8 @@ for descriptor_and_label_string in descriptor_and_label_strings:
 
 # go through all episodes
 for ep_num in range(1, NUM_EPS + 1):
-    print('Processing episode: ' + str(ep_num + 1) + '/' + \
-        str(NUM_EPS + 1));
+    print('Processing episode: ' + str(ep_num) + '/' + \
+        str(NUM_EPS));
     # get text for this episode
     text_filename = TEXT_FOLDER + (EP_NUMBER_FORMAT % ep_num);
     text = '';
@@ -45,7 +45,7 @@ for ep_num in range(1, NUM_EPS + 1):
     descriptor_i = 0;
     # go through all descriptors and labels
     for descriptor_and_label in descriptors_and_labels:
-        print('Processing descriptor: ' + str(descriptor_i + 1) + '/' + \
+        print('\tProcessing descriptor: ' + str(descriptor_i + 1) + '/' + \
             str(len(descriptors_and_labels)));
         descriptor = descriptor_and_label[0];
         label = descriptor_and_label[1];
