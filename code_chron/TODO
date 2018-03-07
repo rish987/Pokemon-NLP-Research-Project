@@ -1,0 +1,15 @@
+[OUTLINE]
+- copy over corrected labeled descriptors list
+- program for constructing all instances:
+    - for each episode:
+        - find all descriptor instances
+    - print instances to file with episode numbers
+- program for constructing all instance vectors:
+    - for each episode:
+        - construct all vectors for instances in that episode
+    - print vectors to file with episode numbers
+- program for contsructing pivot dictionaries
+- program for testing algorithm:
+    - input number of episodes to use as training data
+    - use specified training data to train classifier
+    - report results on remaining data

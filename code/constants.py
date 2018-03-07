@@ -11,6 +11,7 @@ label_nums = { 'pokemon': 0, 'person': 1, 'settlement': 2, 'move': 3,\
         'event':4, 'item': 5, 'region': 6, 'building':7,\
         'group':8, 'type': 9};
 
+# TODO delete?
 d = json.load(open('dictionary.json'))
 
 # bulbapedia wiki URL prefix
@@ -156,6 +157,10 @@ verb_pivots = json.load(open(PIVOT_CONJ_FILE));
 
 verb_pivots_raw = json.load(open(PIVOT_CONJ_RAW_FILE));
 
+all_pivots = {**verb_pivots_raw, **subject_pronouns_pivots,\
+    **object_pronouns_pivots, **possessive_pronouns_pivots, \
+    **reflexive_pronouns_pivots, **etc_pivots};
+
 class Instance():
     """
     Initialize this Instance with the given context (containing sentence),
@@ -191,6 +196,7 @@ class Instance():
         self.set_vector(reflexive_pronouns_pivots);
         self.set_vector(etc_pivots);
         self.set_vector(descriptor_pivots);
+        #self.set_vector(all_pivots);
 
     def get_label(self):
         return self.label;
