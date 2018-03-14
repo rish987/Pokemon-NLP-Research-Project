@@ -1,5 +1,10 @@
+TODO:
+- implement sparse vectors
+- nltk for POS tagging?
+- openie?
 Ideas:
-1. implement HMM/MEMM POS tagging to improve existing pivot-based algorithm
+1. implement/use existing HMM/MEMM POS tagging to improve existing pivot-based
+algorithm
     - expand each pivot into multiple versions of itself, one for each of its
     possible parts of speech
 2. do HMM/MEMM POS tagging, expanding standard POS tags to include tags for each
@@ -20,8 +25,8 @@ Implementation:
 1. 
 - train HMM/MEMM on Brown corpus
 - expand all of the pivots into multiple parts of speech
-- Tokenization to identify multi-word proper nouns 
-- Two passes of tagging:
+- tokenization to identify multi-word proper nouns 
+- two passes of tagging:
     - first pass: tag descriptors
     - second pass: do all other tags with HMM/MEMM, considering descriptors as
     nouns to help the classifier
@@ -34,10 +39,10 @@ Implementation:
     the vectors much different than those from the test data; this will very
     likely hurt performance
 2. 
-- Two passes of tagging on training episodes:
+- two passes of tagging on training episodes:
     - first pass: tag all descriptors with their label
     - second pass: tag POS of remaining words, considering descriptors as nouns
-- Train HMM on tagged text
+- train HMM on tagged text
 - test on remaining text, error rate based only on tagging of descriptors
 
 3? Combine results of 1 and 2:
@@ -45,4 +50,4 @@ Implementation:
 decide on a label
 
 Question: Backtrack to previous part, implementing MEMM for identifying
-descriptors?
+descriptors? (not yet)
