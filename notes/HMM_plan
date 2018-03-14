@@ -1,0 +1,48 @@
+Ideas:
+1. implement HMM/MEMM POS tagging to improve existing pivot-based algorithm
+    - expand each pivot into multiple versions of itself, one for each of its
+    possible parts of speech
+2. do HMM/MEMM POS tagging, expanding standard POS tags to include tags for each
+of the possible labels
+    - note: this will lose information about the meanings of the tagged words
+        - to address this, can create new tags for distinct verb 'categories',
+        replacing 'verb' tag with these category tags
+    - want to train on first few episodes, test on remaining
+        - use corpus to identify POS of all non-descriptor words in first few
+        episodes
+        - train fresh HMM on first few episodes with everything tagged
+
+HMM Training Plan:
+- Brown corpus vs WSJ corpus?
+    - Brown corpus because more general
+
+Implementation:
+1. 
+- train HMM/MEMM on Brown corpus
+- expand all of the pivots into multiple parts of speech
+- Tokenization to identify multi-word proper nouns 
+- Two passes of tagging:
+    - first pass: tag descriptors
+    - second pass: do all other tags with HMM/MEMM, considering descriptors as
+    nouns to help the classifier
+- vectorization ex: [Ash]:descriptor [sent]:verb [out]:preposition *Pikachu*
+[who]:pronoun [used]:verb [Hyper_Beam]:descriptor [on]:preposition
+[the]:article [tree]:noun.
+    - want to identify descriptors as only 'descriptors' (not their actual
+    labels) because the test data has no knowledge of the labels of its
+    instances, and allowing for this knowledge in the training data will make
+    the vectors much different than those from the test data; this will very
+    likely hurt performance
+2. 
+- Two passes of tagging on training episodes:
+    - first pass: tag all descriptors with their label
+    - second pass: tag POS of remaining words, considering descriptors as nouns
+- Train HMM on tagged text
+- test on remaining text, error rate based only on tagging of descriptors
+
+3? Combine results of 1 and 2:
+- compare weighted confidence values of logistic regression and HMM/MEMM to
+decide on a label
+
+Question: Backtrack to previous part, implementing MEMM for identifying
+descriptors?

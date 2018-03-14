@@ -8,7 +8,7 @@ from sklearn.linear_model import LogisticRegression;
 from sklearn.linear_model import RidgeClassifier;
 from sklearn.dummy import DummyClassifier;
 
-TRAIN_EPS_NUM = 100;
+TRAIN_EPS_NUM = 20;
 TEST_EPS_NUM = 10;
 
 train_data_vec = [];
