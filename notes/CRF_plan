@@ -1,0 +1,53 @@
+--- Plan ---
+
+TRAINING DATA CONSTRUCTION
++ Observation Sequence Construction
+    + Use regex to split sentences based on punctuation.
+        - NOTE: Not completely correct because of e.g. "Mr. Mime"
+        - TODO Implement/find sequence classifier to do this
+        - TODO Include punctuation as their own observations?
++ Label Sequence Construction
+    + Label as per Intro. to CRFs paper 2.6.1
+PARAMETER ESTIMATION
+- Inference Functions
+    - Calculating the likelihood function:
+        - Z(x) - Normalization function, forward algorithm starting at s_0
+    - Calculating the likelihood function gradient:
+        - p(y, y' | xi) - two-sequence probability given observation, 
+        forward-backward algorithm
+- Plug function and gradient into L-BFGS optimizer to estimate parameters
+SEQUENCE CLASSIFICATION
+- Use viterbi to get maximum probability sequence.
+
+--- Implementation ---
+
+TRAINING DATA CONSTRUCTION (sequence_constructor.py)
+
+- Store the observation and label sequences in a list of (observation_sequence,
+    label_sequence)
+- Split into sentences before labeling
+- Save observation and label sequences to file
+
+PARAMETER ESTIMATION (parameter_estimator.py)
+
+- NOTE: Defining equations on page 288, also page 317 eqn 4.17 4.18
+- define binary function 'function(curr_state, prev_state, obs, func_type)'
+    - returns 1 or 0 (curr_state, prev_state, obs) based on func_type
+- define function 'factor(func_types_and_parameters, curr_state, prev_state, 
+    obs)'
+    - Calculate exponential of equation 2.18
+- define function 'forward(func_types_and_parameters, state, time, obs_seq)'
+    - if time == 0, return 1
+    - otherwise return:
+        - sum over all states s': factor(func_types_and_parameters, state, s',
+            obs_seq[time]) * forward_table[s', time - 1];
+        - use above sum to fill dynamic programming table entry for this state
+        and time
+- define function 'forward_calc(func_types_and_parameters, state, time, obs_seq)'
+    - go in order from time 0 to len(obs_seq):
+        - call forward(func_types_and_parameters, state, time, obs_seq)
+- define function 'z_value(func_types_and_parameters, label_seq, obs_seq)'
+    - return sum over all states 's' of forward_table[s, len(obs_seq)]
+
+SEQUENCE CLASSIFICATION
+

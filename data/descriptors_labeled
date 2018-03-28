@@ -38,7 +38,7 @@ building		Bill's Lighthouse
 settlement		Mossgreen Village
 pokemon		Drake's Dragonite
 pokemon		Ash's Butterfree
-None		Romeo and Juliet
+group		Romeo and Juliet
 person		Charles Goodshow
 region		Cleopatra Island
 pokemon		Tracey's Pokémon
@@ -61,12 +61,12 @@ pokemon		Misty's Psyduck
 region		Mandarin Island
 region		Seafoam Islands
 pokemon		Ash's Pidgeotto
-person		Duplica's Ditto
+pokemon		Duplica's Ditto
 settlement		Cinnabar Island
 pokemon		Ash's Charizard
 region		Sunburst Island
 item		Winner's Trophy
-None		Sleeping Beauty
+person		Sleeping Beauty
 region		Camp Pokéhearst
 pokemon		Brock's Pokémon
 item		Coral Eye Badge
@@ -143,7 +143,7 @@ settlement		Viridian City
 region		Kinnow Island
 region		Mikan Island
 item		Super Sucker
-None		Frankenstein
+person		Frankenstein
 settlement		Saffron City
 move		Poison Sting
 move		Thunder Wave
@@ -311,7 +311,7 @@ pokemon		Dragonair
 move		Ice Punch
 person		Nurse Joy
 pokemon		Sandshrew
-None		Star Wars
+item		Star Wars
 move		Transform
 item		Gym Badge
 pokemon		Electrode
@@ -402,7 +402,7 @@ pokemon		Rhyhorn
 pokemon		Dugtrio
 pokemon		Goldeen
 region		Pummelo
-None		Carrots
+item		Carrots
 pokemon		Marowak
 pokemon		Persian
 move		Sharpen
@@ -547,7 +547,7 @@ region		Pinkan
 region		Grampa
 settlement		Matcha
 pokemon		Togepi
-None		X-wing
+item		X-wing
 pokemon		Staryu
 person		Butch
 person		Mandi
@@ -557,7 +557,7 @@ person		Erika
 person		Ethan
 person		Prima
 person		Mahri
-person		Ditto
+pokemon		Ditto
 type		Grass
 person		Ralph
 move		Spore
@@ -595,12 +595,12 @@ person		Daisy
 person		Hiker
 person		Misty
 person		Delia
-No match.		Giant
+person		Giant
 person		Emily
 region		Johto
 type		Water
 item		Badge
-person		Mimey
+pokemon		Mimey
 person		Dario
 person		Cissy
 pokemon		Golem
@@ -625,7 +625,7 @@ move		Lick
 pokemon		Onix
 item		Poké
 event		Prix
-None		Noah
+person		Noah
 person		Bill
 pokemon		Seel
 person		Scuz
@@ -650,7 +650,7 @@ person		Moe
 person		Kay
 building		Gym
 person		Eve
-None		UFO
+item		UFO
 move		Fly
 building		Lab
 person		Ash
