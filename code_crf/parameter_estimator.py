@@ -6,44 +6,92 @@
 # Uses L-BFGS optimization to estimate parameters from training data, and
 # writes parameters to file.
 import math;
+import numpy as np;
 import functions;
+import pickle;
+from constants import *;
 
 # proportion of labeled sequence observations to use in training
 TRAINING_PROP = 0.3;
 
 """
-Generic binary function.
-
-curr_state - the current state
-prev_state - the previous state
-observations - the observation sequence
-time - the current time within the sequence
-func_type - string representing the type of function to use
-ex: first_letter_capitalized
-"""
-def function(curr_state, prev_state, observations, time, func_i):
-    return functions.get_function(func_i)(curr_state, prev_state, \
-        observations, time);
-
-"""
 Evaluates the factor for this set of (curr_state, prev_state, obs), using the
-given function types and their corresponding parameters.
+given parameters.
 
-funcs_and_parameters - list of tuples associating indexed functions with their
-parameters
+parameters - list of function parameters
 curr_state - the current state
 prev_state - the previous state
 observations - the observation sequence
 time - the current time within the sequence
 """
-def factor(funcs_and_parameters, curr_state, prev_state, observations, time):
+def factor(parameters, curr_state, prev_state, observations, time):
     # to store exponent sum
     exponent = 0;
 
+    # current funtion index
+    func_i = 0;
+    
     # go through all function types and their parameters
-    for func_i, parameter in funcs_and_parameters:
-        exponent += function(curr_state, prev_state, observations, \
-            time, func_i) * parameter;
+    for parameter in parameters:
+        exponent += functions.functions[func_i](curr_state, prev_state, \
+        observations, time) * parameter;
+
+        func_i += 1;
 
     # return e ^ exponent
     return math.exp(exponent);
+
+# global data structure for storing forward values
+forward_values = {};
+
+"""
+Resets the forward values data structure to reflect the given parameters and
+observations.
+"""
+def forward_calc(parameters, observations):
+    # total number of observations in the sequence
+    num_observations = len(observations);
+
+    # --- initialize forward values data structure ---
+    for state in sequence_labels:
+        forward_values[state] = [0] * num_observations;
+    # ---
+
+    # --- set forward values data structure ---
+    for time in range(num_observations):
+        print(time);
+        for curr_state in sequence_labels:
+            # if this is not the first observation, consider all of the states
+            # as possible previous states
+            prev_states = sequence_labels;
+            # if this is the first observation, consider only the start state
+            # as a possible previous state
+            if time == 0:
+                prev_states = ['start'];
+
+            # go through all possible previous states
+            for prev_state in prev_states:
+                # get the factor of transitioning from this previous state
+                this_factor = factor(parameters, curr_state, prev_state, \
+                    observations, time);
+
+                if time > 0:
+                    # adjust the forward value of this state at this time
+                    forward_values[curr_state][time] += this_factor * \
+                        forward_values[prev_state][time - 1];
+                else:
+                    # adjust the forward value of this state at this time
+                    forward_values[curr_state][time] += this_factor;
+
+    # ---
+
+sequences = None;
+with open(SEQUENCES_FILE, 'rb') as file:
+    sequences = pickle.load(file);
+
+test_time = 3;
+test_obss = sequences[0][0];
+test_lbls = sequences[0][1];
+test_params = np.random.rand(len(functions.functions), 1);
+forward_calc(test_params, test_obss);
+print(forward_values);
