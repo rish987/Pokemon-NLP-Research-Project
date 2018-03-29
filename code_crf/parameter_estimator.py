@@ -32,9 +32,9 @@ def factor(parameters, curr_state, prev_state, observations, time):
     func_i = 0;
     
     # go through all function types and their parameters
-    for parameter in parameters:
-        exponent += functions.functions[func_i](curr_state, prev_state, \
-        observations, time) * parameter;
+    for index in functions.labels_to_func_inds[curr_state]:
+        exponent += functions.functions[index](curr_state, prev_state, \
+        observations, time) * parameters[index];
 
         func_i += 1;
 
@@ -59,8 +59,9 @@ def forward_calc(parameters, observations):
 
     # --- set forward values data structure ---
     for time in range(num_observations):
-        print(time);
+        # print(time);
         for curr_state in sequence_labels:
+            # print('curr_state: ' + curr_state);
             # if this is not the first observation, consider all of the states
             # as possible previous states
             prev_states = sequence_labels;
@@ -89,9 +90,7 @@ sequences = None;
 with open(SEQUENCES_FILE, 'rb') as file:
     sequences = pickle.load(file);
 
-test_time = 3;
 test_obss = sequences[0][0];
-test_lbls = sequences[0][1];
-test_params = np.random.rand(len(functions.functions), 1);
+test_params = np.random.rand(len(functions.functions), 1) - 0.5;
 forward_calc(test_params, test_obss);
 print(forward_values);
