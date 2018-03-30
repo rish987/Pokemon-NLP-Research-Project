@@ -37,6 +37,8 @@ sequence_labels += ['b_' + descriptor_label for \
 sequence_labels += ['i_' + descriptor_label for \
     descriptor_label in descriptor_labels];
 
+START_LABEL = 'start';
+
 # ---
 
 # punctuation to consider as elements of the observation sequence, if they

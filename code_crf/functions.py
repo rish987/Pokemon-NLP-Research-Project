@@ -4,6 +4,9 @@
 # 
 # Description:
 # Repository of functions for use by CRF model.
+# TODO further improve runtime by breaking down labels_to_func_inds into
+# 'common' function indices and lists of function indices for particular 
+# prev_states and 
 from constants import *;
 
 """
@@ -40,7 +43,7 @@ for sequence_label in sequence_labels:
 
     # --- previous label ---
 
-    for prev_sequence_label in (sequence_labels + ['start']):
+    for prev_sequence_label in (sequence_labels + [START_LABEL]):
         def prev_label(curr_state, prev_state, observations, time, \
             sequence_label=sequence_label,
             prev_sequence_label=prev_sequence_label):
