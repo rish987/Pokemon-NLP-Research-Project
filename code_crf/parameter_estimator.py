@@ -31,13 +31,15 @@ def weighted_function_sum(parameters, curr_state, prev_state, observations, \
     # to store sum
     total = 0;
 
-    # get indices of functions applicable to this curr_state and prev_state 
-    indices = functions.labels_to_func_inds[curr_state][COMMON];
-    indices += functions.labels_to_func_inds[curr_state][prev_state];
-    #print(len(indices));
+    # --- get indices of functions applicable to this curr_state and
+    # prev_state ---
+    func_indices = functions.labels_to_func_inds[curr_state][COMMON];
+    func_indices = func_indices \
+        + functions.labels_to_func_inds[curr_state][prev_state];
+    # ---
 
     # go through all function types and their parameters
-    for index in indices:
+    for index in func_indices:
         total += functions.functions[index](curr_state, prev_state, \
         observations, time) * parameters[index];
 
@@ -77,7 +79,7 @@ def forward_calc(parameters, observations):
 
     # --- set forward values data structure ---
     for time in range(num_observations):
-        print(time);
+        # print(time);
         for curr_state in sequence_labels:
             # print('curr_state: ' + curr_state);
             # if this is not the first observation, consider all of the states
@@ -186,8 +188,8 @@ def neg_likelihood_and_gradient(parameters, sequences):
 
     # sum over all training instances
     for observations, labels in sequences:
-        #print('on sequence: ' + str(sequence_i + 1) + '/' + \
-        #    str(len(sequences)));
+        print('on sequence: ' + str(sequence_i + 1) + '/' + \
+            str(len(sequences)));
 
         # --- adjust likelihood numerator ---
         for time in range(len(observations)):

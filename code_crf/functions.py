@@ -35,11 +35,10 @@ functions_to_prev_states = [];
 for sequence_label in sequence_labels:
     labels_to_func_inds[sequence_label] = {};
 
-    # create subsections
     labels_to_func_inds[sequence_label][COMMON] = [];
     labels_to_func_inds[sequence_label][START_LABEL] = [];
-    for next_sequence_label in sequence_labels:
-        labels_to_func_inds[sequence_label][next_sequence_label] = [];
+    for prev_state in sequence_labels:
+        labels_to_func_inds[sequence_label][prev_state] = [];
 
     # --- capitalized current word ---
 
