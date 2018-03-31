@@ -39,6 +39,9 @@ sequence_labels += ['i_' + descriptor_label for \
 
 START_LABEL = 'start';
 
+# indicator that all sequence labels should be used
+ALL = 'all';
+
 # ---
 
 # punctuation to consider as elements of the observation sequence, if they
@@ -48,3 +51,6 @@ punctation_observations = '",(){}[]:;'
 # regex for matching descriptors; must be descriptor surrounded by
 # non-alphabetical characters
 descriptor_regex = r'[^A-Za-z]%s[^A-Za-z]';
+
+# key of common function subsection in labels_to_func_inds
+COMMON = 'common';

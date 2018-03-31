@@ -31,8 +31,13 @@ def weighted_function_sum(parameters, curr_state, prev_state, observations, \
     # to store sum
     total = 0;
 
+    # get indices of functions applicable to this curr_state and prev_state 
+    indices = functions.labels_to_func_inds[curr_state][COMMON];
+    indices += functions.labels_to_func_inds[curr_state][prev_state];
+    #print(len(indices));
+
     # go through all function types and their parameters
-    for index in functions.labels_to_func_inds[curr_state]:
+    for index in indices:
         total += functions.functions[index](curr_state, prev_state, \
         observations, time) * parameters[index];
 
@@ -53,8 +58,9 @@ def factor(parameters, curr_state, prev_state, observations, time):
     return math.exp(weighted_function_sum(parameters, curr_state, prev_state, \
         observations, time));
 
-# global data structure for storing forward values
+# global data structure for storing forward and backward values
 forward_values = {};
+backward_values = {};
 
 """
 Resets the forward values data structure to reflect the given parameters and
@@ -71,7 +77,7 @@ def forward_calc(parameters, observations):
 
     # --- set forward values data structure ---
     for time in range(num_observations):
-        # print(time);
+        print(time);
         for curr_state in sequence_labels:
             # print('curr_state: ' + curr_state);
             # if this is not the first observation, consider all of the states
@@ -99,6 +105,36 @@ def forward_calc(parameters, observations):
     # ---
 
 """
+Resets the backward values data structure to reflect the given parameters and
+observations.
+"""
+def backward_calc(parameters, observations):
+    # total number of observations in the sequence
+    num_observations = len(observations);
+
+    # --- initialize backward values data structure ---
+    for state in sequence_labels:
+        backward_values[state] = [0] * num_observations;
+        backward_values[state][num_observations - 1] = 1;
+    # ---
+
+    # --- set backward values data structure ---
+    for time in list(reversed(range(num_observations)))[1:]:
+        # print(time);
+        for curr_state in sequence_labels:
+            # go through all possible next states
+            for next_state in sequence_labels:
+                # get the factor of transitioning to this next state
+                this_factor = factor(parameters, next_state, curr_state, \
+                    observations, time + 1);
+
+                # adjust the backward value of this state at this time
+                backward_values[curr_state][time] += this_factor * \
+                    backward_values[next_state][time + 1];
+
+    # ---
+
+"""
 Returns the Z-value, as calculated from the current forward table.
 Uses equation at the end of the first paragraph on page 318.
 NOTE: This function assumes that forward_values is up to date.
@@ -109,6 +145,24 @@ def z_val():
         z_val += forward_values[state][len(forward_values[state]) - 1];
 
     return z_val;
+
+"""
+Calculates the probability of the specified current and previous states at the
+specified time, given the specified observation sequence.
+"""
+def state_pair_probability(parameters, curr_state, prev_state, observations, \
+    time, this_z_val):
+
+    forward_value = 0;
+    # use 1 as a forward value if the previous state is a start state
+    if prev_state == START_LABEL:
+        forward_value = 1;
+    else:
+        forward_value = forward_values[prev_state][time - 1];
+
+    return ((forward_value \
+           * factor(parameters, curr_state, prev_state, observations, time) \
+           * backward_values[curr_state][time]) / this_z_val);
 
 """
 Returns the negative likelihood function and its gradient, calculated for the
@@ -132,8 +186,8 @@ def neg_likelihood_and_gradient(parameters, sequences):
 
     # sum over all training instances
     for observations, labels in sequences:
-        print('on sequence: ' + str(sequence_i + 1) + '/' + \
-            str(len(sequences)));
+        #print('on sequence: ' + str(sequence_i + 1) + '/' + \
+        #    str(len(sequences)));
 
         # --- adjust likelihood numerator ---
         for time in range(len(observations)):
@@ -175,32 +229,40 @@ def neg_likelihood_and_gradient(parameters, sequences):
 
         # --- adjust likelihood denominator ---
         forward_calc(parameters, observations);
-        z_val = z_val();
-        den_sum_l += math.log(z_val);
+        this_z_val = z_val();
+        den_sum_l += math.log(this_z_val);
         # --- 
 
+        print('calculating backwards values');
         # --- adjust gradient denominator ---
-        #backward_calc(parameters, observations); TODO
+        backward_calc(parameters, observations); # TODO
         # go through all parameter indices
-        for param_i in len(parameters):
+        for param_i in range(len(parameters)):
+            print(param_i);
             # go over all times
             for time in range(len(observations)):
+                #print('time: ' + str(time))
+                # only consider applicable states
+                curr_states = functions.functions_to_states[param_i];
                 # if this is not the first observation, consider all of the
                 # states as possible previous states
-                prev_states = sequence_labels;
+                prev_states = functions.functions_to_prev_states[param_i];
+                if prev_states[0] == ALL:
+                    prev_states = sequence_labels;
                 # if this is the first observation, consider only the start
                 # state as a possible previous state
                 if time == 0:
                     prev_states = [START_LABEL];
-                # go through all possible pairs of states
-                for curr_state in sequence_labels:
+                # go through all possible pairs of states 
+                for curr_state in curr_states:
+                    #print('outer');
                     for prev_state in prev_states:
+                        #print('inner');
                         term = functions.functions[param_i]\
                             (curr_state, prev_state, observations, time);
-                        # TODO define state_pair_probability
-                        term *= state_pair_probability(curr_state, prev_state,\
-                                observations, time, z_val);
-
+                        term *= state_pair_probability(parameters, curr_state, \
+                                prev_state, observations, time, this_z_val);
+                        den_sum_g[param_i] += term;
         # --- 
 
         sequence_i += 1;
@@ -221,6 +283,7 @@ with open(SEQUENCES_FILE, 'rb') as file:
 test_seqs = sequences;
 test_obss = sequences[0][0];
 test_params = np.random.rand(len(functions.functions), 1) - 0.5;
-likelihood, gradient = neg_likelihood_and_gradient(test_params, test_seqs[0:10]);
+likelihood, gradient = neg_likelihood_and_gradient(test_params, \
+    test_seqs[0:10]);
 print(likelihood);
 print(gradient);

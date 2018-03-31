@@ -25,9 +25,21 @@ functions = [];
 # mapping of labels to function indices
 labels_to_func_inds = {};
 
+# mapping of functions to their relevant states
+functions_to_states = [];
+
+# mapping of functions to their relevant previous states
+functions_to_prev_states = [];
+
 # create one of each function (set) for each sequence_label
 for sequence_label in sequence_labels:
-    labels_to_func_inds[sequence_label] = [];
+    labels_to_func_inds[sequence_label] = {};
+
+    # create subsections
+    labels_to_func_inds[sequence_label][COMMON] = [];
+    labels_to_func_inds[sequence_label][START_LABEL] = [];
+    for next_sequence_label in sequence_labels:
+        labels_to_func_inds[sequence_label][next_sequence_label] = [];
 
     # --- capitalized current word ---
 
@@ -37,7 +49,9 @@ for sequence_label in sequence_labels:
             return 0;
         return is_capitalized(observations[time]);
     functions.append(curr_word_capitalized);
-    labels_to_func_inds[sequence_label].append(len(functions) - 1);
+    labels_to_func_inds[sequence_label][COMMON].append(len(functions) - 1);
+    functions_to_states.append([sequence_label]);
+    functions_to_prev_states.append([ALL]);
 
     # --- 
 
@@ -53,7 +67,10 @@ for sequence_label in sequence_labels:
             return 0;
 
         functions.append(prev_label);
-        labels_to_func_inds[sequence_label].append(len(functions) - 1);
+        labels_to_func_inds[sequence_label][prev_sequence_label].append(\
+            len(functions) - 1);
+        functions_to_states.append([sequence_label]);
+        functions_to_prev_states.append([prev_sequence_label]);
 
     # --- 
 
