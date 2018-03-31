@@ -27,7 +27,8 @@ descriptor_labels = ['pokemon', 'person', 'settlement', 'move', 'event',\
 # --- construct sequence labels ---
 
 # add 'other' label to label words that are not parts of descriptors
-sequence_labels = ['other']
+OTHER = 'other';
+sequence_labels = [OTHER]
 
 # for each of the descriptor labels, create two sequence labels, one prefixed
 # with 'b_' and the other prefixed with 'i_' to indicate that the label is for

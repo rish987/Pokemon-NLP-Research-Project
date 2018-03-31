@@ -11,6 +11,7 @@ import math;
 import numpy as np;
 import functions;
 import pickle;
+from scipy.optimize import fmin_l_bfgs_b;
 from constants import *;
 
 # proportion of labeled sequence observations to use in training
@@ -83,9 +84,7 @@ def forward_calc(parameters, observations):
 
     # --- set forward values data structure ---
     for time in range(num_observations):
-        # print(time);
         for curr_state in sequence_labels:
-            # print('curr_state: ' + curr_state);
             # if this is not the first observation, consider all of the states
             # as possible previous states
             prev_states = sequence_labels;
@@ -126,7 +125,6 @@ def backward_calc(parameters, observations):
 
     # --- set backward values data structure ---
     for time in list(reversed(range(num_observations)))[1:]:
-        # print(time);
         for curr_state in sequence_labels:
             # go through all possible next states
             for next_state in sequence_labels:
@@ -157,9 +155,7 @@ def max_calc(parameters, observations):
 
     # --- set max values data structures ---
     for time in range(num_observations):
-        # print(time);
         for curr_state in sequence_labels:
-            # print('curr_state: ' + curr_state);
             # if this is not the first observation, consider all of the states
             # as possible previous states
             prev_states = sequence_labels;
@@ -263,8 +259,9 @@ given observation and label training sequences and the given parameters.
 
 parameters - model parameters to use in calculation
 sequences - list of (observation_sequence, label_sequence) training pairs
+TODO remove test_sequences
 """
-def neg_likelihood_and_gradient(parameters, sequences):
+def neg_likelihood_and_gradient(parameters, sequences, test_sequences):
     # initialize running numerator and denominator sums
     num_sum_l = 0;
     den_sum_l = 0;
@@ -326,15 +323,12 @@ def neg_likelihood_and_gradient(parameters, sequences):
         den_sum_l += math.log(this_z_val);
         # --- 
 
-        #print('calculating backwards values');
         # --- adjust gradient denominator ---
         backward_calc(parameters, observations); # TODO
         # go through all parameter indices
         for param_i in range(len(parameters)):
-            #print(param_i);
             # go over all times
             for time in range(len(observations)):
-                #print('time: ' + str(time))
                 # only consider applicable states
                 curr_states = functions.functions_to_states[param_i];
                 # if this is not the first observation, consider all of the
@@ -348,9 +342,7 @@ def neg_likelihood_and_gradient(parameters, sequences):
                     prev_states = [START_LABEL];
                 # go through all possible pairs of states 
                 for curr_state in curr_states:
-                    #print('outer');
                     for prev_state in prev_states:
-                        #print('inner');
                         term = functions.functions[param_i]\
                             (curr_state, prev_state, observations, time);
                         term *= state_pair_probability(parameters, curr_state, \
@@ -364,20 +356,45 @@ def neg_likelihood_and_gradient(parameters, sequences):
 
     # negate and return likelihood and gradient
     neg_likelihood = -1 * (num_sum_l - den_sum_l);
-    neg_gradient = -1 * (np.array(num_sum_g , dtype=np.float32) - \
-	np.array(den_sum_g , dtype=np.float32));
-    return (neg_likelihood, neg_gradient);
+    neg_gradient = -1 * (np.array(num_sum_g , dtype=np.float64) - \
+	np.array(den_sum_g , dtype=np.float64));
+
+    ret = (neg_likelihood, neg_gradient);
+
+    print(neg_likelihood);
+    print(evaluate(parameters, test_sequences));
+
+    return ret;
+
+"""
+Evaluates the specified model on the given list of observations sequences,
+returning the percentage of labels correctly predicted.
+"""
+def evaluate(parameters, sequences):
+    num_correct = 0;
+    total = 0;
+    for observations, labels in sequences:
+        pred_labels = max_calc(parameters, observations);
+        for label_i in range(len(labels)):
+            if (labels[label_i] != OTHER):
+                if (labels[label_i] == pred_labels[label_i]):
+                    print(labels[label_i]);
+                    num_correct += 1;
+                total += 1;
+
+    return float(num_correct) / float(total);
 
 # TODO testing... remove
 sequences = None;
 with open(SEQUENCES_FILE, 'rb') as file:
     sequences = pickle.load(file);
 
-test_seqs = sequences;
-test_obss = sequences[0][0];
-test_params = np.random.rand(len(functions.functions), 1) - 0.5;
-likelihood, gradient = neg_likelihood_and_gradient(test_params, \
-    test_seqs[0:10]);
-print(likelihood);
-print(gradient);
-print(max_calc(test_params, test_seqs[0][0]));
+num_training = 20;
+num_test = 30;
+params = np.zeros((len(functions.functions), 1));
+fmin_l_bfgs_b(neg_likelihood_and_gradient, params, fprime=None, \
+    args=(sequences[0:num_training - 1], \
+    sequences[num_training:(num_training + num_test) - 1]), approx_grad=False, \
+    bounds=None, m=10, \
+    factr=10000000.0, pgtol=1e-05, epsilon=1e-08, iprint=-1, \
+    maxfun=15000, maxiter=15000, disp=None, callback=None);
