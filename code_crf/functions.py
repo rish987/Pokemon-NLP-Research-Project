@@ -4,9 +4,7 @@
 # 
 # Description:
 # Repository of functions for use by CRF model.
-# TODO further improve runtime by breaking down labels_to_func_inds into
-# 'common' function indices and lists of function indices for particular 
-# prev_states and 
+# TODO rename to feature_function
 from constants import *;
 
 """

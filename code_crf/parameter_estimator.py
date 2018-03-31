@@ -60,9 +60,13 @@ def factor(parameters, curr_state, prev_state, observations, time):
     return math.exp(weighted_function_sum(parameters, curr_state, prev_state, \
         observations, time));
 
-# global data structure for storing forward and backward values
+# global data structures for storing forward and backward values
 forward_values = {};
 backward_values = {};
+
+# global data structures for storing viterbi values and backpointers
+max_values = {};
+max_backpointers = {};
 
 """
 Resets the forward values data structure to reflect the given parameters and
@@ -135,6 +139,93 @@ def backward_calc(parameters, observations):
                     backward_values[next_state][time + 1];
 
     # ---
+
+"""
+Uses the Viterbi algorithm to reset the max values and backpointers data
+structure to reflect the given parameters and observations. Returns the maximum
+likelihood sequence.
+"""
+def max_calc(parameters, observations):
+    # total number of observations in the sequence
+    num_observations = len(observations);
+
+    # --- initialize max values data structures ---
+    for state in sequence_labels:
+        max_values[state] = [0] * num_observations;
+        max_backpointers[state] = [None] * num_observations;
+    # ---
+
+    # --- set max values data structures ---
+    for time in range(num_observations):
+        # print(time);
+        for curr_state in sequence_labels:
+            # print('curr_state: ' + curr_state);
+            # if this is not the first observation, consider all of the states
+            # as possible previous states
+            prev_states = sequence_labels;
+            # if this is the first observation, consider only the start state
+            # as a possible previous state
+            if time == 0:
+                prev_states = [START_LABEL];
+
+            # go through all possible previous states
+            for prev_state in prev_states:
+                # get the factor of transitioning from this previous state
+                this_factor = factor(parameters, curr_state, prev_state, \
+                    observations, time);
+
+                # original max value
+                original_max = max_values[curr_state][time]
+
+                if time > 0:
+                    # adjust the max value of this state at this time
+                    max_values[curr_state][time] =\
+                        max(original_max,\
+                        this_factor * max_values[prev_state][time - 1]);
+                else:
+                    # adjust the max value of this state at this time
+                    max_values[curr_state][time] =\
+                        max(original_max,\
+                        this_factor);
+
+                # the max was just reset
+                if original_max < max_values[curr_state][time]:
+                    # reset the backpointer
+                    max_backpointers[curr_state][time] = prev_state;
+
+    # ---
+
+    # --- get maximum probability label sequence ---
+
+    # to store the maximum probability label sequence
+    max_prob_seq = [None] * num_observations;
+    
+    # --- --- get maximum probability final label --- ---
+    # maximum-so-far final label max value and label
+    final_max_value = 0;
+    final_max_label = None;
+
+    # go through all possible labels of last observation
+    for label in sequence_labels:
+        # the max should be reset
+        if max_values[label][num_observations - 1] > final_max_value:
+            final_max_value = max_values[label][num_observations - 1];
+            final_max_label = label;
+
+    # the current label
+    curr_label = final_max_label;
+    
+    # go through all times, from end to beginning
+    for time in list(reversed(range(num_observations))):
+        max_prob_seq[time] = curr_label;
+
+        # follow backpointer
+        curr_label = max_backpointers[curr_label][time];
+    # --- ---
+
+    # ---
+
+    return max_prob_seq;
 
 """
 Returns the Z-value, as calculated from the current forward table.
@@ -235,12 +326,12 @@ def neg_likelihood_and_gradient(parameters, sequences):
         den_sum_l += math.log(this_z_val);
         # --- 
 
-        print('calculating backwards values');
+        #print('calculating backwards values');
         # --- adjust gradient denominator ---
         backward_calc(parameters, observations); # TODO
         # go through all parameter indices
         for param_i in range(len(parameters)):
-            print(param_i);
+            #print(param_i);
             # go over all times
             for time in range(len(observations)):
                 #print('time: ' + str(time))
@@ -289,3 +380,4 @@ likelihood, gradient = neg_likelihood_and_gradient(test_params, \
     test_seqs[0:10]);
 print(likelihood);
 print(gradient);
+print(max_calc(test_params, test_seqs[0][0]));

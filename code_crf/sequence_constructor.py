@@ -83,7 +83,7 @@ for ep_num in range(1, NUM_EPS + 1):
         observations = [x[0] for x in observations_to_indices];
         # ---
 
-        # --- TODO get label sequence ---
+        # --- get label sequence ---
         # to hold mapping from ranges to labels; ranges tuple (index of first
         # character, index of last character)
         descriptor_ranges_to_labels = {};
@@ -136,11 +136,6 @@ for ep_num in range(1, NUM_EPS + 1):
                 labels.append('other');
 
         # ---
-
-        ## TODO remove
-        #for i in range(len(observations)):
-        #    print(observations[i] + '\t' + labels[i]);
-
 
         # construct the sequences tuple and add to list
         sequence_tuple = (observations, labels);
