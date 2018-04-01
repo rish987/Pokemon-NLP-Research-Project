@@ -11,11 +11,37 @@ import math;
 import numpy as np;
 import functions;
 import pickle;
+import threading;
 from scipy.optimize import fmin_l_bfgs_b;
 from constants import *;
 
-# proportion of labeled sequence observations to use in training
-TRAINING_PROP = 0.3;
+"""
+Thread class that performs a weighted funtion sum
+"""
+class WeightedFunctionSumThread (threading.Thread):
+    def __init__(self, indices, parameters, curr_state, prev_state, \
+        observations, time):
+        threading.Thread.__init__(self);
+        self.indices = indices;
+        self.parameters = parameters;
+        self.curr_state = curr_state;
+        self.prev_state = prev_state;
+        self.observations = observations;
+        self.time = time;
+        self.sum = 0;
+    def run(self):
+        self.sum = 0;
+        self.weighted_function_sum();
+
+    def get_sum(self):
+        return self.sum;
+
+    def weighted_function_sum (self):
+        # go through all function types and their parameters
+        for index in self.indices:
+            self.sum += functions.functions[index](self.curr_state, \
+                self.prev_state, self.observations, self.time) \
+                * parameters[index];
 
 """
 Evaluates the weighted sum of all functions using the given parameters and
@@ -437,7 +463,7 @@ num_test = 30;
 params = np.zeros((len(functions.functions), 1));
 fmin_l_bfgs_b(neg_likelihood_and_gradient, params, fprime=None, \
     args=(sequences[0:num_training - 1], \
-    1 / (2 * 0.01),\
+    1 / (2 * 5),\
     #0,\
     sequences[num_training:(num_training + num_test) - 1]), approx_grad=False, \
     bounds=None, m=10, \
