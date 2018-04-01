@@ -34,9 +34,19 @@ def weighted_function_sum(parameters, curr_state, prev_state, observations, \
 
     # --- get indices of functions applicable to this curr_state and
     # prev_state ---
-    func_indices = functions.labels_to_func_inds[curr_state][COMMON];
+    # get indices of functions that only require the current state
+    func_indices = functions.curr_state_to_func_inds[curr_state];
+    # get indices of functions that require the current state and the previous
+    # state
     func_indices = func_indices \
-        + functions.labels_to_func_inds[curr_state][prev_state];
+        + functions.curr_state_prev_state_to_func_inds[curr_state][prev_state];
+    if time > 0 and (observations[time - 1] in \
+        functions.curr_state_prev_obs_to_func_inds[curr_state]):
+        # get indices of functions that require the current state, previous
+        # state and previous observation
+        func_indices = func_indices \
+            + functions.curr_state_prev_obs_to_func_inds[curr_state]\
+            [observations[time - 1]];
     # ---
 
     # go through all function types and their parameters
@@ -292,8 +302,8 @@ def neg_likelihood_and_gradient(parameters, sequences, test_sequences):
         # --- adjust gradient numerator ---
         # go through all parameter indices
         # TODO combine with above loop?
-        for param_i in range(len(parameters)):
-            for time in range(len(observations)):
+        for time in range(len(observations)):
+            for param_i in range(len(parameters)):
                 # use START_LABEL as previous state
                 if time == 0:
                     num_sum_g[param_i] += functions.functions[param_i]\
@@ -325,10 +335,10 @@ def neg_likelihood_and_gradient(parameters, sequences, test_sequences):
 
         # --- adjust gradient denominator ---
         backward_calc(parameters, observations); # TODO
-        # go through all parameter indices
-        for param_i in range(len(parameters)):
-            # go over all times
-            for time in range(len(observations)):
+        # go over all times
+        for time in range(len(observations)):
+            # go through all parameter indices
+            for param_i in range(len(parameters)):
                 # only consider applicable states
                 curr_states = functions.functions_to_states[param_i];
                 # if this is not the first observation, consider all of the

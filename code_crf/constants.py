@@ -55,3 +55,9 @@ descriptor_regex = r'[^A-Za-z]%s[^A-Za-z]';
 
 # key of common function subsection in labels_to_func_inds
 COMMON = 'common';
+
+# pivot terms
+PIVOTS = ['a', 'as', 'at', 'about', 'after', 'before', 'behind', 'below',\
+        'but', 'by', 'for', 'from', 'in', 'into', 'like', 'of', 'off', 'on',\
+        's', 'onto', 'over', 'since', 'than', 'through', 'to', 'under',\
+        'until', 'up', 'upon', 'the',  'with', 'without'];
