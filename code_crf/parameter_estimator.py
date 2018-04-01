@@ -292,9 +292,11 @@ given observation and label training sequences and the given parameters.
 
 parameters - model parameters to use in calculation
 sequences - list of (observation_sequence, label_sequence) training pairs
+reg_param - regularization parameter, 1/(2*sigma^2) from equation 5.4
 TODO remove test_sequences
 """
-def neg_likelihood_and_gradient(parameters, sequences, test_sequences):
+def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
+    test_sequences):
     # initialize running numerator and denominator sums
     num_sum_l = 0;
     den_sum_l = 0;
@@ -386,11 +388,19 @@ def neg_likelihood_and_gradient(parameters, sequences, test_sequences):
         sequence_i += 1;
 
     # ---
+    # calculate squared sum of parameters
+    sqr_param_sum = 0;
+    for parameter in parameters:
+        sqr_param_sum += parameter ** 2;
+
+    likelihood = num_sum_l - den_sum_l - (reg_param * sqr_param_sum);
+    gradient = np.array(num_sum_g, dtype=np.float64) - \
+	np.array(den_sum_g, dtype=np.float64) - \
+	(reg_param * 2 * np.array(parameters, dtype=np.float64));
 
     # negate and return likelihood and gradient
-    neg_likelihood = -1 * (num_sum_l - den_sum_l);
-    neg_gradient = -1 * (np.array(num_sum_g , dtype=np.float64) - \
-	np.array(den_sum_g , dtype=np.float64));
+    neg_likelihood = -1 * likelihood;
+    neg_gradient = -1 * gradient;
 
     ret = (neg_likelihood, neg_gradient);
 
@@ -422,11 +432,13 @@ sequences = None;
 with open(SEQUENCES_FILE, 'rb') as file:
     sequences = pickle.load(file);
 
-num_training = 20;
+num_training = 10;
 num_test = 30;
 params = np.zeros((len(functions.functions), 1));
 fmin_l_bfgs_b(neg_likelihood_and_gradient, params, fprime=None, \
     args=(sequences[0:num_training - 1], \
+    1 / (2 * 0.01),\
+    #0,\
     sequences[num_training:(num_training + num_test) - 1]), approx_grad=False, \
     bounds=None, m=10, \
     factr=10000000.0, pgtol=1e-05, epsilon=1e-08, iprint=-1, \
