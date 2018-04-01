@@ -67,6 +67,17 @@ observations - the observation sequence
 time - the current time within the sequence
 """
 def factor(parameters, curr_state, prev_state, observations, time):
+    # return 0 if this is an impossible transition
+    curr_label_type = curr_state[len(B_PREFIX):];
+    prev_label_type = prev_state[len(B_PREFIX):];
+    if ((prev_state == OTHER) and curr_state.startswith(I_PREFIX)
+        or (prev_state.startswith(B_PREFIX) and \
+            curr_state.startswith(I_PREFIX) and \
+            prev_label_type != curr_label_type) \
+        or (prev_state.startswith(I_PREFIX) and \
+            curr_state.startswith(I_PREFIX) and \
+            prev_label_type != curr_label_type)):
+        return 0;
     # return e ^ (weighted function sum)
     return math.exp(weighted_function_sum(parameters, curr_state, prev_state, \
         observations, time));
@@ -105,15 +116,21 @@ def forward_calc(parameters, observations):
 
             # go through all possible previous states
             for prev_state in prev_states:
-                # get the factor of transitioning from this previous state
-                this_factor = factor(parameters, curr_state, prev_state, \
-                    observations, time);
 
                 if time > 0:
-                    # adjust the forward value of this state at this time
-                    forward_values[curr_state][time] += this_factor * \
-                        forward_values[prev_state][time - 1];
+                    if forward_values[prev_state][time - 1] == 0:
+                       continue;
+                    else:
+                        # get the factor of transitioning from this previous
+                        # state
+                        this_factor = factor(parameters, curr_state, \
+                            prev_state, observations, time);
+                        # adjust the forward value of this state at this time
+                        forward_values[curr_state][time] += this_factor * \
+                            forward_values[prev_state][time - 1];
                 else:
+                    this_factor = factor(parameters, curr_state, \
+                        prev_state, observations, time);
                     # adjust the forward value of this state at this time
                     forward_values[curr_state][time] += this_factor;
 
@@ -138,13 +155,16 @@ def backward_calc(parameters, observations):
         for curr_state in sequence_labels:
             # go through all possible next states
             for next_state in sequence_labels:
-                # get the factor of transitioning to this next state
-                this_factor = factor(parameters, next_state, curr_state, \
-                    observations, time + 1);
+                if backward_values[next_state][time + 1] == 0:
+                    continue;
+                else:
+                    # get the factor of transitioning to this next state
+                    this_factor = factor(parameters, next_state, curr_state, \
+                        observations, time + 1);
 
-                # adjust the backward value of this state at this time
-                backward_values[curr_state][time] += this_factor * \
-                    backward_values[next_state][time + 1];
+                    # adjust the backward value of this state at this time
+                    backward_values[curr_state][time] += this_factor * \
+                        backward_values[next_state][time + 1];
 
     # ---
 
@@ -259,9 +279,12 @@ def state_pair_probability(parameters, curr_state, prev_state, observations, \
     else:
         forward_value = forward_values[prev_state][time - 1];
 
-    return ((forward_value \
-           * factor(parameters, curr_state, prev_state, observations, time) \
-           * backward_values[curr_state][time]) / this_z_val);
+    if forward_value != 0:
+        return ((forward_value \
+               * factor(parameters, curr_state, prev_state, observations, time)\
+               * backward_values[curr_state][time]) / this_z_val);
+    else:
+        return 0;
 
 """
 Returns the negative likelihood function and its gradient, calculated for the

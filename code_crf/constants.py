@@ -30,12 +30,16 @@ descriptor_labels = ['pokemon', 'person', 'settlement', 'move', 'event',\
 OTHER = 'other';
 sequence_labels = [OTHER]
 
+# beginning and inner descriptor label prefixes
+B_PREFIX = 'b_';
+I_PREFIX = 'i_';
+
 # for each of the descriptor labels, create two sequence labels, one prefixed
 # with 'b_' and the other prefixed with 'i_' to indicate that the label is for
 # the first word of a descriptor or a subsequent word, respectively
-sequence_labels += ['b_' + descriptor_label for \
+sequence_labels += [B_PREFIX + descriptor_label for \
     descriptor_label in descriptor_labels];
-sequence_labels += ['i_' + descriptor_label for \
+sequence_labels += [I_PREFIX + descriptor_label for \
     descriptor_label in descriptor_labels];
 
 START_LABEL = 'start';

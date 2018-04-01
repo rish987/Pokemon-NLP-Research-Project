@@ -105,9 +105,26 @@ for sequence_label in sequence_labels:
     # --- previous label ---
     """
     Create one function for every possible (prev_state, curr_state) pair.
+    Invalid transitions:
+    other -> i_*
+    b_a -> i_b
+    i_a -> i_b
     """
 
+    # label stripped of prefix
+    curr_label_type = sequence_label[len(B_PREFIX):];
     for prev_sequence_label in (sequence_labels + [START_LABEL]):
+        prev_label_type = prev_sequence_label[len(B_PREFIX):];
+
+        if ((prev_sequence_label == OTHER) and sequence_label.startswith(\
+                I_PREFIX)
+            or (prev_sequence_label.startswith(B_PREFIX) \
+                and sequence_label.startswith(I_PREFIX) and \
+                prev_label_type != curr_label_type)
+            or (prev_sequence_label.startswith(I_PREFIX) \
+                and sequence_label.startswith(I_PREFIX) and \
+                prev_label_type != curr_label_type)):
+            continue;
         def prev_label(curr_state, prev_state, observations, time, \
             sequence_label=sequence_label,
             prev_sequence_label=prev_sequence_label):
