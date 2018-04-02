@@ -6,7 +6,6 @@
 # Uses L-BFGS optimization to estimate parameters from training data, and
 # writes parameters to file.
 # TODO implement algorithms log-style as in 4.38 (page 330)?
-# TODO add regularization
 import math;
 import numpy as np;
 import functions;
@@ -14,34 +13,6 @@ import pickle;
 import threading;
 from scipy.optimize import fmin_l_bfgs_b;
 from constants import *;
-
-"""
-Thread class that performs a weighted funtion sum
-"""
-class WeightedFunctionSumThread (threading.Thread):
-    def __init__(self, indices, parameters, curr_state, prev_state, \
-        observations, time):
-        threading.Thread.__init__(self);
-        self.indices = indices;
-        self.parameters = parameters;
-        self.curr_state = curr_state;
-        self.prev_state = prev_state;
-        self.observations = observations;
-        self.time = time;
-        self.sum = 0;
-    def run(self):
-        self.sum = 0;
-        self.weighted_function_sum();
-
-    def get_sum(self):
-        return self.sum;
-
-    def weighted_function_sum (self):
-        # go through all function types and their parameters
-        for index in self.indices:
-            self.sum += functions.functions[index](self.curr_state, \
-                self.prev_state, self.observations, self.time) \
-                * parameters[index];
 
 """
 Evaluates the weighted sum of all functions using the given parameters and
@@ -66,17 +37,35 @@ def weighted_function_sum(parameters, curr_state, prev_state, observations, \
     # state
     func_indices = func_indices \
         + functions.curr_state_prev_state_to_func_inds[curr_state][prev_state];
-    if time > 0 and (observations[time - 1] in \
-        functions.curr_state_prev_obs_to_func_inds[curr_state]):
-        # get indices of functions that require the current state, previous
-        # state and previous observation
-        func_indices = func_indices \
-            + functions.curr_state_prev_obs_to_func_inds[curr_state]\
-            [observations[time - 1]];
+    if time - 1 >= 0:
+        prev_obs = observations[time - 1].lower();
+        if prev_obs in functions.curr_state_prev_obs_to_func_inds[curr_state]:
+            # get indices of functions that require the current state, previous
+            # state and previous observation
+            func_indices = func_indices \
+                + functions.curr_state_prev_obs_to_func_inds[curr_state]\
+                [prev_obs];
+    if time - 2 >= 0:
+        prev2_obs = observations[time - 2].lower();
+        if prev2_obs in functions.curr_state_prev2_obs_to_func_inds[curr_state]:
+            # get indices of functions that require the current state, previous
+            # state and previous observation
+            func_indices = func_indices \
+                + functions.curr_state_prev2_obs_to_func_inds[curr_state]\
+                [prev2_obs];
+    if time + 1 < len(observations):
+        next_obs = observations[time + 1].lower();
+        if next_obs in functions.curr_state_next_obs_to_func_inds[curr_state]:
+            # get indices of functions that require the current state, next
+            # state and next observation
+            func_indices = func_indices \
+                + functions.curr_state_next_obs_to_func_inds[curr_state]\
+                [next_obs];
     # ---
 
     # go through all function types and their parameters
     for index in func_indices:
+        #print('parameter: ' + str(parameters[index]));
         total += functions.functions[index](curr_state, prev_state, \
         observations, time) * parameters[index];
 
@@ -323,6 +312,7 @@ TODO remove test_sequences
 """
 def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
     test_sequences):
+
     # initialize running numerator and denominator sums
     num_sum_l = 0;
     den_sum_l = 0;
@@ -381,11 +371,12 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
         # --- adjust likelihood denominator ---
         forward_calc(parameters, observations);
         this_z_val = z_val();
+        print('this_z_val: ' + str(this_z_val));
         den_sum_l += math.log(this_z_val);
         # --- 
 
         # --- adjust gradient denominator ---
-        backward_calc(parameters, observations); # TODO
+        backward_calc(parameters, observations);
         # go over all times
         for time in range(len(observations)):
             # go through all parameter indices
@@ -394,6 +385,7 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
                 curr_states = functions.functions_to_states[param_i];
                 # if this is not the first observation, consider all of the
                 # states as possible previous states
+                # TODO limit to possible states
                 prev_states = functions.functions_to_prev_states[param_i];
                 if prev_states[0] == ALL:
                     prev_states = sequence_labels;
@@ -406,8 +398,10 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
                     for prev_state in prev_states:
                         term = functions.functions[param_i]\
                             (curr_state, prev_state, observations, time);
-                        term *= state_pair_probability(parameters, curr_state, \
-                                prev_state, observations, time, this_z_val);
+                        if term != 0:
+                            term *= state_pair_probability(parameters, \
+                                    curr_state, prev_state, observations, \
+                                    time, this_z_val);
                         den_sum_g[param_i] += term;
         # --- 
 
@@ -458,10 +452,10 @@ sequences = None;
 with open(SEQUENCES_FILE, 'rb') as file:
     sequences = pickle.load(file);
 
-num_training = 10;
-num_test = 30;
+num_training = 50;
+num_test = 100;
 params = np.zeros((len(functions.functions), 1));
-fmin_l_bfgs_b(neg_likelihood_and_gradient, params, fprime=None, \
+fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
     args=(sequences[0:num_training - 1], \
     1 / (2 * 5),\
     #0,\

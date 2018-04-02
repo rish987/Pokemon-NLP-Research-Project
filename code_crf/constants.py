@@ -60,8 +60,24 @@ descriptor_regex = r'[^A-Za-z]%s[^A-Za-z]';
 # key of common function subsection in labels_to_func_inds
 COMMON = 'common';
 
+def create_shallow_pivot_dict(pivots):
+    pivot_dict = {};
+    for pivot in pivots:
+        pivot_dict[pivot] = [pivot];
+
+    return pivot_dict;
+
 # pivot terms
-PIVOTS = ['a', 'as', 'at', 'about', 'after', 'before', 'behind', 'below',\
-        'but', 'by', 'for', 'from', 'in', 'into', 'like', 'of', 'off', 'on',\
-        's', 'onto', 'over', 'since', 'than', 'through', 'to', 'under',\
-        'until', 'up', 'upon', 'the',  'with', 'without'];
+PIVOTS = ['a', 'an', 'as', 'at', 'about', \
+        'by', 'for', 'from', 'in', 'into', 'like', 'of', 'on',\
+        'through', 'to', 'the', 'his', 'her', 'its', 'out'];
+#PIVOTS = [];
+pivots = create_shallow_pivot_dict(PIVOTS);
+
+# call, become, recall, tell, send, use
+pivots["call"] = ["call", "called", "calls", "calling"];
+pivots["become"] = ["become", "becoming", "became", "becomes"];
+pivots["recall"] = ["recalling", "recall", "recalled", "recalls"];
+pivots["tell"] = ["tells", "telling", "tell", "told"];
+pivots["send"] = ["sends", "sending", "sent", "send"];
+pivots["use"] = ["using", "used", "uses", "use"]

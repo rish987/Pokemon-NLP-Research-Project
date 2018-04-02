@@ -31,13 +31,20 @@ for curr_label in sequence_labels:
     curr_state_prev_state_to_func_inds[curr_label] = {};
     for prev_label in (sequence_labels + [START_LABEL]):
         curr_state_prev_state_to_func_inds[curr_label][prev_label] = [];
-# mapping of combinations of current states and previous observations to
+# mappings of combinations of current states and previous/next observations to
 # relevant function indices
 curr_state_prev_obs_to_func_inds = {};
+curr_state_prev2_obs_to_func_inds = {};
+curr_state_next_obs_to_func_inds = {};
 for curr_label in sequence_labels:
     curr_state_prev_obs_to_func_inds[curr_label] = {};
-    for obs in PIVOTS:
-        curr_state_prev_obs_to_func_inds[curr_label][obs] = [];
+    curr_state_prev2_obs_to_func_inds[curr_label] = {};
+    curr_state_next_obs_to_func_inds[curr_label] = {};
+    for pivot in pivots:
+        for pivot_conj in pivots[pivot]:
+            curr_state_prev2_obs_to_func_inds[curr_label][pivot_conj] = [];
+            curr_state_prev_obs_to_func_inds[curr_label][pivot_conj] = [];
+            curr_state_next_obs_to_func_inds[curr_label][pivot_conj] = [];
 
 # mapping of functions to their relevant states
 functions_to_states = [];
@@ -147,18 +154,82 @@ for sequence_label in sequence_labels:
     set if the previous observation is that pivot.
     """
 
-    for pivot in PIVOTS:
+    for pivot in pivots:
+        pivot_conjs = pivots[pivot];
         def prev_word_pivot(curr_state, prev_state, observations, time, \
             sequence_label=sequence_label,
-            pivot=pivot):
+            pivot_conjs=pivot_conjs):
             if curr_state != sequence_label:
                 return 0;
             if time - 1 < 0:
                 return 0;
-            return observations[time - 1] == pivot;
+            if observations[time - 1].lower() in pivot_conjs:
+                #print('here')
+                return 1;
+            else: 
+                return 0;
         functions.append(prev_word_pivot);
-        curr_state_prev_obs_to_func_inds[sequence_label][pivot]\
-            .append(len(functions) - 1);
+        for pivot_conj in pivot_conjs:
+            curr_state_prev_obs_to_func_inds[sequence_label][pivot_conj]\
+                .append(len(functions) - 1);
+        functions_to_states.append([sequence_label]);
+        functions_to_prev_states.append([ALL]);
+
+    # ---
+
+    # --- 2nd previous observation pivot ---
+    """
+    Create one function for each of a list of predefined 'pivot' terms that is
+    set if the 2nd previous observation (the observation before the previous
+    observation) is that pivot.
+    """
+
+    for pivot in pivots:
+        pivot_conjs = pivots[pivot];
+        def prev2_word_pivot(curr_state, prev_state, observations, time, \
+            sequence_label=sequence_label,
+            pivot_conjs=pivot_conjs):
+            if curr_state != sequence_label:
+                return 0;
+            if time - 2 < 0:
+                return 0;
+            if observations[time - 2].lower() in pivot_conjs:
+                return 1;
+            else: 
+                return 0;
+        functions.append(prev2_word_pivot);
+        for pivot_conj in pivot_conjs:
+            curr_state_prev2_obs_to_func_inds[sequence_label][pivot_conj]\
+                .append(len(functions) - 1);
+        functions_to_states.append([sequence_label]);
+        functions_to_prev_states.append([ALL]);
+
+    # ---
+
+    # --- next observation pivot ---
+    """
+    Create one function for each of a list of predefined 'pivot' terms that is
+    set if the next observation is that pivot.
+    """
+
+    for pivot in pivots:
+        pivot_conjs = pivots[pivot];
+        def next_word_pivot(curr_state, prev_state, observations, time, \
+            sequence_label=sequence_label,
+            pivot_conjs=pivot_conjs):
+            if curr_state != sequence_label:
+                return 0;
+            if time + 1 >= len(observations):
+                return 0;
+            if observations[time + 1].lower() in pivot_conjs:
+                #print('here')
+                return 1;
+            else: 
+                return 0;
+        functions.append(next_word_pivot);
+        for pivot_conj in pivot_conjs:
+            curr_state_next_obs_to_func_inds[sequence_label][pivot_conj]\
+                .append(len(functions) - 1);
         functions_to_states.append([sequence_label]);
         functions_to_prev_states.append([ALL]);
 
