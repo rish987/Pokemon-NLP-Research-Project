@@ -36,15 +36,18 @@ for curr_label in sequence_labels:
 curr_state_prev_obs_to_func_inds = {};
 curr_state_prev2_obs_to_func_inds = {};
 curr_state_next_obs_to_func_inds = {};
+curr_state_curr_obs_to_func_inds = {};
 for curr_label in sequence_labels:
     curr_state_prev_obs_to_func_inds[curr_label] = {};
     curr_state_prev2_obs_to_func_inds[curr_label] = {};
     curr_state_next_obs_to_func_inds[curr_label] = {};
+    curr_state_curr_obs_to_func_inds[curr_label] = {};
     for pivot in pivots:
         for pivot_conj in pivots[pivot]:
             curr_state_prev2_obs_to_func_inds[curr_label][pivot_conj] = [];
             curr_state_prev_obs_to_func_inds[curr_label][pivot_conj] = [];
             curr_state_next_obs_to_func_inds[curr_label][pivot_conj] = [];
+            curr_state_curr_obs_to_func_inds[curr_label][pivot_conj] = [];
 
 # mapping of functions to their relevant states
 functions_to_states = [];
@@ -229,6 +232,33 @@ for sequence_label in sequence_labels:
         functions.append(next_word_pivot);
         for pivot_conj in pivot_conjs:
             curr_state_next_obs_to_func_inds[sequence_label][pivot_conj]\
+                .append(len(functions) - 1);
+        functions_to_states.append([sequence_label]);
+        functions_to_prev_states.append([ALL]);
+
+    # ---
+
+    # --- current observation pivot ---
+    """
+    Create one function for each of a list of predefined 'pivot' terms that is
+    set if the current observation is that pivot.
+    """
+
+    for pivot in pivots:
+        pivot_conjs = pivots[pivot];
+        def current_word_pivot(curr_state, prev_state, observations, time, \
+            sequence_label=sequence_label,
+            pivot_conjs=pivot_conjs):
+            if curr_state != sequence_label:
+                return 0;
+            if observations[time].lower() in pivot_conjs:
+                #print('here')
+                return 1;
+            else: 
+                return 0;
+        functions.append(current_word_pivot);
+        for pivot_conj in pivot_conjs:
+            curr_state_curr_obs_to_func_inds[sequence_label][pivot_conj]\
                 .append(len(functions) - 1);
         functions_to_states.append([sequence_label]);
         functions_to_prev_states.append([ALL]);

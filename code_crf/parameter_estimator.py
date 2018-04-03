@@ -14,6 +14,10 @@ import threading;
 from scipy.optimize import fmin_l_bfgs_b;
 from constants import *;
 
+# to store results of iterations in an ordered list of (accuracy, parameters)
+# tuples
+iteration_results = [];
+
 """
 Evaluates the weighted sum of all functions using the given parameters and
 arguments.
@@ -56,11 +60,18 @@ def weighted_function_sum(parameters, curr_state, prev_state, observations, \
     if time + 1 < len(observations):
         next_obs = observations[time + 1].lower();
         if next_obs in functions.curr_state_next_obs_to_func_inds[curr_state]:
-            # get indices of functions that require the current state, next
-            # state and next observation
+            # get indices of functions that require the current state next
+            # observation
             func_indices = func_indices \
                 + functions.curr_state_next_obs_to_func_inds[curr_state]\
                 [next_obs];
+    curr_obs = observations[time].lower();
+    if curr_obs in functions.curr_state_curr_obs_to_func_inds[curr_state]:
+        # get indices of functions that require the current state and current
+        # observation
+        func_indices = func_indices \
+            + functions.curr_state_curr_obs_to_func_inds[curr_state]\
+            [curr_obs];
     # ---
 
     # go through all function types and their parameters
@@ -425,7 +436,12 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
     ret = (neg_likelihood, neg_gradient);
 
     print(neg_likelihood);
-    print(evaluate(parameters, test_sequences));
+    accuracy = evaluate(parameters, test_sequences);
+    print(accuracy);
+    iteration_results.append((accuracy, list(parameters.tolist())));
+    # write sequences to file
+    with open(ITERATION_RESULTS_FILE, 'wb') as file:
+        pickle.dump(iteration_results, file);
 
     return ret;
 
@@ -452,14 +468,18 @@ sequences = None;
 with open(SEQUENCES_FILE, 'rb') as file:
     sequences = pickle.load(file);
 
-num_training = 50;
+num_training = 200;
 num_test = 100;
+training_seqs = sequences[0:num_training];
+test_seqs = sequences[num_training:(num_training + num_test)];
+print (training_seqs[len(training_seqs) - 1][0]);
+print (test_seqs[0][0]);
 params = np.zeros((len(functions.functions), 1));
 fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
-    args=(sequences[0:num_training - 1], \
-    1 / (2 * 5),\
-    #0,\
-    sequences[num_training:(num_training + num_test) - 1]), approx_grad=False, \
+    args=(training_seqs, \
+    #1 / (2 * 1),\
+    0,\
+    test_seqs), approx_grad=False, \
     bounds=None, m=10, \
     factr=10000000.0, pgtol=1e-05, epsilon=1e-08, iprint=-1, \
     maxfun=15000, maxiter=15000, disp=None, callback=None);

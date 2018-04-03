@@ -49,7 +49,7 @@ item	Jade Star Badge
 pokemon	Ash's Bulbasaur
 person	Pokémon Trainer
 pokemon	Brock's Geodude
-region	Pummelo Stadium
+building	Pummelo Stadium
 pokemon	Tracey's Marill
 region	Viridian Forest
 person	Pokémon Breeder
@@ -99,7 +99,7 @@ person	Pete Pebbleman
 group	Squirtle Squad
 pokemon	Misty's Staryu
 region	Murcott Island
-person	Team Wartortle
+group	Team Wartortle
 region	Orange Islands
 pokemon	Jessie's Ekans
 item	Pinkan Berries

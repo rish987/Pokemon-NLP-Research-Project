@@ -11,6 +11,9 @@ TEXT_FOLDER = "data/text/";
 # file containing sequences
 SEQUENCES_FILE = "data/sequences";
 
+# file containing results of training iterations
+ITERATION_RESULTS_FILE = "data/iteration_results";
+
 # file containing labeled descriptors
 DESCRIPTORS_LABELED_FILE = "data/descriptors_labeled";
 
@@ -74,10 +77,19 @@ PIVOTS = ['a', 'an', 'as', 'at', 'about', \
 #PIVOTS = [];
 pivots = create_shallow_pivot_dict(PIVOTS);
 
-# call, become, recall, tell, send, use
 pivots["call"] = ["call", "called", "calls", "calling"];
 pivots["become"] = ["become", "becoming", "became", "becomes"];
 pivots["recall"] = ["recalling", "recall", "recalled", "recalls"];
 pivots["tell"] = ["tells", "telling", "tell", "told"];
 pivots["send"] = ["sends", "sending", "sent", "send"];
 pivots["use"] = ["using", "used", "uses", "use"]
+pivots["settlement"] = ["city", "town", "village"]
+pivots["building"] = ["building", "hall", "laboratory", "institute", "gym", \
+        "center", "centre", "nursery"];
+pivots["region"] = ["island", "islands", "region", "route", "forest",\
+        "plateau", "cave", "hq", "archipelago", "mountain", "street"];
+pivots["item"] = ["ball", "badge", "potion", "balloon", "berry", "berries"];
+pivots["event"] = ["contest", "festival", "prix", "conference", "day"];
+pivots["person"] = ["professor", "nurse", "trainer", "leader"];
+pivots["group"] = ["squad", "team", "league"];
+pivots["move"] = ["kick", "spin", "attack", "sting", "screen"];
