@@ -85,11 +85,25 @@ pivots["send"] = ["sends", "sending", "sent", "send"];
 pivots["use"] = ["using", "used", "uses", "use"]
 pivots["settlement"] = ["city", "town", "village"]
 pivots["building"] = ["building", "hall", "laboratory", "institute", "gym", \
-        "center", "centre", "nursery"];
+    "center", "centre", "nursery", "lighthouse", "tower",\
+    "tech", "lab"];
 pivots["region"] = ["island", "islands", "region", "route", "forest",\
-        "plateau", "cave", "hq", "archipelago", "mountain", "street"];
-pivots["item"] = ["ball", "badge", "potion", "balloon", "berry", "berries"];
+    "plateau", "cave", "hq", "archipelago", "mountain", "street",\
+    "camp", "zone", "park", "porta"];
+pivots["item"] = ["ball", "badge", "potion", "balloon", "berry", "berries",\
+    "submarine", "trophy", "stone", "egg"];
 pivots["event"] = ["contest", "festival", "prix", "conference", "day"];
-pivots["person"] = ["professor", "nurse", "trainer", "leader"];
+pivots["person"] = ["professor", "nurse", "trainer", "leader",\
+    "breeder", "officer", "captain", "ranger", "boss"];
 pivots["group"] = ["squad", "team", "league"];
-pivots["move"] = ["kick", "spin", "attack", "sting", "screen"];
+pivots["move"] = ["kick", "spin", "attack", "attacks",\
+    "sting", "screen", "punch", "toss", "beam", "wave", "powder",\
+    "dance", "shot", "chop", "ray", "missile", "bash", "drill",\
+    "gas", "pump", "grip", "fang", "scratch", "claw"];
+
+# TODO add: Dr., Lt., Mt., Mr., Mrs., Peak, St., 
+# TODO plurals of label pivots
+# TODO adjective pivots
+
+# table text width
+TEXT_WIDTH = 15;

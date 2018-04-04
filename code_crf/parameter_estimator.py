@@ -435,8 +435,8 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
 
     ret = (neg_likelihood, neg_gradient);
 
-    print(neg_likelihood);
     accuracy = evaluate(parameters, test_sequences);
+    print(neg_likelihood);
     print(accuracy);
     iteration_results.append((accuracy, list(parameters.tolist())));
     # write sequences to file
@@ -454,10 +454,22 @@ def evaluate(parameters, sequences):
     total = 0;
     for observations, labels in sequences:
         pred_labels = max_calc(parameters, observations);
+        print("\nObservation".ljust(TEXT_WIDTH) + '|'\
+            + "Match".ljust(7) + '|'\
+            + "Predicted Label".ljust(TEXT_WIDTH) + '|'\
+            + "Observed Label".ljust(TEXT_WIDTH));
+        print('-' * ((TEXT_WIDTH * 3) + 2 + 8));
+             
         for label_i in range(len(labels)):
+            match = labels[label_i] == pred_labels[label_i];
+            match_str = '+' if match else '-';
+
+            print(observations[label_i].ljust(TEXT_WIDTH) + '|'\
+                + '   ' + match_str + '   |'\
+                + pred_labels[label_i].ljust(TEXT_WIDTH) + '|'\
+                + labels[label_i].ljust(TEXT_WIDTH));
             if (labels[label_i] != OTHER):
                 if (labels[label_i] == pred_labels[label_i]):
-                    print(labels[label_i]);
                     num_correct += 1;
                 total += 1;
 
@@ -468,12 +480,12 @@ sequences = None;
 with open(SEQUENCES_FILE, 'rb') as file:
     sequences = pickle.load(file);
 
-num_training = 200;
+num_training = 100;
 num_test = 100;
-training_seqs = sequences[0:num_training];
+training_seqs = sequences[0:num_training]\
+        + sequences[(num_training + num_test):(num_training + num_test\
+        + num_training)] ;
 test_seqs = sequences[num_training:(num_training + num_test)];
-print (training_seqs[len(training_seqs) - 1][0]);
-print (test_seqs[0][0]);
 params = np.zeros((len(functions.functions), 1));
 fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
     args=(training_seqs, \

@@ -118,7 +118,6 @@ building	Vermilion Gym
 item	Thunder Stone
 region	Grampa Canyon
 item	Thunder Badge
-item	Double Battle
 item	Boulder Badge
 settlement	Maiden's Peak
 person	Professor Ivy
@@ -132,7 +131,7 @@ settlement	Cerulean City
 item	Rainbow Badge
 person	Captain Aidan
 item	Volcano Badge
-region	Orange League
+group	Orange League
 person	Professor Oak
 person	Dr. Akihabara
 type	Electric-type
@@ -166,7 +165,7 @@ move	Quick Attack
 pokemon	Brock's Onix
 pokemon	Ash's Lapras
 move	Seismic Toss
-region	Johto League
+group	Johto League
 item	Safari Balls
 pokemon	Ash's Tauros
 person	Mr. Goodshow
@@ -211,10 +210,9 @@ move	Dragon Rage
 region	Moro Island
 move	Pin Missile
 move	Double Team
-region	Orange Crew
+group	Orange Crew
 person	Santa Claus
 building	Celadon Gym
-item	Full Battle
 region	Rind Island
 move	Thunderbolt
 move	String Shot
