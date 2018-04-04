@@ -5,6 +5,7 @@
 # Description:
 # Repository of functions for use by CRF model.
 # TODO rename to feature_function
+# TODO make sure all iterations go through SORTED lists
 from constants import *;
 
 """
@@ -64,7 +65,7 @@ functions_to_states = [];
 functions_to_prev_states = [];
 
 # create one of each function (set) for each sequence_label
-for sequence_label in sequence_labels:
+for sequence_label in sorted(sequence_labels):
     # --- capitalized current word ---
     """
     1 if the current word is capitalized, 0 otherwise.
@@ -186,7 +187,7 @@ for sequence_label in sequence_labels:
 
     # label stripped of prefix
     curr_label_type = sequence_label[len(B_PREFIX):];
-    for prev_sequence_label in (sequence_labels + [START_LABEL]):
+    for prev_sequence_label in sorted(sequence_labels + [START_LABEL]):
         prev_label_type = prev_sequence_label[len(B_PREFIX):];
 
         if ((prev_sequence_label == OTHER) and sequence_label.startswith(\
@@ -220,7 +221,7 @@ for sequence_label in sequence_labels:
     set if the previous observation is that pivot.
     """
 
-    for pivot in pivots:
+    for pivot in sorted(pivots.keys()):
         pivot_conjs = pivots[pivot];
         def prev_word_pivot(curr_state, prev_state, observations, time, \
             sequence_label=sequence_label,
@@ -235,7 +236,7 @@ for sequence_label in sequence_labels:
             else: 
                 return 0;
         functions.append(prev_word_pivot);
-        for pivot_conj in pivot_conjs:
+        for pivot_conj in sorted(pivot_conjs):
             curr_state_prev_obs_to_func_inds[sequence_label][pivot_conj]\
                 .append(len(functions) - 1);
         functions_to_states.append([sequence_label]);
@@ -250,7 +251,7 @@ for sequence_label in sequence_labels:
     observation) is that pivot.
     """
 
-    for pivot in pivots:
+    for pivot in sorted(pivots.keys()):
         pivot_conjs = pivots[pivot];
         def prev2_word_pivot(curr_state, prev_state, observations, time, \
             sequence_label=sequence_label,
@@ -264,7 +265,7 @@ for sequence_label in sequence_labels:
             else: 
                 return 0;
         functions.append(prev2_word_pivot);
-        for pivot_conj in pivot_conjs:
+        for pivot_conj in sorted(pivot_conjs):
             curr_state_prev2_obs_to_func_inds[sequence_label][pivot_conj]\
                 .append(len(functions) - 1);
         functions_to_states.append([sequence_label]);
@@ -278,7 +279,7 @@ for sequence_label in sequence_labels:
     set if the next observation is that pivot.
     """
 
-    for pivot in pivots:
+    for pivot in sorted(pivots.keys()):
         pivot_conjs = pivots[pivot];
         def next_word_pivot(curr_state, prev_state, observations, time, \
             sequence_label=sequence_label,
@@ -293,7 +294,7 @@ for sequence_label in sequence_labels:
             else: 
                 return 0;
         functions.append(next_word_pivot);
-        for pivot_conj in pivot_conjs:
+        for pivot_conj in sorted(pivot_conjs):
             curr_state_next_obs_to_func_inds[sequence_label][pivot_conj]\
                 .append(len(functions) - 1);
         functions_to_states.append([sequence_label]);
@@ -307,7 +308,7 @@ for sequence_label in sequence_labels:
     set if the current observation is that pivot.
     """
 
-    for pivot in pivots:
+    for pivot in sorted(pivots.keys()):
         pivot_conjs = pivots[pivot];
         def current_word_pivot(curr_state, prev_state, observations, time, \
             sequence_label=sequence_label,
@@ -320,7 +321,7 @@ for sequence_label in sequence_labels:
             else: 
                 return 0;
         functions.append(current_word_pivot);
-        for pivot_conj in pivot_conjs:
+        for pivot_conj in sorted(pivot_conjs):
             curr_state_curr_obs_to_func_inds[sequence_label][pivot_conj]\
                 .append(len(functions) - 1);
         functions_to_states.append([sequence_label]);

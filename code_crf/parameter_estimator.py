@@ -49,7 +49,7 @@ def weighted_function_sum(parameters, curr_state, prev_state, observations, \
             func_indices = func_indices \
                 + functions.curr_state_prev_obs_to_func_inds[curr_state]\
                 [prev_obs];
-    if time - 2 >= 0:
+    if (time - 2) >= 0:
         prev2_obs = observations[time - 2].lower();
         if prev2_obs in functions.curr_state_prev2_obs_to_func_inds[curr_state]:
             # get indices of functions that require the current state, previous
@@ -57,7 +57,7 @@ def weighted_function_sum(parameters, curr_state, prev_state, observations, \
             func_indices = func_indices \
                 + functions.curr_state_prev2_obs_to_func_inds[curr_state]\
                 [prev2_obs];
-    if time + 1 < len(observations):
+    if (time + 1) < len(observations):
         next_obs = observations[time + 1].lower();
         if next_obs in functions.curr_state_next_obs_to_func_inds[curr_state]:
             # get indices of functions that require the current state next
@@ -435,7 +435,7 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
 
     ret = (neg_likelihood, neg_gradient);
 
-    accuracy = evaluate(parameters, test_sequences);
+    accuracy = evaluate(parameters, test_sequences, True);
     print(neg_likelihood);
     print(accuracy);
     iteration_results.append((accuracy, list(parameters.tolist())));
@@ -449,25 +449,27 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
 Evaluates the specified model on the given list of observations sequences,
 returning the percentage of labels correctly predicted.
 """
-def evaluate(parameters, sequences):
+def evaluate(parameters, sequences, print_results):
     num_correct = 0;
     total = 0;
     for observations, labels in sequences:
         pred_labels = max_calc(parameters, observations);
-        print("\nObservation".ljust(TEXT_WIDTH) + '|'\
-            + "Match".ljust(7) + '|'\
-            + "Predicted Label".ljust(TEXT_WIDTH) + '|'\
-            + "Observed Label".ljust(TEXT_WIDTH));
-        print('-' * ((TEXT_WIDTH * 3) + 2 + 8));
+        if print_results:
+            print("\n" + "Observation".ljust(TEXT_WIDTH) + '|'\
+                + "Match".ljust(7) + '|'\
+                + "Predicted Label".ljust(TEXT_WIDTH) + '|'\
+                + "Observed Label".ljust(TEXT_WIDTH));
+            print('-' * ((TEXT_WIDTH * 3) + 2 + 8));
              
         for label_i in range(len(labels)):
             match = labels[label_i] == pred_labels[label_i];
             match_str = '+' if match else '-';
 
-            print(observations[label_i].ljust(TEXT_WIDTH) + '|'\
-                + '   ' + match_str + '   |'\
-                + pred_labels[label_i].ljust(TEXT_WIDTH) + '|'\
-                + labels[label_i].ljust(TEXT_WIDTH));
+            if print_results:
+                print(observations[label_i].ljust(TEXT_WIDTH) + '|'\
+                    + '   ' + match_str + '   |'\
+                    + pred_labels[label_i].ljust(TEXT_WIDTH) + '|'\
+                    + labels[label_i].ljust(TEXT_WIDTH));
             if (labels[label_i] != OTHER):
                 if (labels[label_i] == pred_labels[label_i]):
                     num_correct += 1;
@@ -486,12 +488,22 @@ training_seqs = sequences[0:num_training]\
         + sequences[(num_training + num_test):(num_training + num_test\
         + num_training)] ;
 test_seqs = sequences[num_training:(num_training + num_test)];
-params = np.zeros((len(functions.functions), 1));
-fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
-    args=(training_seqs, \
-    #1 / (2 * 1),\
-    0,\
-    test_seqs), approx_grad=False, \
-    bounds=None, m=10, \
-    factr=10000000.0, pgtol=1e-05, epsilon=1e-08, iprint=-1, \
-    maxfun=15000, maxiter=15000, disp=None, callback=None);
+with open(ITERATION_RESULTS_FILE, 'rb') as file:
+    iteration_results_loaded = pickle.load(file);
+best_iteration_result = max(iteration_results_loaded, key=lambda x:x[0]);
+params = np.array(best_iteration_result[1]);
+if params.shape[0] != len(functions.functions):
+    print("WARNING: loaded parameters incorrect size.");
+
+print(evaluate(params, test_seqs, False));
+#print(best_iteration_result[0]);
+
+##params = np.zeros((len(functions.functions), 1));
+#fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
+#    args=(training_seqs, \
+#    #1 / (2 * 1),\
+#    0,\
+#    test_seqs), approx_grad=False, \
+#    bounds=None, m=10, \
+#    factr=10000000.0, pgtol=1e-05, epsilon=1e-08, iprint=-1, \
+#    maxfun=15000, maxiter=15000, disp=None, callback=None);
