@@ -121,60 +121,60 @@ for sequence_label in sorted(sequence_labels):
 
     # --- 
 
-#    # --- possessive current word ---
-#    """
-#    1 if the current word is possessive, 0 otherwise.
-#    """
-#
-#    def curr_word_possessive(curr_state, prev_state, observations, time, \
-#        sequence_label=sequence_label):
-#        if curr_state != sequence_label:
-#            return 0;
-#        return is_possessive(observations[time]);
-#    functions.append(curr_word_possessive);
-#    curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
-#    functions_to_states.append([sequence_label]);
-#    functions_to_prev_states.append([ALL]);
-#
-#    # --- 
-#
-#    # --- possessive previous word ---
-#    """
-#    1 if the there is a previous word and it is possessive, 0 otherwise.
-#    """
-#
-#    def prev_word_possessive(curr_state, prev_state, observations, time, \
-#        sequence_label=sequence_label):
-#        if curr_state != sequence_label:
-#            return 0;
-#        if time - 1 < 0:
-#            return 0;
-#        return is_possessive(observations[time - 1]);
-#    functions.append(prev_word_possessive);
-#    curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
-#    functions_to_states.append([sequence_label]);
-#    functions_to_prev_states.append([ALL]);
-#
-#    # --- 
-#
-#    # --- possessive next word ---
-#    """
-#    1 if the there is a next word and it is possessive, 0 otherwise.
-#    """
-#
-#    def next_word_possessive(curr_state, prev_state, observations, time, \
-#        sequence_label=sequence_label):
-#        if curr_state != sequence_label:
-#            return 0;
-#        if time + 1 >= len(observations):
-#            return 0;
-#        return is_possessive(observations[time + 1]);
-#    functions.append(next_word_possessive);
-#    curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
-#    functions_to_states.append([sequence_label]);
-#    functions_to_prev_states.append([ALL]);
-#
-#    # --- 
+    # --- possessive current word ---
+    """
+    1 if the current word is possessive, 0 otherwise.
+    """
+
+    def curr_word_possessive(curr_state, prev_state, observations, time, \
+        sequence_label=sequence_label):
+        if curr_state != sequence_label:
+            return 0;
+        return is_possessive(observations[time]);
+    functions.append(curr_word_possessive);
+    curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
+    functions_to_states.append([sequence_label]);
+    functions_to_prev_states.append([ALL]);
+
+    # --- 
+
+    # --- possessive previous word ---
+    """
+    1 if the there is a previous word and it is possessive, 0 otherwise.
+    """
+
+    def prev_word_possessive(curr_state, prev_state, observations, time, \
+        sequence_label=sequence_label):
+        if curr_state != sequence_label:
+            return 0;
+        if time - 1 < 0:
+            return 0;
+        return is_possessive(observations[time - 1]);
+    functions.append(prev_word_possessive);
+    curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
+    functions_to_states.append([sequence_label]);
+    functions_to_prev_states.append([ALL]);
+
+    # --- 
+
+    # --- possessive next word ---
+    """
+    1 if the there is a next word and it is possessive, 0 otherwise.
+    """
+
+    def next_word_possessive(curr_state, prev_state, observations, time, \
+        sequence_label=sequence_label):
+        if curr_state != sequence_label:
+            return 0;
+        if time + 1 >= len(observations):
+            return 0;
+        return is_possessive(observations[time + 1]);
+    functions.append(next_word_possessive);
+    curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
+    functions_to_states.append([sequence_label]);
+    functions_to_prev_states.append([ALL]);
+
+    # --- 
 
     # --- previous label ---
     """

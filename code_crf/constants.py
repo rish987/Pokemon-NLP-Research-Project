@@ -12,7 +12,7 @@ TEXT_FOLDER = "data/text/";
 SEQUENCES_FILE = "data/sequences";
 
 # file containing results of training iterations
-ITERATION_RESULTS_FILE = "data/iteration_results";
+ITERATION_RESULTS_FILE = "data/iteration_results/last_run";
 
 # file containing labeled descriptors
 DESCRIPTORS_LABELED_FILE = "data/descriptors_labeled";
@@ -94,7 +94,7 @@ pivots["item"] = ["ball", "badge", "potion", "balloon", "berry", "berries",\
     "submarine", "trophy", "stone", "egg"];
 pivots["event"] = ["contest", "festival", "prix", "conference", "day"];
 pivots["person"] = ["professor", "nurse", "trainer", "leader",\
-    "breeder", "officer", "captain", "ranger", "boss"];
+    "breeder", "officer", "captain", "ranger", "boss", "man", "woman"];
 pivots["group"] = ["squad", "team", "league"];
 pivots["move"] = ["kick", "spin", "attack", "attacks",\
     "sting", "screen", "punch", "toss", "beam", "wave", "powder",\

@@ -11,6 +11,7 @@ import numpy as np;
 import functions;
 import pickle;
 import threading;
+from termcolor import colored;
 from scipy.optimize import fmin_l_bfgs_b;
 from constants import *;
 
@@ -463,13 +464,14 @@ def evaluate(parameters, sequences, print_results):
              
         for label_i in range(len(labels)):
             match = labels[label_i] == pred_labels[label_i];
-            match_str = '+' if match else '-';
+            color = 'green' if match else 'red';
+            match_str = colored('+', color) if match else colored('-', color);
 
             if print_results:
                 print(observations[label_i].ljust(TEXT_WIDTH) + '|'\
                     + '   ' + match_str + '   |'\
-                    + pred_labels[label_i].ljust(TEXT_WIDTH) + '|'\
-                    + labels[label_i].ljust(TEXT_WIDTH));
+                    + colored(pred_labels[label_i].ljust(TEXT_WIDTH), color)\
+                    + '|' + colored(labels[label_i].ljust(TEXT_WIDTH), color));
             if (labels[label_i] != OTHER):
                 if (labels[label_i] == pred_labels[label_i]):
                     num_correct += 1;
@@ -490,20 +492,18 @@ training_seqs = sequences[0:num_training]\
 test_seqs = sequences[num_training:(num_training + num_test)];
 with open(ITERATION_RESULTS_FILE, 'rb') as file:
     iteration_results_loaded = pickle.load(file);
-best_iteration_result = max(iteration_results_loaded, key=lambda x:x[0]);
-params = np.array(best_iteration_result[1]);
-if params.shape[0] != len(functions.functions):
-    print("WARNING: loaded parameters incorrect size.");
+#best_iteration_result = max(iteration_results_loaded, key=lambda x:x[0]);
+#params = np.array(best_iteration_result[1]);
+#if params.shape[0] != len(functions.functions):
+#    print("WARNING: loaded parameters incorrect size.");
 
-print(evaluate(params, test_seqs, False));
-#print(best_iteration_result[0]);
-
-##params = np.zeros((len(functions.functions), 1));
-#fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
-#    args=(training_seqs, \
-#    #1 / (2 * 1),\
-#    0,\
-#    test_seqs), approx_grad=False, \
-#    bounds=None, m=10, \
-#    factr=10000000.0, pgtol=1e-05, epsilon=1e-08, iprint=-1, \
-#    maxfun=15000, maxiter=15000, disp=None, callback=None);
+#params = np.zeros((len(functions.functions), 1));
+params = iteration_results_loaded[len(iteration_results_loaded) - 1][1];
+fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
+    args=(training_seqs, \
+    #1 / (2 * 1),\
+    0,\
+    test_seqs), approx_grad=False, \
+    bounds=None, m=10, \
+    factr=10000000.0, pgtol=1e-05, epsilon=1e-08, iprint=-1, \
+    maxfun=15000, maxiter=15000, disp=None, callback=None);
