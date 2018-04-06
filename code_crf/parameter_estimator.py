@@ -11,6 +11,7 @@ import numpy as np;
 import functions;
 import pickle;
 import threading;
+from decimal import *;
 from termcolor import colored;
 from scipy.optimize import fmin_l_bfgs_b;
 from constants import *;
@@ -81,7 +82,7 @@ def weighted_function_sum(parameters, curr_state, prev_state, observations, \
         total += functions.functions[index](curr_state, prev_state, \
         observations, time) * parameters[index];
 
-    return total;
+    return Decimal(total);
 
 """
 Evaluates the factor for this set of (curr_state, prev_state, obs), using the
@@ -106,8 +107,8 @@ def factor(parameters, curr_state, prev_state, observations, time):
             prev_label_type != curr_label_type)):
         return 0;
     # return e ^ (weighted function sum)
-    return math.exp(weighted_function_sum(parameters, curr_state, prev_state, \
-        observations, time));
+    return weighted_function_sum(parameters, curr_state, prev_state, \
+            observations, time).exp();
 
 # global data structures for storing forward and backward values
 forward_values = {};
@@ -384,7 +385,7 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
         forward_calc(parameters, observations);
         this_z_val = z_val();
         print('this_z_val: ' + str(this_z_val));
-        den_sum_l += math.log(this_z_val);
+        den_sum_l += this_z_val.ln();
         # --- 
 
         # --- adjust gradient denominator ---
@@ -425,7 +426,7 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
     for parameter in parameters:
         sqr_param_sum += parameter ** 2;
 
-    likelihood = num_sum_l - den_sum_l - (reg_param * sqr_param_sum);
+    likelihood = num_sum_l - den_sum_l - Decimal(reg_param * sqr_param_sum);
     gradient = np.array(num_sum_g, dtype=np.float64) - \
 	np.array(den_sum_g, dtype=np.float64) - \
 	(reg_param * 2 * np.array(parameters, dtype=np.float64));
@@ -436,7 +437,7 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
 
     ret = (neg_likelihood, neg_gradient);
 
-    accuracy = evaluate(parameters, test_sequences, True);
+    accuracy = evaluate(parameters, test_sequences, False);
     print(neg_likelihood);
     print(accuracy);
     iteration_results.append((accuracy, list(parameters.tolist())));
@@ -492,13 +493,14 @@ training_seqs = sequences[0:num_training]\
 test_seqs = sequences[num_training:(num_training + num_test)];
 with open(ITERATION_RESULTS_FILE, 'rb') as file:
     iteration_results_loaded = pickle.load(file);
-#best_iteration_result = max(iteration_results_loaded, key=lambda x:x[0]);
-#params = np.array(best_iteration_result[1]);
-#if params.shape[0] != len(functions.functions):
-#    print("WARNING: loaded parameters incorrect size.");
+best_iteration_result = max(iteration_results_loaded, key=lambda x:x[0]);
+params = np.array(best_iteration_result[1]);
+if params.shape[0] != len(functions.functions):
+    print("WARNING: loaded parameters incorrect size.");
 
 #params = np.zeros((len(functions.functions), 1));
-params = iteration_results_loaded[len(iteration_results_loaded) - 1][1];
+params = np.array(iteration_results_loaded[len(iteration_results_loaded) - 1][1]);
+print(evaluate(params, test_seqs, False));
 fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
     args=(training_seqs, \
     #1 / (2 * 1),\
