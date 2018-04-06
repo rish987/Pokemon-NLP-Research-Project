@@ -437,7 +437,7 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
 
     ret = (neg_likelihood, neg_gradient);
 
-    accuracy = evaluate(parameters, test_sequences, False);
+    accuracy = evaluate(parameters, test_sequences, True);
     print(neg_likelihood);
     print(accuracy);
     iteration_results.append((accuracy, list(parameters.tolist())));
@@ -500,7 +500,6 @@ if params.shape[0] != len(functions.functions):
 
 #params = np.zeros((len(functions.functions), 1));
 params = np.array(iteration_results_loaded[len(iteration_results_loaded) - 1][1]);
-print(evaluate(params, test_seqs, False));
 fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
     args=(training_seqs, \
     #1 / (2 * 1),\
