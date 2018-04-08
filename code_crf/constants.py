@@ -17,6 +17,10 @@ ITERATION_RESULTS_FILE = "data/iteration_results/last_run";
 # file containing labeled descriptors
 DESCRIPTORS_LABELED_FILE = "data/descriptors_labeled";
 
+# file containing pickle object mapping from descriptors to global pivots and
+# their values
+DESCRIPTORS_TO_GLOBAL_PIVOTS_FILE = "data/descriptors_to_global_pivots";
+
 # total number of episodes in the first generation
 NUM_EPS = 116;
 
@@ -104,6 +108,11 @@ pivots["move"] = ["kick", "spin", "attack", "attacks",\
 # TODO add: Dr., Lt., Mt., Mr., Mrs., Peak, St., 
 # TODO plurals of label pivots
 # TODO adjective pivots
+
+# --- global pivots ---
+global_pivots = {};
+global_pivots['person'] = ["saying", "say", "said", "says"];
+# --- 
 
 # table text width
 TEXT_WIDTH = 15;

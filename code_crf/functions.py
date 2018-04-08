@@ -24,6 +24,10 @@ def is_possessive(word):
         return 1;
     return 0;
 
+descriptors_to_global_pivots = None;
+with open(DESCRIPTORS_TO_GLOBAL_PIVOTS_FILE, 'rb') as file:
+    descriptors_to_global_pivots = pickle.load(file);
+
 # --- constructing function list ---
 
 # list of functions
@@ -326,6 +330,28 @@ for sequence_label in sorted(sequence_labels):
                 .append(len(functions) - 1);
         functions_to_states.append([sequence_label]);
         functions_to_prev_states.append([ALL]);
+
+    # ---
+
+    # --- current observation succeeded somewhere in the text by global 
+    # pivot ---
+    """
+
+    """
+    # TODO apply to other global pivots than "person"
+
+    def has_global_pivot_next(curr_state, prev_state, observations, time, \
+        sequence_label=sequence_label):
+        if curr_state != sequence_label:
+            return 0;
+        this_observation = observations[time];
+        if this_observation in descriptors_to_global_pivots:
+            return descriptors_to_global_pivots[this_observation]['person'];
+        return 0;
+    functions.append(has_global_pivot_next);
+    curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
+    functions_to_states.append([sequence_label]);
+    functions_to_prev_states.append([ALL]);
 
     # ---
 
