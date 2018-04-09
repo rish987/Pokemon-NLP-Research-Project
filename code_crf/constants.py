@@ -111,7 +111,11 @@ pivots["move"] = ["kick", "spin", "attack", "attacks",\
 
 # --- global pivots ---
 global_pivots = {};
-global_pivots['person'] = ["saying", "say", "said", "says"];
+global_pivots['person'] = ["saying", "say", "said", "says", "ask", "asking", \
+        "asked", "asks", "explaining", "explain", "explained", "explains", \
+        "tells", "telling", "tell", "told", "note", "notes", "noting", "noted",\
+        "reminding", "remind", "reminded", "reminds", \
+        "agreeing", "agreed", "agree", "agrees"];
 # --- 
 
 # table text width

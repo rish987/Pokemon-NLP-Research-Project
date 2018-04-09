@@ -30,7 +30,6 @@ item	The Meowth Balloon
 person	Team Rocket Grunts
 event	Princess Festival
 pokemon	Legendary Pokémon
-person	Team Rocket Grunt
 building	Palace of Victory
 item	Spike Shell Badge
 building	Bill's Lighthouse
@@ -185,7 +184,6 @@ move	Smokescreen
 settlement	Pewter City
 settlement	Pallet Town
 building	Saffron Gym
-move	Fury Attack
 person	Ash Ketchum
 move	Karate Chop
 move	Confuse Ray
@@ -618,7 +616,6 @@ move	Acid
 person	Puka
 person	Rudy
 move	Peck
-move	Lick
 pokemon	Onix
 item	Poké
 event	Prix
