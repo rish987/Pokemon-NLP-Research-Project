@@ -7,6 +7,7 @@
 # TODO rename to feature_function
 # TODO make sure all iterations go through SORTED lists
 from constants import *;
+import pickle;
 
 """
 Returns 1 if the given word is capitalized, 0 otherwise;
@@ -336,7 +337,9 @@ for sequence_label in sorted(sequence_labels):
     # --- current observation succeeded somewhere in the text by global 
     # pivot ---
     """
-
+    Returns true if this word is part of any descriptor that is often followed
+    by a 'person-identifying' pivot, considering the entire text. See
+    global_pivots_constructor for implementation details.
     """
     # TODO apply to other global pivots than "person"
 

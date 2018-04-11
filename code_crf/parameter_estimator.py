@@ -498,8 +498,8 @@ params = np.array(best_iteration_result[1]);
 if params.shape[0] != len(functions.functions):
     print("WARNING: loaded parameters incorrect size.");
 
-#params = np.zeros((len(functions.functions), 1));
-params = np.array(iteration_results_loaded[len(iteration_results_loaded) - 1][1]);
+params = np.zeros((len(functions.functions), 1));
+#params = np.array(iteration_results_loaded[len(iteration_results_loaded) - 1][1]);
 fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
     args=(training_seqs, \
     #1 / (2 * 1),\

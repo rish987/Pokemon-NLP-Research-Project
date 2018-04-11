@@ -170,7 +170,7 @@ pokemon	Ash's Tauros
 person	Mr. Goodshow
 move	Psychic-type
 person	Quackenpoker
-person	Crystal Onix
+pokemon	Crystal Onix
 building	Pokémon Tech
 move	Swords Dance
 building	Viridian Gym
@@ -226,8 +226,8 @@ pokemon	Bellsprout
 pokemon	Aerodactyl
 move	Conversion
 item	Leaf Stone
-person	Elite Four
-person	Supersonic
+group	Elite Four
+move	Supersonic
 type	Ghost-type
 move	Solar Beam
 pokemon	Hitmonchan
@@ -430,7 +430,7 @@ pokemon	Kingler
 pokemon	Venonat
 pokemon	Metapod
 move	Psychic
-person	Meowzie
+pokemon	Meowzie
 move	Thunder
 pokemon	Voltorb
 person	Rebecca
@@ -582,7 +582,7 @@ person	Flint
 person	Bruno
 person	Danny
 move	Stomp
-person	Happy
+pokemon	Happy
 move	Licks
 person	Timmy
 move	Glare
@@ -613,7 +613,7 @@ person	Ruby
 move	Mist
 pokemon	Jynx
 move	Acid
-person	Puka
+pokemon	Puka
 person	Rudy
 move	Peck
 pokemon	Onix

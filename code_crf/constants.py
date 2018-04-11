@@ -4,6 +4,10 @@
 #
 # Description:
 # Constants for use by multiple programs.
+import re;
+
+# file containing text from all episodes
+ALL_EPISODE_TEXT_FILE = "../data/data";
 
 # folder containing text
 TEXT_FOLDER = "data/text/";
@@ -113,9 +117,42 @@ pivots["move"] = ["kick", "spin", "attack", "attacks",\
 global_pivots = {};
 global_pivots['person'] = ["saying", "say", "said", "says", "ask", "asking", \
         "asked", "asks", "explaining", "explain", "explained", "explains", \
-        "tells", "telling", "tell", "told", "note", "notes", "noting", "noted",\
+        "tells", "telling", "tell", "told",\
+        "note", "notes", "noting", "noted",\
         "reminding", "remind", "reminded", "reminds", \
-        "agreeing", "agreed", "agree", "agrees"];
+        "agreeing", "agreed", "agree", "agrees", "checking", "checked", \
+        "check", "checks", "call", "called", "calls", "calling", \
+        "recalling", "recall", "recalled", "recalls", "deciding", \
+        "decided", "decides", "decide", "answer", "answered", 
+        "answering", "answers", "expresses", "express", "expressing", \
+        "expressed", "feel", "feeling", "feels", "felt", "comment", \
+        "commenting", "commented", "comments", "reassured", "reassure",\
+        "reassures", "reassuring", "laughs", "laughing", "laugh",\
+        "laughed", "challenges", "challenge", "challenging", \
+        "challenged", "warn", "warned", "warns", "warning", \
+        "ordering", "ordered", "order", "orders", "heard", "hear", \
+        "hears", "hearing", "proclaiming", "proclaims", "proclaimed",\
+        "proclaim", "recounted", "recounts", "recounting", "recount",\
+        "pointed", "points", "pointing", "point", "believed", "believe",\
+        "believing", "believes", "realized", "realize", "realizing",\
+        "realizes", "showing", "shows", "shown", "showed", "show",\
+        "revealing", "reveal", "revealed", "reveals", "arriving",\
+        "arrive", "arrived", "arrives", "replied", "reply", "replying",\
+        "replies", "acknowledging", "acknowledges", "acknowledged", 
+        "acknowledge", "party", "seen", "sees", "see", "saw", "seeing",
+        "plant", "work", "sends", "sending", "sent", "send"];
+
+all_episode_text = '';
+
+with open(ALL_EPISODE_TEXT_FILE, 'r') as file:
+    all_episode_text = file.read();
+
+# remove all unused pivot conjugations
+for pivot_conj in global_pivots['person']:
+    found = re.search(r'\b%s\b' % pivot_conj, all_episode_text);
+    if found == None:
+        global_pivots['person'].remove(pivot_conj);
+
 # --- 
 
 # table text width
