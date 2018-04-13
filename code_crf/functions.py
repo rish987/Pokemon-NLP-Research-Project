@@ -34,6 +34,19 @@ with open(DESCRIPTORS_TO_GLOBAL_PIVOTS_FILE, 'rb') as file:
 # list of functions
 functions = [];
 
+# mapping of function names to function indices
+func_names_to_func_inds = {};
+
+"""
+Adds a mapping from function name to function index to func_names_to_func_inds 
+using the given label and index.
+"""
+def add_func_name_to_func_ind(func_prefix, label, index):
+    key = func_prefix + '_lbl_' + sequence_label;
+    if key in func_names_to_func_inds:
+        print("WARNING: duplicate key (" + key + ")");
+    func_names_to_func_inds[key] = index;
+
 # mapping of current states to relevant function indices
 curr_state_to_func_inds = {};
 for curr_label in sequence_labels:
@@ -82,6 +95,7 @@ for sequence_label in sorted(sequence_labels):
             return 0;
         return is_capitalized(observations[time]);
     functions.append(curr_word_capitalized);
+    add_func_name_to_func_ind('curr_cap', sequence_label, len(functions) - 1);
     curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
     functions_to_states.append([sequence_label]);
     functions_to_prev_states.append([ALL]);
@@ -101,6 +115,7 @@ for sequence_label in sorted(sequence_labels):
             return 0;
         return is_capitalized(observations[time - 1]);
     functions.append(prev_word_capitalized);
+    add_func_name_to_func_ind('prev_cap', sequence_label, len(functions) - 1);
     curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
     functions_to_states.append([sequence_label]);
     functions_to_prev_states.append([ALL]);
@@ -120,6 +135,7 @@ for sequence_label in sorted(sequence_labels):
             return 0;
         return is_capitalized(observations[time + 1]);
     functions.append(next_word_capitalized);
+    add_func_name_to_func_ind('next_cap', sequence_label, len(functions) - 1);
     curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
     functions_to_states.append([sequence_label]);
     functions_to_prev_states.append([ALL]);
@@ -137,6 +153,7 @@ for sequence_label in sorted(sequence_labels):
             return 0;
         return is_possessive(observations[time]);
     functions.append(curr_word_possessive);
+    add_func_name_to_func_ind('curr_pos', sequence_label, len(functions) - 1);
     curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
     functions_to_states.append([sequence_label]);
     functions_to_prev_states.append([ALL]);
@@ -156,6 +173,7 @@ for sequence_label in sorted(sequence_labels):
             return 0;
         return is_possessive(observations[time - 1]);
     functions.append(prev_word_possessive);
+    add_func_name_to_func_ind('prev_pos', sequence_label, len(functions) - 1);
     curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
     functions_to_states.append([sequence_label]);
     functions_to_prev_states.append([ALL]);
@@ -175,6 +193,7 @@ for sequence_label in sorted(sequence_labels):
             return 0;
         return is_possessive(observations[time + 1]);
     functions.append(next_word_possessive);
+    add_func_name_to_func_ind('next_pos', sequence_label, len(functions) - 1);
     curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
     functions_to_states.append([sequence_label]);
     functions_to_prev_states.append([ALL]);
@@ -213,6 +232,8 @@ for sequence_label in sorted(sequence_labels):
             return 0;
 
         functions.append(prev_label);
+        add_func_name_to_func_ind('prev_label_' + prev_sequence_label, \
+            sequence_label, len(functions) - 1);
         curr_state_prev_state_to_func_inds[sequence_label]\
             [prev_sequence_label].append(len(functions) - 1);
         functions_to_states.append([sequence_label]);
@@ -241,6 +262,8 @@ for sequence_label in sorted(sequence_labels):
             else: 
                 return 0;
         functions.append(prev_word_pivot);
+        add_func_name_to_func_ind('prev_pivot_' + pivot, \
+            sequence_label, len(functions) - 1);
         for pivot_conj in sorted(pivot_conjs):
             curr_state_prev_obs_to_func_inds[sequence_label][pivot_conj]\
                 .append(len(functions) - 1);
@@ -270,6 +293,8 @@ for sequence_label in sorted(sequence_labels):
             else: 
                 return 0;
         functions.append(prev2_word_pivot);
+        add_func_name_to_func_ind('prev2_pivot_' + pivot, \
+            sequence_label, len(functions) - 1);
         for pivot_conj in sorted(pivot_conjs):
             curr_state_prev2_obs_to_func_inds[sequence_label][pivot_conj]\
                 .append(len(functions) - 1);
@@ -299,6 +324,8 @@ for sequence_label in sorted(sequence_labels):
             else: 
                 return 0;
         functions.append(next_word_pivot);
+        add_func_name_to_func_ind('next_pivot_' + pivot, \
+            sequence_label, len(functions) - 1);
         for pivot_conj in sorted(pivot_conjs):
             curr_state_next_obs_to_func_inds[sequence_label][pivot_conj]\
                 .append(len(functions) - 1);
@@ -326,6 +353,8 @@ for sequence_label in sorted(sequence_labels):
             else: 
                 return 0;
         functions.append(current_word_pivot);
+        add_func_name_to_func_ind('curr_pivot_' + pivot, \
+            sequence_label, len(functions) - 1);
         for pivot_conj in sorted(pivot_conjs):
             curr_state_curr_obs_to_func_inds[sequence_label][pivot_conj]\
                 .append(len(functions) - 1);
@@ -352,6 +381,8 @@ for sequence_label in sorted(sequence_labels):
             return descriptors_to_global_pivots[this_observation]['person'];
         return 0;
     functions.append(has_global_pivot_next);
+    add_func_name_to_func_ind('global_pivot_next' + pivot, \
+        sequence_label, len(functions) - 1);
     curr_state_to_func_inds[sequence_label].append(len(functions) - 1);
     functions_to_states.append([sequence_label]);
     functions_to_prev_states.append([ALL]);

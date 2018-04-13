@@ -440,7 +440,8 @@ def neg_likelihood_and_gradient(parameters, sequences, reg_param, \
     accuracy = evaluate(parameters, test_sequences, True);
     print(neg_likelihood);
     print(accuracy);
-    iteration_results.append((accuracy, list(parameters.tolist())));
+    iteration_results.append((accuracy, convert_param_list_to_mapping\
+        (list(parameters.tolist()))));
     # write sequences to file
     with open(ITERATION_RESULTS_FILE, 'wb') as file:
         pickle.dump(iteration_results, file);
@@ -480,6 +481,18 @@ def evaluate(parameters, sequences, print_results):
 
     return float(num_correct) / float(total);
 
+"""
+Converts the given list of parameters to a mapping from function names to
+parameters.
+"""
+def convert_param_list_to_mapping(params):
+    mapping = {};
+    for func_name in functions.func_names_to_func_inds:
+        func_ind = functions.func_names_to_func_inds[func_name];
+        mapping[func_name] = params[func_ind];
+
+    return mapping;
+
 # TODO testing... remove
 sequences = None;
 with open(SEQUENCES_FILE, 'rb') as file:
@@ -493,18 +506,39 @@ training_seqs = sequences[0:num_training]\
 test_seqs = sequences[num_training:(num_training + num_test)];
 with open(ITERATION_RESULTS_FILE, 'rb') as file:
     iteration_results_loaded = pickle.load(file);
-best_iteration_result = max(iteration_results_loaded, key=lambda x:x[0]);
-params = np.array(best_iteration_result[1]);
-if params.shape[0] != len(functions.functions):
-    print("WARNING: loaded parameters incorrect size.");
 
-params = np.zeros((len(functions.functions), 1));
+#iteration_results_to_write = [];
+#for result in iteration_results_loaded:
+#    iteration_results_to_write.append((result[0],
+#        convert_param_list_to_mapping(result[1])));
+#
+#with open(ITERATION_RESULTS_FILE, 'wb') as file:
+#    pickle.dump(iteration_results_to_write, file);
+
+params = [0] * len(functions.functions);
+chosen_iteration_result = iteration_results_loaded[\
+    len(iteration_results_loaded) - 1];
+
+for func_name in chosen_iteration_result[1]:
+    value = chosen_iteration_result[1][func_name];
+    params[functions.func_names_to_func_inds[func_name]] = value;
+
+accuracy = evaluate(params, test_seqs, True);
+print("Accuracy: " + str(accuracy));
+
+#best_iteration_result = max(iteration_results_loaded, key=lambda x:x[0]);
+#print(best_iteration_result[0]);
+#params = np.array(best_iteration_result[1]);
+#if params.shape[0] != len(functions.functions):
+#    print("WARNING: loaded parameters incorrect size.");
+
+#params = np.zeros((len(functions.functions), 1));
 #params = np.array(iteration_results_loaded[len(iteration_results_loaded) - 1][1]);
-fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
-    args=(training_seqs, \
-    #1 / (2 * 1),\
-    0,\
-    test_seqs), approx_grad=False, \
-    bounds=None, m=10, \
-    factr=10000000.0, pgtol=1e-05, epsilon=1e-08, iprint=-1, \
-    maxfun=15000, maxiter=15000, disp=None, callback=None);
+#fmin_l_bfgs_b(neg_likelihood_and_gradient, x0=params, fprime=None, \
+#    args=(training_seqs, \
+#    #1 / (2 * 1),\
+#    0,\
+#    test_seqs), approx_grad=False, \
+#    bounds=None, m=10, \
+#    factr=10000000.0, pgtol=1e-05, epsilon=1e-08, iprint=-1, \
+#    maxfun=15000, maxiter=15000, disp=None, callback=None);
