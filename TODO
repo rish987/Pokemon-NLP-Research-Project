@@ -1,0 +1,5 @@
+- stanford NLP triple extraction
+- list of potential relations (10 most important) (e.g. pokemon evolves into
+        pokemon)
+- run openIE tool on that
+- knowledgebase papers (freebase)

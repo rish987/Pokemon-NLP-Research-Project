@@ -1,0 +1,126 @@
+person -> pokemon (10)
+	1.0|Ash|go with|Charmander
+	1.0|Ash|talking to|Pikachu
+	1.0|Ash|looks up|Pidgey
+	1.0|Ash|throws Poké Ball at|Pidgey
+	1.0|Ash|sees|Spearow
+	1.0|Ash|get|Spearow
+	1.0|Ash|protect|Pikachu
+	1.0|Ash|tells|Pikachu
+	1.0|Ash|stands before|Spearow
+	1.0|Ash|picks up|Pikachu
+person -> person (5)
+	1.0|Gary|is very overconfident for|Ash
+	1.0|Gary|is overconfident for|Ash
+	1.0|Ash|tells|Oak
+	1.0|Oak|gives|Ash
+	1.0|Oak|gives however|Ash
+person -> item (5)
+	1.0|Oak|gives|Pokédex
+	1.0|Oak|gives however|Pokédex
+	1.0|Ash|looks up Pidgey in|Pokédex
+	0.41234037171235893|Ash|looks up in|Pokédex
+	1.0|Ash|throws|Poké Ball
+pokemon -> person (3)
+	1.0|Nidorino|has|Trainer
+	1.0|Pokémon|become|Pokémon Trainer
+	1.0|Pikachu|gives|Ash
+pokemon -> type (1)
+	1.0|Pikachu|is|Electric-type
+person -> settlement (1)
+	1.0|Gary|put|Pallet Town
+pokemon -> pokemon (1)
+	1.0|Pokémon|is named|Pikachu
+move -> move (0)
+type -> group (0)
+pokemon -> settlement (0)
+event -> building (0)
+pokemon -> region (0)
+region -> move (0)
+type -> building (0)
+event -> settlement (0)
+region -> type (0)
+region -> person (0)
+event -> region (0)
+item -> type (0)
+region -> group (0)
+event -> type (0)
+pokemon -> move (0)
+settlement -> region (0)
+move -> event (0)
+move -> region (0)
+move -> building (0)
+move -> settlement (0)
+settlement -> type (0)
+settlement -> group (0)
+pokemon -> event (0)
+settlement -> person (0)
+move -> item (0)
+settlement -> pokemon (0)
+group -> type (0)
+move -> pokemon (0)
+person -> group (0)
+building -> move (0)
+group -> building (0)
+building -> event (0)
+person -> type (0)
+settlement -> item (0)
+settlement -> event (0)
+person -> region (0)
+group -> item (0)
+event -> group (0)
+group -> person (0)
+event -> person (0)
+building -> settlement (0)
+building -> building (0)
+group -> group (0)
+region -> item (0)
+type -> type (0)
+type -> settlement (0)
+group -> region (0)
+region -> building (0)
+building -> type (0)
+pokemon -> group (0)
+region -> event (0)
+item -> event (0)
+region -> region (0)
+move -> person (0)
+item -> building (0)
+move -> group (0)
+building -> pokemon (0)
+group -> event (0)
+region -> pokemon (0)
+type -> item (0)
+person -> move (0)
+building -> item (0)
+event -> pokemon (0)
+person -> building (0)
+item -> settlement (0)
+type -> region (0)
+group -> pokemon (0)
+item -> pokemon (0)
+building -> region (0)
+settlement -> building (0)
+group -> settlement (0)
+pokemon -> building (0)
+item -> person (0)
+building -> person (0)
+event -> event (0)
+type -> pokemon (0)
+type -> person (0)
+move -> type (0)
+region -> settlement (0)
+settlement -> move (0)
+item -> move (0)
+item -> item (0)
+type -> event (0)
+pokemon -> item (0)
+event -> move (0)
+item -> group (0)
+item -> region (0)
+type -> move (0)
+person -> event (0)
+settlement -> settlement (0)
+event -> item (0)
+group -> move (0)
+building -> group (0)
