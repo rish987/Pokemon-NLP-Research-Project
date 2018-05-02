@@ -1,126 +1,1682 @@
-person -> pokemon (10)
+person -> pokemon (439)
+	1.0|Trainers|pick|one of three Pokémon
+	1.0|new Trainers|pick|one three Pokémon
+	1.0|Trainers|pick|one three Pokémon
+	1.0|new Trainers|pick|one of three Pokémon
 	1.0|Ash|go with|Charmander
 	1.0|Ash|talking to|Pikachu
 	1.0|Ash|looks up|Pidgey
+	0.673151612735694|Ash|angry at|Pikachu 's disobedience
+	0.673151612735694|Ash|angry at|Pikachu 's continuing disobedience
+	1.0|Ash angry|throws Poké Ball at|Pidgey
 	1.0|Ash|throws Poké Ball at|Pidgey
+	1.0|Ash|sees|Spearow flying directly at him
+	1.0|Ash|sees|Spearow flying
 	1.0|Ash|sees|Spearow
+	1.0|Ash|sees|Spearow flying at him
+	1.0|Ash|sees|Spearow flying directly
 	1.0|Ash|get|Spearow
+	1.0|Ash|spot|large flock of Spearow
+	1.0|Ash|spot|flock of Spearow
 	1.0|Ash|protect|Pikachu
+	1.0|Ash|so picks|his Pokémon
+	1.0|Ash|picks|his Pokémon
+	1.0|Ash|tells Pikachu at_time|his first day Pokémon trainer has turned into such disaster
+	1.0|Ash|tells Pikachu at_time|his day Pokémon trainer has turned
+	1.0|Ash|tells Pikachu at_time|his day Pokémon trainer has turned into disaster
+	1.0|Ash|tells Pikachu at_time|his day Pokémon trainer has turned into such disaster
+	1.0|Ash|tells Pikachu at_time|his first day Pokémon trainer has turned
 	1.0|Ash|tells|Pikachu
+	1.0|Ash|tells Pikachu at_time|his first day Pokémon trainer has turned into disaster
 	1.0|Ash|stands before|Spearow
 	1.0|Ash|picks up|Pikachu
-person -> person (5)
+	1.0|Nurse Joy|is attending to|Pikachu 's injuries
+	1.0|Ash|has|Pikachu
+	1.0|Ash|has|Pikachu
+	1.0|Ash|has|Pikachu
+	1.0|Ash|spotting|Caterpie
+	1.0|Ash|bring out|Caterpie
+	1.0|Misty 's discomfort|hurt|Caterpie 's feelings
+	1.0|Ash|reassures|Caterpie
+	1.0|Misty|is|In morning still frightened of Caterpie
+	1.0|Misty|is still frightened of|Caterpie
+	1.0|Misty|is|In morning frightened of Caterpie
+	1.0|Misty|is frightened of|Caterpie
+	1.0|Trainer|weaken|wild Pokémon
+	1.0|Trainer|weaken|Pokémon
+	1.0|Ash|has captured|Pidgeotto
+	1.0|Ash|puts down|Caterpie
+	1.0|Ash|sends out|his Metapod
+	1.0|Ash|has|Metapod
+	1.0|Ash|recall|Metapod
+	1.0|Ash|begins|his search for Metapod
+	1.0|Ash|Seeing|look of sorrow in Metapod 's eyes
+	1.0|Ash|Seeing|look in Metapod 's eyes
+	1.0|Brock|starts off with|Onix
+	1.0|Ash|begins match with|Pikachu
+	1.0|Brock|commands|Onix
+	1.0|Ash|recall|Pikachu
+	1.0|Ash|can super-charge|Pikachu.Flint travel
+	1.0|Flint|hooks up|generator to electric sacs in Pikachu 's cheeks
+	1.0|Flint|hooks up|generator to sacs in Pikachu 's cheeks
+	1.0|Ash|sends out|Pidgeotto
+	1.0|Brock|sends out|Geodude
+	1.0|Ash|sends out|Pikachu
+	1.0|Brock|sends out|Onix
+	1.0|Brock|recalls|his Geodude
+	1.0|Brock|calling off|Onix
+	1.0|Ash|forfeit|more harm comes to Pikachu
+	1.0|Ash|forfeit again|more harm comes to Pikachu
+	1.0|Ash|calls back|his Pikachu
+	0.7191889976244903|lucky advantage.Ash|leaves|on his way he apologizes to Pikachu
+	0.7191889976244903|advantage.Ash|leaves|on his way he apologizes to Pikachu
+	0.7191889976244903|lucky advantage.Ash|leaves|he apologizes to Pikachu
+	0.7191889976244903|advantage.Ash|leaves|he apologizes to Pikachu
+	1.0|Jessie|has|Ekans
+	1.0|Ash|against|Butterfree
+	1.0|Brock|has|new Zubat
+	1.0|James|has|Koffing against Butterfree
+	1.0|Brock|feeds|Pokémon
+	1.0|Brock|feeds Pokémon with|Pokémon food
+	1.0|Ash attacks|is with|Pikachu
+	1.0|Seymour|appear from|Onix 's tunnel
+	1.0|Seymour|stays with|Clefairy
+	1.0|Ash|send out|Pikachu
+	1.0|Misty|has|Staryu
+	1.0|Ash|sends out|Butterfree
+	1.0|Ash|Instead sends out|Butterfree
+	1.0|Ash|battle|Misty 's Staryu
+	1.0|Ash|sends out|Pidgeotto
+	1.0|Ash|against|Pokémon
+	1.0|Ash|wants|Pikachu
+	1.0|A.J.|has|Sandshrew
+	1.0|A.J.|training|his Pokémon
+	1.0|A.J.|has|Pokémon
+	1.0|A.J.|insults|Pikachu
+	1.0|A.J.|cares|Meowth tries
+	1.0|A.J.|cares|for his Pokémon.Realizing Meowth tries
+	1.0|James|uses|his Koffing
+	1.0|Misty|has|Starmie
+	1.0|Ash|sees|Oddish
+	1.0|Misty|sends|her Starmie
+	1.0|Brock|falls|Pikachu cling to Ash
+	1.0|Brock|falls below|Pikachu cling to Ash
+	1.0|Brock|falls|Misty Pikachu cling
+	1.0|Brock|falls below|Misty Pikachu cling
+	1.0|Brock|falls below|Misty Pikachu cling to Ash
+	1.0|Brock|falls|Misty Pikachu cling to Ash
+	1.0|Brock|falls|Pikachu cling
+	1.0|Brock|falls below|Pikachu cling
+	1.0|Misty|apologizes to|Oddish
+	1.0|Brock|tend to|Staryu
+	1.0|Brock|tend|Misty apologizes to Oddish
+	1.0|Ash|tend|Misty apologizes to Oddish
+	1.0|Ash|tend to|Staryu
+	1.0|Ash|calls on|his Pidgeotto
+	1.0|Ash|take|Bulbasaur
+	1.0|Ash|be Trainer for|Bulbasaur
+	1.0|Ash|be good Trainer for|Bulbasaur
+	1.0|Ash|sends|Pikachu
+	1.0|Ash|asks|Charmander
+	1.0|Brock|thank|Charmander
+	0.878120088348901|Ash|caught|his Charmander
+	0.878120088348901|Ash|caught|his Bulbasaur
+	1.0|Ash|confronts|Squirtle
+	1.0|Ash|begs|Squirtle
+	1.0|Ash|dives on top of|Squirtle
+	1.0|Ash|tells|Squirtle
+	1.0|Ash|offers|Squirtle
+	1.0|Ash|insults|Krabby
+	1.0|Trainers|carry|maximum of six Pokémon
+	0.887430479537741|Trainers|maximum of|six Pokémon
+	1.0|Professor Oak|ask about|his newly caught Krabby
+	1.0|Professor Oak|ask about|his caught Krabby
+	1.0|Professor Oak|ask about|his Krabby
+	1.0|Gary|also caught|Krabby
+	1.0|Gary|caught|Krabby
+	1.0|Gary|caught|45 Pokémon
+	1.0|Gary|already caught|45 Pokémon
+	1.0|friends witness Nurse Joy|has|Chansey
+	1.0|Ash|has|Pokémon
+	1.0|Ash|drags anyway|Pikachu
+	1.0|Ash|drags|Pikachu
+	1.0|Lt. Surge 's two subordinates|is in|Gym mock Pikachu
+	1.0|Lt. Surge|has|two subordinates in Gym mock Pikachu
+	1.0|Ash|evolved|Pikachu already claiming
+	1.0|Ash|evolved|Pikachu claiming
+	1.0|Ash|withdraw|Pikachu
+	1.0|Ash|tells|Pikachu
+	1.0|Ash|could evolve|his Pikachu
+	1.0|Ash|agrees with|Pikachu 's decision
+	1.0|Brock|waiting|Pikachu recover
+	1.0|Brock|waiting|Pikachu fully recover
+	1.0|Ash|against|Pikachu
+	1.0|Lt. Surge|has|Raichu against Pikachu
+	1.0|Ash|tells|Pikachu
+	1.0|Ash|orders|Pikachu
+	1.0|Lt. Surge|evolved too fast|his Pikachu
+	1.0|Lt. Surge|evolved fast|his Pikachu
+	1.0|Lt. Surge|evolved|his Pikachu
+	1.0|Jessie|meet up with|Meowth
+	1.0|James head|meet up with|Meowth
+	1.0|Ash|sending out|Butterfree
+	1.0|Gentleman|commends|his Butterfree
+	1.0|Ash|has|Butterfree
+	1.0|Ash|acquires|Raticate
+	1.0|James|buying|Pokémon
+	1.0|James|buying|worthless Pokémon
+	1.0|Ash|'s Pikachu is|Charmander
+	1.0|Brock|together with|Geodude
+	1.0|Ash|has|Pikachu
+	1.0|Ash|misses|his Butterfree
+	1.0|back.Ash|sends out|Pidgeotto
+	1.0|Ash|deeply misses|his Butterfree
+	1.0|Ash|grabs|Butterfree 's Poké Ball
+	1.0|Jessie|brings out|Ekans
+	1.0|Misty|sends out|her Goldeen
+	1.0|Brock|sends out|Onix
+	1.0|Ash|brings out|Charmander
+	1.0|Ash|brings out|Charmander
+	1.0|Brock|gets|Starmie
+	1.0|James|is|At point frustrated with his Pokémon
+	1.0|James|is frustrated with|his Pokémon
+	1.0|James|is so frustrated with|his Pokémon
+	1.0|James|is|At point so frustrated with his Pokémon
+	1.0|James|reclaim|his role as Pokémon 's master
+	1.0|Misty|sends out|Goldeen
+	1.0|Misty|sends out|Staryu
+	1.0|Misty|sends out|Starmie
+	1.0|Ash|of|Pokémon
+	1.0|Ash|has|Pokémon
+	1.0|Ash|are|At time are chased by giant Zapdos
+	1.0|Ash|are|At same time are chased by giant Zapdos
+	1.0|Ash|are|are chased by giant Zapdos
+	1.0|Ash|are|are chased by Zapdos
+	1.0|Ash|are|At same time are chased by Zapdos
+	1.0|Ash|are|At time are chased by Zapdos
+	1.0|Jessie|are|are chased by huge Moltres
+	1.0|Jessie|are|Meanwhile are chased by Moltres
+	1.0|Jessie|are|Meanwhile are chased by huge Moltres
+	1.0|Jessie|are|are chased by Moltres
+	1.0|Ash|run|attacked by Charizard
+	1.0|Ash|run|attacked by giant Charizard
+	1.0|Ash|has|Squirtle
+	1.0|Ash|sends out|Pidgeotto
+	1.0|Ash|sends out|Charmander
+	1.0|Misty|sends|Starmie
+	1.0|Misty|immediately sends|Starmie
+	1.0|Misty|sends|Pokémon Staryu
+	1.0|Misty|immediately sends|Goldeen
+	1.0|Misty|sends|Goldeen
+	1.0|Misty|immediately sends|Pokémon Staryu
+	1.0|Nastina|destroy|Tentacruel
+	1.0|Ash|has|Pikachu shocks James
+	1.0|Jessie|sends out|Ekans
+	1.0|Ash|call back|Charmander
+	1.0|Misty|repeatedly being beaten by|Gastly
+	1.0|Misty|being beaten by|Gastly
+	1.0|Brock|pointing out|differences among Butterfree
+	1.0|Brock|pointing out|unique differences among Butterfree
+	1.0|Ash|has|Butterfree
+	1.0|Ash|has|Butterfree
+	1.0|Ash|has|Butterfree
+	1.0|Ash|has|teary-eyed Butterfree
+	1.0|Ash|tells|his Butterfree
+	1.0|Brock|puts scarf around|his neck.They return to air with Butterfree
+	1.0|Brock|puts scarf around|his neck.They return with Butterfree
+	1.0|Ash|has|Butterfree
+	1.0|Ash|recall|Butterfree
+	1.0|Ash|has|Butterfree
+	1.0|Ash|has|Butterfree exhausted
+	1.0|Ash|has|Butterfree
+	1.0|Ash|of|Butterfree
+	1.0|Ash|has|Butterfree
+	1.0|Ash|remembers|first capturing Caterpie
+	1.0|Ash|remembers|capturing Caterpie
+	1.0|Misty|has|Staryu
+	1.0|Misty|tells|Ash Butterfree
+	1.0|James|grabs|Pikachu
+	1.0|one Ash|saw earlier|Meowth points
+	1.0|same Ash|saw earlier|Meowth points
+	1.0|Ash|saw|Meowth points
+	1.0|same Ash|saw|Meowth points
+	1.0|same one Ash|saw earlier|Meowth points
+	1.0|same one Ash|saw|Meowth points
+	1.0|Ash|saw earlier|Meowth points
+	1.0|one Ash|saw|Meowth points
+	1.0|Ash|sends|Pikachu
+	1.0|Ash|can catch|Pokémon use against Sabrina
+	1.0|Ash|can catch|Pokémon use
+	1.0|Jessie|knock around|Meowth
+	1.0|Jessie|knock around and down|Meowth
+	1.0|Jessie|knock|Meowth
+	1.0|Jessie|sees|Gastly
+	1.0|Ash|sends|Charmander
+	1.0|Ash|fly with|Ghost Pokémon
+	1.0|Brock|find|Pikachu 's bodies
+	1.0|Misty|Meanwhile find|Pikachu 's bodies
+	1.0|Misty|find|Pikachu 's bodies
+	1.0|Brock|Meanwhile find|Pikachu 's bodies
+	1.0|Ash|return with|Haunter
+	1.0|Ash|asks|Haunter
+	1.0|Ash|brings out|Charmander
+	1.0|Ash|brings out|Bulbasaur
+	1.0|Ash|brings out|Squirtle
+	1.0|Sabrina|agrees|Kadabra
+	1.0|Ash|send out|Haunter
+	1.0|Ash|send|Pikachu
+	1.0|Ash|has|Pokémon
+	1.0|Ash|has|Pokémon
+	1.0|James|capture|Pikachu
+	1.0|Ash|has|Krabby
+	1.0|Gary|caught|thirty Pokémon
+	1.0|Ash|catch|more Pokémon
+	1.0|Ash|catch|Pokémon
+	1.0|Jessie|pacifying|Pokémon.Ash
+	1.0|Jessie|rolls yarn ball at|Meowth
+	1.0|Ash|confronts|Mankey
+	1.0|James|kicks|Mankey
+	1.0|James|kicks away|Mankey
+	1.0|Ash|split up|Primeape
+	1.0|Ash|split up|Primeape following Ash
+	1.0|Misty|split up|Primeape
+	1.0|Misty|split up|Primeape following Ash
+	1.0|Ash plunge|is in|Primeape managing
+	1.0|Ash|sees|Primeape
+	1.0|Ash|recalls|Primeape
+	1.0|Ash|recalls|his Charmander
+	1.0|Jessie|runs into|Gloom
+	1.0|Ash|sends out|Bulbasaur
+	1.0|Erika|sends out|Weepinbell
+	1.0|Erika|points out|Ash 's lack towards his Pokémon
+	1.0|Erika|points out|Ash 's lack of empathy towards his Pokémon
+	1.0|Ash|has|lack of empathy towards Pokémon
+	1.0|Ash|decide between|his other Pokémon who should go
+	1.0|Ash|decide between|his Pokémon who should go
+	1.0|Trainers|recall|their Pokémon
+	1.0|Trainers|quickly recall|their Pokémon
+	1.0|Misty|sends out|Staryu
+	1.0|Misty|sends out|Starmie
+	1.0|Brock|sends|Geodude
+	1.0|Ash|carries|Drowzee
+	1.0|Ash|carries back|Drowzee
+	1.0|Ash|holds onto|Drowzee
+	1.0|Ash|calls|Pidgeotto
+	1.0|Misty|approaches|sleeping Pokémon
+	1.0|Misty|approaches|Pokémon
+	1.0|Suzie|serves tea|Pikachu happily munches on food
+	1.0|Suzie|serves tea|Pikachu happily munches
+	1.0|Suzie|serves tea|Pikachu munches on food
+	1.0|Suzie|serves tea|Pikachu munches
+	1.0|Suzie|compliments|Pikachu 's coat
+	1.0|Suzie|compliments|Pikachu 's shiny coat
+	1.0|Trainers|making|their Pokémon look flashy
+	1.0|Trainers|making|their Pokémon look as flashy
+	1.0|Suzie|thereafter gives|lecture on Pokémon breeding
+	1.0|Suzie|gives|lecture on Pokémon breeding
+	1.0|Suzie|Soon thereafter gives|lecture on Pokémon breeding
+	0.5417042823952842|James|mentions|Pikachu
+	1.0|Jessie|sends out|Ekans
+	1.0|Brock|uses|Geodude
+	1.0|Ash|sends out|Pikachu
+	1.0|James|blinding|Geodude
+	1.0|James|blinding|Pikachu
+	1.0|Ash|tells|Pikachu
+	1.0|Ash|became|boxing expert.Ash challenges Hitmonchan
+	1.0|Ash|has|Primeape
+	1.0|Brock|is hit with|his Pokémon
+	1.0|Brock|is|hit in head with his own Pokémon
+	1.0|Brock|is|hit in head with his Pokémon
+	1.0|Brock|is hit with|his own Pokémon
+	1.0|Brock|apologizes|Geodude
+	1.0|Ash|between|Primeape
+	1.0|Ash|scans|Diglett
+	1.0|Ash|asks|Pokémon
+	1.0|Ash|asks|Pikachu
+	1.0|Ash|asks|Pikachu
+	1.0|Ash|scans|Dugtrio
+	1.0|Jessie|introduces|her new Pokémon
+	1.0|Jessie|introduces|her Pokémon
+	1.0|James|introduces|his new Pokémon
+	1.0|James|introduces|his Pokémon
+	1.0|Ash|brings out|Charmander
+	1.0|Ash|brings out|Bulbasaur
+	1.0|Ash|brings out|Squirtle
+	1.0|Misty|tells|Psyduck
+	1.0|Brock|trade|Vulpix
+	1.0|Brock|trade Vulpix for|Psyduck
+	1.0|Ash|chooses|Bulbasaur
+	1.0|Ash|just defeated|Aya 's Venonat
+	1.0|Ash|defeated|Aya 's Venonat
+	1.0|Aya|has|Venonat
+	1.0|Ash|ordering|Pidgeotto
+	1.0|Ash|recall|Pidgeotto
+	1.0|Koga|unleashing|large amount of Voltorb
+	1.0|Koga|unleashing|amount of Voltorb
+	1.0|Misty|send out|Starmie
+	1.0|Misty|tells|Psyduck
+	1.0|Koga|chooses|Golbat
+	1.0|Ash|sends out|Charmander
+	1.0|Dario|quickly take lead|Squirtle fall
+	1.0|Dario|take lead|Squirtle fall
+	1.0|Dario|take lead|Pikachu fall
+	1.0|Dario|quickly take lead|Pikachu fall
+	1.0|Dario|orders|one Dodrio 's heads to Peck Ponyta
+	1.0|Dario|orders|one of Dodrio 's heads to Peck Ponyta
+	1.0|Dario|orders|one of Dodrio 's heads
+	1.0|Dario|orders|one Dodrio 's heads
+	1.0|Ranger Jenny|is in|Chansey hat
+	1.0|Jessie|send out|Arbok
+	1.0|Misty|sends out|her Staryu
+	1.0|Ash|catch|Tauros
+	1.0|Ash|bid farewell with|Dratini watching
+	1.0|Ash|bid farewell with|Dratini watching over them
+	1.0|Ash|bid farewell with|Dratini
+	1.0|Ash|sent out|Bulbasaur
+	1.0|Ash|sent out|Charmander
+	1.0|Ash|save|Pokémon
+	1.0|Ash|save|sick Pokémon
+	1.0|Ash|has|Pikachu
+	1.0|Ash|reading|Ditto 's entry
+	1.0|Ash|has|tired Pikachu
+	0.9129447633152606|Akihabara|inventor of|Pokémon Transport System
+	1.0|Akihabara|inventor of|Pokémon Transport System
+	1.0|Akihabara|introduces|Porygon
+	1.0|Akihabara 's solution|send Ash with|Porygon
+	1.0|Jessie|send out|Arbok
+	1.0|James|send out|Weezing
+	1.0|James|send out|Arbok
+	1.0|Jessie|send out|Weezing
+	1.0|Akihabara|to|Porygon
+	1.0|out.Jessie|send|their prototype Porygon
+	1.0|out.Jessie|send next|their prototype Porygon
+	1.0|Jessie|has|Porygon
+	1.0|Akihabara|has|Porygon
+	1.0|Akihabara|has|Porygon
+	1.0|Akihabara|of|Porygon
+	1.0|Akihabara|onto|Porygon
+	1.0|Akihabara|onto|Porygon
+	1.0|Ash|has|Pikachu
+	1.0|Ash|has|Pikachu
+	1.0|Ash|has|Pikachu
+	1.0|Misty|saw|Pikachu 's face
+	1.0|Misty|saw|Pikachu 's face in fire
+	1.0|Ash|has|Pikachu bit
+	1.0|Ash|started|walk without Pikachu
+	1.0|Ash|walk away without|Pikachu
+	1.0|Ash|started|walk away without Pikachu
+	1.0|Ash|walk without|Pikachu
+	1.0|Ash|looks for|information on Eevee
+	1.0|Ash|looks for|more information on Eevee
+	1.0|Ash|evolve|Pikachu
+	1.0|Ash|brings out|Pidgeotto
+	1.0|Misty|except|Psyduck much to annoyance
+	1.0|James|brings out|Weezing
+	1.0|Brock|are heading with|Pikachu
+	1.0|Ash|are heading with|Pikachu asleep
+	1.0|Brock|are heading with|Pikachu asleep
+	1.0|Misty|are heading with|Pikachu fast asleep
+	1.0|Misty|are heading with|Pikachu asleep
+	1.0|Ash|are heading with|Pikachu
+	1.0|Brock|are heading with|Pikachu fast asleep
+	1.0|Misty|are heading with|Pikachu
+	1.0|Ash|are heading with|Pikachu fast asleep
+	1.0|Ash|of|Bulbasaur
+	1.0|Misty|wake up|Snorlax
+	1.0|Ash|capture|Pokémon
+	1.0|Jessie|attack with|Arbok
+	1.0|Ash|take hippie to|Snorlax
+	1.0|Ash|tells|Pikachu
+	1.0|Melvin|juggle|his Exeggcute
+	0.747621584517014|Melvin|mob of|Pokémon
+	1.0|Melvin|catches|mob of Pokémon
+	1.0|Melvin|catches|entire mob of Pokémon
+	0.747621584517014|Melvin|entire mob of|Pokémon
+	1.0|Melvin|were trampled by|marching Exeggutor
+	1.0|Melvin|were trampled by|Exeggutor
+	1.0|Ash|sends out|Bulbasaur
+	1.0|Ash|sends out|Charmander
+	1.0|Ash|sends out|Squirtle
+	1.0|Melvin|has|Exeggutor returns to him resulting in Melvin
+person -> person (237)
+	1.0|his new fellow Trainers|of one is|Gary
 	1.0|Gary|is very overconfident for|Ash
 	1.0|Gary|is overconfident for|Ash
 	1.0|Ash|tells|Oak
 	1.0|Oak|gives|Ash
 	1.0|Oak|gives however|Ash
-person -> item (5)
+	1.0|Nurse Joy|begins|Ash tries
+	1.0|Ash|continue|Misty having decided
+	1.0|Misty|follow|Ash
+	1.0|Misty|continue|Misty having decided
+	1.0|Ash|continues|traveling without Misty
+	1.0|Misty|continue As|Ash
+	1.0|Ash|has|beautiful.Ash
+	1.0|Samurai|applauds|Ash
+	1.0|Samurai|is novice.Ash part compared to|Ash
+	1.0|Samurai|also tells|Ash
+	1.0|Samurai|tells|Ash
+	1.0|Ash|encounter|Nurse Joy
+	1.0|Ash|encounter again|Nurse Joy
+	1.0|Flint|tells|Ash
+	1.0|Flint|tells Ash about|Brock
+	0.8007338108165633|Misty|Ash of|Gym Leaders ' skill
+	0.8007338108165633|Misty|Ash of|Gym Leaders ' prodigious skill
+	1.0|Misty|warns|Ash
+	1.0|Misty|warns|Ash of Gym Leaders ' skill
+	1.0|Misty|warns|Ash of Gym Leaders ' prodigious skill
+	1.0|Brock|be|even better Trainer
+	1.0|Brock|be|Trainer
+	1.0|Brock|be|better Trainer
+	1.0|Brock 's good-for-nothing father|become|Pokémon Trainer
+	1.0|Brock 's father|become|Pokémon Trainer
+	1.0|Flint|recognizes|Ash 's determination
+	1.0|Misty|cheering for|Ash
+	1.0|Misty|cheering|only crowded by Brock 's siblings
+	1.0|Misty|cheering|crowded by Brock 's siblings
+	1.0|Brock 's brothers|all crowd Ash|Ash is about
+	1.0|Brock 's brothers|crowd|Ash
+	1.0|Brock 's brothers|crowd Ash|Just Ash is about
+	1.0|Brock 's brothers|all crowd|Ash
+	1.0|Brock 's brothers|all crowd Ash|Just Ash is about
+	1.0|Brock 's brothers|crowd Ash|Ash is about
+	0.575747086186992|Ash|followed by|Brock
+	1.0|Misty|reminds|Ash
+	1.0|Ash|asks|Brock
+	1.0|Ash|asks Brock for|inside information on Gym Leader
+	1.0|Ash|asks Brock for|information on Gym Leader
+	1.0|Daisy|gives|Ash
+	1.0|Trainer|leading|Misty
+	1.0|A.J.|walks up As|insults Ash
+	1.0|A.J.|walks up As|Misty insults Ash
+	1.0|A.J.|making|Ash jump
+	1.0|Ash|accuses|A.J. of cheating
+	1.0|Ash|accuses|A.J.
+	1.0|Ash|stop|A.J.
+	1.0|Brock|sends|Ash
+	1.0|Ash|refers to|Misty
+	1.0|Giselle|chastises|Joe
+	1.0|Giselle|upbraid|Joe
+	1.0|Giselle|accuses|Misty
+	1.0|Brock|falls|Misty cling to Ash
+	1.0|Brock|falls below|Misty cling to Ash
+	1.0|Misty|cling to|Ash
+	1.0|Brock|falls|Misty cling
+	1.0|Brock|falls below|Misty cling
+	1.0|Misty|falling with|Melanie
+	1.0|Ash|tend|Misty apologizes
+	1.0|Brock|tend|Misty apologizes
+	1.0|Ash|be|good Trainer
+	1.0|Ash|be|Trainer
+	1.0|Ash|points out Despite|Brock 's concerns
+	1.0|Brock|confronts|Damian
+	1.0|Brock pleads|is with|Nurse Joy
+	1.0|Brock|causing|Ash
+	1.0|Damian|brags Despite|retorts from Ash
+	1.0|Misty|is fishing|Ash lie
+	1.0|Misty|is fishing|Ash Brock lie by riverside
+	1.0|Misty|is fishing|Brock lie by riverside
+	1.0|Misty|Elsewhere is fishing|Brock lie by riverside
+	1.0|Misty|is fishing|Ash lie by riverside
+	1.0|Misty|Elsewhere is fishing|Ash Brock lie
+	1.0|Misty|Elsewhere is fishing|Ash Brock lie by riverside
+	1.0|Misty|is fishing|Brock lie
+	1.0|Misty|Elsewhere is fishing|Ash lie by riverside
+	1.0|Misty|Elsewhere is fishing|Brock lie
+	1.0|Misty|is fishing|Ash Brock lie
+	1.0|Misty|Elsewhere is fishing|Ash lie
+	1.0|Ash|being knocked out by|Gary
+	1.0|Ash|calls|Professor Oak
+	1.0|Gary|dwarfing|Ash 's mere seven
+	1.0|Brock|stops|Ash
+	1.0|Brock|However stops|Ash
+	1.0|Ash|worry over|his upcoming Gym battle against Surge.Misty
+	1.0|Ash|worry over|his Gym battle against Surge.Misty
+	1.0|James head|meet up|Ash look
+	1.0|Jessie|meet up|Ash his friends look for luxury liner
+	1.0|James head|meet up|Ash look for luxury liner
+	1.0|James head|meet up|Ash his friends look
+	1.0|Jessie|meet up|Ash look
+	1.0|James head|meet up|Ash his friends look for luxury liner
+	1.0|Jessie|meet up|Ash his friends look
+	1.0|Jessie|meet up|Ash look for luxury liner
+	1.0|Team Rocket Grunts|confronting|Trainers
+	1.0|Ash|Meanwhile finds|Gentleman
+	1.0|Ash|finds|Gentleman
+	1.0|Misty|call to|Ash
+	1.0|Misty|Meanwhile call to|Ash
+	1.0|Brock|call to|Ash
+	1.0|Brock|Meanwhile call to|Ash
+	1.0|Brock|brings up|story of Noah
+	1.0|up.Brutella|tells|Moe
+	1.0|Ash|'s mother is|Delia Ketchum
+	1.0|Moe|sits with|Delia
+	1.0|Brutella|tells|Jessie
+	1.0|Brutella|Meanwhile tells|Jessie
+	1.0|Brutella|Meanwhile tells|James
+	1.0|Brutella|tells|James
+	1.0|Jessie|tells|Brutella
+	1.0|Ash|sends out Pidgeotto Under|Gary 's skeptical eye
+	1.0|Ash|sends out Pidgeotto Under|Gary 's eye
+	1.0|Ash|sends out Charmander Under|Gary 's eye
+	1.0|Ash|sends out Charmander Under|Gary 's skeptical eye
+	1.0|Misty|angrily rejects|Nastina 's offer
+	1.0|Misty|rejects|Nastina 's offer
+	1.0|Jessie|slaps|James
+	1.0|Ash|go|look for Brock
+	1.0|Jessie|looking for|James
+	1.0|Ash start|looking for|Brock
+	1.0|Jessie|start|looking for James
+	1.0|Ash|prevent|James
+	1.0|Ash|prevent|Brock
+	1.0|Ash|However appear|lost blows up on Misty for her lack
+	1.0|Ash|appear|blows up on Misty for her lack
+	1.0|Ash|appear|blows up on Misty
+	1.0|Ash|appear|blows up on Misty for her lack of directions
+	1.0|Ash|However appear|blows up on Misty for her lack of directions
+	1.0|Ash|However appear|lost blows up on Misty
+	1.0|Ash|However appear|lost blows up on Misty for her lack of directions
+	1.0|Ash|However appear|blows up on Misty
+	1.0|Ash|However appear|blows up on Misty for her lack
+	1.0|Ash|appear|lost blows up on Misty for her lack of directions
+	1.0|Ash|appear|lost blows up on Misty
+	1.0|Ash|appear|lost blows up on Misty for her lack
+	1.0|Ash|asks for|match against Sabrina
+	1.0|Ash|asks for|his official match from Sabrina
+	1.0|Ash|asks for|his match from Sabrina
+	0.37352680135601296|Ash|Pokémon|use against Sabrina
+	0.37352680135601296|Ash|Ghost-type Pokémon|use against Sabrina
+	1.0|Jessie|knock Meowth into|hole with James
+	1.0|Jessie|knock Meowth around and down into|hole with James
+	1.0|Jessie|knock Meowth around into|hole with James
+	1.0|Misty|run as|Brock
+	1.0|Ash|run as|Brock
+	1.0|Ash|listens in as|Misty mentions
+	1.0|Ash|speaks as|Misty looks
+	1.0|Ash|speaks as|Misty looks behind her
+	1.0|Ash|hearing|Ash 's voice
+	1.0|Ash|pulls|Misty
+	1.0|Brock|find|Ash
+	1.0|Misty|Meanwhile find|Ash
+	1.0|Brock|Meanwhile find|Ash
+	1.0|Misty|find|Ash
+	1.0|Ash|asks Haunter for|help against Sabrina
+	1.0|Sabrina|get|Ash
+	1.0|Sabrina|get|angry Ash
+	1.0|Sabrina|is purely angry|Ash decides
+	1.0|Sabrina|is angry|Ash decides
+	1.0|Ash|reflects|Sabrina is
+	1.0|Ash winner.Ash|leave|Ash glancing
+	1.0|Brock|catches up with|Misty
+	1.0|Ash|wanting|get at Trainers
+	1.0|Ash|wanting|get back at Trainers
+	1.0|James|dress up as|Ash 's parents
+	1.0|Ash|unintentionally distracts|Trainers
+	1.0|Ash|distracts|Trainers
+	1.0|Ash|finds|Misty
+	1.0|Ash|finds|Brock
+	1.0|Misty|takes|closer look at Ash
+	1.0|Misty|takes|look at Ash
+	0.8391458509954172|Misty|look at|Ash
+	0.8391458509954172|Misty|closer look at|Ash
+	1.0|Ash|drops|challenges Erika
+	1.0|Erika|points out|Ash 's lack of empathy
+	1.0|Erika|points out|Ash 's lack
+	1.0|Erika|presents Rainbow Badge to|Ash
+	1.0|Misty|is with|Ash in tow
+	1.0|Misty|at|face.Brock
+	1.0|Ash|to|amusement.After Misty
+	1.0|Suzie 's lecture|starts|Brock had hoped
+	1.0|Trainers|arriving at|Jessie orders Meowth
+	1.0|Misty|takes off with|Brock
+	0.8837576277068332|Suzie|thanks|Ash
+	1.0|Anthony approaches|telling|Brock
+	1.0|Giant|meet with|Ash
+	1.0|Gary|calls|himself Pokémon Trainer
+	1.0|Gary|calls|himself best Pokémon Trainer
+	1.0|Brock|get|Ash
+	1.0|Brock|causing|Misty
+	1.0|Koga|However warns|Ash
+	1.0|Koga|warns|Ash
+	1.0|Koga|gives|Ash
+	1.0|Brock|asks|Misty
+	1.0|Kaiser|shows group as|Kaiser
+	1.0|Kaiser|snatches|picture from Misty 's hand
+	1.0|James|holding firearm to|Kaiser 's head
+	1.0|Kaiser|causing|Jessie
+	1.0|James|don scuba gear|Jessie is waiting for them above
+	1.0|James|don scuba gear|Jessie is waiting above
+	1.0|James|don scuba gear|Jessie is waiting
+	1.0|James|don scuba gear|Jessie is waiting for them
+	1.0|James|splash|Just Jessie tries
+	1.0|James|splash|Jessie tries
+	1.0|Misty|help out|Kaiser
+	1.0|Misty|help out|Ash
+	1.0|Ash|catch up to|Kaiser
+	1.0|Ash|bid farewell to|Kaiser
+	1.0|Jessie|made plans.Just|Ash finished
+	1.0|Jessie|made plans.Just|Ash his group finished
+	1.0|Brock|tells|Tyra
+	1.0|Ash|states|how Trainer decides
+	1.0|Ash|states|Trainer decides
+	1.0|James|states to|Duplica
+	1.0|Akihabara|leaving|Brock break into Akihabara 's huge laboratory mansion
+	1.0|Akihabara|leaving|Misty
+	1.0|Akihabara|leaving|Brock break into Akihabara 's laboratory mansion
+	1.0|Akihabara|leaving|Joy confused.Ash
+	1.0|Akihabara|leaving|Brock break
+	1.0|Akihabara 's solution|send|Ash
+	1.0|Ash|arrive|much to Brock 's dismay
+	0.8919841494899281|Ash|aided by|Misty
+	1.0|Ash|sneak away from|Brock
+	1.0|Ash|sneak away from|Brock
+	1.0|Ash|commands|Ash
+	1.0|Ash|sneak from|Brock
+	1.0|Ash|sneak from|Brock
+	1.0|Brock|are looking for|Melvin
+	1.0|Brock|are|looking for Melvin
+	1.0|Misty|are looking for|Melvin
+pokemon -> pokemon (235)
+	1.0|Nidorino 's Trainer|sends out|Onix to battle
+	1.0|Nidorino 's Trainer|sends out|Onix
+	1.0|Pokémon|is named|Pikachu
+	1.0|Pikachu|spot|flock of Spearow
+	1.0|Pikachu|spot|large flock of Spearow
+	1.0|Pikachu|surround|Ash 's Pikachu
+	1.0|other Pikachu|surround|Ash 's Pikachu
+	1.0|Pikachu|have along|Caterpie
+	1.0|Pikachu|have|Caterpie
+	1.0|Caterpie|is at|type disadvantage against Pidgeotto
+	1.0|Pikachu|hit|Pidgeotto
+	1.0|Koffing|has|Sludge attack blinds Pikachu
+	1.0|Pidgeotto|dodging|Ekans 's retaliation
+	1.0|Pidgeotto|hit|Koffing
+	1.0|Pidgeotto|hit|Koffing with Gust
+	1.0|Caterpie|muzzles|Ekans
+	1.0|Caterpie|rushes into|Tackle attack on Koffing
+	1.0|Caterpie|evolves into|Metapod
+	1.0|Pidgeotto|defeat|Weedle
+	1.0|their Pokémon battle.Ash|uses samurai battles with|his Pinsir
+	1.0|their Pokémon battle.Ash|uses|his Pidgeotto
+	1.0|Metapod|breaks|Pinsir 's pincers
+	1.0|Metapod|saves Ash|leaping into path of attacking Beedrill
+	1.0|Metapod|leaping into|path of attacking Beedrill
+	1.0|Clefairy|appear from|Onix 's tunnel
+	1.0|Clefairy|evolve into|Clefable
+	1.0|Clefairy|evolve|they fall on Clefairy
+	1.0|Starmie|sends out|Pidgeotto
+	1.0|Pidgeotto|causing|Starmie
+	1.0|Pidgeotto|defeats|Rattata
+	1.0|Pikachu 's electricity|is useless against|Ground Pokémon
+	1.0|Pikachu|pick up|one of Sandshrew 's dumbbells
+	1.0|Pikachu|pick up|one Sandshrew 's dumbbells
+	1.0|Sandshrew|makes|fun of Pikachu
+	1.0|his Pokémon|look for|Sandshrew
+	1.0|his other Pokémon|look for|Sandshrew
+	1.0|Meowth|tries for|his Pokémon.Realizing
+	1.0|her Ekans|uses|his Koffing
+	1.0|Starmie|Nevertheless beats|Weepinbell
+	1.0|Starmie|beats|Weepinbell
+	1.0|Rock Pokémon|are weak against|Water Pokémon
+	1.0|Rock Pokémon|are doubly weak against|Water Pokémon
+	1.0|Pikachu|twists backwards|skull on Cubone 's head
+	1.0|Pikachu|twists|skull on Cubone 's head
+	1.0|Pikachu|pummels|Cubone
+	1.0|her Starmie|fight|Oddish
+	1.0|Bulbasaur|rescues|Oddish
+	1.0|Meowth|advantage of|Squirtle 's mistrust
+	1.0|Meowth|Taking advantage of|Squirtle 's mistrust
+	1.0|Meowth|advantage of|Squirtle 's mistrust of humans
+	1.0|Meowth|Taking advantage of|Squirtle 's mistrust of humans
+	1.0|Squirtle|knocking|Pikachu
+	1.0|Pikachu|gets stabbed by|Goldeen 's horn
+	1.0|beaten-up Rattata|is On|stretcher pushed by Chansey
+	1.0|Rattata|is On|stretcher pushed by Chansey
+	1.0|Pikachu|seeing|injured Pokémon
+	1.0|Pikachu|seeing|Pokémon
+	1.0|Raichu|does|far more damage to Pikachu than Pikachu deals to Raichu
+	1.0|Pikachu|been beaten by|Raichu
+	1.0|Pikachu|is upset|have beaten by Raichu
+	1.0|Pikachu|however is upset|have beaten so badly by Raichu
+	1.0|Pikachu|however is upset|have beaten badly by Raichu
+	1.0|Pikachu|been beaten badly by|Raichu
+	1.0|Pikachu|is upset|have beaten so badly by Raichu
+	1.0|Pikachu|is upset|have beaten badly by Raichu
+	1.0|Pikachu|been beaten so badly by|Raichu
+	1.0|Pikachu|however is upset|have beaten by Raichu
+	1.0|Raichu|shows|kindness for Pikachu
+	0.8819489799390542|Raichu|kindness for|Pikachu
+	1.0|Raichu|even shows|kindness for Pikachu
+	1.0|Bulbasaur|join|Pokémon
+	1.0|Ash 's Pikachu|join|other Pokémon
+	1.0|Brock 's Geodude|together with Pikachu is|Charmander
+	1.0|Ash 's Pikachu|join|Pokémon
+	1.0|Bulbasaur|join|other Pokémon
+	1.0|Goldeen|gets|Starmie
+	1.0|Magikarp|begins|it evolves into Gyarados
+	1.0|Pikachu|releases|Bulbasaur
+	1.0|separated Pikachu|releases|Bulbasaur
+	1.0|separated Pikachu|releases|Squirtle
+	1.0|Pikachu|releases|Charmander
+	1.0|Pikachu|releases|Squirtle
+	1.0|separated Pikachu|releases|Charmander
+	1.0|Meowth|tells|Koffing
+	1.0|Ekans|attack|Ash 's Pokémon
+	1.0|Meowth|tells|Ekans
+	1.0|Pikachu|telling|Bulbasaur
+	1.0|Pikachu|unties|Meowth
+	1.0|Bulbasaur|seek help|Squirtle thinks
+	1.0|Bulbasaur|ask|Venusaur
+	1.0|Bulbasaur|ask|giant Venusaur
+	1.0|Meowth|is captured by|large Tentacruel
+	1.0|Meowth|is captured by|Tentacruel
+	0.47625252282513425|Tentacruel|followed by|Tentacool
+	1.0|Horsea|has|cutest Pokémon of all
+	1.0|Butterfree|falls with|pink Butterfree
+	1.0|Butterfree|falls with|Butterfree
+	1.0|pink Butterfree|however rejects|Ash 's Butterfree 's proposal
+	1.0|Butterfree|rejects|Ash 's Butterfree 's proposal
+	1.0|pink Butterfree|rejects|Ash 's Butterfree 's proposal
+	1.0|Butterfree|however rejects|Ash 's Butterfree 's proposal
+	1.0|Ash 's teary-eyed Butterfree|flies away into|Pikachu
+	1.0|Ash 's Butterfree|find|Butterfree
+	1.0|Ash 's Butterfree|flies away into|Pikachu
+	1.0|Ash 's teary-eyed Butterfree|find|Butterfree
+	1.0|Ash 's teary-eyed Butterfree|flies into|Pikachu
+	1.0|Ash 's Butterfree|flies into|Pikachu
+	1.0|Butterfree|use instead|Pidgeotto
+	1.0|Butterfree|use|Pidgeotto
+	1.0|Ash 's Butterfree|flies As|pink Butterfree watches
+	1.0|Ash 's Butterfree|flies As|Butterfree watches
+	1.0|Ash 's Butterfree|joins dance.Back at|bids farewell to Butterfree couple
+	1.0|Ash 's Butterfree|Naturally joins dance.Back at|bids farewell to Butterfree couple
+	1.0|Abra|suddenly evolves into|Kadabra
+	1.0|Abra|evolves into|Kadabra
+	1.0|Pikachu|remembers|losing to Kadabra
+	1.0|Pikachu|losing to|Kadabra
+	1.0|Ghost Pokémon|take|Pikachu
+	1.0|Pikachu|fly with|Ghost Pokémon
+	1.0|Haunter|gets|he goes through Haunter 's mouth
+	1.0|Pikachu|scan city for|Haunter
+	1.0|Pikachu|roasting|Kadabra
+	1.0|Primeape|is relentless|Charmander 's flame grows
+	1.0|Primeape|is relentless|Charmander 's flame suddenly grows
+	1.0|Charmander|biting|Primeape 's fist
+	1.0|their Drowzee|finally evolved|Hypno ago
+	1.0|their old Drowzee|finally evolved|Hypno three days ago
+	1.0|their Drowzee|finally evolved|Hypno
+	1.0|their old Drowzee|evolved|Hypno three days ago
+	1.0|their old Drowzee|evolved|Hypno
+	1.0|their Drowzee|finally evolved|Hypno three days ago
+	1.0|their old Drowzee|finally evolved|Hypno ago
+	1.0|their Drowzee|evolved|Hypno ago
+	1.0|their old Drowzee|finally evolved|Hypno
+	1.0|their old Drowzee|evolved|Hypno ago
+	1.0|their Drowzee|evolved|Hypno three days ago
+	1.0|their Drowzee|evolved|Hypno
+	0.9537370795707317|Hypno 's hypnosis|is used on|Pokémon
+	0.9537370795707317|Hypno 's hypnosis|is generally used on|Pokémon
+	1.0|Pikachu|offers|Vulpix
+	1.0|Geodude|carries|Ekans
+	1.0|Ekans|slams into|Pikachu
+	1.0|Meowth|help|Pokémon
+	1.0|Meowth|help|tangled Pokémon
+	1.0|Pikachu|sends glove into|Hitmonchan 's face
+	1.0|Pokémon.Hitmonchan creams Ash|has|little Pikachu
+	1.0|Machop|sends|Primeape
+	1.0|Primeape|blocks|multiple rapid kicks from Hitmonlee
+	1.0|Primeape|blocks|multiple kicks from Hitmonlee
+	1.0|Primeape|blocks|rapid kicks from Hitmonlee
+	1.0|Primeape|blocks|kicks from Hitmonlee
+	0.9991139969273025|Pikachu|gets shocked as|shadowy Pokémon watches
+	0.9991139969273025|Pikachu|gets shocked as|Pokémon watches
+	0.9991139969273025|Pikachu|gets shocked as|shadowy Pokémon watches from nearby bush.Somehow
+	0.9991139969273025|Pikachu|gets shocked as|Pokémon watches from bush.Somehow
+	0.9991139969273025|Pikachu|gets shocked as|Pokémon watches from nearby bush.Somehow
+	0.9991139969273025|Pikachu|gets shocked as|shadowy Pokémon watches from bush.Somehow
+	1.0|Magnemite|be in|love with Pikachu
+	1.0|Magnemite|seems|love with Pikachu for reason.Ash
+	1.0|Magnemite|be in|love with Pikachu for reason.Ash yells
+	1.0|Magnemite|seems|love with Pikachu
+	1.0|Magnemite|seems|love with Pikachu for reason.Ash yells
+	1.0|Magnemite|be in|love with Pikachu for reason.Ash yells at Magnemite
+	1.0|Magnemite|be in|love with Pikachu for reason.Ash
+	1.0|Magnemite|seems|love for reason.Ash yells at Magnemite
+	1.0|Magnemite|seems|love with Pikachu for reason.Ash yells at Magnemite
+	1.0|Magnemite|be in|love for reason.Ash yells at Magnemite
+	1.0|Grimer attack|is With|command from Muk
+	1.0|Magnemite|Suddenly knocks out|several Magnemite Magneton arrive
+	1.0|Magnemite|Suddenly knocks out|several Magnemite arrive
+	1.0|Magnemite|Suddenly knocks out|Magnemite arrive
+	1.0|Magnemite|Suddenly knocks out|Magneton arrive
+	1.0|Magnemite|Suddenly knocks out|Magnemite Magneton arrive
+	1.0|Magnemite|knocks out|Magnemite Magneton arrive
+	1.0|Magnemite|knocks out|Magnemite arrive
+	1.0|Magnemite|knocks out|several Magnemite Magneton arrive
+	1.0|Magnemite|knocks out|several Magnemite arrive
+	1.0|Magnemite|knocks out|Magneton arrive
+	1.0|Pikachu|has|obsessed Magnemite
+	1.0|Magnemite|is interested in|Pikachu
+	1.0|Pikachu|hears|Pokémon
+	1.0|Pikachu|hears|Pokémon saying
+	1.0|their Pokémon|touch|Pokémon
+	1.0|her Ekans|has evolved into|Arbok
+	1.0|his Koffing|has evolved into|Weezing
+	1.0|Diglett|are beating up|Weezing
+	1.0|Underground Diglett|are beating up|Weezing
+	1.0|Diglett|are beating up|Arbok
+	1.0|Underground Diglett|are beating up|Arbok
+	1.0|Dugtrio|are beating up|Arbok
+	1.0|Dugtrio|are beating up|Weezing
+	1.0|Venonat|evolve into|Venomoth
+	1.0|Venonat|chooses moment|evolve into Venomoth
+	1.0|Pidgeotto|send out|Charmander
+	1.0|Arbok|biting|Psyduck 's head
+	1.0|Psyduck|remove gunk from|Venonat
+	1.0|Charmander|chooses|Golbat
+	1.0|Charmander|defeats|Golbat
+	1.0|Dodrio|quickly take lead|Squirtle fall
+	1.0|Dodrio|take lead|Squirtle fall
+	1.0|Dodrio|quickly take lead|Pikachu fall
+	1.0|Dodrio|take lead|Pikachu fall
+	1.0|Pikachu|push|Squirtle
+	1.0|their Pokémon|eat|entire plate of Pokémon food
+	1.0|their Pokémon|eat|plate of Pokémon food
+	1.0|Weezing|attack|Ponyta
+	1.0|Dodrio|of|heads to Peck Ponyta
+	1.0|Ponyta|win into|much-faster Rapidash
+	1.0|Ponyta|win into|Rapidash
+	1.0|Dragonair|is|Dratini
+	1.0|Dragonair|is|same Dratini
+	1.0|Dratini|is|Dragonair 's child
+	1.0|Dratini|appears next to|Dragonair
+	1.0|Golem|sent out|Bulbasaur
+	1.0|Charmander|set|Golem
+	1.0|Pikachu|is|her Ditto
+	1.0|Pikachu|is|actually her Ditto
+	1.0|Ditto|again become|Dratini
+	1.0|Ditto|once become|Dratini
+	1.0|Ditto|once again become|Dratini
+	1.0|Ditto|become|Dratini
+	1.0|real Meowth|escaping in|their balloon with Ditto
+	1.0|Meowth|escaping in|their balloon with Ditto
+	1.0|Pikachu|Riding on|Porygon 's back
+	1.0|Porygon|infuriating|Meowth
+	1.0|Porygon 's skin color|becomes like|like Weezing
+	1.0|Pikachu|said|wild Pikachu
+	1.0|Pikachu|hears|Pokémon 's cry
+	1.0|Pikachu|plays with|Eevee
+	1.0|Psyduck|appears in front of|Squirtle
+	1.0|Weezing 's attack|misses|Vaporeon jumps
+	1.0|Scyther 's Cut attack|is blocked by|Pikachu 's ketchup bottle
+	1.0|Scyther 's Cut attack|however is blocked by|Pikachu 's ketchup bottle
+	1.0|Scyther|manages|Electabuzz manages
+	1.0|His Exeggcute|evolves into|Exeggutor
+pokemon -> person (165)
+	1.0|Nidorino|has|Trainer
+	1.0|Pokémon|become|Pokémon Trainer
+	1.0|starter Pokémon|become|Pokémon Trainer
+	1.0|Pikachu|gives|Ash
+	1.0|Pikachu|finds|Ash ineptitude
+	1.0|Pikachu|finds|Ash ineptitude hilarious
+	1.0|Pikachu|running into|Misty 's bicycle
+	1.0|Pikachu|wakes up|running into Misty 's bicycle
+	1.0|Pikachu|suddenly wakes up|running into Misty 's bicycle
+	1.0|Ash 's Pikachu|Using power from|Ash
+	1.0|Pikachu|continue|Misty having decided
+	1.0|Caterpie|make friends with|Misty
+	1.0|Pikachu|continue As|Ash
+	1.0|Metapod|saves|Ash
+	1.0|Pidgeotto|securing|Ash 's 10th victory
+	1.0|Pidgeotto|securing|Ash 's victory
+	1.0|His Sandshrew|is wearing|strength intensifier invented by A.J. himself
+	1.0|His Sandshrew|is wearing|strength intensifier invented by A.J.
+	1.0|his Pokémon|leave|A.J. 's win
+	1.0|his Pokémon|now leave|A.J. 's win
+	1.0|his Pokémon|leave|A.J. 's 100th win
+	1.0|his Pokémon|now leave|A.J. 's 100th win
+	1.0|Pikachu|started treadmill|Brock reads
+	1.0|Pikachu|started treadmill|Brock reads from school 's brochure
+	1.0|Pikachu|cling to|Ash
+	1.0|Bulbasaur|push|Ash
+	1.0|Bulbasaur|agrees|go with Ash
+	1.0|Bulbasaur|go with|Ash
+	1.0|Charmander|chooses|go with Ash
+	1.0|Charmander|chooses|go with Ash as its trainer
+	1.0|Charmander|happily chooses|go with Ash
+	1.0|Charmander|go with|Ash
+	1.0|Charmander|happily chooses|go with Ash as its trainer
+	1.0|wild Goldeen|is in|water.Ash
+	1.0|Raticate|has|Trainer
+	1.0|Pikachu|call to|Ash
+	1.0|Pikachu|Meanwhile call to|Ash
+	1.0|Pokémon|jump to|their Trainers
+	1.0|Pokémon|manage|jump to their Trainers
+	1.0|Horsea|decides|member of Misty 's team
+	1.0|Horsea|decides|new member of Misty 's team
+	1.0|Horsea|be member of|Misty 's team
+	1.0|Horsea|be new member of|Misty 's team
+	1.0|Meowth|start|looking for James
+	1.0|Ash 's Butterfree|flies to|Ash
+	1.0|Ash 's Butterfree|flies back to|Ash
+	1.0|Ash 's Butterfree|joins dance.Back at|Ash
+	1.0|Ash 's Butterfree|Naturally joins dance.Back at|Ash
+	1.0|Pikachu|repeating attack|Ash decides
+	1.0|Ghost Pokémon|beat|Sabrina
+	1.0|Meowth|Meanwhile drags|Jessie still frozen
+	1.0|Meowth|Meanwhile drags|Jessie
+	1.0|Meowth|drags|Jessie
+	1.0|Meowth|Meanwhile drags|Jessie frozen
+	1.0|Meowth|drags|Jessie still frozen
+	1.0|Meowth|drags|James
+	1.0|Meowth|Meanwhile drags|James
+	1.0|Meowth|drags|Jessie frozen
+	1.0|Meowth|see|James
+	1.0|Gastly Meowth attacks|scratching|Jessie
+	1.0|Gastly|mimicking|Jessie 's speech
+	1.0|Gastly|goes over|Jessie 's face
+	1.0|Haunter|appears in front of|Ash
+	1.0|Ghost Pokémon|take|Ash
+	1.0|Haunter|gets in front of|Ash
+	1.0|Haunter|scares|Misty
+	1.0|Haunter|scares away|Brock
+	1.0|Haunter|scares|Brock
+	1.0|Haunter|scares away|Misty
+	1.0|Haunter|join|Ash
+	1.0|Ash 's Pokémon|relax|Ash reflects
+	1.0|Haunter|appears next to|Jessie
+	1.0|Haunter|comes up with|idea with Ash
+	1.0|Haunter|comes up again with|idea with Ash
+	1.0|Haunter|However comes up with|idea with Ash
+	1.0|Haunter|However comes up again with|idea with Ash
+	1.0|Pikachu|stand up for|Ash
+	1.0|Haunter|helped|Sabrina
+	1.0|Haunter|stays behind with|Sabrina
+	1.0|Haunter|stays with|Sabrina
+	1.0|Mankey|hops over|Brock
+	1.0|Pokémon|mocks|Ash
+	1.0|Primeape|runs after|Ash
+	1.0|Pikachu attacks|hurting|Ash
+	1.0|Meowth|hiding under|James 's disguise
+	1.0|Pikachu|gets|Ash 's leg
+	1.0|Pikachu|gets|closer Ash 's leg
+	0.9537370795707317|Hypno 's hypnosis|is used|Brock deduces
+	0.9537370795707317|Hypno 's hypnosis|is generally used|Brock deduces
+	1.0|Primeape|refuses Despite|Ash 's pleas
+	1.0|Primeape|gives|Ash
+	1.0|Primeape|listening to|Ash
+	1.0|Primeape|Now listening to|Ash
+	1.0|Pikachu|comes out of|nearby bushes.Misty
+	1.0|Pikachu|comes out of|bushes.Misty
+	1.0|Pikachu|jumps into|Ash 's arms
+	1.0|Meowth|watches as|Ash
+	1.0|Magnemite|be in|love for reason.Ash yells
+	1.0|Magnemite|seems|love for reason.Ash yells
+	1.0|Magnemite|seems|love for reason.Ash
+	1.0|Magnemite|be in|love for reason.Ash
+	1.0|Diglett|are polite|Brock adds
+	1.0|Pikachu|stop|Ash
+	1.0|wonderful Vulpix 's hair|is|how thanks to Suzie
+	1.0|Vulpix 's hair|is thanks to|Suzie
+	1.0|Vulpix 's hair|is|how thanks to Suzie
+	1.0|wonderful Vulpix 's hair|is thanks to|Suzie
+	1.0|Venomoth|prompting|Ash
+	1.0|Pikachu|only meet|same fate from Jessie
+	1.0|Pikachu|only meet|fate from Jessie
+	1.0|Pikachu|meet|fate from Jessie
+	1.0|Pikachu|meet|same fate from Jessie
+	1.0|Ponyta|burning again|Ash
+	1.0|Ponyta|burning|Ash
+	1.0|Rapidash|overtake|Dario
+	1.0|Chansey|turns out|Ranger Jenny in Chansey hat
+	1.0|Chansey|be|Ranger Jenny
+	1.0|Chansey|turns out|Ranger Jenny
+	1.0|Chansey|however turns out|Ranger Jenny
+	1.0|Chansey|be|Ranger Jenny in Chansey hat
+	1.0|Chansey|however turns out|Ranger Jenny in Chansey hat
+	1.0|Kangaskhan|is in|net.Jessie
+	1.0|infant Kangaskhan|is in|leader 's pouch waving as Ash
+	1.0|Dratini|was found by|Kaiser
+	1.0|Dratini|was|Thirty years ago found by Kaiser
+	1.0|Dratini|was|Thirty years ago found by Kaiser himself
+	1.0|Dratini|was found by|Kaiser himself
+	1.0|Dratini|ago was found by|Kaiser
+	1.0|Dratini|ago was found by|Kaiser himself
+	1.0|Meowth|don scuba gear|Jessie is waiting for them above
+	1.0|Meowth|don scuba gear|Jessie is waiting above
+	1.0|Meowth|don scuba gear|Jessie is waiting for them
+	1.0|Meowth|don scuba gear|Jessie is waiting
+	1.0|Meowth|splash|Just Jessie tries
+	1.0|Meowth|splash|Jessie tries
+	1.0|Staryu|catch up to|Kaiser
+	1.0|Staryu|take|Kaiser
+	1.0|Staryu|take back|Kaiser
+	1.0|Dragonair|emerges from|center with Ash
+	1.0|Dragonair|emerges from|center with Ash on its back
+	1.0|Dragonair|approaches|Kaiser
+	1.0|Charmander|'s attack.Next is|Tyra
+	1.0|Meowth|get|Jessie
+	1.0|Porygon|gathers|Ash
+	1.0|his Pikachu|shook tails Behind|Ash
+	1.0|Pikachu|ran into|Ash 's arms
+	1.0|Pikachu|is|As Ash hit by rock thrown from roof of building
+	1.0|Pikachu|is hit As|Misty
+	1.0|Pikachu|is|As Ash hit by rock thrown from roof
+	1.0|Pikachu|is hit As|Ash
+	1.0|Pikachu|is|As Ash hit by rock
+	1.0|Pikachu|is|As Ash hit by rock thrown from roof of nearby building
+	1.0|Pikachu|is|As Ash hit by rock thrown
+	1.0|Pokémon|ruin|Ash 's trick
+	1.0|Pokémon|subsequently ruin|Ash 's trick
+	1.0|three Pokémon|ruin|Ash 's trick
+	1.0|three Pokémon|subsequently ruin|Ash 's trick
+	1.0|Melvin 's Exeggutor returns|resulting in|Melvin
+	1.0|Charmander|evolves|its loyalty to Ash now in question
+	1.0|Charmander|Suddenly evolves|its loyalty to Ash
+	1.0|Charmander|shoots flame at|Ash 's face
+	1.0|Charmander|Suddenly evolves|its loyalty to Ash in question
+	1.0|Charmander|evolves|its loyalty to Ash
+	1.0|Charmander|Suddenly evolves|its loyalty to Ash now in question
+	1.0|Charmander|evolves|its loyalty to Ash in question
+pokemon -> move (86)
+	1.0|Ash 's Pikachu|hits Team Rocket with|Thunder Shock attack
+	1.0|Pikachu|uses|Thunder Shock
+	1.0|Pidgeotto|dodging|multiple Sludge attacks
+	1.0|Pidgeotto|dodging|Sludge attacks
+	1.0|Caterpie|rushes into|Tackle attack
+	1.0|Metapod breaks|is with|Harden
+	1.0|Onix|counter with|Bind
+	1.0|Pikachu|has|Thunder Shock
+	1.0|two Pokémon|turn back|Smog
+	1.0|Pokémon|turn|Smog
+	1.0|Pokémon|turn back|Smog
+	1.0|Zubat|use|Double Team
+	1.0|two Pokémon|turn|Smog
+	1.0|Butterfree|with|Whirlwind
+	1.0|Clefairy|use|Metronome attack
+	1.0|Pidgeotto|uses|Gust
+	1.0|Sandshrew|wins with|Fissure attack
+	1.0|Pikachu|ducking|Bonemerang comes
+	1.0|Pikachu|finally ducking|Bonemerang comes back
+	1.0|Pikachu|ducking away|Bonemerang comes back
+	1.0|Pikachu|finally ducking away|Bonemerang comes
+	1.0|Pikachu|ducking away|Bonemerang comes
+	1.0|Pikachu|finally ducking|Bonemerang comes
+	1.0|Pikachu|ducking|Bonemerang comes back
+	1.0|Pikachu|finally ducking away|Bonemerang comes back
+	1.0|Bulbasaur|rescues|Oddish with its Vine Whip
+	1.0|Pikachu|use|Thunder Shock
+	0.921546870869443|Squirtle|use|Water Gun
+	1.0|Pikachu|severely damaged by|Mega Punch
+	1.0|Pikachu|damaged by|Mega Punch
+	1.0|Raticate|uses|Super Fang
+	1.0|Raticate attacks|is with|Jump Kick
+	1.0|his Pokémon|attack thugs with|ThunderShock
+	1.0|Pikachu group|uses|Thunderbolt
+	1.0|Bulbasaur|use|Vine Whip
+	1.0|Charmander|has|Flamethrower attack
+	1.0|Pikachu|destroys helicopter with|his ThunderShock attack
+	1.0|Charmander|uses|Flamethrower
+	1.0|Charmander|uses|Flamethrower
+	1.0|Charmander|use|Leer
+	1.0|Pikachu|uses|Thunderbolt
+	1.0|Pikachu attacks|is with|Thunder Shock
+	1.0|Primeape|continues|Thrash
+	1.0|Pikachu attacks|is with|Thunder Shock
+	1.0|Squirtle|fire|Water Gun
+	1.0|Bulbasaur|use|Razor Leaf
+	1.0|Charmander|using|Flamethrower
+	1.0|Bulbasaur attacks|is with|Vine Whip
+	1.0|Charmander|uses|Flamethrower
+	1.0|Hypno|starts|its Hypnosis
+	1.0|Vulpix drives|is with|powerful Fire Spin
+	1.0|Machop|launches|Seismic Toss
+	1.0|Pikachu 's obsessed Magnemite|assists with|Thunder Shock
+	1.0|Pikachu|uses|Thunder Shock
+	1.0|Pikachu 's Magnemite|assists with|Thunder Shock
+	1.0|Pikachu 's obsessed Magnemite|assists with|Thunder Shock of its own
+	1.0|Pikachu 's Magnemite|assists with|Thunder Shock of its own
+	1.0|Bulbasaur|deflects with|Whirlwind
+	1.0|Pidgeotto|use|Whirlwind
+	1.0|Venomoth|follows up with|Sleep Powder
+	1.0|Psyduck|use|Tail Whip
+	1.0|Psyduck|uses|Scratch
+	1.0|Charmander|defeats Golbat with|Ember
+	1.0|Electrode|has|Explosion attack
+	1.0|Pikachu|to|ThunderShock
+	1.0|Squirtle|tries|Skull Bash
+	1.0|Pikachu|use|ThunderShock
+	1.0|Charmander|use|ThunderShock
+	1.0|Charmander|use|Flamethrower
+	1.0|Pikachu|use|Flamethrower
+	1.0|Pikachu|uses|Thunderbolt
+	1.0|Charmander|set Golem with|Flamethrower
+	1.0|Weezing|has|SmokeScreen
+	1.0|Pikachu|by|ThunderShock
+	1.0|Porygon|uses|Conversion
+	1.0|Jessie 's Porygon|uses|Sharpen
+	1.0|Pikachu|by|Thunder Shock
+	1.0|Weezing|uses|SmokeScreen
+	1.0|Jolteon counters|is with|Pin Missile
+	1.0|Arbok|uses|Poison Sting
+	1.0|Vaporeon|uses|Tackle
+	1.0|Scyther|has|Cut attack
+	1.0|Scyther|manages|Electabuzz ThunderPunch manages
+	1.0|Scyther|using|Swords Dance
+	1.0|Scyther|manages|ThunderPunch manages
+	1.0|His Exeggcute|uses|Hypnosis
+person -> item (49)
 	1.0|Oak|gives|Pokédex
 	1.0|Oak|gives however|Pokédex
+	1.0|Oak|gives however|Poké Balls
+	1.0|Oak|gives|Poké Balls
 	1.0|Ash|looks up Pidgey in|Pokédex
 	0.41234037171235893|Ash|looks up in|Pokédex
 	1.0|Ash|throws|Poké Ball
-pokemon -> person (3)
-	1.0|Nidorino|has|Trainer
-	1.0|Pokémon|become|Pokémon Trainer
-	1.0|Pikachu|gives|Ash
-pokemon -> type (1)
-	1.0|Pikachu|is|Electric-type
-person -> settlement (1)
+	1.0|Ash angry|throws|Poké Ball
+	1.0|Ash|holds|Poké Ball closer
+	1.0|Ash|holds|Poké Ball closer to Misty 's face
+	1.0|Ash|holds|Poké Ball
+	1.0|Ash|toss|Poké Ball
+	1.0|Ash|has|Pokédex
+	1.0|Ash|earn|his first Gym Badge
+	1.0|Ash|earn|his Gym Badge
+	1.0|Brock|Surprisingly gives|Boulder Badge
+	1.0|Brock|gives|Boulder Badge
+	1.0|Ash|accept|Badge
+	1.0|Ash|is excited|get to battle for his Cascade Badge
+	1.0|Ash|get to|battle for his Cascade Badge
+	1.0|Ash|is extremely excited|get to Cerulean City to battle for his Cascade Badge
+	1.0|Ash|is extremely excited|get to battle for his Cascade Badge
+	1.0|Ash|is excited|get to Cerulean City to battle for his Cascade Badge
+	1.0|Daisy|gives|Cascade Badge
+	1.0|Ash|has|two Badges
+	1.0|Trainer|admires|Ash 's two Badges
+	1.0|Ash|checking|his Pokédex
+	1.0|Ash|uses|his Pokédex
+	1.0|Ash|throws|Poké Ball
+	1.0|Lt. Surge awards Ash|is with|Thunder Badge
+	1.0|James|drops|Poké Ball holding Magikarp
+	1.0|James|just grabs|Magikarp 's Poké Ball
+	1.0|James|grabs|Magikarp 's Poké Ball
+	1.0|Ash|check|Pokédex could help
+	1.0|Ash winner.Ash|leave|Ash glancing at his Marsh Badge
+	1.0|Ash winner.Ash|leave|Ash glancing at his new Marsh Badge
+	1.0|Ash|tosses|Poké Ball
+	1.0|Ash|check|his Pokédex
+	1.0|Erika|presents|Rainbow Badge
+	1.0|Ash|has|five Badges
+	1.0|Ash|now has|five Badges
+	1.0|Ash|has|Pokédex
+	0.41234037171235893|Ash|looks up on|Pokédex
+	1.0|Ash|scans Dugtrio with|his Pokédex
+	1.0|Ash|has|Pokédex
+	1.0|Koga|gives|Soul Badge
+	1.0|Ash|reading|Ditto 's entry in Pokédex
+	1.0|Ash|from|Pokédex
+	1.0|Misty|uncovers|answer from Ash 's Pokédex
+group -> pokemon (38)
+	1.0|Team Rocket|wrapped up like|Kakuna
+	1.0|Team Rocket|wrapped up among|hive of Beedrill
+	1.0|Team Rocket|wrapped up among|hive of angry Beedrill
+	1.0|Team Rocket|prepare|leave with Pikachu
+	1.0|Team Rocket|leave with|Pikachu
+	1.0|Team Rocket|warn|Charmander
+	1.0|Team Rocket|are|are now chased by Kabutops
+	1.0|Team Rocket|are|are chased by Kabutops
+	1.0|Team Rocket|are|are now chased by huge Kabutops
+	1.0|Team Rocket|are|are chased by huge Kabutops
+	1.0|Team Rocket|has|Ekans
+	1.0|Team Rocket|catch|Butterfree
+	1.0|Team Rocket|catch|fleeing Butterfree
+	1.0|Team Rocket 's helicopter|is with|Pikachu
+	1.0|Team Rocket|towards|helicopter with Pikachu
+	1.0|Team Rocket|snares|Drowzee
+	1.0|Team Rocket|snares|Hypno
+	1.0|Team Rocket|has|Pokémon
+	1.0|Team Rocket|evolve|their Pokémon
+	1.0|Team Rocket|send out|Arbok
+	1.0|Team Rocket|send out|Weezing
+	1.0|Team Rocket|capture|group of Kangaskhan
+	1.0|Team Rocket|scares|Kangaskhan
+	1.0|Team Rocket|get|her Ditto
+	1.0|Team Rocket|drop|Ditto
+	0.613933694850146|Team Rocket|again.Now|Ditto can transform perfectly
+	0.613933694850146|Team Rocket|again.Now|Ditto can transform
+	1.0|Team Rocket|put|Dratini suit
+	1.0|Team Rocket|weighs down|Porygon
+	1.0|Team Rocket|weighs|Porygon
+	1.0|Team Rocket|saw|Pikachu
+	1.0|Team Rocket|are walking with|Pokémon
+	1.0|Team Rocket|give back|stolen Pokémon
+	1.0|Team Rocket|give back|Pokémon
+	0.8968539567795393|Team Rocket|are run by|Scyther
+	0.8968539567795393|Team Rocket|are|run by Scyther in their rage
+	0.8968539567795393|Team Rocket|are|run by Scyther in their red-induced rage
+	1.0|Team Rocket|gets carried away by|Exeggutor
+pokemon -> group (35)
+	1.0|Ash 's Pikachu|hits|Team Rocket
+	1.0|Pikachu|run|she remains in pursuit.Team Rocket
+	1.0|Water Pokémon|using|giant vacuum machine.While Team Rocket 's vacuum
+	1.0|Water Pokémon|using|vacuum machine.While Team Rocket 's vacuum
+	1.0|Ash 's Pikachu|stopping|Team Rocket thugs
+	1.0|Pidgeotto|finds|Team Rocket
+	1.0|Butterfree|are captured by|Team Rocket
+	1.0|Butterfree|Soon are captured by|Team Rocket
+	1.0|Ash 's Butterfree|flies towards|Team Rocket 's helicopter with Pikachu
+	1.0|Ash 's Butterfree|flies towards|Team Rocket 's helicopter
+	1.0|Pikachu|sending down|Team Rocket
+	1.0|Pikachu|sending|Team Rocket
+	1.0|Pikachu attacks|hitting|Team Rocket
+	1.0|Charmander|burn|Team Rocket
+	1.0|Pikachu attacks|hurting|Team Rocket
+	1.0|Pidgeotto|gust|Team Rocket
+	1.0|Pidgeotto|gust away|Team Rocket
+	1.0|their Pokémon|touch Pokémon As|Team Rocket hugs
+	1.0|Squirtle|take|care of Team Rocket
+	0.59958086785646|giant robot Kangaskhan|made by|Team Rocket
+	0.59958086785646|robot Kangaskhan|made by|Team Rocket
+	1.0|Meowth|causing|Team Rocket
+	1.0|his Ditto someday.The episode|ends|Team Rocket attempting
+	1.0|his own Ditto someday.The episode|ends|Team Rocket attempting
+	1.0|Pidgeotto|goes|search for Team Rocket
+	1.0|Pidgeotto|search for|Team Rocket
+	1.0|Horsea|leaves trail|Team Rocket are walking down road in cages
+	1.0|Horsea|leaves trail|Team Rocket are walking with Pokémon
+	1.0|Horsea|leaves trail|Team Rocket are walking down road with Pokémon
+	1.0|Horsea|leaves trail|Team Rocket are walking
+	1.0|Horsea|leaves trail|Team Rocket are walking down road with Pokémon in cages
+	1.0|Horsea|leaves trail|Team Rocket are walking in cages
+	1.0|Horsea|leaves trail|Team Rocket are walking down road
+	1.0|Horsea|leaves trail|Team Rocket are walking with Pokémon in cages
+	1.0|His Exeggcute|uses Hypnosis on|Team Rocket
+group -> person (34)
+	1.0|Team Rocket|interrupts|Ash is about
+	1.0|Team Rocket|interrupts|Just Ash is about
+	1.0|Team Rocket|is crouched behind|A.J. 's tent
+	1.0|Team Rocket|Meanwhile is crouched behind|A.J. 's tent
+	1.0|Team Rocket|walk|James realizing
+	1.0|Team Rocket|walk off|James realizing
+	1.0|Team Rocket|steal|attending Trainers ' Pokémon.Ash
+	1.0|Team Rocket|steal|Trainers ' Pokémon.Ash
+	1.0|Team Rocket|is still stranded|Ash his friends swim to surface
+	1.0|Team Rocket|is stranded|Ash his friends swim
+	1.0|Team Rocket|is still stranded|Ash swim to surface
+	1.0|Team Rocket|is stranded|Ash his friends swim into waterfall
+	1.0|Team Rocket|is still stranded|Ash swim into waterfall to surface
+	1.0|Team Rocket|is stranded|Ash swim
+	1.0|Team Rocket|is stranded|Ash swim into waterfall to surface
+	1.0|Team Rocket|is still stranded|Ash swim
+	1.0|Team Rocket|is still stranded|Ash his friends swim
+	1.0|Team Rocket|is stranded|Ash his friends swim into waterfall to surface
+	1.0|Team Rocket|is still stranded|Ash his friends swim into waterfall
+	1.0|Team Rocket|is still stranded|Ash his friends swim into waterfall to surface
+	1.0|Team Rocket|is stranded|Ash swim to surface
+	1.0|Team Rocket|is still stranded|Ash swim into waterfall
+	1.0|Team Rocket|is stranded|Ash swim into waterfall
+	1.0|Team Rocket|is stranded|Ash his friends swim to surface
+	1.0|Team Rocket|has|unknown.Ash
+	1.0|Team Rocket|'s boss is|Giovanni
+	1.0|Team Rocket|follows|Ash
+	1.0|Team Rocket|Meanwhile sets up|pit trap in Ash 's path
+	1.0|Team Rocket|sets up|pit trap in Ash 's path
+	1.0|Team Rocket|ride on|Nurse Joy
+	1.0|Team Rocket|spitefully thank|Ash
+	1.0|Team Rocket|thank|Ash
+	1.0|Team Rocket|sees|Melvin
+	1.0|Team Rocket|sees|Ash
+person -> settlement (34)
 	1.0|Gary|put|Pallet Town
-pokemon -> pokemon (1)
-	1.0|Pokémon|is named|Pikachu
-move -> move (0)
-type -> group (0)
-pokemon -> settlement (0)
-event -> building (0)
-pokemon -> region (0)
-region -> move (0)
-type -> building (0)
-event -> settlement (0)
-region -> type (0)
-region -> person (0)
-event -> region (0)
-item -> type (0)
-region -> group (0)
-event -> type (0)
-pokemon -> move (0)
-settlement -> region (0)
-move -> event (0)
-move -> region (0)
-move -> building (0)
-move -> settlement (0)
-settlement -> type (0)
-settlement -> group (0)
-pokemon -> event (0)
-settlement -> person (0)
-move -> item (0)
-settlement -> pokemon (0)
-group -> type (0)
-move -> pokemon (0)
-person -> group (0)
-building -> move (0)
-group -> building (0)
-building -> event (0)
-person -> type (0)
-settlement -> item (0)
-settlement -> event (0)
-person -> region (0)
-group -> item (0)
-event -> group (0)
-group -> person (0)
-event -> person (0)
-building -> settlement (0)
-building -> building (0)
-group -> group (0)
-region -> item (0)
-type -> type (0)
-type -> settlement (0)
-group -> region (0)
-region -> building (0)
-building -> type (0)
-pokemon -> group (0)
-region -> event (0)
-item -> event (0)
-region -> region (0)
-move -> person (0)
+	1.0|Ash|arrives in|Viridian City
+	1.0|Ash|is in|already Viridian City
+	1.0|Ash|is in|Viridian City
+	1.0|Ash|runs at|full speed towards Pewter City
+	1.0|Ash|runs at|speed towards Pewter City
+	1.0|Flint|tells Ash about|Pewter City 's Gym Leader
+	1.0|Ash|returns with|confidence to Pewter City Gym for rematch
+	1.0|Ash|returns with|confidence to Pewter City Gym
+	1.0|next day Ash returns|is with|confidence to Pewter City Gym for rematch
+	1.0|Ash|is excited|get to Cerulean City to battle
+	1.0|Ash|get to|Cerulean City
+	1.0|Ash|is excited|get to Cerulean City
+	1.0|Ash|is extremely excited|get to Cerulean City
+	1.0|Ash|is extremely excited|get to Cerulean City to battle
+	1.0|Brock|enter|Cerulean City
+	1.0|Misty|are on|their way to Vermilion City
+	1.0|Brock|are on|their way to Vermilion City
+	1.0|Ash|are on|their way to Vermilion City
+	1.0|Ash|go to|Lavender Town
+	1.0|Ash|decides|go to Lavender Town
+	1.0|Ash|return to|Saffron City
+	1.0|Ash winner.Ash|leave|Saffron City
+	1.0|Ash|have reached|Celadon City renowned for skyscrapers
+	1.0|Ash|have reached|Celadon City renowned
+	1.0|Ash|have reached|Celadon City
+	1.0|Nurse Joy|is in|Sunnytown
+	1.0|Ash|are walking On|their way to Cinnabar Island
+	1.0|Ash|are walking On|their way to Cinnabar Island for Gym battle
+	1.0|Ash|are walking On|their way to Cinnabar Island for seventh Gym battle
+	0.217438951046395|Ash|arrive in|Dark City
+	1.0|Misty|leave|Dark City
+	1.0|Brock|leave|Dark City
+	1.0|caused.As Ash|leave|Dark City
+person -> group (33)
+	1.0|Ash|run|she remains in pursuit.Team Rocket
+	1.0|Seymour|has|glasses for him.Team Rocket
+	1.0|Ash|sees|leader of Squirtle Squad fallen
+	1.0|Ash|sees|leader of Squirtle Squad fallen on its back
+	1.0|Ash|sees|leader of Squirtle Squad
+	1.0|Ash|fall into|cart with Team Rocket inside
+	1.0|Ash|fall into|cart with Team Rocket
+	1.0|up.Brutella|arrives with|Team Rocket
+	1.0|up.Brutella|arrives later with|Team Rocket
+	1.0|Nastina|has|orders.Team Rocket
+	1.0|Brock|tells|Team Rocket
+	1.0|Ash|confronts|Team Rocket
+	1.0|Dario|intends|Team Rocket seeks
+	1.0|Dario|use|Team Rocket 's assistance
+	1.0|Dario|of|alliance with Team Rocket
+	1.0|Dario|use once more|Team Rocket 's assistance
+	1.0|Dario 's alliance|is with|Team Rocket
+	1.0|Dario|use more|Team Rocket 's assistance
+	1.0|Ash|throws bomb at|Team Rocket
+	1.0|Ash|throws bomb back at|Team Rocket
+	1.0|Tyra|Meanwhile challenged|Team Rocket
+	1.0|Chopper|Meanwhile challenged|Team Rocket
+	1.0|Tyra|challenged|Team Rocket
+	1.0|Chopper|challenged|Team Rocket
+	1.0|Brock|ride over|over Team Rocket 's location.Team Rocket
+	1.0|Ash|ride over|over Team Rocket 's location.Team Rocket
+	1.0|Misty|ride over|over Team Rocket 's location.Team Rocket
+	1.0|Brock|get into|argument with Team Rocket
+	1.0|Ash|get into|argument with Team Rocket
+	1.0|Brock|However get into|argument with Team Rocket
+	1.0|Misty|However get into|argument with Team Rocket
+	1.0|Misty|get into|argument with Team Rocket
+	1.0|Ash|However get into|argument with Team Rocket
+person -> building (31)
+	1.0|Ash|leaves|Gym
+	1.0|dejected Ash|leaves|Gym
+	0.7191889976244903|lucky advantage.Ash|leaves|Pewter Gym
+	0.7191889976244903|advantage.Ash|leaves|Pewter Gym
+	1.0|Ash|heads to|Cerulean Gym alone.When Ash
+	1.0|Ash|reaches|Gym
+	1.0|point A.J.|insults|Gyms
+	1.0|Joe|leave|Pokémon Tech
+	1.0|Bill|from|Lighthouse
+	1.0|Ash|worry over|his Gym battle
+	1.0|Ash|worry over|his upcoming Gym battle
+	0.0559997190979209|Ash|enters|Gym declaring
+	1.0|Ash|drags Pikachu to|Vermilion Gym
+	1.0|Ash|enters|Gym
+	1.0|Ash|drags Pikachu anyway to|Vermilion Gym
+	1.0|Lt. Surge|However have won at|Pokémon Center
+	1.0|Lt. Surge|However have already won at|Pokémon Center
+	1.0|Lt. Surge|have already won at|Pokémon Center
+	1.0|Lt. Surge|have won at|Pokémon Center
+	1.0|Lt. Surge|fill|Gym
+	1.0|Lt. Surge|fill|entire Gym
+	1.0|to.Ash|return to|Saffron Gym
+	1.0|Professor Oak|at|Laboratory
+	1.0|Ash|get inside|Gym
+	1.0|James|go to|Gym
+	1.0|Ash|head off towards|Fuchsia Gym
+	1.0|Brock|are trekking through|forest looking for Fuchsia Gym
+	1.0|Ash|are trekking through|forest looking for Fuchsia Gym
+	1.0|Misty|are trekking through|forest looking for Fuchsia Gym
+	1.0|Ash|are walking On|their way for seventh Gym battle
+	1.0|Ash|are walking On|their way for Gym battle
+pokemon -> item (24)
+	1.0|Rock Snake Pokémon|emerges from|its Poké Ball
+	1.0|massive Rock Snake Pokémon|emerges from|its Poké Ball
+	1.0|many Pokémon travel|is in|Poké Balls
+	1.0|Pikachu|get inside|his Poké Ball
+	1.0|Pikachu|whacks away|Thunder Stone
+	1.0|Butterfree|has|Poké Ball
+	1.0|Magikarp|has|Poké Ball
+	1.0|Pikachu|finds|Poké Balls of separated Pokémon
+	1.0|separated Pikachu|finds|Poké Balls
+	1.0|separated Pikachu|finds|Poké Balls of separated Pokémon
+	1.0|Pikachu|finds|Poké Balls of Pokémon
+	1.0|separated Pikachu|finds|Poké Balls of Pokémon
+	1.0|Pikachu|finds|Poké Balls
+	1.0|Diglett|brings back|Poké Ball
+	1.0|Pokémon|come out of|its Poké Ball
+	1.0|Diglett|brings|Poké Ball
+	1.0|Squirtle|come out of|its Poké Ball
+	1.0|Ditto|has|entry in Pokédex
+	1.0|Ditto 's entry|is in|Pokédex
+	1.0|scanning Eevee|is with|his Pokédex
+	0.8497487195488336|Snorlax|only beautiful music from|Poké Flute
+	0.8497487195488336|Snorlax|beautiful music from|Poké Flute
+	0.8497487195488336|Snorlax|only music from|Poké Flute
+	0.8497487195488336|Snorlax|music from|Poké Flute
+person -> region (19)
+	1.0|Ash|continue to|Viridian Forest
+	1.0|Misty|continue to|Viridian Forest
+	1.0|Misty|reach|end of Viridian Forest
+	1.0|Misty|finally reach|end of Viridian Forest
+	1.0|Ash|Meanwhile reach|edge of Viridian Forest
+	1.0|Misty|reach|edge of Viridian Forest
+	1.0|Ash|reach|edge of Viridian Forest
+	1.0|Misty|Meanwhile reach|edge of Viridian Forest
+	1.0|Ash|are hiking toward|Mt. Moon
+	1.0|Misty|are hiking toward|Mt. Moon
+	1.0|Brock|are hiking toward|Mt. Moon
+	1.0|Ash|have arrived in|Porta Vista
+	1.0|Ash|have finally arrived in|Porta Vista
+	1.0|Ash|are traveling by|ferry from holiday resort of Porta Vista
+	1.0|Ash|are traveling by|ferry from holiday resort of Porta Vista to Maiden 's Peak
+	1.0|Misty|are touring area in|Safari Zone
+	1.0|Ash|are touring area in|Safari Zone
+	1.0|Brock|are touring area in|Safari Zone
+	1.0|Kaiser|shows group as|Safari Zone warden.Inside
+person -> move (17)
+	1.0|Ash|fire|String Shot
+	1.0|Giselle|calls for|Bone Club attack
+	1.0|Ash|use|Agility
+	1.0|Lt. Surge|fill Gym with|Thunderbolt attack
+	1.0|Lt. Surge|fill Gym with|vicious Thunderbolt attack
+	1.0|Lt. Surge|ordering|Take Down
+	1.0|back.Ash|join others in|group Gust attack
+	1.0|Ash|use|Flamethrower
+	1.0|Ash|light|room with Flamethrower
+	1.0|James|launch|Poison Gas
+	1.0|Erika|opens with|Razor Leaf attack
+	1.0|Misty|fire|Water Gun
+	1.0|James|orders|Sludge makeover
+	1.0|Ash|however are able|thanks to Pikachu 's ThunderShock
+	1.0|Ash|are able|thanks to Pikachu 's ThunderShock
+	1.0|Duplica|has|Ditto Transforms
+	1.0|Ash|use|Gust
+pokemon -> region (17)
+	1.0|Pikachu|continue to|Viridian Forest
+	1.0|Caterpie|is in|Viridian Forest
+	1.0|Pikachu|Meanwhile reach|edge of Viridian Forest
+	1.0|Pikachu|reach|edge of Viridian Forest
+	1.0|Dario orders Dodrio|continue on|their way to Safari Zone
+	1.0|Dario orders Dodrio|continue on|way to Safari Zone
+	1.0|Dratini living|is in|Safari Zone
+	1.0|Dratini|was|found in Safari Zone by Kaiser
+	1.0|Dratini|was|Thirty years ago found in Safari Zone by Kaiser
+	1.0|Dratini|was|ago found in Safari Zone by Kaiser himself
+	1.0|Dratini|was|Thirty years ago found in Safari Zone by Kaiser himself
+	1.0|Dratini|was|found in Safari Zone by Kaiser himself
+	1.0|Dratini|ago was found in|Safari Zone
+	1.0|Dratini|was found in|Safari Zone
+	1.0|Dratini|was|Thirty years ago found in Safari Zone
+	1.0|Dratini|was|ago found in Safari Zone by Kaiser
+	1.0|many other Pokémon|literally destroying|Safari Zone
+building -> building (12)
+	1.0|Gym|be|only one official Gym per city
+	1.0|Gym|be|only one Gym per city
+	1.0|Gym|seeks|could only one Gym per city
+	1.0|Gym|seeks|could only one Gym
+	1.0|Gym|be|only one Gym
+	1.0|Gym|seeks|could only one official Gym
+	1.0|Gym|seeks|could only one official Gym per city
+	1.0|Gym|be|only one official Gym
+	1.0|Yas Gym|be|official Gym
+	1.0|Yas Gym|wanted|official Gym
+	1.0|Yas Gym|be|Gym
+	1.0|Yas Gym|wanted|Gym
+item -> pokemon (10)
+	1.0|Poké Ball|However shakes|Pidgey escapes
+	1.0|Poké Ball|shakes|Pidgey escapes
+	1.0|Poké Ball|However reveals|his Raticate
+	1.0|Poké Ball|reveals|his Raticate
+	1.0|Pokédex|lists|Psyduck 's move
+	1.0|Pokédex|lists|Psyduck 's second move
+	1.0|Ash 's Pokédex|listing|Psyduck 's third attacks
+	1.0|Ash 's Pokédex|listing|Psyduck 's attacks
+	1.0|Poké Ball|was hot from|Charmander 's attack.Next
+	1.0|Poké Ball|was still hot from|Charmander 's attack.Next
+pokemon -> building (8)
+	1.0|fearful Pikachu|damaging|Gym
+	1.0|Pikachu|damaging|Gym
+	0.09653656190781701|shadowy Pokémon watches|wears rubber gloves|he rushes to Pokémon Center
+	0.09653656190781701|Pokémon watches|wears rubber gloves|he rushes to Pokémon Center
+	1.0|Yas Gym 's Scyther|are dispatching|men of opposing Gym
+	1.0|Kaz Gym 's Electabuzz|are dispatching|men of opposing Gym
+	1.0|Yas Gym 's Scyther|are dispatching|men of Gym
+	1.0|Kaz Gym 's Electabuzz|are dispatching|men of Gym
+person -> type (8)
+	1.0|Misty|over|Water type
+	1.0|Misty|sends|Water-type Pokémon Staryu
+	1.0|Misty|immediately sends|Water-type Pokémon Staryu
+	1.0|Ash|can catch|Ghost-type Pokémon use
+	1.0|Ash|can catch|Ghost-type Pokémon use against Sabrina
+	1.0|Ash|upsetting|Ghost
+	1.0|Brock|obtains|Fire-type
+	1.0|Brock|obtains|small Fire-type
+item -> person (6)
+	1.0|Poké Ball|is transferred to|Oak 's lab
+	1.0|Poké Ball|is|When transferred to Oak 's lab
+	1.0|Poké Ball|arrives from|Ash
+	1.0|Poké Ball|opens up|Professor Oak wonders
+	1.0|Poké Ball|was still hot from|Tyra
+	1.0|Poké Ball|was hot from|Tyra
+move -> pokemon (4)
+	1.0|Repeated Body Slam|attempts from|Raichu
+	1.0|Body Slam|attempts from|Raichu
+	1.0|Super Fang|break|Starmie 's jewel
+	1.0|Stun Spore|paralyzes|Pidgeotto
+settlement -> building (4)
+	1.0|Dark City|has|two Pokémon Gyms
+	1.0|Dark City|has|Yas Gym
+	1.0|Dark City|has|Kaz Gym
+	1.0|Dark City|has|two rival Pokémon Gyms
+pokemon -> event (4)
+	1.0|Primeape|has become|new P1 Grand Prix Champion
+	1.0|Primeape|has now become|new P1 Grand Prix Champion
+	1.0|Primeape|has now become|P1 Grand Prix Champion
+	1.0|Primeape|has become|P1 Grand Prix Champion
+group -> group (4)
+	1.0|Team Rocket|Meanwhile is accosted by|Squirtle Squad
+	1.0|Team Rocket|is accosted by|Squirtle Squad
+	1.0|Team Rocket|has|fraudulent intentions.Team Rocket
+	1.0|Team Rocket|of|motto much to irritation of real Team Rocket
+building -> settlement (3)
+	1.0|Pokémon Center|is in|Pewter City
+	1.0|next Gym|is in|Celadon City
+	1.0|nearest Pokémon Center|is in|Matcha City
+pokemon -> settlement (3)
+	1.0|Pikachu|arrive on|outskirts of Pewter City
+	1.0|Ghost Pokémon|found in|Lavender Town
+	1.0|Pikachu|leave|Dark City
+settlement -> pokemon (3)
+	1.0|Ash spots Viridian City|having taken|first of many steps on his Pokémon journey
+	1.0|Ash spots Viridian City|having taken|first of steps on his Pokémon journey
+	1.0|Hidden Village|is place|Pokémon come
+group -> building (2)
+	1.0|Team Rocket|sets up|ladder sneak into Gym
+	0.6629291114810453|Team Rocket|hired by|Kaz Gym
+region -> group (2)
+	1.0|St. Anne|taking|Team Rocket
+	1.0|St. Anne|taking|Team Rocket down
+pokemon -> type (2)
+	1.0|Pikachu|is|Electric-type
+	1.0|Pikachu|by|earlier Electric attack
+building -> pokemon (2)
+	1.0|Yas Gym|has|Scyther
+	1.0|Kaz Gym|has|Electabuzz
+settlement -> person (2)
+	1.0|Pewter City|'s Leader is|Brock
+	1.0|Pewter City|about|Gym Leader
+move -> move (1)
+	0.7611500976526101|Swords Dance|boosted|Cut
+item -> move (1)
+	1.0|Pokédex|points|move Rage
+building -> item (1)
+	1.0|eight Pokémon Gym Leaders|earn from|Gym Badge
+region -> person (1)
+	1.0|St. Anne|taking|Ash
+type -> pokemon (1)
+	1.0|Rock-type|knocks out|Pidgeotto
+group -> item (1)
+	1.0|Team Rocket|blocking|Poké Balls
+settlement -> item (1)
+	1.0|Saffron City|glancing at|his new Marsh Badge
+group -> settlement (1)
+	1.0|Team Rocket|ride on|their unicycles.In Sunnytown
+person -> event (1)
+	1.0|Anthony|become|P1 Grand Prix champion
+group -> move (1)
+	1.0|Team Rocket|being hit by|Pikachu 's ThunderShock
 item -> building (0)
-move -> group (0)
-building -> pokemon (0)
-group -> event (0)
-region -> pokemon (0)
-type -> item (0)
-person -> move (0)
-building -> item (0)
-event -> pokemon (0)
-person -> building (0)
-item -> settlement (0)
-type -> region (0)
-group -> pokemon (0)
-item -> pokemon (0)
-building -> region (0)
-settlement -> building (0)
-group -> settlement (0)
-pokemon -> building (0)
-item -> person (0)
-building -> person (0)
-event -> event (0)
-type -> pokemon (0)
-type -> person (0)
-move -> type (0)
-region -> settlement (0)
-settlement -> move (0)
-item -> move (0)
-item -> item (0)
-type -> event (0)
-pokemon -> item (0)
-event -> move (0)
+group -> region (0)
+move -> region (0)
+type -> building (0)
+event -> region (0)
+type -> settlement (0)
 item -> group (0)
-item -> region (0)
-type -> move (0)
-person -> event (0)
-settlement -> settlement (0)
+region -> item (0)
 event -> item (0)
-group -> move (0)
+building -> region (0)
+region -> building (0)
+move -> type (0)
+item -> type (0)
+region -> type (0)
+region -> move (0)
+item -> region (0)
+move -> person (0)
+settlement -> group (0)
+item -> item (0)
+move -> event (0)
+type -> event (0)
+type -> item (0)
+event -> type (0)
+item -> settlement (0)
+move -> building (0)
+event -> person (0)
 building -> group (0)
+region -> region (0)
+move -> settlement (0)
+settlement -> event (0)
+group -> event (0)
+move -> item (0)
+group -> type (0)
+region -> settlement (0)
+event -> event (0)
+type -> type (0)
+settlement -> move (0)
+building -> event (0)
+event -> pokemon (0)
+event -> settlement (0)
+type -> group (0)
+type -> region (0)
+event -> building (0)
+building -> move (0)
+move -> group (0)
+type -> move (0)
+settlement -> type (0)
+event -> move (0)
+region -> event (0)
+settlement -> region (0)
+building -> person (0)
+event -> group (0)
+type -> person (0)
+settlement -> settlement (0)
+region -> pokemon (0)
+item -> event (0)
+building -> type (0)

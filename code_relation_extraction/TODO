@@ -1,0 +1,21 @@
+Automatic Relation Labeler
+- For each of the chosen relation labels
+    - write list of synonyms for the relation's action
+- for each relation extracted from OpenIE
+    - if descriptors and action match one of the chosen labels, label as that.
+        - when matching descriptors, look for a match by searching through the
+        list of descriptors in decreasing order of length, using the first
+        match
+- NOTE: This will not catch pronouns as descriptors, and depends on how many
+synonyms we use.
+
+- word embedding (Glove)
+    - "turns into"? (multiple words)
+
+BINARY RELATION EXTRACTION
+General Problem Definition
+- R - set of possible relation terms (e.g. is_a, has_a, becomes)
+- S - set of possible subjects (e.g. person, pokemon)
+- O - set of possible objects (e.g. person, pokemon)
+
+

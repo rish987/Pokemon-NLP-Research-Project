@@ -1,0 +1,10 @@
+person commands pokémon
+person has pokémon
+person is_a person
+person talks to person
+pokémon attacks pokémon
+pokémon has move
+pokémon use move
+person get item
+person gives item
+person located_in settlement

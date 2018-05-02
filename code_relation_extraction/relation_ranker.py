@@ -47,10 +47,25 @@ for line in openie_out_file_lines:
     split = line.split('\t');
     subject_term = split[1];
     object_term = split[3];
-    if (subject_term in descriptors_to_labels) and \
-        (object_term in descriptors_to_labels):
-        subj_obj_tuple = (descriptors_to_labels[subject_term],\
-                descriptors_to_labels[object_term]);
+    subj_in_desc_to_labels = False;
+    subj_term_match = ''
+    for descriptor in descriptors_ordered:
+        if descriptor in subject_term:
+            subj_in_desc_to_labels = True;
+            subj_term_match = descriptor;
+            break;
+
+    obj_in_desc_to_labels = False;
+    obj_term_match = ''
+    for descriptor in descriptors_ordered:
+        if descriptor in object_term:
+            obj_in_desc_to_labels = True;
+            obj_term_match = descriptor;
+            break;
+    if (subj_in_desc_to_labels) and \
+        (obj_in_desc_to_labels):
+        subj_obj_tuple = (descriptors_to_labels[subj_term_match],\
+                descriptors_to_labels[obj_term_match]);
         relation_tuples_to_freq[subj_obj_tuple][0] += 1;
         relation_tuples_to_freq[subj_obj_tuple][1].append(\
                 line.replace("\t", "|"));
