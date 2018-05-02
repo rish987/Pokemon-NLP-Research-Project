@@ -70,8 +70,8 @@ sentences = [];
 
 # go through all episodes
 for ep_num in range(1, NUM_EPS + 1):
-    print('Processing episode: ' + str(ep_num) + '/' + \
-        str(NUM_EPS));
+    #print('Processing episode: ' + str(ep_num) + '/' + \
+        #str(NUM_EPS));
     # get text for this episode
     text_filename = TEXT_FOLDER + (EP_NUMBER_FORMAT % ep_num);
     text = '';
@@ -82,16 +82,19 @@ for ep_num in range(1, NUM_EPS + 1):
 
     # TODO replace naive '.'-delimited segmentation with more accurate
     # algorithm, such as HMM
-    sentences = text.split('.');
-    # remove empty sentences
-    sentences = [sentence for sentence in sentences if len(sentence) > 0];
+    sentences += text.split('.');
+# remove empty sentences
+sentences = [sentence for sentence in sentences if len(sentence) > 0];
 
+sentence_num = 1;
 # iterate through sentences, looking for the keywords and corresponding pairs
 for sentence in sentences:
+    print("On sentence " + str(sentence_num) + " out of " + str(len(sentences)));
+    sentence_num += 1;
     # TODO: not just owns, iterate over list of relations
     for keyword in owns_words_forward:
-        r = re.compile("\b%s\b" % re.escape(keyword));
-        iterator = r.finditer(sentence)
+        r = re.compile(r'[^A-Za-z]%s[^A-Za-z]' % re.escape(keyword));
+        iterator = r.finditer(sentence);
 
         # look forward and backward for the correct pair words
         # TODO: load label files in so that the program can identify that
@@ -113,7 +116,7 @@ for sentence in sentences:
 
             for direction in [FORWARD, BACKWARD]:
                 for descriptor in descriptors_ordered:
-                    r = re.compile("\b%s\b" % re.escape(descriptor));
+                    r = re.compile(r'[^A-Za-z]%s[^A-Za-z]' % re.escape(descriptor));
                     iterator = r.finditer(text_dirs[direction]);
                     
                     # add a (descriptor, position) tuple to the list of
@@ -131,7 +134,6 @@ for sentence in sentences:
                 # distance from the keyword to a label of this type in the
                 # backwards and forwards directions, respectively
                 label_tups_to_min_dist_tups = {};
-
                 # go through all possible pairs of descriptors
                 for forward_descriptor, forwards_dist in \
                     descriptors_found[FORWARD]:
@@ -150,7 +152,7 @@ for sentence in sentences:
                                 (min(prev_backward_dist, backwards_dist),\
                                  min(prev_forward_dist, forwards_dist));
                         else:
-                            label_tups_to_min_dist_tups[label_tup] =
+                            label_tups_to_min_dist_tups[label_tup] = \
                             (backwards_dist, forwards_dist);
 
             # finished filling out list of tuples    
@@ -158,3 +160,7 @@ for sentence in sentences:
                 if label_tuple in owns_pairs_forward:
                     if sentence not in rel_sentences:
                         rel_sentences.append(sentence);
+
+print(rel_sentences);
+
+                
