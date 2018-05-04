@@ -11,6 +11,9 @@ OPENIE_OUTPUT_FILE = "data/openie_out";
 # file containing sorted relation tuples with originating text
 SORTED_TUPLES_FILE = "data/sorted_tuples";
 
+# file containing output from training sentence finder
+RELATION_SENTENCES_FILE = "data/relation_sentences" ;
+
 # labels of descriptors
 descriptor_labels = ['pokemon', 'person', 'settlement', 'move', 'event',\
     'item', 'region', 'building', 'group', 'type'];

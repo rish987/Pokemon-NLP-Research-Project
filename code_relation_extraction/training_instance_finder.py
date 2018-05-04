@@ -1,13 +1,12 @@
 # File: training_instance_finder.py
 # Description: Extracts training instances for possible relations between
 #              entities.
+
 import re ;
+import pickle ;
 
 from constants import * ;
 from relation_templates import relations;
-
-# to hold list of sentences containing a relationship
-rel_sentences = [];
 
 # maps relations to list of sentences found for that relation
 rels_to_rel_sentences = {};
@@ -122,43 +121,55 @@ sentences = [sentence for sentence in sentences if len(sentence) > 0];
 
 sentence_num = 1;
 # iterate through sentences, looking for the keywords and corresponding pairs
+
+# initialize empty lists to hold found sentences
+for relation in relations:
+    rels_to_rel_sentences[relation] = [] ;
+
 for sentence in sentences:
-    print("On sentence " + str(sentence_num) + " out of " + str(len(sentences)));
+    print("On sentence " + str(sentence_num) + " out of " + \
+        str(len(sentences)));
+
     sentence_num += 1;
     for pivot_direction in [FORWARD_WORDS_IDX, BACKWARD_WORDS_IDX]:
-        # TODO: not just owns, iterate over list of relations
-        for keyword in relations["owns"][pivot_direction]:
-            r = re.compile(r'[^A-Za-z]%s[^A-Za-z]' % re.escape(keyword));
-            iterator = r.finditer(sentence);
+        # iterate over all relations
+        for relation in relations:
 
-            # look forward and backward for the correct pair words
-            # TODO: load label files in so that the program can identify that
-            #       words with the correct labels are found before and after
-            for match in iterator:
-                keyword_pos = match.span()[0] + 1;
+            # use specific relation to index into relation dictionary and get
+            # word lists
+            for keyword in relations[relation][pivot_direction]:
+                r = re.compile(r'[^A-Za-z]%s[^A-Za-z]' % re.escape(keyword));
+                iterator = r.finditer(sentence);
 
-                text_dirs = {};
+                # look forward and backward for the correct pair words
+                # TODO: load label files in so that the program can identify
+                # that words with the correct labels are found before and after
+                for match in iterator:
+                    keyword_pos = match.span()[0] + 1;
 
-                # portion of the sentence string that occurs after the keyword
-                text_dirs[FORWARD] = sentence[keyword_pos + len(keyword):] ;
+                    text_dirs = {};
 
-                # portion of the sentence string that occurs before the keyword
-                text_dirs[BACKWARD] = sentence[0:keyword_pos];
-                
-                descriptors_found = find_descriptors(text_dirs);
-                
-                label_tups_to_min_dist_tups = get_min_distance_label_pairs(descriptors_found);
-               
-                # finished filling out list of tuples    
-                for label_tuple in label_tups_to_min_dist_tups:
-                    label_pairs = relations["owns"][pivot_direction + 2]
-                    if label_tuple in label_pairs:
-                        if sentence not in rel_sentences:
-                            rel_sentences.append(sentence);
+                    # portion of the sentence string that occurs after the
+                    # keyword
+                    text_dirs[FORWARD] = sentence[keyword_pos + len(keyword):] ;
 
-print(rel_sentences);
+                    # portion of the sentence string that occurs before the
+                    # keyword
+                    text_dirs[BACKWARD] = sentence[0:keyword_pos];
+                    
+                    descriptors_found = find_descriptors(text_dirs);
+                    
+                    label_tups_to_min_dist_tups = \
+                        get_min_distance_label_pairs(descriptors_found);
+                   
+                    # finished filling out list of tuples    
+                    for label_tuple in label_tups_to_min_dist_tups:
+                        label_pairs = relations[relation][pivot_direction + 2]
+                        if label_tuple in label_pairs:
+                            if sentence not in rels_to_rel_sentences[relation]:
+                                rels_to_rel_sentences[relation]. \
+                                    append(sentence);
 
-
-
-
-                
+# write lists of sentences to file
+with open(RELATION_SENTENCES_FILE, 'wb') as file:
+    pickle.dump(rels_to_rel_sentences, file);
