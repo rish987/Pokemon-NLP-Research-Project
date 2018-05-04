@@ -1,4 +1,4 @@
-person -> pokemon (439)
+person -> pokemon (440)
 	1.0|Trainers|pick|one of three Pokémon
 	1.0|new Trainers|pick|one three Pokémon
 	1.0|Trainers|pick|one three Pokémon
@@ -315,6 +315,7 @@ person -> pokemon (439)
 	1.0|Suzie|thereafter gives|lecture on Pokémon breeding
 	1.0|Suzie|gives|lecture on Pokémon breeding
 	1.0|Suzie|Soon thereafter gives|lecture on Pokémon breeding
+	1.0|Trainers|arriving at|Jessie orders Meowth
 	0.5417042823952842|James|mentions|Pikachu
 	1.0|Jessie|sends out|Ekans
 	1.0|Brock|uses|Geodude
@@ -438,7 +439,7 @@ person -> pokemon (439)
 	1.0|Ash|sends out|Charmander
 	1.0|Ash|sends out|Squirtle
 	1.0|Melvin|has|Exeggutor returns to him resulting in Melvin
-person -> person (237)
+person -> person (236)
 	1.0|his new fellow Trainers|of one is|Gary
 	1.0|Gary|is very overconfident for|Ash
 	1.0|Gary|is overconfident for|Ash
@@ -627,7 +628,6 @@ person -> person (237)
 	1.0|Misty|at|face.Brock
 	1.0|Ash|to|amusement.After Misty
 	1.0|Suzie 's lecture|starts|Brock had hoped
-	1.0|Trainers|arriving at|Jessie orders Meowth
 	1.0|Misty|takes off with|Brock
 	0.8837576277068332|Suzie|thanks|Ash
 	1.0|Anthony approaches|telling|Brock
@@ -1165,7 +1165,7 @@ pokemon -> move (86)
 	1.0|Scyther|using|Swords Dance
 	1.0|Scyther|manages|ThunderPunch manages
 	1.0|His Exeggcute|uses|Hypnosis
-person -> item (49)
+person -> item (47)
 	1.0|Oak|gives|Pokédex
 	1.0|Oak|gives however|Pokédex
 	1.0|Oak|gives however|Poké Balls
@@ -1186,9 +1186,7 @@ person -> item (49)
 	1.0|Ash|accept|Badge
 	1.0|Ash|is excited|get to battle for his Cascade Badge
 	1.0|Ash|get to|battle for his Cascade Badge
-	1.0|Ash|is extremely excited|get to Cerulean City to battle for his Cascade Badge
 	1.0|Ash|is extremely excited|get to battle for his Cascade Badge
-	1.0|Ash|is excited|get to Cerulean City to battle for his Cascade Badge
 	1.0|Daisy|gives|Cascade Badge
 	1.0|Ash|has|two Badges
 	1.0|Trainer|admires|Ash 's two Badges
@@ -1215,13 +1213,15 @@ person -> item (49)
 	1.0|Ash|reading|Ditto 's entry in Pokédex
 	1.0|Ash|from|Pokédex
 	1.0|Misty|uncovers|answer from Ash 's Pokédex
-group -> pokemon (38)
+group -> pokemon (40)
 	1.0|Team Rocket|wrapped up like|Kakuna
 	1.0|Team Rocket|wrapped up among|hive of Beedrill
 	1.0|Team Rocket|wrapped up among|hive of angry Beedrill
 	1.0|Team Rocket|prepare|leave with Pikachu
 	1.0|Team Rocket|leave with|Pikachu
 	1.0|Team Rocket|warn|Charmander
+	1.0|Team Rocket|steal|attending Trainers ' Pokémon.Ash
+	1.0|Team Rocket|steal|Trainers ' Pokémon.Ash
 	1.0|Team Rocket|are|are now chased by Kabutops
 	1.0|Team Rocket|are|are chased by Kabutops
 	1.0|Team Rocket|are|are now chased by huge Kabutops
@@ -1254,6 +1254,43 @@ group -> pokemon (38)
 	0.8968539567795393|Team Rocket|are|run by Scyther in their rage
 	0.8968539567795393|Team Rocket|are|run by Scyther in their red-induced rage
 	1.0|Team Rocket|gets carried away by|Exeggutor
+person -> settlement (36)
+	1.0|Gary|put|Pallet Town
+	1.0|Ash|arrives in|Viridian City
+	1.0|Ash|is in|already Viridian City
+	1.0|Ash|is in|Viridian City
+	1.0|Ash|runs at|full speed towards Pewter City
+	1.0|Ash|runs at|speed towards Pewter City
+	1.0|Flint|tells Ash about|Pewter City 's Gym Leader
+	1.0|Ash|returns with|confidence to Pewter City Gym for rematch
+	1.0|Ash|returns with|confidence to Pewter City Gym
+	1.0|next day Ash returns|is with|confidence to Pewter City Gym for rematch
+	1.0|Ash|is excited|get to Cerulean City to battle
+	1.0|Ash|get to|Cerulean City
+	1.0|Ash|is excited|get to Cerulean City
+	1.0|Ash|is extremely excited|get to Cerulean City
+	1.0|Ash|is extremely excited|get to Cerulean City to battle
+	1.0|Ash|is extremely excited|get to Cerulean City to battle for his Cascade Badge
+	1.0|Ash|is excited|get to Cerulean City to battle for his Cascade Badge
+	1.0|Brock|enter|Cerulean City
+	1.0|Misty|are on|their way to Vermilion City
+	1.0|Brock|are on|their way to Vermilion City
+	1.0|Ash|are on|their way to Vermilion City
+	1.0|Ash|go to|Lavender Town
+	1.0|Ash|decides|go to Lavender Town
+	1.0|Ash|return to|Saffron City
+	1.0|Ash winner.Ash|leave|Saffron City
+	1.0|Ash|have reached|Celadon City renowned for skyscrapers
+	1.0|Ash|have reached|Celadon City renowned
+	1.0|Ash|have reached|Celadon City
+	1.0|Nurse Joy|is in|Sunnytown
+	1.0|Ash|are walking On|their way to Cinnabar Island
+	1.0|Ash|are walking On|their way to Cinnabar Island for Gym battle
+	1.0|Ash|are walking On|their way to Cinnabar Island for seventh Gym battle
+	0.217438951046395|Ash|arrive in|Dark City
+	1.0|Misty|leave|Dark City
+	1.0|Brock|leave|Dark City
+	1.0|caused.As Ash|leave|Dark City
 pokemon -> group (35)
 	1.0|Ash 's Pikachu|hits|Team Rocket
 	1.0|Pikachu|run|she remains in pursuit.Team Rocket
@@ -1290,76 +1327,6 @@ pokemon -> group (35)
 	1.0|Horsea|leaves trail|Team Rocket are walking down road
 	1.0|Horsea|leaves trail|Team Rocket are walking with Pokémon in cages
 	1.0|His Exeggcute|uses Hypnosis on|Team Rocket
-group -> person (34)
-	1.0|Team Rocket|interrupts|Ash is about
-	1.0|Team Rocket|interrupts|Just Ash is about
-	1.0|Team Rocket|is crouched behind|A.J. 's tent
-	1.0|Team Rocket|Meanwhile is crouched behind|A.J. 's tent
-	1.0|Team Rocket|walk|James realizing
-	1.0|Team Rocket|walk off|James realizing
-	1.0|Team Rocket|steal|attending Trainers ' Pokémon.Ash
-	1.0|Team Rocket|steal|Trainers ' Pokémon.Ash
-	1.0|Team Rocket|is still stranded|Ash his friends swim to surface
-	1.0|Team Rocket|is stranded|Ash his friends swim
-	1.0|Team Rocket|is still stranded|Ash swim to surface
-	1.0|Team Rocket|is stranded|Ash his friends swim into waterfall
-	1.0|Team Rocket|is still stranded|Ash swim into waterfall to surface
-	1.0|Team Rocket|is stranded|Ash swim
-	1.0|Team Rocket|is stranded|Ash swim into waterfall to surface
-	1.0|Team Rocket|is still stranded|Ash swim
-	1.0|Team Rocket|is still stranded|Ash his friends swim
-	1.0|Team Rocket|is stranded|Ash his friends swim into waterfall to surface
-	1.0|Team Rocket|is still stranded|Ash his friends swim into waterfall
-	1.0|Team Rocket|is still stranded|Ash his friends swim into waterfall to surface
-	1.0|Team Rocket|is stranded|Ash swim to surface
-	1.0|Team Rocket|is still stranded|Ash swim into waterfall
-	1.0|Team Rocket|is stranded|Ash swim into waterfall
-	1.0|Team Rocket|is stranded|Ash his friends swim to surface
-	1.0|Team Rocket|has|unknown.Ash
-	1.0|Team Rocket|'s boss is|Giovanni
-	1.0|Team Rocket|follows|Ash
-	1.0|Team Rocket|Meanwhile sets up|pit trap in Ash 's path
-	1.0|Team Rocket|sets up|pit trap in Ash 's path
-	1.0|Team Rocket|ride on|Nurse Joy
-	1.0|Team Rocket|spitefully thank|Ash
-	1.0|Team Rocket|thank|Ash
-	1.0|Team Rocket|sees|Melvin
-	1.0|Team Rocket|sees|Ash
-person -> settlement (34)
-	1.0|Gary|put|Pallet Town
-	1.0|Ash|arrives in|Viridian City
-	1.0|Ash|is in|already Viridian City
-	1.0|Ash|is in|Viridian City
-	1.0|Ash|runs at|full speed towards Pewter City
-	1.0|Ash|runs at|speed towards Pewter City
-	1.0|Flint|tells Ash about|Pewter City 's Gym Leader
-	1.0|Ash|returns with|confidence to Pewter City Gym for rematch
-	1.0|Ash|returns with|confidence to Pewter City Gym
-	1.0|next day Ash returns|is with|confidence to Pewter City Gym for rematch
-	1.0|Ash|is excited|get to Cerulean City to battle
-	1.0|Ash|get to|Cerulean City
-	1.0|Ash|is excited|get to Cerulean City
-	1.0|Ash|is extremely excited|get to Cerulean City
-	1.0|Ash|is extremely excited|get to Cerulean City to battle
-	1.0|Brock|enter|Cerulean City
-	1.0|Misty|are on|their way to Vermilion City
-	1.0|Brock|are on|their way to Vermilion City
-	1.0|Ash|are on|their way to Vermilion City
-	1.0|Ash|go to|Lavender Town
-	1.0|Ash|decides|go to Lavender Town
-	1.0|Ash|return to|Saffron City
-	1.0|Ash winner.Ash|leave|Saffron City
-	1.0|Ash|have reached|Celadon City renowned for skyscrapers
-	1.0|Ash|have reached|Celadon City renowned
-	1.0|Ash|have reached|Celadon City
-	1.0|Nurse Joy|is in|Sunnytown
-	1.0|Ash|are walking On|their way to Cinnabar Island
-	1.0|Ash|are walking On|their way to Cinnabar Island for Gym battle
-	1.0|Ash|are walking On|their way to Cinnabar Island for seventh Gym battle
-	0.217438951046395|Ash|arrive in|Dark City
-	1.0|Misty|leave|Dark City
-	1.0|Brock|leave|Dark City
-	1.0|caused.As Ash|leave|Dark City
 person -> group (33)
 	1.0|Ash|run|she remains in pursuit.Team Rocket
 	1.0|Seymour|has|glasses for him.Team Rocket
@@ -1394,6 +1361,39 @@ person -> group (33)
 	1.0|Misty|However get into|argument with Team Rocket
 	1.0|Misty|get into|argument with Team Rocket
 	1.0|Ash|However get into|argument with Team Rocket
+group -> person (32)
+	1.0|Team Rocket|interrupts|Ash is about
+	1.0|Team Rocket|interrupts|Just Ash is about
+	1.0|Team Rocket|is crouched behind|A.J. 's tent
+	1.0|Team Rocket|Meanwhile is crouched behind|A.J. 's tent
+	1.0|Team Rocket|walk|James realizing
+	1.0|Team Rocket|walk off|James realizing
+	1.0|Team Rocket|is still stranded|Ash his friends swim to surface
+	1.0|Team Rocket|is stranded|Ash his friends swim
+	1.0|Team Rocket|is still stranded|Ash swim to surface
+	1.0|Team Rocket|is stranded|Ash his friends swim into waterfall
+	1.0|Team Rocket|is still stranded|Ash swim into waterfall to surface
+	1.0|Team Rocket|is stranded|Ash swim
+	1.0|Team Rocket|is stranded|Ash swim into waterfall to surface
+	1.0|Team Rocket|is still stranded|Ash swim
+	1.0|Team Rocket|is still stranded|Ash his friends swim
+	1.0|Team Rocket|is stranded|Ash his friends swim into waterfall to surface
+	1.0|Team Rocket|is still stranded|Ash his friends swim into waterfall
+	1.0|Team Rocket|is still stranded|Ash his friends swim into waterfall to surface
+	1.0|Team Rocket|is stranded|Ash swim to surface
+	1.0|Team Rocket|is still stranded|Ash swim into waterfall
+	1.0|Team Rocket|is stranded|Ash swim into waterfall
+	1.0|Team Rocket|is stranded|Ash his friends swim to surface
+	1.0|Team Rocket|has|unknown.Ash
+	1.0|Team Rocket|'s boss is|Giovanni
+	1.0|Team Rocket|follows|Ash
+	1.0|Team Rocket|Meanwhile sets up|pit trap in Ash 's path
+	1.0|Team Rocket|sets up|pit trap in Ash 's path
+	1.0|Team Rocket|ride on|Nurse Joy
+	1.0|Team Rocket|spitefully thank|Ash
+	1.0|Team Rocket|thank|Ash
+	1.0|Team Rocket|sees|Melvin
+	1.0|Team Rocket|sees|Ash
 person -> building (31)
 	1.0|Ash|leaves|Gym
 	1.0|dejected Ash|leaves|Gym
@@ -1531,15 +1531,6 @@ item -> pokemon (10)
 	1.0|Ash 's Pokédex|listing|Psyduck 's attacks
 	1.0|Poké Ball|was hot from|Charmander 's attack.Next
 	1.0|Poké Ball|was still hot from|Charmander 's attack.Next
-pokemon -> building (8)
-	1.0|fearful Pikachu|damaging|Gym
-	1.0|Pikachu|damaging|Gym
-	0.09653656190781701|shadowy Pokémon watches|wears rubber gloves|he rushes to Pokémon Center
-	0.09653656190781701|Pokémon watches|wears rubber gloves|he rushes to Pokémon Center
-	1.0|Yas Gym 's Scyther|are dispatching|men of opposing Gym
-	1.0|Kaz Gym 's Electabuzz|are dispatching|men of opposing Gym
-	1.0|Yas Gym 's Scyther|are dispatching|men of Gym
-	1.0|Kaz Gym 's Electabuzz|are dispatching|men of Gym
 person -> type (8)
 	1.0|Misty|over|Water type
 	1.0|Misty|sends|Water-type Pokémon Staryu
@@ -1549,6 +1540,15 @@ person -> type (8)
 	1.0|Ash|upsetting|Ghost
 	1.0|Brock|obtains|Fire-type
 	1.0|Brock|obtains|small Fire-type
+pokemon -> building (8)
+	1.0|fearful Pikachu|damaging|Gym
+	1.0|Pikachu|damaging|Gym
+	0.09653656190781701|shadowy Pokémon watches|wears rubber gloves|he rushes to Pokémon Center
+	0.09653656190781701|Pokémon watches|wears rubber gloves|he rushes to Pokémon Center
+	1.0|Yas Gym 's Scyther|are dispatching|men of opposing Gym
+	1.0|Kaz Gym 's Electabuzz|are dispatching|men of opposing Gym
+	1.0|Yas Gym 's Scyther|are dispatching|men of Gym
+	1.0|Kaz Gym 's Electabuzz|are dispatching|men of Gym
 item -> person (6)
 	1.0|Poké Ball|is transferred to|Oak 's lab
 	1.0|Poké Ball|is|When transferred to Oak 's lab
@@ -1556,6 +1556,11 @@ item -> person (6)
 	1.0|Poké Ball|opens up|Professor Oak wonders
 	1.0|Poké Ball|was still hot from|Tyra
 	1.0|Poké Ball|was hot from|Tyra
+group -> group (4)
+	1.0|Team Rocket|Meanwhile is accosted by|Squirtle Squad
+	1.0|Team Rocket|is accosted by|Squirtle Squad
+	1.0|Team Rocket|has|fraudulent intentions.Team Rocket
+	1.0|Team Rocket|of|motto much to irritation of real Team Rocket
 move -> pokemon (4)
 	1.0|Repeated Body Slam|attempts from|Raichu
 	1.0|Body Slam|attempts from|Raichu
@@ -1571,112 +1576,107 @@ pokemon -> event (4)
 	1.0|Primeape|has now become|new P1 Grand Prix Champion
 	1.0|Primeape|has now become|P1 Grand Prix Champion
 	1.0|Primeape|has become|P1 Grand Prix Champion
-group -> group (4)
-	1.0|Team Rocket|Meanwhile is accosted by|Squirtle Squad
-	1.0|Team Rocket|is accosted by|Squirtle Squad
-	1.0|Team Rocket|has|fraudulent intentions.Team Rocket
-	1.0|Team Rocket|of|motto much to irritation of real Team Rocket
 building -> settlement (3)
 	1.0|Pokémon Center|is in|Pewter City
 	1.0|next Gym|is in|Celadon City
 	1.0|nearest Pokémon Center|is in|Matcha City
-pokemon -> settlement (3)
-	1.0|Pikachu|arrive on|outskirts of Pewter City
-	1.0|Ghost Pokémon|found in|Lavender Town
-	1.0|Pikachu|leave|Dark City
 settlement -> pokemon (3)
 	1.0|Ash spots Viridian City|having taken|first of many steps on his Pokémon journey
 	1.0|Ash spots Viridian City|having taken|first of steps on his Pokémon journey
 	1.0|Hidden Village|is place|Pokémon come
+pokemon -> settlement (3)
+	1.0|Pikachu|arrive on|outskirts of Pewter City
+	1.0|Ghost Pokémon|found in|Lavender Town
+	1.0|Pikachu|leave|Dark City
 group -> building (2)
 	1.0|Team Rocket|sets up|ladder sneak into Gym
 	0.6629291114810453|Team Rocket|hired by|Kaz Gym
-region -> group (2)
-	1.0|St. Anne|taking|Team Rocket
-	1.0|St. Anne|taking|Team Rocket down
-pokemon -> type (2)
-	1.0|Pikachu|is|Electric-type
-	1.0|Pikachu|by|earlier Electric attack
 building -> pokemon (2)
 	1.0|Yas Gym|has|Scyther
 	1.0|Kaz Gym|has|Electabuzz
+region -> group (2)
+	1.0|St. Anne|taking|Team Rocket
+	1.0|St. Anne|taking|Team Rocket down
 settlement -> person (2)
 	1.0|Pewter City|'s Leader is|Brock
 	1.0|Pewter City|about|Gym Leader
-move -> move (1)
-	0.7611500976526101|Swords Dance|boosted|Cut
-item -> move (1)
-	1.0|Pokédex|points|move Rage
-building -> item (1)
-	1.0|eight Pokémon Gym Leaders|earn from|Gym Badge
-region -> person (1)
-	1.0|St. Anne|taking|Ash
+pokemon -> type (2)
+	1.0|Pikachu|is|Electric-type
+	1.0|Pikachu|by|earlier Electric attack
 type -> pokemon (1)
 	1.0|Rock-type|knocks out|Pidgeotto
 group -> item (1)
 	1.0|Team Rocket|blocking|Poké Balls
-settlement -> item (1)
-	1.0|Saffron City|glancing at|his new Marsh Badge
-group -> settlement (1)
-	1.0|Team Rocket|ride on|their unicycles.In Sunnytown
-person -> event (1)
-	1.0|Anthony|become|P1 Grand Prix champion
 group -> move (1)
 	1.0|Team Rocket|being hit by|Pikachu 's ThunderShock
-item -> building (0)
-group -> region (0)
-move -> region (0)
-type -> building (0)
-event -> region (0)
-type -> settlement (0)
-item -> group (0)
-region -> item (0)
-event -> item (0)
-building -> region (0)
-region -> building (0)
-move -> type (0)
-item -> type (0)
-region -> type (0)
-region -> move (0)
-item -> region (0)
-move -> person (0)
-settlement -> group (0)
-item -> item (0)
-move -> event (0)
-type -> event (0)
-type -> item (0)
-event -> type (0)
-item -> settlement (0)
-move -> building (0)
-event -> person (0)
-building -> group (0)
-region -> region (0)
-move -> settlement (0)
-settlement -> event (0)
-group -> event (0)
-move -> item (0)
-group -> type (0)
-region -> settlement (0)
-event -> event (0)
+group -> settlement (1)
+	1.0|Team Rocket|ride on|their unicycles.In Sunnytown
+building -> item (1)
+	1.0|eight Pokémon Gym Leaders|earn from|Gym Badge
+region -> person (1)
+	1.0|St. Anne|taking|Ash
+item -> move (1)
+	1.0|Pokédex|points|move Rage
+move -> move (1)
+	0.7611500976526101|Swords Dance|boosted|Cut
+settlement -> item (1)
+	1.0|Saffron City|glancing at|his new Marsh Badge
+person -> event (1)
+	1.0|Anthony|become|P1 Grand Prix champion
 type -> type (0)
-settlement -> move (0)
-building -> event (0)
-event -> pokemon (0)
-event -> settlement (0)
 type -> group (0)
+type -> building (0)
 type -> region (0)
-event -> building (0)
-building -> move (0)
-move -> group (0)
+type -> item (0)
+type -> event (0)
 type -> move (0)
-settlement -> type (0)
-event -> move (0)
-region -> event (0)
-settlement -> region (0)
-building -> person (0)
-event -> group (0)
+type -> settlement (0)
 type -> person (0)
-settlement -> settlement (0)
-region -> pokemon (0)
-item -> event (0)
+group -> type (0)
+group -> region (0)
+group -> event (0)
 building -> type (0)
+building -> group (0)
+building -> region (0)
+building -> event (0)
+building -> move (0)
+building -> person (0)
+region -> type (0)
+region -> building (0)
+region -> region (0)
+region -> item (0)
+region -> event (0)
+region -> move (0)
+region -> settlement (0)
+region -> pokemon (0)
+item -> type (0)
+item -> group (0)
+item -> building (0)
+item -> region (0)
+item -> item (0)
+item -> event (0)
+item -> settlement (0)
+event -> type (0)
+event -> group (0)
+event -> building (0)
+event -> region (0)
+event -> item (0)
+event -> event (0)
+event -> move (0)
+event -> settlement (0)
+event -> person (0)
+event -> pokemon (0)
+move -> type (0)
+move -> group (0)
+move -> building (0)
+move -> region (0)
+move -> item (0)
+move -> event (0)
+move -> settlement (0)
+move -> person (0)
+settlement -> type (0)
+settlement -> group (0)
+settlement -> region (0)
+settlement -> event (0)
+settlement -> move (0)
+settlement -> settlement (0)
