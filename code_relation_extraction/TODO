@@ -19,3 +19,6 @@ General Problem Definition
 - O - set of possible objects (e.g. person, pokemon)
 
 
+- double-check openie output is relevant
+- word embedding for middle portion
+- crf to label relation impliers?

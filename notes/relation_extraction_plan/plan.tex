@@ -1,0 +1,33 @@
+\documentclass[a4paper]{article}
+\setlength\parindent{0pt}
+
+\usepackage{amsthm, amsmath, amssymb, verbatim, enumerate, mathtools, algorithm}
+\usepackage{rotating}
+\usepackage[margin=0.5in]{geometry}
+
+\begin{document}
+
+Objective:
+\begin{itemize}
+    \item Let $D$ be the set of all possible descriptors.
+    \item Let $A$ be the set of all possible actions.
+    \item Let $t = (s, a, o)$ be an arbitrary OpenIE triple, where $s, o \in D$
+        and $a \in A$.
+    \item Let $T$ be the set of all possible $t$.
+    \item Let $R$ represent an arbitrary binary relation.
+    \item Let $T_R \subseteq T$ be the set of all $t$ implying $R$.
+    \item We want to find $f_R(t) = 
+        \begin{cases}
+            1 & t \in T_R\\
+            0 & t \notin T_R\\
+        \end{cases}
+        $.
+\end{itemize}
+
+Graph Formulation?
+\begin{itemize}
+    \item Let $G = (V, E)$ where $V = D \cup A$ and $E = (D \times A) 
+        \cup (A \times D)$.
+\end{itemize}<++>
+
+\end{document}

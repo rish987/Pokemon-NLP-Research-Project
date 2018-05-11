@@ -1,0 +1,14 @@
+Extracting Training Triples:
+- blindly search for triples of form (person, [action], pokémon)
+- discard irrelevant ones
+Construction of Vectors
+(feature ideas)
+    - for descriptor on each side of the action, for each label have one binary
+    feature
+        - what if these have more than one word? largest match
+        - for possesives, handle openIE spacing
+    - for the middle, sum of word2vec?
+        - does not capture relation between words
+        - hash-function-like index multiplication?
+        - add new labels to CRF for relation actions
+            - need to 
