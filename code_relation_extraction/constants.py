@@ -6,6 +6,9 @@
 DESCRIPTORS_LABELED_FILE = "data/descriptors_labeled";
 
 # file containing OpenIE output
+ALL_TEXT_FILE = "../data/data";
+
+# file containing OpenIE output
 OPENIE_OUTPUT_FILE = "data/openie_out";
 
 # file containing sorted relation tuples with originating text
