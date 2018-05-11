@@ -20,6 +20,9 @@ triple_strings = [];
 with open(TRAINING_TRIPLES_FILE, 'r') as file:
     lines = file.read().splitlines();
 
+    # remove duplicates
+    list(set(lines));
+
     shuffle(lines);
 
     # use first character of line as label
@@ -33,6 +36,9 @@ with open(TRAINING_TRIPLES_FILE, 'r') as file:
 labels = np.array([int(label) for label in triple_labels]);
 vectors = np.array([generate_triple_vector(triple) for triple in\
     triple_strings]);
+
+# TODO remove; filter out label entries from vector
+#vectors = vectors[:, 10:-10];
 # -
 
 # number of data instances

@@ -2,6 +2,12 @@
 # Author(s): Rishikesh Vaishnav, TODO
 # Created: 17/04/2018
 
+# RELATION-LABEL NUMBER CORRESPONDENCES
+# 0 - None
+# 1 - Person Owns Pokémon
+# 2 - Pokémon Has Move
+# 3 - Person In Settlement
+
 # file containing labeled descriptors
 DESCRIPTORS_LABELED_FILE = "data/descriptors_labeled";
 
