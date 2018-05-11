@@ -7,7 +7,7 @@
 
 from constants import * ;
 import numpy as np ;
-
+import re;
 # to hold mapping of descriptors to labels and descriptors ordered by length
 descriptors_to_labels, descriptors_ordered = get_dictionary_desc_to_labels() ;
 
@@ -15,9 +15,11 @@ descriptors_to_labels, descriptors_ordered = get_dictionary_desc_to_labels() ;
 def assign_label (desc_phrase):
     # iterate through ordered descriptors
     for descriptor in descriptors_ordered:
-        r = re.search(r'[^A-Za-z]%s[^A-Za-z]' % re.escape(descriptor), \
-            desc_phrase) ;
+        #r = re.search(r'[^A-Za-z]%s[^A-Za-z]' % re.escape(descriptor), \
+            #desc_phrase) ;
 
+	
+        r = re.search(r'\b%s\b' % re.escape(descriptor), desc_phrase);
         # if a descriptor is found, index into dictionary to return its label
         if r != None:
             return descriptors_to_labels[descriptor] ;
@@ -64,3 +66,5 @@ def generate_triple_vector (triple):
         axis=0) ;
 
     return output_vector ;
+
+create_label_vector(assign_label("Ash sends out Bulbasaur"));
