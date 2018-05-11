@@ -15,29 +15,8 @@ for label_1 in descriptor_labels:
     for label_2 in descriptor_labels:
         relation_tuples_to_freq[(label_1, label_2)] = [0, []];
 
-# --- get a dictionary mapping descriptors to their labels, and a list of
-# ordered descriptors ---
-# to hold mapping of descriptors to labels
-descriptors_to_labels = {};
-
-# open file and save lines to array
-descriptors_labeled_file_lines = [];
-with open(DESCRIPTORS_LABELED_FILE, 'r') as file:
-    descriptors_labeled_file_lines = file.read().splitlines();
-
-# construct dictionary mapping
-for line in descriptors_labeled_file_lines:
-    split = line.split('\t');
-    label = split[0];
-    descriptor = split[1];
-    descriptors_to_labels[descriptor] = label;
-
-# to hold descriptors ordered by length
-descriptors_ordered = list(descriptors_to_labels.keys());
-
-descriptors_ordered = \
-    list(reversed(sorted(descriptors_ordered, key=lambda x: len(x))));
-# ---
+# to hold mapping of descriptors to labels and descriptors ordered by length
+descriptors_to_labels, descriptors_ordered = get_dictionary_desc_to_labels() ;
 
 openie_out_file_lines = [];
 with open(OPENIE_OUTPUT_FILE, 'r') as file:
