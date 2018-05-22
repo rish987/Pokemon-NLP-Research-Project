@@ -1,0 +1,87 @@
+\documentclass[a4paper]{article}
+\setlength\parindent{0pt}
+
+\usepackage{amsthm, amsmath, amssymb, verbatim, enumerate, mathtools,
+algorithm, pgfplots}
+\usepackage{rotating}
+\usepackage[margin=0.5in]{geometry}
+\usetikzlibrary{arrows, quotes}
+
+\begin{document}
+
+Relation Web
+\begin{itemize}
+    \item Let $D$ be the set of descriptors.
+    \item Let $R$ be the set of possible relations.
+    \item Let $G = \left( V, E \right)$ be a directed graph where $V = D$ and
+        $E$ is a set of edges such that each $v \in V$ has $|R| \times |D|$
+        edges, one per relation per descriptor (exhaustively listing all 
+        possible relations between this descriptor and all other descriptors).
+    \item Goal: assign each edge $e \in E$ a weight $P(e) \in [0, 1]$ that
+        represents the probability of that being a valid relation.
+    \item Idea: as triples are processed, adjust the weight of not only the 
+        ``explicit'' relation between the relevant descriptors that is directly
+        stated with that triple, but also the ``implicit'' relation(s).
+        % Knowledge graph?
+\end{itemize}<++>
+
+Probability Representation
+\begin{itemize}
+    \item Let the set $R$ contain all the relations between all possible
+        relations between all descriptors. 
+    \item Sample Space: Assign each $r \in R$ a value $0, 1$ indicating whether
+        or not that relation is valid. Let $S$ be the space of all such
+        outcomes.
+    \item Let $T$ be the set of all training triples.
+    \item Want to find: $s \in S$ such that $P(s | T)$ is maximized.
+    \item Assume perfect relation extraction from triples.
+    \item Let $R_E$ be the set of all explicit relations extracted from $T$.
+    \item Let $R_I$ be the set of all explicit relations extracted from $R_E$.
+\end{itemize}
+
+Rudimentary Algorithm
+\begin{itemize}
+%    \item Assumptions:
+%    \begin{itemize}
+%        \item Triple classification is perfect.
+%    \end{itemize}
+    \item Explicit relation detection:
+    \begin{itemize}
+        \item For each triple, label the detected explicit relations with their
+            probabilities.
+    \end{itemize}
+    \item Drawing implications:
+    \begin{itemize}
+        \item For every pair of descriptors $A, B$ find all non-zero paths $A
+            \rightarrow B$. Store these paths and their vertex labels and edge
+            probabilites in a data structure indexed by descriptor pair.
+        \item ``Collate'' the entries for every pair of descriptors of the same
+            respective labels, finding clusters of paths that tend to be
+            correlated with one another.
+    \end{itemize}<++>
+\end{itemize}<++>
+
+%\begin{tikzpicture}
+%
+%\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
+%\tikzset{edge/.style = {->,> = latex'}}
+%% vertices
+%\node[vertex] (A) at  (0,5) {$A$};
+%\node[vertex] (X) at  (0,0) {$X$};
+%\node[vertex] (B) at  (5,0) {$B$};
+%%edges
+%%\draw[edge] (A) to[bend left=50] (X) node [midway, fill=white] {1} ;
+%%\draw[edge] (A) to["2", bend left] (X);
+%%\draw[edge] (X) to["1", bend right=10] (A);
+%%\draw[edge] (X) to["2", bend left=10] (A);
+%%\draw[edge] (A) to["1", bend right] (B);
+%%\draw[edge] (A) to["2", bend left] (B);
+%%\draw[edge] (B) to["1", bend right=10] (A);
+%%\draw[edge] (B) to["2", bend left=10] (A);
+%%\draw[edge] (B) to["1", bend right] (X);
+%%\draw[edge] (B) to["2", bend left] (X);
+%%\draw[edge] (X) to["1", bend right=10] (B);
+%%\draw[edge] (X) to["2", bend left=10] (B);
+%
+%\end{tikzpicture}
+\end{document}

@@ -1,0 +1,10 @@
+For applying action detection:
+- is this word surrounded by two descriptors at a distance under specified
+threshold?
+- handling commas - remove portion of text before comma and after descriptor,
+    then run same thresholding function
+- handling sentence with "Tracey postulates..."
+- Word2Vec: closeness of normalized sum of interior words to previously
+identified vectors of this label within predefined threshold?
+- sequential classifier to draw new relationships?
+- plug triples directly into CRF?
