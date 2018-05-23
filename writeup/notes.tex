@@ -23,7 +23,7 @@ Relation Web
         ``explicit'' relation between the relevant descriptors that is directly
         stated with that triple, but also the ``implicit'' relation(s).
         % Knowledge graph?
-\end{itemize}<++>
+\end{itemize}
 
 %Probability Representation
 %\begin{itemize}
@@ -68,6 +68,35 @@ Rudimentary Algorithm
         \end{itemize}
     \end{itemize}
 \end{itemize}
+
+\begin{verbatim}
+Procedure relation_web(D: descriptors, R:Relations, T:Triples)
+    let G be a graph with vertices D and R edges from each vertex to every
+        other vertex
+    for each t in T:
+        let d1 = first descriptor, d2 = second descriptor
+        for each r in R:
+            assign edge weight d1 - r -> d2 to p(r | t)
+
+            // begin iterative updates
+            // goal: given new information, update graph model
+            until "convergence":
+                // to hold descriptor path vectors: indexed by descriptor pair
+                path_vectors = {};
+
+                TODO recursively update edge weights based on correlations for this pair of
+                labels
+                
+                // - 
+                for each pair of descriptors d1', d2':
+                    get all paths from d1' to d2'
+                    compress path into vector d'
+                    path_vectors[(d1', d2')] = d'
+
+                for each pair of labels l1, l2:
+                    get pairwise entry correlations of vectors with labels
+                        l1, l2
+\end{verbatim}
 
 %\begin{tikzpicture}
 %
