@@ -25,19 +25,19 @@ Relation Web
         % Knowledge graph?
 \end{itemize}<++>
 
-Probability Representation
-\begin{itemize}
-    \item Let the set $R$ contain all the relations between all possible
-        relations between all descriptors. 
-    \item Sample Space: Assign each $r \in R$ a value $0, 1$ indicating whether
-        or not that relation is valid. Let $S$ be the space of all such
-        outcomes.
-    \item Let $T$ be the set of all training triples.
-    \item Want to find: $s \in S$ such that $P(s | T)$ is maximized.
-    \item Assume perfect relation extraction from triples.
-    \item Let $R_E$ be the set of all explicit relations extracted from $T$.
-    \item Let $R_I$ be the set of all explicit relations extracted from $R_E$.
-\end{itemize}
+%Probability Representation
+%\begin{itemize}
+%    \item Let the set $R$ contain all the relations between all possible
+%        relations between all descriptors. 
+%    \item Sample Space: Assign each $r \in R$ a value $0, 1$ indicating whether
+%        or not that relation is valid. Let $S$ be the space of all such
+%        outcomes.
+%    \item Let $T$ be the set of all training triples.
+%    \item Want to find: $s \in S$ such that $P(s | T)$ is maximized.
+%    \item Assume perfect relation extraction from triples.
+%    \item Let $R_E$ be the set of all explicit relations extracted from $T$.
+%    \item Let $R_I$ be the set of all explicit relations extracted from $R_E$.
+%\end{itemize}
 
 Rudimentary Algorithm
 \begin{itemize}
@@ -48,7 +48,7 @@ Rudimentary Algorithm
     \item Explicit relation detection:
     \begin{itemize}
         \item For each triple, label the detected explicit relations with their
-            probabilities.
+            probabilities (e.g., logistic regression confidence measure).
     \end{itemize}
     \item Drawing implications:
     \begin{itemize}
@@ -57,9 +57,17 @@ Rudimentary Algorithm
             probabilites in a data structure indexed by descriptor pair.
         \item ``Collate'' the entries for every pair of descriptors of the same
             respective labels, finding clusters of paths that tend to be
-            correlated with one another.
-    \end{itemize}<++>
-\end{itemize}<++>
+            correlated with one another by finding correlation scores for each
+            pair of paths.
+        \item When processing a new triple:
+        \begin{itemize}
+            \item Update explicitly identified edge(s) with confidence values.
+            \item For each path this edge is a part of, update all correlated
+                paths by an amount proportional to this path's edge weights and
+                the correlation score.
+        \end{itemize}
+    \end{itemize}
+\end{itemize}
 
 %\begin{tikzpicture}
 %
