@@ -25,6 +25,63 @@ Relation Web
         % Knowledge graph?
 \end{itemize}
 
+Algorithm
+\begin{itemize}
+    \item Assume that we have a stream $S$ of verified confidence measures for 
+        specific relations between two descriptors.
+    \item We want to sequentially construct a relation web, processing one
+        $s \in S$ at a time, updating the web for each new piece of
+        information.
+    \item Let $L$ be the set of labels.
+    \item Let $D$ be the set of descriptors.
+    \item Let $L_p$ be the set of all unique ordered pairwise combinations of
+        $l \in L$.
+    \item Let $C(l_p)$, where $l_p = (l_1, l_2) \in L_p$, be the set of all
+        possible paths between $l_1$ and $l_2$, where each path is generalized
+        to the labels on the vertices.
+    \item Let $C_p(l_p)$, be the set of all unique unordered pairwise 
+        combinations of possible paths between $l_1$ and $l_2$, where each 
+        path is generalized to the labels on the vertices.
+    \item Let $L(d)$, where $d \in D$, be the label of $d$.
+    \item Let $L(c^*)$, where $c^*$ is a path in the graph, be a path with the
+        descriptors replaced with their labels.
+    \item Let $Corr_{l_p}(c_p)$, where $c_p = (c_1, c_2) \in C_p(l_p)$, be an
+        assignment of a correlation score between paths $c_1$ and $c_2$.
+    \item When processing a new measure $s \in S$:\\
+    Extrapolation Stage:
+    \begin{itemize}
+        \item Assign edge $e$ specified by $s$.
+        \item For each path $d_1 \xrightarrow{r_{1, 2}} \dots 
+            \xrightarrow{r_{n - 1, n}} d_n = c_1^*$ that $e$ is a part of:
+        \begin{itemize}
+            \item For each path $c_2^*$ starting at $d_1$ and ending at $d_n$:
+            \begin{itemize}
+                \item (Recursively?) update weights along $c_2^*$ according to
+                    $Corr_{(L(d_1), L(d_2))}((L(c_1^*), L(c_2^*)))$.
+            \end{itemize}
+        \end{itemize}
+    \end{itemize}
+    Correlation Reassessment Stage:
+    \begin{itemize}
+        \item Reasses correlations ($Corr_{l_p}(c_p)$ $\forall l_p, c_p$) based
+            on current state of graph.
+        \item For each pair of labels $(l_1, l_2)$:
+        \begin{itemize}
+            \item Initialize list of vectors $V$.
+            \item For each pair of descriptors $(d_1, d_2)$ with labels $(l_1,
+                l_2)$:
+            \begin{itemize}
+                \item Construct a vector $v$ where each entry corresponds to a
+                    label-generalized path between the descriptors, and store
+                    the sum of the edge weights along that path.
+                \item Add $v$ to $V$.
+            \end{itemize}
+            \item Using $V$, determine pairwise correlations between all
+                label-generalized paths $c_1, c_2$, storing results in 
+                $Corr_{(l_1, l_2)}(c_1, c_2)$.
+        \end{itemize}
+    \end{itemize}
+\end{itemize}
 %Probability Representation
 %\begin{itemize}
 %    \item Let the set $R$ contain all the relations between all possible
@@ -39,86 +96,174 @@ Relation Web
 %    \item Let $R_I$ be the set of all explicit relations extracted from $R_E$.
 %\end{itemize}
 
-Rudimentary Algorithm
-\begin{itemize}
-%    \item Assumptions:
+%Rudimentary Algorithm
+%\begin{itemize}
+%%    \item Assumptions:
+%%    \begin{itemize}
+%%        \item Triple classification is perfect.
+%%    \end{itemize}
+%    \item Explicit relation detection:
 %    \begin{itemize}
-%        \item Triple classification is perfect.
+%        \item For each triple, label the detected explicit relations with their
+%            probabilities (e.g., logistic regression confidence measure).
 %    \end{itemize}
-    \item Explicit relation detection:
-    \begin{itemize}
-        \item For each triple, label the detected explicit relations with their
-            probabilities (e.g., logistic regression confidence measure).
-    \end{itemize}
-    \item Drawing implications:
-    \begin{itemize}
-        \item For every pair of descriptors $A, B$ find all non-zero paths $A
-            \rightarrow B$. Store these paths and their vertex labels and edge
-            probabilites in a data structure indexed by descriptor pair.
-        \item ``Collate'' the entries for every pair of descriptors of the same
-            respective labels, finding clusters of paths that tend to be
-            correlated with one another by finding correlation scores for each
-            pair of paths.
-        \item When processing a new triple:
-        \begin{itemize}
-            \item Update explicitly identified edge(s) with confidence values.
-            \item For each path this edge is a part of, update all correlated
-                paths by an amount proportional to this path's edge weights and
-                the correlation score.
-        \end{itemize}
-    \end{itemize}
+%    \item Drawing implications:
+%    \begin{itemize}
+%        \item For every pair of descriptors $A, B$ find all non-zero paths $A
+%            \rightarrow B$. Store these paths and their vertex labels and edge
+%            probabilites in a data structure indexed by descriptor pair.
+%        \item ``Collate'' the entries for every pair of descriptors of the same
+%            respective labels, finding clusters of paths that tend to be
+%            correlated with one another by finding correlation scores for each
+%            pair of paths.
+%        \item When processing a new triple:
+%        \begin{itemize}
+%            \item Update explicitly identified edge(s) with confidence values.
+%            \item For each path this edge is a part of, update all correlated
+%                paths by an amount proportional to this path's edge weights and
+%                the correlation score.
+%        \end{itemize}
+%    \end{itemize}
+%\end{itemize}
+%
+%\begin{verbatim}
+%Procedure relation_web(D: descriptors, R:Relations, T:Triples)
+%    let G be a graph with vertices D and R edges from each vertex to every
+%        other vertex
+%    for each t in T:
+%        let d1 = first descriptor, d2 = second descriptor
+%        for each r in R:
+%            assign edge weight d1 - r -> d2 to p(r | t)
+%
+%            // begin iterative updates
+%            // goal: given new information, update graph model
+%            until "convergence":
+%                // to hold descriptor path vectors: indexed by descriptor pair
+%                path_vectors = {};
+%
+%                TODO recursively update edge weights based on correlations for this pair of
+%                labels
+%                
+%                // - 
+%                for each pair of descriptors d1', d2':
+%                    get all paths from d1' to d2'
+%                    compress path into vector d'
+%                    path_vectors[(d1', d2')] = d'
+%
+%                for each pair of labels l1, l2:
+%                    get pairwise entry correlations of vectors with labels
+%                        l1, l2
+%\end{verbatim}
+
+\newpage
+Event: Initialization\\\\
+\begin{tikzpicture}
+\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
+\tikzset{edge/.style = {->,> = latex'}}
+% vertices
+\node[vertex] (X1) at  (2,10) {$X_1$};
+\node[vertex] (Y1) at  (0,6) {$Y_1$};
+\node[vertex] (Z1) at  (4,6) {$Z_1$};
+\node[vertex] (X2) at  (10,10) {$X_2$};
+\node[vertex] (Y2) at  (8,6) {$Y_2$};
+\node[vertex] (Z2) at  (12,6) {$Z_2$};
+\node[vertex] (X3) at  (6,4) {$X_3$};
+\node[vertex] (Y3) at  (4,0) {$Y_3$};
+\node[vertex] (Z3) at  (8,0) {$Z_3$};
+\end{tikzpicture}\\
+
+Correlation Table: (empty)
+
+\newpage
+Event: Recieved from $S$: Confidence of $1.0$ for relation $1$ between
+$X_1$ and $Y_1$.\\\\
+Extrapolation Stage:
+\begin{itemize}
+    \item Because there are not any correlations yet, no other edges are
+        updated.
 \end{itemize}
+Correlation Reassessment Stage:
+\begin{itemize}
+    \item No correlations can be drawn.
+\end{itemize}
+\begin{tikzpicture}
+\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
+\tikzset{edge/.style = {->,> = latex'}}
+% vertices
+\node[vertex] (X1) at  (2,10) {$X_1$};
+\node[vertex] (Y1) at  (0,6) {$Y_1$};
+\node[vertex] (Z1) at  (4,6) {$Z_1$};
+\node[vertex] (X2) at  (10,10) {$X_2$};
+\node[vertex] (Y2) at  (8,6) {$Y_2$};
+\node[vertex] (Z2) at  (12,6) {$Z_2$};
+\node[vertex] (X3) at  (6,4) {$X_3$};
+\node[vertex] (Y3) at  (4,0) {$Y_3$};
+\node[vertex] (Z3) at  (8,0) {$Z_3$};
+% edges
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{1/1.0}} (Y1);
+\end{tikzpicture}\\
+Correlation Table: (empty)
 
-\begin{verbatim}
-Procedure relation_web(D: descriptors, R:Relations, T:Triples)
-    let G be a graph with vertices D and R edges from each vertex to every
-        other vertex
-    for each t in T:
-        let d1 = first descriptor, d2 = second descriptor
-        for each r in R:
-            assign edge weight d1 - r -> d2 to p(r | t)
+\newpage
+Event: Recieved from $S$: Confidence of $1.0$ for relation $2$ between
+$Y_1$ and $Z_1$.\\\\
+Extrapolation Stage:
+\begin{itemize}
+    \item Because there are not any correlations yet, no other edges are
+        updated.
+\end{itemize}
+Correlation Reassessment Stage:
+\begin{itemize}
+    \item No correlations can be drawn.
+\end{itemize}
+\begin{tikzpicture}
+\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
+\tikzset{edge/.style = {->,> = latex'}}
+% vertices
+\node[vertex] (X1) at  (2,10) {$X_1$};
+\node[vertex] (Y1) at  (0,6) {$Y_1$};
+\node[vertex] (Z1) at  (4,6) {$Z_1$};
+\node[vertex] (X2) at  (10,10) {$X_2$};
+\node[vertex] (Y2) at  (8,6) {$Y_2$};
+\node[vertex] (Z2) at  (12,6) {$Z_2$};
+\node[vertex] (X3) at  (6,4) {$X_3$};
+\node[vertex] (Y3) at  (4,0) {$Y_3$};
+\node[vertex] (Z3) at  (8,0) {$Z_3$};
+% edges
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{1/1.0}} (Y1);
+\draw[->, red, line width=0.5mm] (Y1) -- node[midway,fill=white] {\emph{2/1.0}} (Z1);
+\end{tikzpicture}\\
+Correlation Table: (empty)
 
-            // begin iterative updates
-            // goal: given new information, update graph model
-            until "convergence":
-                // to hold descriptor path vectors: indexed by descriptor pair
-                path_vectors = {};
-
-                TODO recursively update edge weights based on correlations for this pair of
-                labels
-                
-                // - 
-                for each pair of descriptors d1', d2':
-                    get all paths from d1' to d2'
-                    compress path into vector d'
-                    path_vectors[(d1', d2')] = d'
-
-                for each pair of labels l1, l2:
-                    get pairwise entry correlations of vectors with labels
-                        l1, l2
-\end{verbatim}
-
-%\begin{tikzpicture}
-%
-%\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
-%\tikzset{edge/.style = {->,> = latex'}}
-%% vertices
-%\node[vertex] (A) at  (0,5) {$A$};
-%\node[vertex] (X) at  (0,0) {$X$};
-%\node[vertex] (B) at  (5,0) {$B$};
-%%edges
-%%\draw[edge] (A) to[bend left=50] (X) node [midway, fill=white] {1} ;
-%%\draw[edge] (A) to["2", bend left] (X);
-%%\draw[edge] (X) to["1", bend right=10] (A);
-%%\draw[edge] (X) to["2", bend left=10] (A);
-%%\draw[edge] (A) to["1", bend right] (B);
-%%\draw[edge] (A) to["2", bend left] (B);
-%%\draw[edge] (B) to["1", bend right=10] (A);
-%%\draw[edge] (B) to["2", bend left=10] (A);
-%%\draw[edge] (B) to["1", bend right] (X);
-%%\draw[edge] (B) to["2", bend left] (X);
-%%\draw[edge] (X) to["1", bend right=10] (B);
-%%\draw[edge] (X) to["2", bend left=10] (B);
-%
-%\end{tikzpicture}
+\newpage
+Event: Recieved from $S$: Confidence of $1.0$ for relation $3$ between
+$X_1$ and $Z_1$.\\\\
+Extrapolation Stage:
+\begin{itemize}
+    \item Because there are not any correlations yet, no other edges are
+        updated.
+\end{itemize}
+Correlation Reassessment Stage:
+\begin{itemize}
+    \item No correlations can be drawn.
+\end{itemize}
+\begin{tikzpicture}
+\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
+\tikzset{edge/.style = {->,> = latex'}}
+% vertices
+\node[vertex] (X1) at  (2,10) {$X_1$};
+\node[vertex] (Y1) at  (0,6) {$Y_1$};
+\node[vertex] (Z1) at  (4,6) {$Z_1$};
+\node[vertex] (X2) at  (10,10) {$X_2$};
+\node[vertex] (Y2) at  (8,6) {$Y_2$};
+\node[vertex] (Z2) at  (12,6) {$Z_2$};
+\node[vertex] (X3) at  (6,4) {$X_3$};
+\node[vertex] (Y3) at  (4,0) {$Y_3$};
+\node[vertex] (Z3) at  (8,0) {$Z_3$};
+% edges
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{1/1.0}} (Y1);
+\draw[->, red, line width=0.5mm] (Y1) -- node[midway,fill=white] {\emph{2/1.0}} (Z1);
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{3/1.0}} (Z1);
+\end{tikzpicture}\\
+Correlation Table: (empty)
 \end{document}
