@@ -63,7 +63,7 @@ Algorithm
     \end{itemize}
     Correlation Reassessment Stage:
     \begin{itemize}
-        \item Reasses correlations ($Corr_{l_p}(c_p)$ $\forall l_p, c_p$) based
+        \item Reassess correlations ($Corr_{l_p}(c_p)$ $\forall l_p, c_p$) based
             on current state of graph.
         \item For each pair of labels $(l_1, l_2)$:
         \begin{itemize}
@@ -77,7 +77,8 @@ Algorithm
                 \item Add $v$ to $V$.
             \end{itemize}
             \item Using $V$, determine pairwise correlations between all
-                label-generalized paths $c_1, c_2$, storing results in 
+                label-generalized paths $c_1, c_2$, ignoring paths with
+                uninitialized values, storing results in 
                 $Corr_{(l_1, l_2)}(c_1, c_2)$.
         \end{itemize}
     \end{itemize}
@@ -172,7 +173,6 @@ Event: Initialization\\\\
 \node[vertex] (Z3) at  (8,0) {$Z_3$};
 \end{tikzpicture}\\
 
-Correlation Table: (empty)
 
 \newpage
 Event: Recieved from $S$: Confidence of $1.0$ for relation $1$ between
@@ -184,6 +184,28 @@ Extrapolation Stage:
 \end{itemize}
 Correlation Reassessment Stage:
 \begin{itemize}
+    \item Correlation vectors:\\
+    \tiny
+    \begin{tabular}{c | c | c}
+        $X \rightarrow Y$ & $Y \rightarrow Z$ & $X \rightarrow Z$\\
+        \hline
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Y_1$ & $X_2 \rightarrow Y_2$ & $X_3 \rightarrow
+        Y_3$\\
+        $X \xrightarrow{1} Y$ & 1 & &\\
+        \end{tabular}
+        & 
+        \begin{tabular}{c | c | c | c}
+        & $Y_1 \rightarrow Z_1$ & $Y_2 \rightarrow Z_2$ & $Y_3 \rightarrow
+        Z_3$\\
+        \end{tabular}
+        &
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Z_1$ & $X_2 \rightarrow Z_2$ & $X_3 \rightarrow
+        Z_3$\\
+        \end{tabular}
+    \end{tabular}
+    \normalsize
     \item No correlations can be drawn.
 \end{itemize}
 \begin{tikzpicture}
@@ -202,7 +224,6 @@ Correlation Reassessment Stage:
 % edges
 \draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{1/1.0}} (Y1);
 \end{tikzpicture}\\
-Correlation Table: (empty)
 
 \newpage
 Event: Recieved from $S$: Confidence of $1.0$ for relation $2$ between
@@ -214,6 +235,30 @@ Extrapolation Stage:
 \end{itemize}
 Correlation Reassessment Stage:
 \begin{itemize}
+    \item Correlation vectors:\\
+    \tiny
+    \begin{tabular}{c | c | c}
+        $X \rightarrow Y$ & $Y \rightarrow Z$ & $X \rightarrow Z$\\
+        \hline
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Y_1$ & $X_2 \rightarrow Y_2$ & $X_3 \rightarrow
+        Y_3$\\
+        $X \xrightarrow{1} Y$ & 1 & &\\
+        \end{tabular}
+        & 
+        \begin{tabular}{c | c | c | c}
+        & $Y_1 \rightarrow Z_1$ & $Y_2 \rightarrow Z_2$ & $Y_3 \rightarrow
+        Z_3$\\
+        $Y \xrightarrow{2} Z$ & 1 & &\\
+        \end{tabular}
+        &
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Z_1$ & $X_2 \rightarrow Z_2$ & $X_3 \rightarrow
+        Z_3$\\
+        $X \xrightarrow{1} Y \xrightarrow{2} Z$ & 2 & &\\
+        \end{tabular}
+    \end{tabular}
+    \normalsize
     \item No correlations can be drawn.
 \end{itemize}
 \begin{tikzpicture}
@@ -233,7 +278,6 @@ Correlation Reassessment Stage:
 \draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{1/1.0}} (Y1);
 \draw[->, red, line width=0.5mm] (Y1) -- node[midway,fill=white] {\emph{2/1.0}} (Z1);
 \end{tikzpicture}\\
-Correlation Table: (empty)
 
 \newpage
 Event: Recieved from $S$: Confidence of $1.0$ for relation $3$ between
@@ -245,6 +289,31 @@ Extrapolation Stage:
 \end{itemize}
 Correlation Reassessment Stage:
 \begin{itemize}
+    \item Correlation vectors:\\
+    \tiny
+    \begin{tabular}{c | c | c}
+        $X \rightarrow Y$ & $Y \rightarrow Z$ & $X \rightarrow Z$\\
+        \hline
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Y_1$ & $X_2 \rightarrow Y_2$ & $X_3 \rightarrow
+        Y_3$\\
+        $X \xrightarrow{1} Y$ & 1 & &\\
+        \end{tabular}
+        & 
+        \begin{tabular}{c | c | c | c}
+        & $Y_1 \rightarrow Z_1$ & $Y_2 \rightarrow Z_2$ & $Y_3 \rightarrow
+        Z_3$\\
+        $Y \xrightarrow{2} Z$ & 1 & &\\
+        \end{tabular}
+        &
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Z_1$ & $X_2 \rightarrow Z_2$ & $X_3 \rightarrow
+        Z_3$\\
+        $X \xrightarrow{3} Z$ & 1 & &\\
+        $X \xrightarrow{1} Y \xrightarrow{2} Z$ & 2 & &\\
+        \end{tabular}
+    \end{tabular}
+    \normalsize
     \item No correlations can be drawn.
 \end{itemize}
 \begin{tikzpicture}
@@ -265,5 +334,259 @@ Correlation Reassessment Stage:
 \draw[->, red, line width=0.5mm] (Y1) -- node[midway,fill=white] {\emph{2/1.0}} (Z1);
 \draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{3/1.0}} (Z1);
 \end{tikzpicture}\\
-Correlation Table: (empty)
+
+\newpage
+Event: Recieved from $S$: Confidence of $1.0$ for relation $1$ between
+$X_2$ and $Y_2$, confidence of $1.0$ for relation $3$ between
+$X_2$ and $Y_2$.\\\\
+Extrapolation Stage:
+\begin{itemize}
+    \item Because there are not any correlations yet, no other edges are
+        updated.
+\end{itemize}
+Correlation Reassessment Stage:
+\begin{itemize}
+    \item Correlation vectors:\\
+    \tiny
+    \begin{tabular}{c | c | c}
+        $X \rightarrow Y$ & $Y \rightarrow Z$ & $X \rightarrow Z$\\
+        \hline
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Y_1$ & $X_2 \rightarrow Y_2$ & $X_3 \rightarrow
+        Y_3$\\
+        $X \xrightarrow{1} Y$ & 1 & 1&\\
+        \end{tabular}
+        & 
+        \begin{tabular}{c | c | c | c}
+        & $Y_1 \rightarrow Z_1$ & $Y_2 \rightarrow Z_2$ & $Y_3 \rightarrow
+        Z_3$\\
+        $Y \xrightarrow{2} Z$ & 1 & 1&\\
+        \end{tabular}
+        &
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Z_1$ & $X_2 \rightarrow Z_2$ & $X_3 \rightarrow
+        Z_3$\\
+        $X \xrightarrow{3} Z$ & 1 & &\\
+        $X \xrightarrow{1} Y \xrightarrow{2} Z$ & 2 & 2 &\\
+        \end{tabular}
+    \end{tabular}
+    \normalsize
+    \item No correlations can be drawn.
+\end{itemize}
+\begin{tikzpicture}
+\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
+\tikzset{edge/.style = {->,> = latex'}}
+% vertices
+\node[vertex] (X1) at  (2,10) {$X_1$};
+\node[vertex] (Y1) at  (0,6) {$Y_1$};
+\node[vertex] (Z1) at  (4,6) {$Z_1$};
+\node[vertex] (X2) at  (10,10) {$X_2$};
+\node[vertex] (Y2) at  (8,6) {$Y_2$};
+\node[vertex] (Z2) at  (12,6) {$Z_2$};
+\node[vertex] (X3) at  (6,4) {$X_3$};
+\node[vertex] (Y3) at  (4,0) {$Y_3$};
+\node[vertex] (Z3) at  (8,0) {$Z_3$};
+% edges
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{1/1.0}} (Y1);
+\draw[->, red, line width=0.5mm] (Y1) -- node[midway,fill=white] {\emph{2/1.0}} (Z1);
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{3/1.0}} (Z1);
+\draw[->, red, line width=0.5mm] (X2) -- node[midway,fill=white] {\emph{1/1.0}} (Y2);
+\draw[->, red, line width=0.5mm] (Y2) -- node[midway,fill=white] {\emph{2/1.0}} (Z2);
+\end{tikzpicture}\\
+
+\newpage
+Event: Recieved from $S$: Confidence of $1.0$ for relation $1$ between
+$X_2$ and $Z_2$.\\\\
+Extrapolation Stage:
+\begin{itemize}
+    \item Because there are not any correlations yet, no other edges are
+        updated.
+\end{itemize}
+Correlation Reassessment Stage:
+\begin{itemize}
+    \item Correlation vectors:\\
+    \tiny
+    \begin{tabular}{c | c | c}
+        $X \rightarrow Y$ & $Y \rightarrow Z$ & $X \rightarrow Z$\\
+        \hline
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Y_1$ & $X_2 \rightarrow Y_2$ & $X_3 \rightarrow
+        Y_3$\\
+        $X \xrightarrow{1} Y$ & 1 & 1&\\
+        \end{tabular}
+        & 
+        \begin{tabular}{c | c | c | c}
+        & $Y_1 \rightarrow Z_1$ & $Y_2 \rightarrow Z_2$ & $Y_3 \rightarrow
+        Z_3$\\
+        $Y \xrightarrow{2} Z$ & 1 & 1&\\
+        \end{tabular}
+        &
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Z_1$ & $X_2 \rightarrow Z_2$ & $X_3 \rightarrow
+        Z_3$\\
+        $X \xrightarrow{3} Z$ & 1 & 1 &\\
+        $X \xrightarrow{1} Y \xrightarrow{2} Z$ & 2 & 2 &\\
+        \end{tabular}
+    \end{tabular}
+    \normalsize
+    \item A positive correlation now exists between 
+        $X \xrightarrow{3} Z$ and $X \xrightarrow{1} Y \xrightarrow{2} Z$. That
+        is, $Corr_{(X, Z)}(X \xrightarrow{3} Z, X \xrightarrow{1} 
+        Y \xrightarrow{2} Z) > 0$.
+
+\end{itemize}
+\begin{tikzpicture}
+\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
+\tikzset{edge/.style = {->,> = latex'}}
+% vertices
+\node[vertex] (X1) at  (2,10) {$X_1$};
+\node[vertex] (Y1) at  (0,6) {$Y_1$};
+\node[vertex] (Z1) at  (4,6) {$Z_1$};
+\node[vertex] (X2) at  (10,10) {$X_2$};
+\node[vertex] (Y2) at  (8,6) {$Y_2$};
+\node[vertex] (Z2) at  (12,6) {$Z_2$};
+\node[vertex] (X3) at  (6,4) {$X_3$};
+\node[vertex] (Y3) at  (4,0) {$Y_3$};
+\node[vertex] (Z3) at  (8,0) {$Z_3$};
+% edges
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{1/1.0}} (Y1);
+\draw[->, red, line width=0.5mm] (Y1) -- node[midway,fill=white] {\emph{2/1.0}} (Z1);
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{3/1.0}} (Z1);
+\draw[->, red, line width=0.5mm] (X2) -- node[midway,fill=white] {\emph{1/1.0}} (Y2);
+\draw[->, red, line width=0.5mm] (Y2) -- node[midway,fill=white] {\emph{2/1.0}} (Z2);
+\draw[->, red, line width=0.5mm] (X2) -- node[midway,fill=white] {\emph{3/1.0}} (Z2);
+\end{tikzpicture}\\
+
+\newpage
+Event: Recieved from $S$: Confidence of $1.0$ for relation $1$ between
+$X_3$ and $Y_3$.\\\\
+Extrapolation Stage:
+\begin{itemize}
+    \item Because the path $X_3 \xrightarrow{1} Y_3 \xrightarrow{2} Z$ is
+        incomplete, no extrapolation occurrs.
+\end{itemize}
+Correlation Reassessment Stage:
+\begin{itemize}
+    \item Correlation vectors:\\
+    \tiny
+    \begin{tabular}{c | c | c}
+        $X \rightarrow Y$ & $Y \rightarrow Z$ & $X \rightarrow Z$\\
+        \hline
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Y_1$ & $X_2 \rightarrow Y_2$ & $X_3 \rightarrow
+        Y_3$\\
+        $X \xrightarrow{1} Y$ & 1 & 1 & 1\\
+        \end{tabular}
+        & 
+        \begin{tabular}{c | c | c | c}
+        & $Y_1 \rightarrow Z_1$ & $Y_2 \rightarrow Z_2$ & $Y_3 \rightarrow
+        Z_3$\\
+        $Y \xrightarrow{2} Z$ & 1 & 1&\\
+        \end{tabular}
+        &
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Z_1$ & $X_2 \rightarrow Z_2$ & $X_3 \rightarrow
+        Z_3$\\
+        $X \xrightarrow{3} Z$ & 1 & 1 &\\
+        $X \xrightarrow{1} Y \xrightarrow{2} Z$ & 2 & 2 &\\
+        \end{tabular}
+    \end{tabular}
+    \normalsize
+    \item $Corr_{(X, Z)}(X \xrightarrow{3} Z, X \xrightarrow{1} Y 
+        \xrightarrow{2} Z) > 0$.
+    \item No new correlations can be drawn.
+
+\end{itemize}
+\begin{tikzpicture}
+\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
+\tikzset{edge/.style = {->,> = latex'}}
+% vertices
+\node[vertex] (X1) at  (2,10) {$X_1$};
+\node[vertex] (Y1) at  (0,6) {$Y_1$};
+\node[vertex] (Z1) at  (4,6) {$Z_1$};
+\node[vertex] (X2) at  (10,10) {$X_2$};
+\node[vertex] (Y2) at  (8,6) {$Y_2$};
+\node[vertex] (Z2) at  (12,6) {$Z_2$};
+\node[vertex] (X3) at  (6,4) {$X_3$};
+\node[vertex] (Y3) at  (4,0) {$Y_3$};
+\node[vertex] (Z3) at  (8,0) {$Z_3$};
+% edges
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{1/1.0}} (Y1);
+\draw[->, red, line width=0.5mm] (Y1) -- node[midway,fill=white] {\emph{2/1.0}} (Z1);
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{3/1.0}} (Z1);
+\draw[->, red, line width=0.5mm] (X2) -- node[midway,fill=white] {\emph{1/1.0}} (Y2);
+\draw[->, red, line width=0.5mm] (Y2) -- node[midway,fill=white] {\emph{2/1.0}} (Z2);
+\draw[->, red, line width=0.5mm] (X2) -- node[midway,fill=white] {\emph{3/1.0}} (Z2);
+\draw[->, red, line width=0.5mm] (X3) -- node[midway,fill=white] {\emph{1/1.0}} (Y3);
+\end{tikzpicture}\\
+
+\newpage
+Event: Recieved from $S$: Confidence of $1.0$ for relation $2$ between
+$X_3$ and $Y_3$.\\\\
+Extrapolation Stage:
+\begin{itemize}
+    \item Because the path $X_3 \xrightarrow{1} Y_3 \xrightarrow{2} Z_3$ is
+        complete, extrapolation occurs between it and the path 
+        $X_3 \xrightarrow{3} Z_3$, using $Corr_{(X, Z)}(X \xrightarrow{3} Z, X
+        \xrightarrow{1} Y \xrightarrow{2} Z)$. A weight $\sigma$ is applied to
+        the correlated path $X_3 \xrightarrow{3} Z_3$.
+\end{itemize}
+Correlation Reassessment Stage:
+\begin{itemize}
+    \item Correlation vectors:\\
+    \tiny
+    \begin{tabular}{c | c | c}
+        $X \rightarrow Y$ & $Y \rightarrow Z$ & $X \rightarrow Z$\\
+        \hline
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Y_1$ & $X_2 \rightarrow Y_2$ & $X_3 \rightarrow
+        Y_3$\\
+        $X \xrightarrow{1} Y$ & 1 & 1 & 1\\
+        \end{tabular}
+        & 
+        \begin{tabular}{c | c | c | c}
+        & $Y_1 \rightarrow Z_1$ & $Y_2 \rightarrow Z_2$ & $Y_3 \rightarrow
+        Z_3$\\
+        $Y \xrightarrow{2} Z$ & 1 & 1 & 1\\
+        \end{tabular}
+        &
+        \begin{tabular}{c | c | c | c}
+        & $X_1 \rightarrow Z_1$ & $X_2 \rightarrow Z_2$ & $X_3 \rightarrow
+        Z_3$\\
+        $X \xrightarrow{3} Z$ & 1 & 1 & $\sigma$\\
+        $X \xrightarrow{1} Y \xrightarrow{2} Z$ & 2 & 2 & 2\\
+        \end{tabular}
+    \end{tabular}
+    \normalsize
+    \item $Corr_{(X, Z)}(X \xrightarrow{3} Z, X \xrightarrow{1} Y 
+        \xrightarrow{2} Z) > 0$.
+    \item $Corr_{(X, Z)}(X \xrightarrow{3} Z, X \xrightarrow{1} Y 
+        \xrightarrow{2} Z)$ is adjusted.
+
+\end{itemize}
+\begin{tikzpicture}
+\tikzset{vertex/.style = {shape=circle,draw,minimum size=1.5em}}
+\tikzset{edge/.style = {->,> = latex'}}
+% vertices
+\node[vertex] (X1) at  (2,10) {$X_1$};
+\node[vertex] (Y1) at  (0,6) {$Y_1$};
+\node[vertex] (Z1) at  (4,6) {$Z_1$};
+\node[vertex] (X2) at  (10,10) {$X_2$};
+\node[vertex] (Y2) at  (8,6) {$Y_2$};
+\node[vertex] (Z2) at  (12,6) {$Z_2$};
+\node[vertex] (X3) at  (6,4) {$X_3$};
+\node[vertex] (Y3) at  (4,0) {$Y_3$};
+\node[vertex] (Z3) at  (8,0) {$Z_3$};
+% edges
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{1/1.0}} (Y1);
+\draw[->, red, line width=0.5mm] (Y1) -- node[midway,fill=white] {\emph{2/1.0}} (Z1);
+\draw[->, red, line width=0.5mm] (X1) -- node[midway,fill=white] {\emph{3/1.0}} (Z1);
+\draw[->, red, line width=0.5mm] (X2) -- node[midway,fill=white] {\emph{1/1.0}} (Y2);
+\draw[->, red, line width=0.5mm] (Y2) -- node[midway,fill=white] {\emph{2/1.0}} (Z2);
+\draw[->, red, line width=0.5mm] (X2) -- node[midway,fill=white] {\emph{3/1.0}} (Z2);
+\draw[->, red, line width=0.5mm] (X3) -- node[midway,fill=white] {\emph{1/1.0}} (Y3);
+\draw[->, red, line width=0.5mm] (Y3) -- node[midway,fill=white] {\emph{2/1.0}} (Z3);
+\draw[->, gray, line width=0.5mm] (X3) -- node[midway,fill=white]
+{\emph{3/$\sigma$}} (Z3);
+\end{tikzpicture}\\
 \end{document}
