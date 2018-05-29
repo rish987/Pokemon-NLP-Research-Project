@@ -6,3 +6,5 @@ temp*
 *.aux
 *.log
 *.synctex.gz
+*.class
+*.properties
