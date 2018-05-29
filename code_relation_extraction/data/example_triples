@@ -1,0 +1,13 @@
+Person owns Pokemon
+	1.0|James|uses|his Koffing
+	1.0|Ash|sends out|Charmander
+	1.0|Lt. Surge|has|Raichu against Pikachu
+
+Pokemon has Move
+	1.0|Koffing|has|Sludge attack blinds Pikachu
+    1.0|Charmander|has|Flamethrower attack
+
+Person calls for Move
+	1.0|James|orders|Sludge makeover
+    1.0|Ash|use|Flamethrower
+	1.0|Lt. Surge|fill Gym with|Thunderbolt attack
