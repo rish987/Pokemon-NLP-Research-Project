@@ -33,8 +33,8 @@ with open(TRAINING_TRIPLES_FILE, 'r') as file:
 # -
 
 # - convert training data to numpy arrays -
-labels = np.array([int(label) for label in triple_labels]);
-vectors = np.array([generate_triple_vector(triple) for triple in\
+labels_training = np.array([int(label) for label in triple_labels]);
+vectors_training = np.array([generate_triple_vector(triple) for triple in\
     triple_strings]);
 
 # TODO remove; filter out label entries from vector
@@ -47,12 +47,6 @@ data_num = vectors.shape[0];
 # - split labels and vectors into training and test data -
 num_training = int(data_num * TRAINING_PROP);
 num_test = data_num - num_training;
-
-vectors_training = vectors[:num_training, :];
-labels_training = labels[:num_training];
-
-vectors_test = vectors[num_training:, :];
-labels_test = labels[num_training:];
 # -
 
 # set up logistic regression classifier and fit to data

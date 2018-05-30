@@ -7,6 +7,7 @@
 # 1 - Person Owns Pokémon
 # 2 - Pokémon Has Move
 # 3 - Person In Settlement
+# 4 - Person Calls for Move
 
 # file containing labeled descriptors
 DESCRIPTORS_LABELED_FILE = "data/descriptors_labeled";

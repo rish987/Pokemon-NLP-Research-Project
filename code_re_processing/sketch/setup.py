@@ -3,7 +3,7 @@
 # Created: 29/05/2018
 # Description:
 #   Setup code for path correlation algorithm grapher.
-from graph_params import Label, Descriptor, Relation;
+from graph_params import Label, Descriptor, Relation, RelationInstance;
 
 # - IO parameters -
 # filenames in which to find labels descriptors, and relations
@@ -16,8 +16,8 @@ GRAPH_PARAM_FOLDER = '../ex_graph_params/';
 # -
 
 """
-Returns a lists of Label, Descriptor and Relation objects using the relevant
-files in the given folder.
+Returns a lists of Label, Descriptor, Relation, and RelationInstance 
+objects using the relevant files in the given folder.
 """
 def load_graph_params(folder_name):
     # - read in string list of labels and construct Relation object list -
@@ -42,8 +42,12 @@ def load_graph_params(folder_name):
 
     # - read in string list of descriptors and construct Descriptor 
     # object list -
-    # to store list of (descriptor, label) string tuples
+    # to store list of (descriptor, label, (optional coordinates)[x, y]) 
+    # string tuples
     descriptors_and_labels_str = [];
+
+    # is this a file containing coordinates?
+    with_coords = False;
 
     # open file where each line contains a 'descriptor' and 'label' in the
     # format 'descriptor\tlabel'
@@ -51,17 +55,35 @@ def load_graph_params(folder_name):
         text = file.read();
         text_lines = text.splitlines();
         text_lines_split = [x.split('\t') for x in text_lines];
-        descriptors_and_labels_str = [(x[0], x[1]) for x in text_lines_split]
 
+        # determine if this is a file containing coordinates
+        with_coords = (len(text_lines_split[0]) == 4);
+        print(with_coords);
+        
+        # this is a file containing coordinates
+        if (with_coords):
+            descriptors_and_labels_str = [(x[0], x[1], x[2], x[3]) for x in \
+                text_lines_split];
+        else:
+            descriptors_and_labels_str = [(x[0], x[1]) for x in \
+                text_lines_split];
 
     # to store list of Descriptor objects
     descriptors = [];
 
     # go through all (descriptor, label) pairs
-    for descriptor, label in descriptors_and_labels_str:
+    for tup in descriptors_and_labels_str:
+        descriptor = tup[0];
+        label = tup[1];
+
         # add a new Descriptor object to the list
         this_label = [x for x in labels if (x.get_name() == label)][0]
-        descriptors.append(Descriptor(descriptor, this_label));
+        if (with_coords):
+            x = int(tup[2]);
+            y = int(tup[3]);
+            descriptors.append(Descriptor(descriptor, this_label, x, y));
+        else:
+            descriptors.append(Descriptor(descriptor, this_label));
     # -
 
     # - read in string list of relations and construct Relation object list -
@@ -82,4 +104,17 @@ def load_graph_params(folder_name):
         relations.append(Relation(relation_str));
     # -
 
-    return labels, descriptors, relations;
+    # - construct RelationInstance list -
+    # to hold list of relation instances
+    relation_instances = [];
+
+    # go through all pairs of descriptors
+    for descriptor_subj in descriptors:
+        for descriptor_obj in descriptors:
+            # go through all relations
+            for relation in relations:
+                relation_instances.append(RelationInstance(descriptor_subj, \
+                    descriptor_obj, relation));
+    # - 
+
+    return labels, descriptors, relations, relation_instances;

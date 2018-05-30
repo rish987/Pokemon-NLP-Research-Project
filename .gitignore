@@ -8,3 +8,4 @@ temp*
 *.synctex.gz
 *.class
 *.properties
+*.autosave

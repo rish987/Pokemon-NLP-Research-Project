@@ -1,9 +1,9 @@
-X1	X
-Y1	Y
-Z1	Z
-X2	X
-Y2	Y
-Z2	Z
-X3	X
-Y3	Y
-Z3	Z
+X1	X	3	1
+Y1	Y	1	5
+Z1	Z	5	5
+X2	X	11	1
+Y2	Y	9	5
+Z2	Z	13	5
+X3	X	7	8
+Y3	Y	5	12
+Z3	Z	9	12
