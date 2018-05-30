@@ -16,26 +16,40 @@ TRAINING_PROP = 0.7;
 triple_labels = [];
 triple_strings = [];
 
-# parse in training triples file
-with open(TRAINING_TRIPLES_FILE, 'r') as file:
-    lines = file.read().splitlines();
+vectors_training = None;
+labels_training = None;
 
-    # remove duplicates
-    list(set(lines));
+vectors_test = None;
+labels_test = None;
 
-    shuffle(lines);
+for filename in [TRAINING_TRIPLES_FILE, TEST_TRIPLES_FILE]:
+    # parse in training triples file
+    with open(filename, 'r') as file:
+        lines = file.read().splitlines();
 
-    # use first character of line as label
-    triple_labels = [line[0] for line in lines];
-    
-    # use string after first two characters of line as triple string
-    triple_strings = [line[2:] for line in lines];
-# -
+        # remove duplicates
+        list(set(lines));
 
-# - convert training data to numpy arrays -
-labels_training = np.array([int(label) for label in triple_labels]);
-vectors_training = np.array([generate_triple_vector(triple) for triple in\
-    triple_strings]);
+        shuffle(lines);
+
+        # use first character of line as label
+        triple_labels = [line[0] for line in lines];
+        
+        # use string after first two characters of line as triple string
+        triple_strings = [line[2:] for line in lines];
+    # -
+
+    # - convert training data to numpy arrays -
+    labels = np.array([int(label) for label in triple_labels]);
+    vectors = np.array([generate_triple_vector(triple) for triple in\
+        triple_strings]);
+
+    if (filename == TRAINING_TRIPLES_FILE):
+        labels_training = labels;
+        vectors_training = vectors;
+    else:
+        labels_test = labels;
+        vectors_test = vectors;
 
 # TODO remove; filter out label entries from vector
 #vectors = vectors[:, 10:-10];
@@ -45,8 +59,8 @@ vectors_training = np.array([generate_triple_vector(triple) for triple in\
 data_num = vectors.shape[0];
 
 # - split labels and vectors into training and test data -
-num_training = int(data_num * TRAINING_PROP);
-num_test = data_num - num_training;
+num_training = vectors_training.shape[0];
+num_test = vectors_test.shape[0];
 # -
 
 # set up logistic regression classifier and fit to data
@@ -68,7 +82,7 @@ for prediction_i in range(predictions.shape[0]):
     message_condition = 'CORRECT' if match else 'INCORRECT';
 
     # get list index in list of triple strings
-    list_i = num_training + prediction_i;
+    list_i = prediction_i;
 
     # get this triple
     triple = triple_strings[list_i].replace('\t', '|');

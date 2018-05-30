@@ -26,6 +26,7 @@ RELATION_SENTENCES_FILE = "data/relation_sentences" ;
 
 # file containing labeled relation tuples
 TRAINING_TRIPLES_FILE = "data/training_tuples";
+TEST_TRIPLES_FILE = "data/test_tuples"
 
 # labels of descriptors
 descriptor_labels = ['pokemon', 'person', 'settlement', 'move', 'event',\

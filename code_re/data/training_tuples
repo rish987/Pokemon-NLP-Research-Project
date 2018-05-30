@@ -124,10 +124,8 @@
 0	1.0	James	go to	Gym
 0	1.0	Professor Oak	at	Laboratory
 0	1.0	Yas Gym	be	official Gym
-0	1.0	Giselle	calls for	Bone Club attack
-0	1.0	Ash	use	Flamethrower
-0	1.0	James	orders	Sludge makeover
-0	1.0	Lt. Surge	ordering	Take Down
+4	1.0	Giselle	calls for	Bone Club attack
+4	1.0	Lt. Surge	ordering	Take Down
 0	1.0	Team Rocket	is still stranded	Ash swim into waterfall to surface
 0	1.0	Dario	intends	Team Rocket seeks
 0	1.0	Ash	throws bomb back at	Team Rocket
@@ -207,9 +205,9 @@
 0	1.0	Ash	are touring area in	Safari Zone
 3	1.0	Ash	reach	edge of Viridian Forest
 3	1.0	Ash	go to	Lavender Town
-4	1.0|Ash|use|Gust
-4	1.0|Lt. Surge|ordering|Take Down
-4	1.0|James|launch|Poison Gas
-4	1.0|Ash|use|Agility
-4	1.0|Misty|fire|Water Gun
-4	1.0|Ash|use|Flamethrower
+4	1.0	Ash	use	Gust
+4	1.0	Lt. Surge	ordering	Take Down
+4	1.0	James	launch	Poison Gas
+4	1.0	Ash	use	Agility
+4	1.0	Misty	fire	Water Gun
+4	1.0	Ash	use	Flamethrower
