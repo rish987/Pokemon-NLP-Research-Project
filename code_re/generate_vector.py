@@ -11,8 +11,8 @@ import re;
 import gensim;
 
 #constants 
-DISTANCE_WEIGHT = 0.1
-LENGTH_WEIGHT = 0.9
+DISTANCE_WEIGHT = 0.5
+LENGTH_WEIGHT = 0.5
 FIRST = 1
 THIRD = 3
 
@@ -50,12 +50,18 @@ def assign_label (desc_phrase, direction):
             desc_tuple = (descriptor, distance)
             temp_desc_arr.append(desc_tuple)
         desc_arr_sorted = sorted(temp_desc_arr, key=lambda x: x[1])
-        closest_desc = desc_arr_sorted[0]
-        closest_desc[1] = (closest_desc[1] * (-1) * DISTANCE_WEIGHT) + (len(closest_desc[0]) * LENGTH_WEIGHT)
-        descriptor_arr.append(closest_desc[0])
+        if (len(desc_arr_sorted) > 0):
+            closest_desc = desc_arr_sorted[0];
+            distance_value = (closest_desc[1] * (-1) * DISTANCE_WEIGHT) + \
+                (len(closest_desc[0]) * LENGTH_WEIGHT)
+
+            descriptor_arr.append((descriptor, distance_value));
+        # no matches found
+        else:
+            continue;
     sorted_desc = sorted(descriptor_arr, key=lambda x: x[1])
     if (len(sorted_desc) != 0):
-        return descriptors_to_labels[sorted_desc[len(sorted_desc) - 1]]
+        return descriptors_to_labels[sorted_desc[len(sorted_desc) - 1][0]];
         
     # no descriptor was found in the phrase
     return None ;
