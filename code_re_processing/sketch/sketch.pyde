@@ -6,19 +6,11 @@
 from setup import load_graph_params, GRAPH_PARAM_FOLDER;
 from graph_params import *;
 import random;
+import math;
 
 # TODO
 labels, descriptors, relations, relation_instances = \
      load_graph_params(GRAPH_PARAM_FOLDER);
-
-descriptor_i = 0;
-## set position for all descriptors
-#for descriptor in descriptors:
-#    descriptor.set_pos((descriptor_i % GRID_COLS) + 1,\
-#                       int(descriptor_i / GRID_COLS) + 1);
-#    descriptor_i += 1;
-# TODO
-
 
 """
 Sets up the canvas.
@@ -26,20 +18,28 @@ Sets up the canvas.
 def setup():
     size(CANVAS_WIDTH, CANVAS_HEIGHT);
 
+    strokeWeight(2);
+
     # use white background
     background(255);
+
+# number of edges to draw TODO remove
+NUM_EDGES = 3;
 
 """
 Draws on the canvas.
 """
 def draw():
-    # draw all relation_instances/edges
-    for relation_instance in relation_instances:
-        relation_instance.set_probability(random.random());
-        relation_instance.draw();
+    draw_graph = True;
+    if draw_graph:
+        # draw all relation_instances/edges
+        for edge_i_div in range(NUM_EDGES):
+            edge_i = (edge_i_div * 10) + 1
+            relation_instances[edge_i].set_probability(random.random());
+            relation_instances[edge_i].draw();
 
-    # draw all descriptors/nodes
-    for descriptor in descriptors:
-        descriptor.draw();
+        # draw all descriptors/nodes
+        for descriptor in descriptors:
+            descriptor.draw();
 
     delay(100);

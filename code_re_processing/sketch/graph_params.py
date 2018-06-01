@@ -40,6 +40,27 @@ NODE_TEXT_FILL_STROKE_COLOR = 0;
 NODE_TEXT_SIZE = 10;
 # -
 
+# - text parameters -
+# assumed height of text
+TEXT_HEIGHT = 4;
+# -
+
+# - relation text parameters -
+# width of line break padding in arrow for text
+REL_TEXT_BREAK_PADDING = 5;
+
+# grayscale color of relation text
+REL_TEXT_FILL_STROKE_COLOR = 0;
+
+# relation text font side
+REL_TEXT_SIZE = 10;
+# - 
+
+# - triangle parameters -
+TRIANGLE_WIDTH = 5;
+TRIANGLE_HEIGHT = 5;
+# - 
+
 """
 Object representing a label that is identified by name.
 """
@@ -119,7 +140,7 @@ class Descriptor():
         text(self.name, x_pos - int(text_width_name / 2), y_pos);
         text_width_label = textWidth(self.label.get_name());
         text(self.label.get_name(), x_pos - int(text_width_label / 2), \
-            y_pos + 10);
+            y_pos + TEXT_HEIGHT * 2 + 3);
         # -
     # -
 
@@ -176,38 +197,77 @@ class RelationInstance():
     # - graphing functions -
     def draw(self):
         # - draw arrow -
-        drawArrow( self.desc_sbj.get_x_grid(), self.desc_sbj.get_y_grid(),\
+        draw_arrow( self.desc_sbj.get_x_grid(), self.desc_sbj.get_y_grid(),\
                 self.desc_obj.get_x_grid(), self.desc_obj.get_y_grid(),\
-                NODE_RADIUS, int(255 * (1.0 - self.probability)));
-        # -
-
-        # - draw text TODO -
-#        fill(NODE_TEXT_FILL_STROKE_COLOR);
-#        stroke(NODE_TEXT_FILL_STROKE_COLOR);
-#        textSize(NODE_TEXT_SIZE);
-#        text_width_name = textWidth(self.name);
-#        text(self.name, x_pos - int(text_width_name / 2), y_pos);
-#        text_width_label = textWidth(self.label.get_name());
-#        text(self.label.get_name(), x_pos - int(text_width_label / 2), \
-#            y_pos + 10);
+                NODE_RADIUS, int(255 * (1.0 - self.probability)),\
+                self.relation.get_name());
         # -
     # -
 
-def drawArrow(start_x, start_y, end_x, end_y, radius, color):
-    stroke(color);
-    line(start_x, start_y, end_x, end_y);
-    
-    # difference in x- and y-directions
-    diff_y = start_y - end_y;
-    diff_x = start_x - end_x;
+def draw_arrow(start_x, start_y, end_x, end_y, radius, color, text_str):
+    # get text_str width
+    textSize(REL_TEXT_SIZE);
+    text_width = textWidth(text_str);
 
-    angle = math.atan2(diff_y, diff_x);
-
-    # x- and y- offsets of triangle
-    x_off = radius * math.cos(angle);
-    y_off = radius * math.sin(angle);
-
+    # set colors
     fill(color);
     stroke(color);
-    ellipse(end_x - x_off, end_y - y_off, 4, 4);
 
+    # - get line parameters -
+    # difference in x- and y-directions
+    diff_y = end_y - start_y;
+    diff_x = end_x - start_x;
+
+    # line angle
+    angle = math.atan2(diff_y, diff_x);
+
+    # angle at which to rotate to straighten line
+    rot_angle = -angle;
+
+    rot_x1= start_x * math.cos(rot_angle) - start_y * math.sin(rot_angle);
+    rot_y1= start_x * math.sin(rot_angle) + start_y * math.cos(rot_angle);
+    rot_x2= end_x * math.cos(rot_angle) - end_y * math.sin(rot_angle);
+    rot_y2= end_x * math.sin(rot_angle) + end_y * math.cos(rot_angle);
+    # - 
+
+    # - draw line segments -
+    # length of each segment
+    h = (math.sqrt((diff_y ** 2) + (diff_x ** 2)) \
+        - (text_width + (2 * REL_TEXT_BREAK_PADDING))) / 2;
+
+    delta_x = h * math.cos(angle);
+    delta_y = h * math.sin(angle);
+
+    end_x_1 = start_x + delta_x;
+    end_y_1 = start_y + delta_y;
+    end_x_2 = end_x - delta_x;
+    end_y_2 = end_y - delta_y;
+
+    line(start_x, start_y, end_x_1, end_y_1);
+    line(end_x, end_y, end_x_2, end_y_2);
+    # -
+
+    # move to rotated space
+    rotate(-rot_angle);
+
+    # - draw triangles -
+    # x- and y- offsets of triangle
+    x1_tri = rot_x2 - radius - TRIANGLE_WIDTH;
+    y1_tri = rot_y1 - TRIANGLE_HEIGHT;
+    x2_tri = rot_x2 - radius - TRIANGLE_WIDTH;
+    y2_tri = rot_y1 + TRIANGLE_HEIGHT;
+    x3_tri = rot_x2 - radius;
+    y3_tri = rot_y1;
+
+    triangle(x1_tri, y1_tri, x2_tri, y2_tri, x3_tri, y3_tri);
+    # -
+
+    # - draw text -
+    text_x_pos = ((rot_x2 - rot_x1 - text_width) / 2) + rot_x1;
+    text_y_pos = rot_y1 + (TEXT_HEIGHT / 2);
+
+    text(text_str, text_x_pos, text_y_pos);
+    # -
+
+    # rotate back to normal space
+    rotate(rot_angle);

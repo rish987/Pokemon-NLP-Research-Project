@@ -58,7 +58,6 @@ def load_graph_params(folder_name):
 
         # determine if this is a file containing coordinates
         with_coords = (len(text_lines_split[0]) == 4);
-        print(with_coords);
         
         # this is a file containing coordinates
         if (with_coords):
@@ -111,10 +110,12 @@ def load_graph_params(folder_name):
     # go through all pairs of descriptors
     for descriptor_subj in descriptors:
         for descriptor_obj in descriptors:
-            # go through all relations
-            for relation in relations:
-                relation_instances.append(RelationInstance(descriptor_subj, \
-                    descriptor_obj, relation));
+            if descriptor_subj != descriptor_obj:
+                # go through all relations
+                for relation in relations:
+                    relation_instances.append(RelationInstance(\
+                        descriptor_subj,\
+                        descriptor_obj, relation));
     # - 
 
     return labels, descriptors, relations, relation_instances;
