@@ -9,6 +9,13 @@ from constants import * ;
 import numpy as np ;
 import re;
 import gensim;
+
+#constants 
+DISTANCE_WEIGHT = 0.1
+LENGTH_WEIGHT = 0.9
+FIRST = 1
+THIRD = 3
+
 # to hold mapping of descriptors to labels and descriptors ordered by length
 descriptors_to_labels, descriptors_ordered = get_dictionary_desc_to_labels() ;
 VECTOR_SIZE = 100;
@@ -27,14 +34,29 @@ model = gensim.models.Word2Vec(all_text_sentences, size=VECTOR_SIZE, \
         window=5, min_count=5, workers=4)
 
 # finds the descriptor (if one exists) in the phrase and returns its label
-def assign_label (desc_phrase):
+def assign_label (desc_phrase, direction):
+    descriptor_arr = []
     # iterate through ordered descriptors
     for descriptor in descriptors_ordered:
-        r = re.search(r'\b%s\b' % re.escape(descriptor), desc_phrase);
-        # if a descriptor is found, index into dictionary to return its label
-        if r != None:
-            return descriptors_to_labels[descriptor] ;
-
+        r = re.compile(r'\b%s\b' % re.escape(descriptor))
+        temp_desc_arr = []
+        for match in r.finditer(desc_phrase):
+            position = match.span()
+            distance = None
+            if direction == FIRST:
+                distance = len(desc_phrase) - 1 - position[1]
+            else:
+                distance = position[0]
+            desc_tuple = (descriptor, distance)
+            temp_desc_arr.append(desc_tuple)
+        desc_arr_sorted = sorted(temp_desc_arr, key=lambda x: x[1])
+        closest_desc = desc_arr_sorted[0]
+        closest_desc[1] = (closest_desc[1] * (-1) * DISTANCE_WEIGHT) + (len(closest_desc[0]) * LENGTH_WEIGHT)
+        descriptor_arr.append(closest_desc[0])
+    sorted_desc = sorted(descriptor_arr, key=lambda x: x[1])
+    if (len(sorted_desc) != 0):
+        return descriptors_to_labels[sorted_desc[len(sorted_desc) - 1]]
+        
     # no descriptor was found in the phrase
     return None ;
 
@@ -77,8 +99,8 @@ def generate_triple_vector (triple):
     obj = triple_segments[3] ;
 
     # label the subject and object from the triple
-    subj_label = assign_label(subj) ;
-    obj_label = assign_label(obj) ;
+    subj_label = assign_label(subj, FIRST) ;
+    obj_label = assign_label(obj, THIRD) ;
 
     # turn those labels into 10-feature vectors
     subj_vector = create_label_vector(subj_label) ;
