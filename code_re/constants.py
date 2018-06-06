@@ -24,6 +24,9 @@ SORTED_TUPLES_FILE = "data/sorted_tuples";
 # file containing output from training sentence finder
 RELATION_SENTENCES_FILE = "data/relation_sentences" ;
 
+# file containing output from training triple finder
+RELATION_TRIPLES_FILE = "data/relation_triples" ;
+
 # file containing labeled relation tuples
 TRAINING_TRIPLES_FILE = "data/training_tuples";
 TEST_TRIPLES_FILE = "data/test_tuples"

@@ -6,17 +6,17 @@ import re ;
 import pickle ;
 
 from constants import * ;
-from relation_templates import relations;
+from relation_templates import * ;
 
-# maps relations to list of sentences found for that relation
-rels_to_rel_sentences = {};
+# maps relations to list of triples found for that relation
+rels_to_rel_triples = {};
 
 # --- get a dictionary mapping descriptors to their labels, and a list of
 # ordered descriptors ---
 # to hold mapping of descriptors to labels
 descriptors_to_labels = {};
 
-# open file and save lines to array
+# open descriptor-to-label file and save lines to array
 descriptors_labeled_file_lines = [];
 with open(DESCRIPTORS_LABELED_FILE, 'r') as file:
     descriptors_labeled_file_lines = file.read().splitlines();
@@ -35,22 +35,16 @@ descriptors_ordered = \
     list(reversed(sorted(descriptors_ordered, key=lambda x: len(x))));
 # ---
 
-# constants to index into dictionaries
-FORWARD_WORDS_IDX = 0 ;
-BACKWARD_WORDS_IDX = 1 ;
-FORWARD_PAIRS_IDX = 2 ;
-BACKWARD_PAIRS_IDX = 3 ;
-
 # direction indicators
 FORWARD = 1 ;
 BACKWARD = -1 ;
 
-# location of text folder
-TEXT_FOLDER = "./data/text/" ;
+# location of raw triples
+OPENIE_TRIPLES_FILE = "./data/openie_out/" ;
 
-sentences = [];
+triples = [];
 
-def find_descriptors(sentence_dirs):
+def find_descriptors(triple_dirs):
     descriptors_found = {};
     descriptors_found[FORWARD] = [];
     descriptors_found[BACKWARD] = [];
@@ -103,34 +97,41 @@ def get_min_distance_label_pairs(descriptors_found):
     return label_tups_to_min_dist_tups;
 
 
-# go through all episodes
-for ep_num in range(1, NUM_EPS + 1):
-    # get text for this episode
-    text_filename = TEXT_FOLDER + (EP_NUMBER_FORMAT % ep_num);
-    text = '';
-    with open(text_filename, 'r', encoding='utf8') as text_file:
-        text = text_file.read();
+# get triple file and split into lines
+triple_filename = OPENIE_TRIPLES_FILE ;
+text_lines = '';
+with open(triple_filename, 'r') as file:
+    text_lines = file.read().splitlines() ;
 
-    # --- get sentences of text ---
+# --- get triple from each line ---
 
-    # TODO replace naive '.'-delimited segmentation with more accurate
-    # algorithm, such as HMM
-    sentences += text.split('.');
-# remove empty sentences
-sentences = [sentence for sentence in sentences if len(sentence) > 0];
+for text_line in text_lines:
+    # do not use confidence value
+    triples += text_line.split('\t')[1:] ;
 
-sentence_num = 1;
-# iterate through sentences, looking for the keywords and corresponding pairs
+# remove empty triples
+# TODO: eliminate triples that have wildly long subject or object
+# triples = [triple for triple in triples if len(triple) > 0];
 
-# initialize empty lists to hold found sentences
+triple_num = 1;
+# iterate through triples, looking for the keywords and corresponding pairs
+
+# initialize empty lists to hold found triples
 for relation in relations:
-    rels_to_rel_sentences[relation] = [] ;
+    rels_to_rel_triples[relation] = [] ;
 
-for sentence in sentences:
-    print("On sentence " + str(sentence_num) + " out of " + \
-        str(len(sentences)));
+for triple in triples:
+    print("On triple " + str(triple_num) + " out of " + \
+        str(len(triples)));
 
-    sentence_num += 1;
+    triple_num += 1;
+
+    # keyword tracking
+    num_keywords = 0 ;
+    keyword_positions = {} ;
+    # confidence that the first keyword is the relevant keyword
+    first_keyword_confidence = 0 ;
+
     for pivot_direction in [FORWARD_WORDS_IDX, BACKWARD_WORDS_IDX]:
         # iterate over all relations
         for relation in relations:
@@ -139,37 +140,38 @@ for sentence in sentences:
             # word lists
             for keyword in relations[relation][pivot_direction]:
                 r = re.compile(r'[^A-Za-z]%s[^A-Za-z]' % re.escape(keyword));
-                iterator = r.finditer(sentence);
+                # search only over middle verb portion of triple
+                iterator = r.finditer(triple[1]);
 
-                # look forward and backward for the correct pair words
-                # TODO: load label files in so that the program can identify
-                # that words with the correct labels are found before and after
-                for match in iterator:
+                # if anything was found at all, record it
+                if (len(iterator) > 0):
+                    num_keywords += 1 ;
+
+                    match = iterator[0] ;
+
+                    # position of first instance of this keyword
                     keyword_pos = match.span()[0] + 1;
+                    keyword_positions[keyword] = keyword_pos ;
 
-                    text_dirs = {};
+    # finish looping over all keywords
 
-                    # portion of the sentence string that occurs after the
-                    # keyword
-                    text_dirs[FORWARD] = sentence[keyword_pos + len(keyword):] ;
+    # calculate confidence as a function of the number of keywords found
+    # TODO: actually calculate instead of just nullifying triple
+    if(num_keywords > 1):
+        first_keyword_confidence = 0 ;
 
-                    # portion of the sentence string that occurs before the
-                    # keyword
-                    text_dirs[BACKWARD] = sentence[0:keyword_pos];
-                    
-                    descriptors_found = find_descriptors(text_dirs);
-                    
-                    label_tups_to_min_dist_tups = \
-                        get_min_distance_label_pairs(descriptors_found);
-                   
-                    # finished filling out list of tuples    
-                    for label_tuple in label_tups_to_min_dist_tups:
-                        label_pairs = relations[relation][pivot_direction + 2]
-                        if label_tuple in label_pairs:
-                            if sentence not in rels_to_rel_sentences[relation]:
-                                rels_to_rel_sentences[relation]. \
-                                    append(sentence);
+    # sort by position in increasing order
+    keyword_positions_ordered = sorted(keyword_positions.items(), \
+        key=lambda x: x[1]) ;
 
-# write lists of sentences to file
-with open(RELATION_SENTENCES_FILE, 'wb') as file:
-    pickle.dump(rels_to_rel_sentences, file);
+    # keyword for this triple is the earliest keyword
+    # TODO: add scaling based on confidence
+    triple_keyword = keyword_positions_ordered[0][0] ;
+
+    # put this triple in rels_to_rel_triples based on keyword
+    # TODO: find out what relation it is, including looking at labels in
+    # triple[0] and triple[2]
+
+# write lists of triples to file
+with open(RELATION_TRIPLES_FILE, 'wb') as file:
+    pickle.dump(rels_to_rel_triples, file);
