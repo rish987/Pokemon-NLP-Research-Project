@@ -1,6 +1,10 @@
 # File: training_instance_finder.py
 # Description: Extracts training instances for possible relations between
 #              entities.
+SUBJECT = 1
+OBJECT = 3
+DISTANCE_WEIGHT = 0
+LENGTH_WEIGHT = 1
 
 import re ;
 import pickle ;
@@ -35,97 +39,70 @@ descriptors_ordered = \
     list(reversed(sorted(descriptors_ordered, key=lambda x: len(x))));
 # ---
 
-# direction indicators
-FORWARD = 1 ;
-BACKWARD = -1 ;
-
 # location of raw triples
-OPENIE_TRIPLES_FILE = "./data/openie_out/" ;
-
-triples = [];
-
-def find_descriptors(triple_dirs):
-    descriptors_found = {};
-    descriptors_found[FORWARD] = [];
-    descriptors_found[BACKWARD] = [];
-    
-    for direction in [FORWARD, BACKWARD]:
-        for descriptor in descriptors_ordered:
-            r = re.compile(r'[^A-Za-z]%s[^A-Za-z]' % re.escape(descriptor));
-            iterator = r.finditer(text_dirs[direction]);
-            
-            # add a (descriptor, position) tuple to the list of
-            # descriptors in this direction for each match
-            for desc_match in iterator:
-                desc_pos = desc_match.span()[0] + 1;
-                distance = None;
-                if direction == FORWARD:
-                    distance = desc_pos;
-                else:
-                    distance = (len(text_dirs[BACKWARD]) - desc_pos) - 1;
-                descriptors_found[direction].append((descriptor, \
-                    distance));
-    return descriptors_found;
-
-
-def get_min_distance_label_pairs(descriptors_found):
-    # mapping from all observed label tuples around this keyword to
-    # pairs of numbers where each number is the minimum
-    # distance from the keyword to a label of this type in the
-    # backwards and forwards directions, respectively
-    label_tups_to_min_dist_tups = {};
-    # go through all possible pairs of descriptors
-    for forward_descriptor, forwards_dist in \
-        descriptors_found[FORWARD]:
-        for backward_descriptor, backwards_dist in descriptors_found[BACKWARD]:
-            label_tup = (descriptors_to_labels[\
-                    backward_descriptor], \
-                    descriptors_to_labels[forward_descriptor]);
-
-
-            if label_tup in label_tups_to_min_dist_tups:
-                prev_backward_dist = \
-                    label_tups_to_min_dist_tups[label_tup][0];
-                prev_forward_dist = \
-                    label_tups_to_min_dist_tups[label_tup][1];
-                label_tups_to_min_dist_tups[label_tup] =\
-                    (min(prev_backward_dist, backwards_dist),\
-                     min(prev_forward_dist, forwards_dist));
-            else:
-                label_tups_to_min_dist_tups[label_tup] = \
-                (backwards_dist, forwards_dist);
-    return label_tups_to_min_dist_tups;
-
+OPENIE_TRIPLES_FILE = "./data/openie_out" ;
 
 # get triple file and split into lines
 triple_filename = OPENIE_TRIPLES_FILE ;
-text_lines = '';
+triple_strs = '';
 with open(triple_filename, 'r') as file:
-    text_lines = file.read().splitlines() ;
+    triple_strs = file.read().splitlines() ;
 
-# --- get triple from each line ---
+# finds the descriptor (if one exists) in the phrase and returns its label
+def get_label (desc_phrase, direction):
+    # to store tuples of the form (descriptor, descriptor-score), where each
+    # score represents the confidence that this it the relevant descriptor in
+    # the phrase
+    desc_scores = []
 
-for text_line in text_lines:
-    # do not use confidence value
-    triples += text_line.split('\t')[1:] ;
+    # iterate through ordered descriptors
+    for descriptor in descriptors_ordered:
+        r = re.compile(r'\b%s\b' % re.escape(descriptor))
 
-# remove empty triples
-# TODO: eliminate triples that have wildly long subject or object
-# triples = [triple for triple in triples if len(triple) > 0];
+        # to store tuples of the form (descriptor, edge-distance)
+        desc_dists = []
 
-triple_num = 1;
-# iterate through triples, looking for the keywords and corresponding pairs
+        # go through all matches to the descriptor in the phrase
+        for match in r.finditer(desc_phrase):
+            position = match.span();
+            distance = None;
 
-# initialize empty lists to hold found triples
-for relation in relations:
-    rels_to_rel_triples[relation] = [] ;
+            # should use distance from end of phrase
+            if direction == SUBJECT:
+                distance = len(desc_phrase) - 1 - position[1]
+            # should use distance from beginning of phrase
+            else:
+                distance = position[0]
 
-for triple in triples:
-    print("On triple " + str(triple_num) + " out of " + \
-        str(len(triples)));
+            desc_tuple = (descriptor, distance)
+            desc_dists.append(desc_tuple)
 
-    triple_num += 1;
+        # sort descriptors by distance
+        desc_dists_sorted = sorted(desc_dists, key=lambda x: x[1])
 
+        # a descriptor was found
+        if (len(desc_dists_sorted) > 0):
+            # only consider the closest one
+            closest_desc = desc_dists_sorted[0];
+            score = (closest_desc[1] * (-1) * DISTANCE_WEIGHT) + \
+                (len(closest_desc[0]) * LENGTH_WEIGHT)
+
+            desc_scores.append((descriptor, score));
+        # no matches found
+        else:
+            continue;
+
+    # return the label of the descriptor of the highest score
+    sorted_desc = sorted(desc_scores, key=lambda x: x[1])
+    if (len(sorted_desc) != 0):
+        return descriptors_to_labels[sorted_desc[-1][0]];
+        
+    # no descriptor was found in the phrase
+    return None ;
+
+# extracts the relevant keyword from the given action phrase if there is a
+# keyword, other wise returns None
+def get_keyword(action):
     # keyword tracking
     num_keywords = 0 ;
     keyword_positions = {} ;
@@ -139,15 +116,15 @@ for triple in triples:
             # use specific relation to index into relation dictionary and get
             # word lists
             for keyword in relations[relation][pivot_direction]:
-                r = re.compile(r'[^A-Za-z]%s[^A-Za-z]' % re.escape(keyword));
+                r = re.compile(r'\b%s\b' % re.escape(keyword));
                 # search only over middle verb portion of triple
-                iterator = r.finditer(triple[1]);
+                matches = list(r.finditer(action));
 
                 # if anything was found at all, record it
-                if (len(iterator) > 0):
+                if (len(matches) > 0):
                     num_keywords += 1 ;
 
-                    match = iterator[0] ;
+                    match = matches[0] ;
 
                     # position of first instance of this keyword
                     keyword_pos = match.span()[0] + 1;
@@ -155,23 +132,88 @@ for triple in triples:
 
     # finish looping over all keywords
 
+    # no keywords found
+    if (num_keywords == 0):
+        return None;
+
     # calculate confidence as a function of the number of keywords found
     # TODO: actually calculate instead of just nullifying triple
     if(num_keywords > 1):
         first_keyword_confidence = 0 ;
+    else:
+        first_keyword_confidence = 1;
 
     # sort by position in increasing order
     keyword_positions_ordered = sorted(keyword_positions.items(), \
         key=lambda x: x[1]) ;
 
     # keyword for this triple is the earliest keyword
-    # TODO: add scaling based on confidence
-    triple_keyword = keyword_positions_ordered[0][0] ;
+    first_keyword = keyword_positions_ordered[0][0] ;
 
-    # put this triple in rels_to_rel_triples based on keyword
-    # TODO: find out what relation it is, including looking at labels in
-    # triple[0] and triple[2]
+    # confident the first keyword is the relevant keyword
+    if (first_keyword_confidence > 0.5):
+        return first_keyword;
 
-# write lists of triples to file
-with open(RELATION_TRIPLES_FILE, 'wb') as file:
-    pickle.dump(rels_to_rel_triples, file);
+    # could not extract keyword
+    return None;
+
+# --- extract descriptor labels and relevant keywords from triples, and use
+# these to classify them as indicative of specific relations ---
+
+triple_num = 1;
+# iterate through triples, looking for the keywords and corresponding pairs
+
+# initialize empty lists to hold found triples
+for relation in relations:
+    rels_to_rel_triples[relation] = [] ;
+
+# include a "None" relation
+rels_to_rel_triples[0] = [];
+
+#for triple_str in triple_strs[350:400]:
+for triple_str in triple_strs:
+    # split triple into subject, action, object
+    triple = triple_str.split('\t')[1:];
+    # TODO: eliminate triples that have wildly long subject or object
+
+    print("On triple " + str(triple_num) + " out of " + \
+        str(len(triple_strs)));
+    print("\t" + triple_str);
+
+    triple_num += 1;
+
+    # extract relevant info from this triple
+    subject_ext = get_label(triple[0], SUBJECT);
+    object_ext = get_label(triple[2], OBJECT);
+    keyword_ext = get_keyword(triple[1]);
+
+    print('\t' + str(subject_ext), keyword_ext, object_ext);
+    #print(keyword_ext);
+
+    # --- determine relation of triple ---
+    # tuple of labels for subject and object
+    label_tup = (subject_ext, object_ext);
+    relations_ext = [r for r in relations if \
+                (label_tup in relations[r][FORWARD_PAIRS_IDX] and 
+                keyword_ext in relations[r][FORWARD_WORDS_IDX])\
+                or\
+                (label_tup in relations[r][BACKWARD_PAIRS_IDX] and 
+                keyword_ext in relations[r][BACKWARD_WORDS_IDX])];
+
+    # no relations were detected, so classify this as a "None" relation
+    if (len(relations_ext) == 0):
+        relations_ext.append(0);
+    # ---
+
+    print("\tClassifications: " + str(relations_ext));
+    # append rels_to_rel_triples
+    for relation in relations_ext:
+        rels_to_rel_triples[relation].append(triple_str);
+
+    # clear triple file
+    with open(RELATION_TRIPLES_FILE, 'wb') as file:
+        file.close();
+    # write lists of triples to file
+    with open(RELATION_TRIPLES_FILE, 'wb') as file:
+        pickle.dump(rels_to_rel_triples, file);
+# ---

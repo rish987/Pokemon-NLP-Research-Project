@@ -12,7 +12,7 @@ BACKWARD_PAIRS_IDX = 3 ;
 owns_words_forward = ["own", "owns", "send out", "sends out", "recall", \
     "recalls", "withdraw", "withdraws", "call back", "calls back", "train", \
     "trains", "command", "commands", "order", "orders", "call for", \
-    "calls for"] ;
+    "calls for", "has", "choose", "chooses", "chose"] ;
 
 # backward keywords related to the "owns" relation
 owns_words_backward = ["obey", "obeys", "listen to", "listens to", \

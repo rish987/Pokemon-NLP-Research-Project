@@ -22,3 +22,5 @@ General Problem Definition
 - double-check openie output is relevant
 - word embedding for middle portion
 - crf to label relation impliers?
+
+-iteratively label with concrete descriptors

@@ -3,6 +3,7 @@
 # Created: 29/05/2018
 # Description:
 #   Main executable for path correlation algorithm grapher.
+#   TODO GraphViz?
 from setup import load_graph_params, GRAPH_PARAM_FOLDER;
 from graph_params import *;
 import random;
