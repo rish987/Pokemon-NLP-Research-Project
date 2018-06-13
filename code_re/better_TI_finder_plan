@@ -1,0 +1,16 @@
+Finding triples indicating a specific relation
+- Initialize empty list of f/b keywords and f/b pairs
+- User inputs name of relation
+- User inputs one keyword common to this relation
+- Program finds all triples with this keyword (1)
+- User selects all triples that are "correct" according to the current relation
+- Program finds all unseen triples containing *descriptors* (not labels)
+    on either side of triples selected in previous step.
+- User selects correct triples again.
+- Program extracts keywords and pairs.
+
+(going deeper into iteration)
+- for each keyword extracted previously (and not already used as
+        "input" keyword)
+- give user option to ignore if garbage keyword
+- return to instruction (1)

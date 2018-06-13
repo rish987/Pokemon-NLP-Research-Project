@@ -1,11 +1,6 @@
 # File: training_instance_finder.py
 # Description: Extracts training instances for possible relations between
 #              entities.
-SUBJECT = 1
-OBJECT = 3
-DISTANCE_WEIGHT = 0
-LENGTH_WEIGHT = 1
-
 import re ;
 import pickle ;
 
@@ -14,33 +9,6 @@ from relation_templates import * ;
 
 # maps relations to list of triples found for that relation
 rels_to_rel_triples = {};
-
-# --- get a dictionary mapping descriptors to their labels, and a list of
-# ordered descriptors ---
-# to hold mapping of descriptors to labels
-descriptors_to_labels = {};
-
-# open descriptor-to-label file and save lines to array
-descriptors_labeled_file_lines = [];
-with open(DESCRIPTORS_LABELED_FILE, 'r') as file:
-    descriptors_labeled_file_lines = file.read().splitlines();
-
-# construct dictionary mapping
-for line in descriptors_labeled_file_lines:
-    split = line.split('\t');
-    label = split[0];
-    descriptor = split[1];
-    descriptors_to_labels[descriptor] = label;
-
-# to hold descriptors ordered by length
-descriptors_ordered = list(descriptors_to_labels.keys());
-
-descriptors_ordered = \
-    list(reversed(sorted(descriptors_ordered, key=lambda x: len(x))));
-# ---
-
-# location of raw triples
-OPENIE_TRIPLES_FILE = "./data/openie_out" ;
 
 # get triple file and split into lines
 triple_filename = OPENIE_TRIPLES_FILE ;
